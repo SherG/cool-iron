@@ -123,3 +123,43 @@ nav .active {
   height: 100%;
   border: 0;
 }
+
+/* additions below */
+
+.highlight {
+background-color: #E0FBF1;
+}
+
+.right {
+ float: right;
+ padding: 0 0 0 2em;}
+
+
+
+/* nunito-sans-regular - latin */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nunito Sans Regular'), local('NunitoSans-Regular'),
+       url('/fonts/nunito-sans-v5-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/nunito-sans-v5-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  font-display: swap;
+}
+
+/* nunito-sans-700 - latin */
+@font-face {
+  font-family: 'Nunito Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Nunito Sans Bold'), local('NunitoSans-Bold'),
+       url('/fonts/nunito-sans-v5-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('/fonts/nunito-sans-v5-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  font-display: swap;
+}
+
+details > summary {
+  background-color: #f3f7f8;
+  border: none;
+}
+
