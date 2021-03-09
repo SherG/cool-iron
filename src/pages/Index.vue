@@ -2,16 +2,19 @@
   <Layout>
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
-        <div class="leading-tight">Gridsome Portfolio Starter</div>
-        <div class="text-green-700 leading-tight">Powered by Vue.js &amp; Tailwind v1</div>
+        <div class="leading-tight">SignalFox</div>
+        <div class="text-green-700 leading-tight">Marketing intelligence for small businesses</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/developer.svg" alt="hero" class="mx-auto sm:mx-0" />
       </div>
     </div> <!-- end hero -->
 
-    <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl">This gridsome theme was forked from my <a href="https://andremadarang.com">personal website</a>. I added more features and decided to release it as an open source project. Check it out on <a href="https://github.com/drehimself/gridsome-portfolio-starter">GitHub</a> or check out the <a href="https://www.youtube.com/watch?v=uHo6o1TNQeE">screencast I did</a>. Feel free to use it for your own site or projects! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, repellat. Dolores iure, quas perspiciatis rerum quaerat atque eum repellat autem.</p>
+  <div class="container-inner mx-auto">
+      <p class="text-lg sm:text-xl"> Digital marketing — with its thousands of tools and tactics — can be disorienting and lead to fragmented efforts. SignalFox helps small business owners make sense of marketing in order to act effectively. </p><br/>
+
+<p class="text-lg sm:text-xl">This service grew out of conversations I had with small business owners who were looking for a way to make better decisions and avoid wasted marketing spend.
+ </p>
 
       <div class="flex justify-between items-center py-6">
         <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
@@ -22,32 +25,44 @@
         </div>
       </div>
     </div>
+    
+      <div class="container-inner mx-auto"><br/>
+      <p class="text-lg sm:text-xl">So how does it work? <br><br>
+1. We analyze your digital properties and practices, right down to the code. <br>
+2. Then we provide a unifying framework that brings your options into sharp focus and surfaces key opportunities.<br>
+3. Partnering with you as an advisor, we work with you on the creation of an integrated digital strategy to capitalize on these opportunties.<br></p><br><br><p class="text-lg sm:text-xl"><a href="/signalfox/">Get more details</a>.</p><br>
+  
+   <br/> </div>
+    
 
     <div class="overflow-x-hidden">
       <div class="projects container-inner mx-auto text-xl border-t border-gray-500 border-b py-16 mb-16 relative">
-        <h2 class="font-bold mb-6" id="projects">Here are some projects I've worked on:</h2>
+        <h2 class="font-bold mb-6" id="projects">Some fun projects I've worked on:</h2>
 
         <div class="absolute right-0" style="top: 50px; transform: translate(100%) rotate(180deg)">
           <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
         </div>
 
-        <ul class="text-lg sm:text-xl space-y-6">
-          <li class="checkmark">
-            <div>Project One</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+        <ul class="text-lg sm:text-xl">
+          <li class="checkmark mb-6">
+            <div>SaaS Product Currently in Development</div>
+            <div class="text-lg text-gray-600">"Absolutely phenomenal." Advised Y-Combinator, Peter Thiel-funded entrepreneur on product concept. </div>
           </li>
-          <li class="checkmark">
-            <div>Project Two</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+          <li class="checkmark mb-6">
+            <div>Multi-Channel Marketing Automation</div>
+            <div class="text-lg text-gray-600">Created integrated strategy for 7-figure non-profit, resulting in a 3,300% increase in conversions.</div>
           </li>
-          <li class="checkmark">
-            <div>Project Three</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+          <li class="checkmark mb-6">
+            <div>Case Study</div>
+            <div class="text-lg text-gray-600">Developed case study for Smithsonian Institution's Romare Bearden mobile app. Tested mobile apps.</div>
           </li>
-          <li class="checkmark">
-            <div>Project Four</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+          <li class="checkmark mb-6">
+            <div>Content Marketing</div>
+            <div class="text-lg text-gray-600">Work under an NDA for European company, with a very bright team, delivering continuous growth. </div>
           </li>
+          <li class="checkmark mb-6">
+            <div>Business financing</div>
+            <div class="text-lg text-gray-600">Founder of <a href="https://www.spearfishcap.com/" target="blank">Spearfish</a>: smart funding for small business.</div>
 
         </ul>
       </div> <!-- end projects -->
@@ -62,13 +77,11 @@
         </div>
 
         <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
-          <div><g-image src="../../static/avatar.jpg" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
-          <div class="flex-1 text-lg sm:text-xl ml-6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum quae architecto minus molestias iusto ducimus fuga quo quia libero dignissimos, fugiat modi assumenda debitis laboriosam.</div>
+          <div><g-image src="https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto,e_sharpen/v1563670036/sherrie-gossett_r5g68p.png" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
+          <div class="flex-1 text-lg sm:text-xl ml-6">Hi, I'm Sherrie Gossett. I'm an entrepreneur and small business owner living in New Hampshire.</div>
         </div>
 
-        <div class="responsive-container">
-          <iframe class="responsive-iframe w-full h-full top-0 left-0 border-0" src="https://www.youtube.com/embed/uHo6o1TNQeE" style="border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
+   
       </div> <!-- end get-to-know me -->
     </div>
 
@@ -81,17 +94,19 @@
             <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
           </div>
 
-          <p class="mb-12">Static sites cannot submit forms on their own. However, services like <a href="https://www.netlify.com/docs/form-handling">Netlify Forms</a> or <a href="https://formspree.io">FormSpree</a> can help you do this without a backend.</p>
+          <p class="mb-12">Have a question about SignalFox services or content? Drop us a line.</p>
 
+          
           <div class="text-lg sm:text-lg mb-16">
-            <form action="#" class="mb-12">
+            <form method="POST" action="#" name="contact" class="mb-12" data-netlify="true" data-netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="contact" />
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
                       <label class="block mb-2 text-copy-primary" for="name">
                           Name
                       </label>
 
-                      <input type="text" name="name" id="name" placeholder="Jon Snow" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
+                      <input type="text" name="name" id="name" placeholder="Your name" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
                   </div>
 
                   <div class="w-full px-4 md:w-1/2">
@@ -111,25 +126,27 @@
                   <textarea id="message" rows="5" name="message" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-green-700 mb-2 px-4 py-4" placeholder="Enter your message here." required></textarea>
               </div>
 
-              <div class="flex justify-end w-full">
+ <div class="flex justify-end w-full">
                   <input type="submit" value="Submit" class="block bg-green-700 hover:bg-green-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3">
               </div>
           </form>
-          </div>
+      </div>
         </div>
       </div> <!-- end contact-me -->
-    </div>
+   </div>
 
     <div class="newsletter bg-background-tertiary">
       <div class="container-inner mx-auto py-16 pb-8 text-center textl-xl">
         <h2 class="text-2xl font-bold mb-8">Join my Newsletter</h2>
 
         <div class="w-4/5 mx-auto mb-8">
-          <p class="mb-8 text-lg sm:text-xl">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis, voluptatum. Quam, deleniti nulla.</p>
+          <p class="mb-8 text-lg sm:text-xl">Get insights on small business growth, emailed quarterly. (We never share your contact information.)</p>
 
-          <form action="#">
+          <form name="newsletter" action="#" method="POST" data-netlify="true">
             <div class="flex flex-col sm:flex-row">
-              <input type="email" name="email" placeholder="Your email address" class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-green-700 z-10" required>
+<input type="hidden" name="form-name" value="newsletter" />
+       
+              <input type="email2" id="email2" name="newsemail" placeholder="Your email address" class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-green-700 z-10" required>
               <button data-element="submit" class="flex-2 w-40 uppercase bg-green-700 text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-green-800 focus:bg-green-800 z-10 w-full sm:w-auto mt-4 sm:mt-0">
                 <span>Subscribe</span>
               </button>
@@ -153,4 +170,6 @@ export default {
   }
 }
 </script>
+
+
 
