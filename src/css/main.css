@@ -85,9 +85,19 @@ nav .active {
   padding-right: 1rem;
 }
 
+  .w-40 {
+width: 8rem;
+  }
+
 @media (min-width: 640px) {
   .container-inner {
     max-width: 640px;
+  }
+}
+
+@media (max-width: 640px) {
+ .w-40 {
+   width: 6rem;
   }
 }
 
@@ -96,6 +106,7 @@ nav .active {
     max-width: 768px;
   }
 }
+
 
 @media (min-width: 1024px) {
   .container-inner {
@@ -126,10 +137,7 @@ nav .active {
 
 /* additions below */
 
-  .w-40 {
-width: 8rem;
-  }
-}
+
 
 
 .highlight {
