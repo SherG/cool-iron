@@ -946,4 +946,13 @@
     padding-left: 128px!important;
   }
 
+/* custom CSS */
+
+  .markdown-body blockquote {
+    margin: 0;
+    border-left: .25em dotted #20B2AA !important; 
+    font-size: larger;
+    font-style: oblique;
+  }
+
   /* purgecss end ignore */
