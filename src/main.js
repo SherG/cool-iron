@@ -16,25 +16,21 @@ export default function (Vue, { router, head, isClient }) {
 
   Vue.use(VueFuse)
 
-  head.meta.push({
+   head.meta.push({
     name: 'keywords',
-    content: 'Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS'
+    content: 'marketing, strategy, digital strategy, digital marketing'
   })
 
   head.meta.push({
     name: 'description',
-    content: 'Gridsome Portfolio Starter'
+    content: 'SignalFox'
   })
 
   head.meta.push({
     name: 'author',
-    content: 'Andre Madarang'
+    content: 'Sherrie Gossett'
   })
 
-  head.link.push({
-    rel: 'stylesheet',
-    href: 'https://fonts.googleapis.com/css?family=Nunito+Sans:400,700'
-  })
 }
 
 
