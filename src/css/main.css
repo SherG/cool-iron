@@ -126,6 +126,12 @@ nav .active {
 
 /* additions below */
 
+  .w-40 {
+width: 8rem;
+  }
+}
+
+
 .highlight {
 background-color: #E0FBF1;
 }
