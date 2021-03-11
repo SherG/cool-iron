@@ -10,7 +10,7 @@ Over a decade ago I managed a website project that transitioned an old legacy AS
 
 I became a Drupal loyalist. After this project I would sometimes be asked in passing, "Which is better: Drupal, WordPress, or Joomla?" While I enjoyed these discussions, I learned to avoid entertaining the question. It's overly simplified. 
 
-It's been a long time since I've thought about Drupal. From 2019, all of the sites I own are now <a href="https://jamstack.org/" target="blank">Jamstack</a> sites that run on <a href="https://www.netlify.com/">Netlify Edge</a>. 
+It's been a long time since I've thought about Drupal. From 2019, all of the sites I own are now <a href="https://jamstack.org/" target="blank">Jamstack</a> sites that run on <a href="https://www.netlify.com/" target="blank">Netlify Edge</a>. 
 
 ## What is the Jamstack? 
 
@@ -58,19 +58,19 @@ I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="htt
 
 ## Decoupling your WordPress or Drupal site
 
-But if you have a Drupal or WordPress site you can still obtain some benefits of JAMstack by decoupling your front-end from your back-end. This will give you what's called a "headless CMS." Biilman considers this to be an adaptation to trends fostered by JAMstack.
+But if you have a <a href="https://www.drupal.org/" target="blank">Drupal</a> or WordPress site you can still obtain some benefits of JAMstack by decoupling your front-end from your back-end. This will give you what's called a "headless CMS." Biilman considers this to be an adaptation to trends fostered by JAMstack.
 
-For more information, see <a href="https://www.netlify.com/with/drupal/?">this guidance from Netlify</a> and <a href="https://www.acquia.com/resources/decoupled-drupal">this from Acquia</a>.
+For more information, see <a href="https://www.netlify.com/with/drupal/?" target="blank">this guidance from Netlify</a> and <a href="https://www.acquia.com/resources/decoupled-drupal" target="blank">this from Acquia</a>.
 
 ## When you want to stick with your CMS
 
 For cost or functionality reasons, a business with a complicated site that's running many marketing tools and custom code and has already been build in WordPress or Drupal, may want to stick with what they've got. 
 
-But don't let that deter you from improving your speed and performance. After a redesign, <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdigital.com%2F&tab=mobile">this massive WordPress site</a> made impressive speed gains.
+But don't let that deter you from improving your speed and performance. After a redesign, <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdigital.com%2F&tab=mobile" target="blank">this massive WordPress site</a> made impressive speed gains.
 
 If you're serious about Drupal performance, <a href="https://www.acquia.com/">go with Acquia</a>. More importantly, consult with them on the best way to get optimal speed with your Drupal site. They're experts. I tapped their expertise back when I was managing the Drupal site I mentioned earlier. And I was amazed by the speed and performance results. 
 
-Talk to developers or agencies who manage WordPress sites that are scoring at 97-100/100 on <a href="https://developers.google.com/speed/pagespeed/insights/">Google Page Speed Insights</a>. Skip the agencies producing anything below exceptional Google Page Insight scores. 
+Talk to developers or agencies who manage WordPress sites that are scoring at 97-100/100 on <a href="https://developers.google.com/speed/pagespeed/insights/" target="blank">Google Page Speed Insights</a>. Skip the agencies producing anything below exceptional Google Page Insight scores. 
 
 <em>Note: If you're new to Google Page Speed Insights, realize that there is some natural fluctuation in scores: you may click their "Analyze" button 3 times in a row and get slightly different scores. Also realize that you should click it several times if you see a low score, because ocassionally there's a "hiccup" in their stats and an ultra-fast site will temporarily display a mediocre score.</em>
 
