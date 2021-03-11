@@ -49,7 +49,7 @@ module.exports = {
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
-          url: 'https://gridsome-portfolio-starter.netlify.com' + node.path,
+          url: 'https://signalfox.org' + node.path,
           author: 'Sherrie Gossett',
           date: node.date
         }),
