@@ -34,7 +34,7 @@ Each individual page is built on the fly by making a series of "calls."
 * While the requested web page is being assembled, "calls" may be made to third-party sites that store the fonts, images, videos, or marketing tools used on the site. It's not uncommon for dozens of such third-party calls to be made — or even 100 or more.
 * If a CDN (content delivery network) is being used, then it will cache a version of the page. But any personalization or database requests (triggered, by things like filling out a form, signing up for something, or posting user content) will still need to percolate down the layers and back up again to the browser.
 
-This is what Biilmann rightly terms the Legacy web.
+This is what Biilmann rightly terms the Legacy web. He summarizes this in this slide from one of his JAMstack presentations available on YouTube:
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1614574590/SignalFox/evolution-of-web_ynrwep.png">
 
