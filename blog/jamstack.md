@@ -26,7 +26,7 @@ JAMstack uses sleek build tools that developers love, but more importantly, it l
 
 ## How your site gets served to visitors
 
-To understand the difference between the Jamstack approach and the monolithic approach, we can look at how a website is "served" (or "delivered") to a reader. 
+To understand the difference between the Jamstack approach and the monolithic approach, we can look at how a website is "served" (or "delivered") to a reader. This requires a basic understanding of how web hosts work. (<a href="https://www.whoishostingthis.com/hosting-reviews/" target="blank">Explore this site</a> to learn more about web hosts and how hosting works.)
 
 When a reader using a browser enters the URL of a 'monolithic app', a lot transpires just to get a single page to that viewer.
 
@@ -72,7 +72,7 @@ But don't let that deter you from improving your speed and performance. After a 
 
 If you're serious about Drupal performance, <a href="https://www.acquia.com/">go with Acquia</a>. More importantly, consult with them on the best way to get optimal speed with your Drupal site. They're experts. I tapped their expertise back when I was managing the Drupal site I mentioned earlier. And I was amazed by the speed and performance results. 
 
-To learn more about how hosting works generally, browse <a href="https://www.whoishostingthis.com/hosting-reviews/">review sites</a>. Then talk to developers or agencies who manage WordPress sites that are scoring at 97-100/100 on <a href="https://developers.google.com/speed/pagespeed/insights/">Google Page Speed Insights</a>. Skip the agencies producing anything below exceptional Google Page Insight scores. 
+Talk to developers or agencies who manage WordPress sites that are scoring at 97-100/100 on <a href="https://developers.google.com/speed/pagespeed/insights/">Google Page Speed Insights</a>. Skip the agencies producing anything below exceptional Google Page Insight scores. 
 
 <em>Note: If you're new to Google Page Speed Insights, realize that there is some natural fluctuation in scores: you may click their "Analyze" button 3 times in a row and get slightly different scores. Also realize that you should click it several times if you see a low score, because ocassionally there's a "hiccup" in their stats and an ultra-fast site will temporarily display a mediocre score.</em>
 
