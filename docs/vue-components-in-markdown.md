@@ -5,6 +5,8 @@ excerpt: An example markdown page that has Vue Components inside of it!
 import TestComponent from '~/components/CounterComponent.vue'
 import TransitionComponent from '~/components/TransitionComponent.vue'
 
+(This is a test page) 
+
 Below is a Vue Component from `~/components/CounterComponent.vue`:
 
 <test-component />
