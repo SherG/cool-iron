@@ -52,7 +52,7 @@ Biilmann recalls that Aaron Swartz referred to the basic, underlying concept as 
 
 Dynamic elements exist in JAMstack sites - they're just dealt with differently than in Drupal or WordPress. Modern browsers now process JavaScript right in the client and make API calls as well. Any dynamic page elements will be processed in the browser itself, which can make calls to third-party APIs like Stripe for payments. 
 
-What about CMSs for JAMstack? There are many now to choose from, including Forestry adn Contentful. Even Netlify has one — made up of a single page of React code.
+What about CMSs for JAMstack? There are many now to choose from, including Forestry and Contentful. Even Netlify has one — made up of a single page of React code.
 
 I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="https://www.netlify.com/products/edge/">Netlify's interface</a> for deploying your site online beats anything I've ever seen in terms of easy of use, simplicity, performance, and low cost.
 
