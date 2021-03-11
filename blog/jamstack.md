@@ -6,7 +6,7 @@ summary: The impressive performance and simple workflow of JAMstack websites is 
 tags: ['jamstack','websites']
 ---
 
-Over a decade ago I managed a website project that transitioned an old legacy ASP.NET site to Drupal. With Drupal, good architecture, and ongoing attention to SEO we achieved a 10,000% traffic boost (one million visitors). More importantly, our key segments were doubling and even tripling their time spent online and viewing more pages. 
+Over a decade ago I managed a website project that transitioned an old legacy ASP.NET site to Drupal. With Drupal, good architecture, and ongoing attention to SEO we achieved a 10,000% traffic boost (one million visitors). More importantly, month-over-month our key segment metrics were increasing by double-digit precentages. We also saw, over quarters, a doubling or even tripling of key segment time spent online and and in page depth. 
 
 I became a Drupal loyalist. After this project I would sometimes be asked in passing, "Which is better: Drupal, WordPress, or Joomla?" While I enjoyed these discussions, I learned to avoid entertaining the question. It's overly simplified. 
 
