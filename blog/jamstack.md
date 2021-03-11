@@ -26,7 +26,7 @@ JAMstack uses sleek build tools that developers love, but more importantly, it l
 
 ## How your site gets served to visitors
 
-To understand the difference between the Jamstack approach and the monolithic approach, we can look at how a website is "served" (or "delivered") to a reader. This requires a basic understanding of how web hosts work. (<a href="https://www.whoishostingthis.com/hosting-reviews/" target="blank">Explore this site</a> to learn more about web hosts and how hosting works.)
+To understand the difference between the Jamstack approach and the monolithic approach, we can look at how a website is "served" (or "delivered") to a reader. This requires a basic understanding of how web hosts work. (<a href="https://www.whoishostingthis.com/hosting-reviews/" target="blank">Explore this site</a> to learn  about web hosts and how hosting works.)
 
 When a reader using a browser enters the URL of a 'monolithic app', a lot transpires just to get a single page to that viewer.
 
