@@ -14,7 +14,7 @@ It's been a long time since I've thought about Drupal. From 2019, all of the sit
 
 ## What is the Jamstack? 
 
-Jamstack is a term coined by Mathias Biilmann to describe a modern approach to web architecture that delivers impressive speed, performance, scalability, security, and ultra-simplified workflows --- at low cost.
+Jamstack is a term coined by Mathias Biilmann to describe a modern approach to web architecture that delivers impressive speed, performance, scalability, security, and ultra-simplified workflows — at low cost.
 
 Specifically, JAMstack uses ("stacks") 3 core technologies: JavaScript, APIs, and Markup, i.e., "JAM." It also uses sleek build tools that developers love. More importantly, it leverages recent advances in browsers.
 
@@ -31,7 +31,7 @@ Each individual page is built on the fly by making a series of "calls."
 * The reader, using a browser (client), makes a request for a web page. 
 * That request passes through multiple stages to get to the database, then makes a round trip back to the browser. 
 * Those stages may include a load balancer, a web server, an application server, and one or more databases. A CDN may also be used.
-* While the requested web page is being assembled, "calls" may be made to third-party sites that store the fonts, images, videos, or marketing tools used on the site. It's not uncommon for dozens of such third-party calls to be made -- or even 100 or more.
+* While the requested web page is being assembled, "calls" may be made to third-party sites that store the fonts, images, videos, or marketing tools used on the site. It's not uncommon for dozens of such third-party calls to be made — or even 100 or more.
 * If a CDN (content delivery network) is being used, then it will cache a version of the page. But any personalization or database requests (triggered, by things like filling out a form, signing up for something, or posting user content) will still need to percolate down the layers and back up again to the browser.
 
 This is what Biilmann rightly terms the Legacy web.
@@ -54,7 +54,7 @@ Note that all the pages have been pushed out close to end-users: the CDNs are th
 
 Dynamic elements are simply dealt with differently than with Drupal or WordPress. Modern browsers now process JavaScript right in the client and make API calls as well. Any dynamic page elements will be processed in the browser itself, which can make calls to third-party APIs like Stripe for payments. 
 
-What about CMSs for JAMstack? There are many now to choose from: Forestry, Contentful, Strapi, and even Netlify has one --- made up of a single page of React code.
+What about CMSs for JAMstack? There are many now to choose from: Forestry, Contentful, Strapi, and even Netlify has one — made up of a single page of React code.
 
 I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="https://www.netlify.com/products/edge/">Netlify's interface</a> for deploying your site online beats anything I've ever seen in terms of easy of use, simplicity, performance, and low cost.
 
@@ -66,7 +66,7 @@ For more information, see <a href="https://www.netlify.com/with/drupal/?">this g
 
 ## When you want to stick with your CMS
 
-For cost or functionality reasons, a business with a complicated site that's running many marketing tools and custom code and has already been build in WordPress or Drupal, may need to stick with what they've got. 
+For cost or functionality reasons, a business with a complicated site that's running many marketing tools and custom code and has already been build in WordPress or Drupal, may want to stick with what they've got. 
 
 But don't let that deter you from improving your speed and performance. After a redesign, <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdigital.com%2F&tab=mobile">this massive WordPress site</a> made significant speed gains.
 
