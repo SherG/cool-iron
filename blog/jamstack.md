@@ -1,6 +1,6 @@
 ---
 title: What's So Great About the JAMstack?
-path: /jamstack
+path: /jamstack/
 date: 2021-03-10
 summary: The impressive performance and simple workflow of JAMstack websites is leaving monolithic apps and practices behind.
 tags: ['jamstack','websites']
