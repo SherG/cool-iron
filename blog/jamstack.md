@@ -14,7 +14,7 @@ It's been a long time since I've thought about Drupal. From 2019, all of the sit
 
 ## What is the Jamstack? 
 
-Jamstack is a term coined by Mathias Biilmann to describe a modern approach to web architecture that delivers impressive speed, performance, scalability, security, and ultra-simplified workflows -- at low cost.
+Jamstack is a term coined by Mathias Biilmann to describe a modern approach to web architecture that delivers impressive speed, performance, scalability, security, and ultra-simplified workflows --- at low cost.
 
 Specifically, JAMstack uses ("stacks") 3 core technologies: JavaScript, APIs, and Markup, i.e., "JAM." It also uses sleek build tools that developers love. More importantly, it leverages recent advances in browsers.
 
@@ -52,7 +52,7 @@ Note that all the pages have been pushed out close to end-users: the CDNs are th
 
 Dynamic elements are simply dealt with differently than with Drupal or WordPress. Modern browsers now process JavaScript right in the client and make API calls as well. Any dynamic page elements will be processed in the browser itself, which can make calls to third-party APIs like Stripe for payments. 
 
-What about CMSs for JAMstack? There are many now to choose from: Forestry, Contentful, Strapi, and even Netlify has one -- made up of a single page of React code.
+What about CMSs for JAMstack? There are many now to choose from: Forestry, Contentful, Strapi, and even Netlify has one --- made up of a single page of React code.
 
 I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="https://www.netlify.com/products/edge/">Netlify's interface</a> for deploying your site online beats anything I've ever seen in terms of easy of use, simplicity, performance, and low cost.
 
