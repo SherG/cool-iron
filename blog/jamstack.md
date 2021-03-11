@@ -16,45 +16,54 @@ It's been a long time since I've thought about Drupal. All of the sites I own ar
 
 Jamstack is a term coined by Mathias Biilmann to describe a modern approach to web architecture that delivers impressive speed, performance, scalability, security, and ultra-simplified workflows -- all in a cost-efficent way. 
 
-Specifically, JAMstack uses (or "stacks") 3 core technologies: JavaScript, APIs, and Markup, i.e., "JAM." This approach uses sleek tools and leverages recent advances in browsers.
+Specifically, JAMstack uses ("stacks") 3 core technologies: JavaScript, APIs, and Markup, i.e., "JAM." This approach began as an organic movement among developers to build websites better aligned with the way the modern web works. They questioned current dogmas, and  jettisoned the use of web apps like WordPress and Drupal, which they viewed as "monolithic." Here, monolithic means inefficient, complicated, and outdated. WordPress and Joomla were the past. They were creating the future web.
 
-This approach began as an organic movement among developers to build websites better aligned with the way the modern web works. They questioned current dogmas, and  jettisoned the use of web apps like WordPress and Drupal, which they viewed as "monolithic." Here, monolithic means inefficient, complicated, and outdated. WordPress and Joomla were the past. They were creating the future web.
+JAMstack uses sleek build tools and more importantly, leverages recent advances in browsers.
 
-This questioning spirit seems to have also impacted the visual design of JAMstack sites: the best inspire you to avoid redundancies and engage in structured thinking about what problems you want your website to solve. 
 
-## Speed and Security
+## How your site gets served to visitors
 
 To understand the difference between the Jamstack approach and the monolithic approach, we can look at how a website is "served" (or "delivered") to a reader. 
 
-"Monolithic" apps like WordPress, use as set of technologies called the LAMP stack: Linux, Apache Web Server, MySQL databases, and PHP.  Critically, when a reader using a browser enters the URL of a LAMP stack site, a lot transpires just to get a single page to that viewer.
+When a reader using a browser enters the URL of a 'monolithic app', a lot transpires just to get a single page to that viewer.
 
-Each individual page is built on the fly by making "calls" to locations where the various pieces of a page are stored. For example a sidebar might visually appear to be on that page, but is actually being "called" from another location in the database. "Calls" might also be made to fetch third-party content, like images or fonts or marketing tools. It's not uncommon for dozens -- or even 100 or more -- "calls" to have to be made, to generate a single web page, which is then sent to the browser. 
-
-Here's a typical process:
+Each individual page is built on the fly by making a series of "calls." 
 
 * The reader, using a browser (client), makes a request for a web page. 
 * That request passes through multiple stages to get to the database, then makes a round trip back to the browser. 
 * Those stages may include a load balancer, a web server, an application server, and one or more databases.
+* While the requested web page is being assembled, "calls" may be made to third-party sites that store the fonts, images, videos, or marketing tools used on the site. It's not uncommon for dozens of such third-party calls to be made -- or even 100 or more.
 * If a CDN (content delivery network) is being used, then it will cache a version of the page. But any personalization or database requests (triggered, by things like filling out a form, signing up for something, or posting user content) will still need to percolate down the layers and back up again to the browser.
 
 This is what Biilmann rightly terms the Legacy web:
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1614574590/SignalFox/evolution-of-web_ynrwep.png">
 
-Furthermore, 'monolithic' apps are made up of a "front-end" and "back-end." The front-end includes all the code that creates the visual look and feel of the site. The back-end includes the CMS (content management system) which users log in to, to post, edit articles, upload photos, embed videos, add SEO tags like meta descriptions, and so on. Back-end code and all your site's articles and visual assets are stored in a database.
+## A brief comparison
 
-By contrast, a Jamstack site decouples the visual presentation (the front end) from the back end, which it does away with entirely. 
-Content pages are coded in Markdown. These pages are "prebuilt" and live on global CDN nodes, close to users. The pages are ready to be viewed and nothing needs to be built on the fly. Biilmann recalls that Aaron Swartz referred to this general concept as "<a href="http://www.aaronsw.com/weblog/000404" target="blank">Bake, don't fry</a>." Pushing that analogy, we might ask, "Do you want to cook an entire meal from scratch once your visitors arrive or do you want to have it ready to serve?"
+Monolithic apps like WordPress are made up of a "front-end" and "back-end." The front-end includes all the code that creates the visual look and feel of the site. The back-end includes the CMS (content management system) which users log in to, to post, edit articles, upload photos, embed videos, add SEO tags like meta descriptions, and so on. Back-end code and all your site's articles and visual assets are stored in a database.
+
+By contrast, a Jamstack site decouples the visual presentation (the front end) from the back end. Content pages are coded in Markdown. These pages are "prebuilt" and live on global CDN nodes, close to users. Your website's pages are ready to be viewed instantly. Nothing needs to be built on the fly. 
+
+Biilmann recalls that Aaron Swartz referred to this general concept as "<a href="http://www.aaronsw.com/weblog/000404" target="blank">Bake, don't fry</a>."
 
 Note that all the pages have been pushed out close to end-users: the CDNs are the first "ping" the browser will make, and the content will be immediately delivered to the browser.
 
-Now you may be thinking: that's a static website. Yes, but only part of the site is static. Dynamic elements are simply dealt with differently. Modern browsers now process JavaScript right in the client and make API calls as well. Any dynamic page elements will be processed in the browser, which call also make calls to third-party APIs like Stripe for payments. 
+Dynamic elements are simply dealt with differently than with Drupal or WordPress. Modern browsers now process JavaScript right in the client and make API calls as well. Any dynamic page elements will be processed in the browser itself, which can make calls to third-party APIs like Stripe for payments. 
 
 
-## How do you scale up a monolithic app? 
+## Decoupling your WordPress or Drupal site
 
-So-called monolithic apps often need to add hosting infrastructure in order to scale. This must be handled by a professional which can become time-intensive. There are also "managed hosting" services you can purchase, but what that actually includes varies widely between providers. 
+I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="https://www.netlify.com/products/edge/">Netlify's interface</a> for deploying your site online beats anything I've ever seen in terms of easy of use, simplicity, performance, and low cost.
 
-Choosing the right hosting approach requires a bit of knowledge. Choose poorly and your site may crash during a big traffic surge. 
+But if you have a Drupal or WordPress site you can gain some advantage by decoupling your front-end from your back-end. For example, see <a href="https://www.netlify.com/with/drupal/?">this guidance from Netlify</a> and <a href="https://www.acquia.com/resources/decoupled-drupal">this from Acquia</a>.
 
-## Developer experience 
+## When you have to stick with your CMS
+
+For cost reasons, a business with a complicated site that's running many marketing tools and custom code and has already been build in WordPress or Drupal, may need to stick with what they've got. 
+
+But don't let that deter you from improving your speed and performance. After a redesign, <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdigital.com%2F&tab=mobile">this massive WordPress site</a> is loading in under a second on desktop and under 3 seconds on mobile. 
+
+If you're serious about Drupal performance, <a href="https://www.acquia.com/">go with Acquia</a>. If you need to do some preliminary research, browse <a href="https://www.whoishostingthis.com/hosting-reviews/">review sites</a> to learn more about hosting. Then talk to developers or agencies who manage WordPress sites that are scoring at 97-100/100 on <a href="https://developers.google.com/speed/pagespeed/insights/">Google Page Speed Insights</a>. Skip the agencies producing anything below exceptional Google Page Insight scores. 
+
+Tip: If you're new to Google Page Speed Insights, realize that there is some natural fluctuation in scores: you may click their "Analyze" button 3 times in a row and get slightly different scores. Also realize that you should click it several times if you see a low score, because ocassionally there's a "hiccup" in their stats and an ultra-fast site will temporarily display a mediocre score.
