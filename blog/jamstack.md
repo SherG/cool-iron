@@ -44,6 +44,8 @@ Monolithic apps like WordPress are made up of a "front-end" and "back-end." The 
 
 By contrast, a Jamstack site decouples the visual presentation (the front end) from the back end. Content pages are coded in Markdown. These pages are "prebuilt" and live on global CDN nodes, close to users around the world. Your website's pages are ready to be viewed instantly. Nothing needs to be built on the fly. 
 
+![website design](../static/web-design.svg)
+
 ### Bake, don't fry 
 
 Biilmann recalls that Aaron Swartz referred to the underlying concept as "<a href="http://www.aaronsw.com/weblog/000404" target="blank">Bake, don't fry</a>."
