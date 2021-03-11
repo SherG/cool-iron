@@ -3,7 +3,7 @@ title: What's So Great About the Jamstack?
 path: /jamstack
 date: 2021-03-10
 summary: The impressive performance and simple workflow of Jamstack websites is leaving monolithic apps and practices behind.
-tags: ['jamstack''websites']
+tags: ['jamstack','websites']
 ---
 
 Over a decade ago I managed a website project that transitioned an old legacy ASP.NET site to Drupal. With Drupal, good architecture, and ongoing attention to SEO we achieved a 10,000% traffic boost (one million visitors). More importantly, our key segments were doubling and even tripling their time spent online and viewing more pages. 
