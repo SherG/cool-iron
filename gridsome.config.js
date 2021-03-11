@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'SignalFox',
   siteDescription: 'Marketing intelligence for small business',
-  siteUrl: 'https://gridsome-portfolio-starter.netlify.com',
+  siteUrl: 'https://cool-iron-687a6.netlify.app/',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
@@ -43,14 +43,14 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'SignalFox ',
-          feed_url: 'https://gridsome-portfolio-starter.netlify.com/rss.xml',
-          site_url: 'https://gridsome-portfolio-starter.netlify.com/'
+          feed_url: 'https://cool-iron-687a6.netlify.app/rss.xml',
+          site_url: 'https://cool-iron-687a6.netlify.app/'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
-          url: 'https://gridsome-portfolio-starter.netlify.com' + node.path,
-          author: 'Andre Madarang',
+          url: 'https://cool-iron-687a6.netlify.app/' + node.path,
+          author: 'Sherrie Gossett',
           date: node.date
         }),
         output: {
@@ -75,7 +75,7 @@ module.exports = {
         [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
       ],
       externalLinksTarget: '_blank',
-      externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
+      externalLinksRel: ['noopener', 'noreferrer'],
       anchorClassName: 'icon icon-link',
     }
   },
