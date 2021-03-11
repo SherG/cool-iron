@@ -69,10 +69,10 @@ What about CMSs for JAMstack? There are many now to choose from, including Fores
  </ul>
 
 </details>
-<br/>
-I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="https://www.netlify.com/products/edge/">Netlify's interface</a> for deploying your site online beats anything I've ever seen in terms of ease of use, simplicity, performance, and low cost.
 
-> "Within 5 years, you'll build your next large scale, fully featured web app with JAMstack and deploy on Netlify." <br/>
+I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="https://www.netlify.com/products/edge/">Netlify's interface</a> for deploying your site online beats anything I've ever seen in terms of ease of use, simplicity, performance, and low cost.
+<br/>
+> "Within 5 years, you'll build your next large scale, fully featured web app with JAMstack and deploy on Netlify." <br/><br/>
 <small>—  GitHub founder and CEO Tom Preston-Werner, in 2018</small>
 <br/>
 
