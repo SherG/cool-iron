@@ -195,7 +195,7 @@ Yubikey Models For USB Type C Port
 
 This is similar to the Yubikey 5 described above, except that it doesn’t have NFC capability.
 
-### Get a Backup Key
+### Tip: Get a Backup Key
 You should get a backup key. It’ll make it easier to gain access to your accounts should you lose your main key.
 
 ### Authenticator Apps
