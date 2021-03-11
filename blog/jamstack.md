@@ -75,7 +75,8 @@ I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="htt
 > "Within 5 years, you'll build your next large scale, fully featured web app with JAMstack and deploy on Netlify." <br/>
 <small>—  GitHub founder and CEO Tom Preston-Werner, in 2018</small>
 <br/>
-<br/>
+
+
 ## Decoupling your WordPress or Drupal site
 
 But if you have a <a href="https://www.drupal.org/" target="blank">Drupal</a> or WordPress site you can still obtain some benefits of JAMstack by decoupling your front-end from your back-end. This will give you what's called a "headless CMS." Biilman considers this to be an adaptation (read: "less-than-ideal") to trends fostered by JAMstack.
