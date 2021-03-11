@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'SignalFox',
   siteDescription: 'Marketing intelligence for small business',
-  siteUrl: 'https://cool-iron-687a6.netlify.app/',
+  siteUrl: 'https://signalfox.org',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss',
@@ -43,8 +43,8 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'SignalFox ',
-          feed_url: 'https://gridsome-portfolio-starter.netlify.com/rss.xml',
-          site_url: 'https://gridsome-portfolio-starter.netlify.com/'
+          feed_url: 'https://signalfox.org/rss.xml',
+          site_url: 'https://signalfox.org.com/'
         },
         feedItemOptions: node => ({
           title: node.title,
