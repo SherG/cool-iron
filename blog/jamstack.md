@@ -48,11 +48,20 @@ By contrast, a Jamstack site decouples the visual presentation (the front end) f
 
 ### Bake, don't fry 
 
-Biilmann recalls that Aaron Swartz referred to the basic, underlying concept as "<a href="http://www.aaronsw.com/weblog/000404" target="blank">Bake, don't fry</a>."
+Biilmann recalls that Aaron Swartz referred to the underlying concept as "<a href="http://www.aaronsw.com/weblog/000404" target="blank">Bake, don't fry</a>." 
 
 Dynamic elements exist in JAMstack sites - they're just dealt with differently than in Drupal or WordPress. Modern browsers now process JavaScript right in the client and make API calls as well. Any dynamic page elements will be processed in the browser itself, which can make calls to third-party APIs like Stripe for payments. 
 
 What about CMSs for JAMstack? There are many now to choose from, including Forestry and Contentful. Even Netlify has one — made up of a single page of React code.
+
+<details>
+  <summary>What is React?</summary><br/>
+   <ul class="highlight2">
+     <li>React is an <a href="https://reactjs.org/docs/how-to-contribute.html" target="blank">open source JavaScript library, developed by Facebook engineers</a> . It's used to create fast, interactive user-interfaces./li>
+ </ul>
+
+</details>
+<br/>
 
 I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="https://www.netlify.com/products/edge/">Netlify's interface</a> for deploying your site online beats anything I've ever seen in terms of ease of use, simplicity, performance, and low cost.
 
