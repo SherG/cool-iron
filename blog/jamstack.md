@@ -48,19 +48,17 @@ By contrast, a Jamstack site decouples the visual presentation (the front end) f
 
 ### Bake, don't fry 
 
-Biilmann recalls that Aaron Swartz referred to the underlying concept as "<a href="http://www.aaronsw.com/weblog/000404" target="blank">Bake, don't fry</a>."
+Biilmann recalls that Aaron Swartz referred to the basic, underlying concept as "<a href="http://www.aaronsw.com/weblog/000404" target="blank">Bake, don't fry</a>."
 
-Note that all the pages have been pushed out close to end-users: the CDNs are the first "ping" the browser will make, and the content will be immediately delivered to the browser.
+Dynamic elements exist in JAMstack sites - they're just dealt with differently than in Drupal or WordPress. Modern browsers now process JavaScript right in the client and make API calls as well. Any dynamic page elements will be processed in the browser itself, which can make calls to third-party APIs like Stripe for payments. 
 
-Dynamic elements are simply dealt with differently than with Drupal or WordPress. Modern browsers now process JavaScript right in the client and make API calls as well. Any dynamic page elements will be processed in the browser itself, which can make calls to third-party APIs like Stripe for payments. 
-
-What about CMSs for JAMstack? There are many now to choose from: Forestry, Contentful, Strapi, and even Netlify has one — made up of a single page of React code.
+What about CMSs for JAMstack? There are many now to choose from, including Forestry adn Contentful. Even Netlify has one — made up of a single page of React code.
 
 I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="https://www.netlify.com/products/edge/">Netlify's interface</a> for deploying your site online beats anything I've ever seen in terms of easy of use, simplicity, performance, and low cost.
 
 ## Decoupling your WordPress or Drupal site
 
-But if you have a Drupal or WordPress site you can still obtain some benefits of JAMstack by decoupling your front-end from your back-end. This will give you what's called a "headless CMS." Biilman considers this to be an "adaptation" to trends fostered by JAMstack.
+But if you have a Drupal or WordPress site you can still obtain some benefits of JAMstack by decoupling your front-end from your back-end. This will give you what's called a "headless CMS." Biilman considers this to be an adaptation to trends fostered by JAMstack.
 
 For more information, see <a href="https://www.netlify.com/with/drupal/?">this guidance from Netlify</a> and <a href="https://www.acquia.com/resources/decoupled-drupal">this from Acquia</a>.
 
@@ -68,7 +66,7 @@ For more information, see <a href="https://www.netlify.com/with/drupal/?">this g
 
 For cost or functionality reasons, a business with a complicated site that's running many marketing tools and custom code and has already been build in WordPress or Drupal, may want to stick with what they've got. 
 
-But don't let that deter you from improving your speed and performance. After a redesign, <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdigital.com%2F&tab=mobile">this massive WordPress site</a> made significant speed gains.
+But don't let that deter you from improving your speed and performance. After a redesign, <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdigital.com%2F&tab=mobile">this massive WordPress site</a> made impressive speed gains.
 
 If you're serious about Drupal performance, <a href="https://www.acquia.com/">go with Acquia</a>. More importantly, consult with them on the best way to get optimal speed with your Drupal site. They're experts. I tapped their expertise back when I was managing the Drupal site I mentioned earlier. And I was amazed by the speed and performance results. 
 
@@ -82,7 +80,7 @@ In my next article, I'll drill down on the JAMstack-WordPress-Drupal comparisons
 
 I'll also share what small business scenarios the JAMstack might be ideal for. 
 
-One more note: my hosting bill for 2 years of blazingly fast JAMstack sites is ... $0.00. Priceless. 
+One more note: What's my hosting bill for 2 years of blazingly fast JAMstack sites? $0.00. Priceless. 
 
 
 
