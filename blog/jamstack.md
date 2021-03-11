@@ -54,7 +54,7 @@ Dynamic elements exist in JAMstack sites - they're just dealt with differently t
 
 What about CMSs for JAMstack? There are many now to choose from, including Forestry and Contentful. Even Netlify has one — made up of a single page of React code.
 
-I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="https://www.netlify.com/products/edge/">Netlify's interface</a> for deploying your site online beats anything I've ever seen in terms of easy of use, simplicity, performance, and low cost.
+I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="https://www.netlify.com/products/edge/">Netlify's interface</a> for deploying your site online beats anything I've ever seen in terms of ease of use, simplicity, performance, and low cost.
 
 ## Decoupling your WordPress or Drupal site
 
