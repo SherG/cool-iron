@@ -43,8 +43,8 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'SignalFox ',
-          feed_url: 'https://cool-iron-687a6.netlify.app/rss.xml',
-          site_url: 'https://cool-iron-687a6.netlify.app/'
+          feed_url: 'https://gridsome-portfolio-starter.netlify.com/rss.xml',
+          site_url: 'https://gridsome-portfolio-starter.netlify.com/'
         },
         feedItemOptions: node => ({
           title: node.title,
