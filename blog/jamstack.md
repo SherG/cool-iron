@@ -8,7 +8,7 @@ tags: ['jamstack','websites']
 
 Over a decade ago I managed a website project that transitioned an old legacy ASP.NET site to Drupal. With Drupal, good architecture, and ongoing attention to SEO we achieved a 10,000% traffic boost (one million visitors). More importantly, our key segments were doubling and even tripling their time spent online and viewing more pages. 
 
-I became a Drupal loyalist and evangelist for fastidious SEO. (Ranking is hard-won, easily lost.) After this project I would sometimes be asked in passing, "Which is better: Drupal, WordPress, or Joomla?" While I was a staunch advocate for Drupal (and my favorite Drupal host, Acquia), and enjoyed these discussions, I learned to avoid entertaining the question. It's overly simplified. 
+I became a Drupal loyalist. After this project I would sometimes be asked in passing, "Which is better: Drupal, WordPress, or Joomla?" While I enjoyed these discussions, I learned to avoid entertaining the question. It's overly simplified. 
 
 It's been a long time since I've thought about Drupal. From 2019, all of the sites I own are now <a href="https://jamstack.org/" target="blank">Jamstack</a> sites that run on <a href="https://www.netlify.com/">Netlify Edge</a>. 
 
@@ -16,7 +16,7 @@ It's been a long time since I've thought about Drupal. From 2019, all of the sit
 
 Jamstack is a term coined by Mathias Biilmann to describe a modern approach to web architecture that delivers impressive speed, performance, scalability, security, and ultra-simplified workflows -- at low cost.
 
-Specifically, JAMstack uses ("stacks") 3 core technologies: JavaScript, APIs, and Markup, i.e., "JAM." It also uses sleek build tools that developers love, but more importantly, it leverages recent advances in browsers.
+Specifically, JAMstack uses ("stacks") 3 core technologies: JavaScript, APIs, and Markup, i.e., "JAM." It also uses sleek build tools that developers love. More importantly, it leverages recent advances in browsers.
 
 This approach began as an organic movement among developers to build websites that were better aligned with the way the modern web works and that delivered optimal user experience. They questioned current dogmas, and jettisoned the use of web apps like WordPress and Drupal, which they viewed as "monolithic." Here, monolithic means inefficient, complicated, and outdated. WordPress and Joomla were the past. They were creating the future web.
 
@@ -44,13 +44,15 @@ Monolithic apps like WordPress are made up of a "front-end" and "back-end." The 
 
 By contrast, a Jamstack site decouples the visual presentation (the front end) from the back end. Content pages are coded in Markdown. These pages are "prebuilt" and live on global CDN nodes, close to users around the world. Your website's pages are ready to be viewed instantly. Nothing needs to be built on the fly. 
 
+### Bake, don't fry 
+
 Biilmann recalls that Aaron Swartz referred to the underlying concept as "<a href="http://www.aaronsw.com/weblog/000404" target="blank">Bake, don't fry</a>."
 
 Note that all the pages have been pushed out close to end-users: the CDNs are the first "ping" the browser will make, and the content will be immediately delivered to the browser.
 
 Dynamic elements are simply dealt with differently than with Drupal or WordPress. Modern browsers now process JavaScript right in the client and make API calls as well. Any dynamic page elements will be processed in the browser itself, which can make calls to third-party APIs like Stripe for payments. 
 
-What about CMSs for JAMstack? There are many now to choose from: Forestry, Contentful, 
+What about CMSs for JAMstack? There are many now to choose from: Forestry, Contentful, Strapi, and even Netlify has one -- made up of a single page of React code.
 
 I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="https://www.netlify.com/products/edge/">Netlify's interface</a> for deploying your site online beats anything I've ever seen in terms of easy of use, simplicity, performance, and low cost.
 
