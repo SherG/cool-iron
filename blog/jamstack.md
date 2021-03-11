@@ -57,7 +57,7 @@ What about CMSs for JAMstack? There are many now to choose from, including Fores
 <details>
   <summary>What is React?</summary><br/>
    <ul class="highlight2">
-     <li>React is an <a href="https://reactjs.org/docs/how-to-contribute.html" target="blank">open source JavaScript library, developed by Facebook engineers</a> . It's used to create fast, interactive user-interfaces.</li>
+     <li>React is an <a href="https://reactjs.org/docs/how-to-contribute.html" target="blank">open source JavaScript library, created by Facebook engineers</a>. It's used to create fast, interactive user-interfaces.</li>
  </ul>
 
 </details>
