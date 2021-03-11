@@ -18,7 +18,7 @@ Jamstack is a term coined by Mathias Biilmann to describe a modern approach to w
 
 Specifically, JAMstack uses ("stacks") 3 core technologies: JavaScript, APIs, and Markup, i.e., "JAM." It also uses sleek build tools that developers love. More importantly, it leverages recent advances in browsers.
 
-This approach began as an organic movement among developers to build websites that were better aligned with the way the modern web works and that delivered optimal user experience. They questioned current dogmas, and jettisoned the use of web apps like WordPress and Drupal, which they viewed as "monolithic." Here, monolithic means inefficient, complicated, and outdated. WordPress and Joomla were the past. They were creating the future web.
+This approach began as an organic movement among developers to build websites that delivered optimal user experience and were better aligned with the way the modern web works. They questioned current dogmas, and jettisoned the use of apps like WordPress and Drupal, which they viewed as "monolithic." Here, monolithic means inefficient, complicated, and outdated. WordPress and Joomla were the past. They were creating the future web.
 
 ## How your site gets served to visitors
 
@@ -40,7 +40,7 @@ This is what Biilmann rightly terms the Legacy web.
 
 ## A brief comparison
 
-Monolithic apps like WordPress are made up of a "front-end" and "back-end." The front-end includes all the code that creates the visual look and feel of the site. The back-end includes the CMS (content management system) which users log in to, to post, edit articles, upload photos, embed videos, add SEO tags like meta descriptions, and so on. Back-end code and all your site's articles and visual assets are stored in a database.
+Apps like WordPress are made up of a "front-end" and "back-end." The front-end includes all the code that creates the visual look and feel of the site. The back-end includes the CMS (content management system) which users log in to, to post, edit articles, upload photos, embed videos, add SEO tags like meta descriptions, and so on. Back-end code and all your site's articles and visual assets are stored in a database.
 
 By contrast, a Jamstack site decouples the visual presentation (the front end) from the back end. Content pages are coded in Markdown. These pages are "prebuilt" and live on global CDN nodes, close to users around the world. Your website's pages are ready to be viewed instantly. Nothing needs to be built on the fly. 
 
