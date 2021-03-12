@@ -14,7 +14,7 @@ It's been a long time since I've thought about Drupal. From 2019, all of the sit
 
 ## What is the Jamstack? 
 
-Jamstack is a term coined by Mathias Biilmann, co-founder and CEO of Netlify, to describe a modern approach to web architecture that delivers impressive speed, performance, scalability, security, and ultra-simplified workflows — at low cost.
+JAMstack is a term coined by Mathias Biilmann, co-founder and CEO of Netlify, to describe a modern approach to web architecture that delivers impressive speed, performance, scalability, security, and ultra-simplified workflows — at low cost.
 
 Specifically, JAMstack uses ("stacks") 3 core technologies: JavaScript, APIs, and Markup, i.e., "JAM." It also uses sleek build tools that developers love. More importantly, it leverages recent advances in browsers.
 
