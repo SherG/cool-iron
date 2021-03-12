@@ -88,12 +88,6 @@ For cost or functionality reasons, a business with a complicated site that's run
 
 But don't let that deter you from improving your speed and performance. After a redesign, <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdigital.com%2F&tab=mobile" target="blank">this massive WordPress site</a> made impressive speed gains.
 
-If you're serious about Drupal performance, <a href="https://www.acquia.com/">go with Acquia</a>. More importantly, consult with them on the best way to get optimal speed with your Drupal site. They're experts. I tapped their expertise back when I was managing the Drupal site I mentioned earlier. And I was amazed by the speed and performance results. 
-
-Talk to developers or agencies who manage WordPress sites that are scoring at 97-100/100 on <a href="https://developers.google.com/speed/pagespeed/insights/" target="blank">Google Page Speed Insights</a>. Skip the agencies producing anything below exceptional Google Page Insight scores. 
-
-<em>Note: If you're new to Google Page Speed Insights, realize that there is some natural fluctuation in scores: you may click their "Analyze" button 3 times in a row and get slightly different scores. Also realize that you should click it several times if you see a low score, because ocassionally there's a "hiccup" in their stats and an ultra-fast site will temporarily display a mediocre score.</em>
-
 ### Decoupling your WordPress or Drupal site
 
 If you have a <a href="https://www.drupal.org/" target="blank">Drupal</a> or WordPress site you can still obtain some benefits of JAMstack by decoupling your front-end from your back-end. This will give you what's called a "headless CMS." Biilman considers this to be an <em>adaptation</em> to the JAMstack.
