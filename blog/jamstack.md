@@ -92,7 +92,10 @@ But don't let that deter you from improving your speed and performance. After a 
 
 If you have a <a href="https://www.drupal.org/" target="blank">Drupal</a> or WordPress site you can still obtain some benefits of JAMstack by decoupling your front-end from your back-end. This will give you what's called a "headless CMS." Biilman considers this to be an <em>adaptation</em> to the JAMstack.
 
-For more information on decoupling, see <a href="https://www.netlify.com/with/drupal/?" target="blank">this guidance from Netlify</a> and <a href="https://www.acquia.com/resources/decoupled-drupal" target="blank">this from Acquia</a>, and <a href="https://pantheon.io/features/decoupled-cms" target="blank">this from Pantheon</a>.
+For more information on decoupling, see:
+* <a href="https://www.netlify.com/with/drupal/?" target="blank">this guidance from Netlify</a>
+* <a href="https://www.acquia.com/resources/decoupled-drupal" target="blank">this from Acquia</a>
+* and <a href="https://pantheon.io/features/decoupled-cms" target="blank">this from Pantheon</a>.
 
 ## What is JAMstack's maturity?
 
