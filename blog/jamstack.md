@@ -8,7 +8,7 @@ tags: ['jamstack','websites']
 
 Over a decade ago I managed a website project that transitioned an old legacy ASP.NET site to Drupal. With Drupal, good architecture, and ongoing attention to SEO we achieved a 10,000% traffic boost (one million visitors). More importantly, month-over-month our key segment metrics were increasing by double-digit precentages. We also saw, over quarters, a doubling or even tripling of key segment time spent online and and in page depth. 
 
-I became a Drupal loyalist and evangelist for fastidious SEO. (Ranking is hard-won, easily lost.) After this project I would sometimes be asked in passing, "Which is better: Drupal, WordPress, or Joomla?" While I enjoyed these discussions, I learned to avoid entertaining the question. It's overly simplified. 
+I became a Drupal loyalist. After this project I would sometimes be asked in passing, "Which is better: Drupal, WordPress, or Joomla?" While I enjoyed these discussions, I learned to avoid entertaining the question. It's overly simplified. 
 
 It's been a long time since I've thought about Drupal. From 2019, all of the sites I own are now <a href="https://jamstack.org/" target="blank">Jamstack</a> sites that run on <a href="https://www.netlify.com/" target="blank">Netlify Edge</a>. 
 
