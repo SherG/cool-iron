@@ -102,7 +102,7 @@ In my next article, I'll drill down on the JAMstack-WordPress-Drupal comparisons
 
 I'll also share what small business scenarios the JAMstack might be ideal for. 
 
-One more note: What's my hosting bill for 2 years of blazingly fast JAMstack sites? $0.00. Priceless. 
+One more note: What's my Netlify bill for 2 years of blazingly fast JAMstack sites? $0.00. Priceless. 
 
 
 
