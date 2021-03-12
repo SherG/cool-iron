@@ -48,7 +48,11 @@ By contrast, a Jamstack site decouples the visual presentation (the front end) f
 
 ### Bake, don't fry 
 
-Biilmann recalls that Aaron Swartz referred to the underlying concept as "<a href="http://www.aaronsw.com/weblog/000404" target="blank">Bake, don't fry</a>." 
+JAMstack repects the efficient design inherent in the early web, and it has roots in static site development. Biilmann recalls that Aaron Swartz referred to the underlying concept as "<a href="http://www.aaronsw.com/weblog/000404" target="blank">Bake, don't fry</a>." 
+
+Static sites have existed for decades. But it would be incorrect to perceive JAMstack as a throwback. While JAMstack uses the term "static" (as in "static site generators" or "static sites") not every static site is a JAMstack site.
+
+JAMstack could've been designed by Steve Jobs: it seeks to remove everything inefficient, unnecessary, and unsupportive of a beautiful and performant experience. And in doing so, it cuts across the grain of the status quo.
 
 Dynamic elements exist in JAMstack sites - they're just dealt with differently than in Drupal or WordPress. Modern browsers now process JavaScript right in the client and make API calls as well. Any dynamic page elements will be processed in the browser itself, which can make calls to third-party APIs like Stripe for payments. 
 
