@@ -389,4 +389,23 @@ As you work through the See - Think - Do framework, it will help you:
 
 It will prevent you from leading with tactics and it will keep all your activities rooted in your top business objectives. 
 
-And that yields a win-win for you and your 
+And that yields a win-win for you and your audience.
+
+-----
+### Resources
+
+<a href="https://www.thinkwithgoogle.com/intl/en-apac/trends-and-insights/10-digital-marketing-predictions-2019/" target="blank">10 Digital Marketing Predictions for 2019</a>
+
+"Instead of developing a multitude of separate marketing channels, omni-channel is about a systematic approach. Its goal is to create a unified communication system. Online resources, social networks, and mobile applications work in conjunction, 'picking up' the consumer in time and making their interaction with the brand smooth and continuous." — <em>Think With Google</em>
+
+<a href="https://www.thinkwithgoogle.com/advertising-channels/mobile/mobile-marketing-strategy-integrated-experiences/" target="blank">Why You Can No Longer Define Your Marketing Strategy By Channels</a>
+
+"The businesses that can innovate, truly understand today’s consumer journey, and address consumers’ needs at every touchpoint are going to find themselves in a position to win." — <em>Think with Google</em>
+
+<a href="https://www.kaushik.net/avinash/see-think-do-care-win-content-marketing-measurement/" target="blank">See, Think, Do, Care Winning Combo: Content + Marketing + Measurement</a>
+
+One of Avinash Kaushik's original posts on the See-Think-Do model. Also see his <a href="https://www.kaushik.net/avinash/see-think-do-content-marketing-measurement-business-framework/" target="blank">See, Think, Do: A Content, Marketing, Measurement Business Framework</a>. 
+
+<a href="https://www.thinkwithgoogle.com/intl/en-145/perspectives/global-articles/kpis-essential-framework/" target="blank">KPIs: An Essential Framework</a>
+
+In this Think With Google article, <a href="https://www.linkedin.com/in/innovationjohan/?originalSubdomain=se" target="blank">Johan Eriksson</a>, former head of specialists for Google Sweden, discusses KPIs in the context of the See-Think-Do model. 
