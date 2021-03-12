@@ -82,12 +82,6 @@ I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="htt
 In sum, JAMstack could've been designed by Steve Jobs: it seeks to remove everything inefficient, unnecessary, and unsupportive of a beautiful and performant experience. In doing so, it cuts across the grain of the status quo.
 
 
-## Decoupling your WordPress or Drupal site
-
-But if you have a <a href="https://www.drupal.org/" target="blank">Drupal</a> or WordPress site you can still obtain some benefits of JAMstack by decoupling your front-end from your back-end. This will give you what's called a "headless CMS." Biilman considers this to be an <em>adaptation</em> to the JAMstack.
-
-For more information on decoupling, see <a href="https://www.netlify.com/with/drupal/?" target="blank">this guidance from Netlify</a> and <a href="https://www.acquia.com/resources/decoupled-drupal" target="blank">this from Acquia</a>, and <a href="https://pantheon.io/features/decoupled-cms" target="blank">this from Pantheon</a>.
-
 ## When you want to stick with your CMS
 
 For cost or functionality reasons, a business with a complicated site that's running many marketing tools and custom code and has already been built in WordPress or Drupal, may want to stick with what they've got. 
@@ -100,6 +94,12 @@ Talk to developers or agencies who manage WordPress sites that are scoring at 97
 
 <em>Note: If you're new to Google Page Speed Insights, realize that there is some natural fluctuation in scores: you may click their "Analyze" button 3 times in a row and get slightly different scores. Also realize that you should click it several times if you see a low score, because ocassionally there's a "hiccup" in their stats and an ultra-fast site will temporarily display a mediocre score.</em>
 
+### Decoupling your WordPress or Drupal site
+
+If you have a <a href="https://www.drupal.org/" target="blank">Drupal</a> or WordPress site you can still obtain some benefits of JAMstack by decoupling your front-end from your back-end. This will give you what's called a "headless CMS." Biilman considers this to be an <em>adaptation</em> to the JAMstack.
+
+For more information on decoupling, see <a href="https://www.netlify.com/with/drupal/?" target="blank">this guidance from Netlify</a> and <a href="https://www.acquia.com/resources/decoupled-drupal" target="blank">this from Acquia</a>, and <a href="https://pantheon.io/features/decoupled-cms" target="blank">this from Pantheon</a>.
+
 ## What is JAMstack's maturity?
 
 In my next article, I'll drill down on the JAMstack-WordPress-Drupal comparisons, discuss where I think JAMstack needs to head to obtain significant market share from non-developers, and float some ideas for decision-making. 
@@ -107,7 +107,4 @@ In my next article, I'll drill down on the JAMstack-WordPress-Drupal comparisons
 I'll also share what small business scenarios the JAMstack might be ideal for. 
 
 One more note: What's my Netlify bill for 2 years of blazingly fast JAMstack sites? $0.00. Priceless. 
-
-
-
 
