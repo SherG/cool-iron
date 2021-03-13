@@ -105,3 +105,4 @@ I'll also share what small business scenarios the JAMstack might be ideal for.
 
 One more note: What's my Netlify bill for 2 years of blazingly fast JAMstack sites? $0.00. Priceless. 
 
+
