@@ -146,12 +146,13 @@ Here are a few additional considerations.
 When you assess the results of your own ad campaigns, I hope you'll put your "data glasses" on first. 
 
 Doing so will prevent you from mistaking success for failure and vice versa. More importantly, you can use that data to shape your next action steps.
-<br/> 
+
+<br/> <br/>
 
 
 ### Related reading
 
-Not ready for Facebook ads? Consider <a href="/partnerships/">partnerships</a>. 
+Not ready for Facebook ads? Explore <a href="/partnerships/">partnerships</a>. 
 
 <a href="/see-think-do-model/">The See - Think - Do - Care Model</a>
 
