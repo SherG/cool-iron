@@ -86,7 +86,7 @@ To learn more about how to assess campaigns, let's assume a hypothetical scenari
 
 First, we need perspective:
 * Ask: What is the average lead conversion rate for my business niche? 
-* What rates are my friends and acquaintances in the same field getting? 
+* What rates are my peers in the same field getting? 
 
 A colleague of mine in the financial industry makes one sale per 100 leads from his Facebook ads. He'd be beyond thrilled to get 1 sale out of 16. 
 
