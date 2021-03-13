@@ -30,7 +30,9 @@ The marketer isn't going to deliver sales, though. Once the leads come in, it's 
 
 > You may be closer to success than you realize.
 
-I also explained that some successful Facebook marketers will decline a client if the client hasn't been experiencing regular growth. These marketers contend that Facebook lead ads work best for <mark class="highlight2">scaling up growth</mark> in a healthy business, not for sparking growth from zero. (The thinking is that zero growth could indicate a problem with the core business model, something that Facebook Lead Ads can't fix.)
+I also explained that some successful Facebook marketers will decline a client if the client hasn't been experiencing regular growth. 
+
+These marketers contend that Facebook lead ads work best for <mark class="highlight2">scaling up growth</mark> in a healthy business, not for sparking growth from zero. (The thinking is that zero growth could indicate a problem with the core business model, something that Facebook Lead Ads can't fix.)
 
 ## What's Your Average Customer Lifetime Value? 
 
@@ -58,13 +60,9 @@ Let's look at the results through 2 different lenses: one of disappointment and 
 
 The business owner — a solopreneur — had to follow up with leads via email and phone. There was phone tag, he had to send reminder emails, and people were difficult to get ahold of. A minority actually made an appointment for the free consultation for his service. One was a no-show. 
 
-This is part and parcel of running a small business. No one enjoys it, but filtering through no-shows and being persistent in follow-ups is necessary.
+And once you're experimenting with lead generation and sales processes, you'll need to tweak and adjust things, measure, and experiment further. 
 
-One way to look at this is to focus on the frustration (and number) of boring follow-up tasks. Whether one chooses the disappointment lens has a lot to do with one's expectations. 
-
-If you don't realize the intense amount of work that needs to be done to generate leads and sales, then you may think this feels "off" and things shouldn't be this difficult. 
-
-But if you know this uphill climb is normal, then you'll gladly put your shoulder to the wheel, expecting that results will come, but your goals won't be achieved in 2 weeks. 
+It helps to know that this process is <em>typically</em> a slog. No one enjoys it, but filtering through no-shows and being persistent in follow-ups is necessary.
 
 
 ### The Data Lens
@@ -77,7 +75,9 @@ With data at the center, we get clarity.
 
 ### But wait . . . 
 
-Now, as mentioned above, two or four weeks is simply not enough time to get an idea of average conversion rate or of whether the marketer can deliver leads regularly. To learn more about how to assess campaigns, let's assume a hypotheical scenario: that the business owner continues to obtain an average of 2 sales every month. In <em>that scenario</em>, will that conversion rate be good or bad? 
+Now, as mentioned above, two or four weeks is simply not enough time to get an idea of average conversion rate or to determine whether the marketer can deliver leads regularly. 
+
+To learn more about how to assess campaigns, let's assume a hypothetical scenario: that the business owner continues to obtain an average of 2 sales every month. In <em>that scenario</em>, how do we determine whether that conversion rate is good or bad? 
 
 First, get some perspective:
 * What is the average lead conversion rate for your industry? 
