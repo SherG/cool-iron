@@ -135,7 +135,7 @@ The purpose of this article was to underscore the importance of having a goal fo
 5. When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to calibrate the campaign as it goes along. And don't expect to see the totality of what's possible in the first weeks. Indeed, it will be difficult to judge the marketer in such a short time period. (Also, remember #2 above.)
 6. Read and listen to podcasts about sales and prospecting to stay motivated. 
 7. Seek out a community of business owners in your niche. This can be online. You'll be surprised what you learn. What are they doing to get their conversion rates? What are they paying to get those rates? 
-8. Remember that no single tactic, tool, or property delivers business success. They work in tandem. At the heart of it all there needs to be a system for generating quality leads on a regular basis and a good sales process for closing/converting. 
+8. Remember that no single tactic, tool, or property delivers business success. They work in tandem. At the core of a business's operations are a quality desired product, a system for generating quality leads on a regular basis, a good sales process for closing/converting, and careful tracking of meaningful KPIs. 
 9. If you're not responding to your inbound leads immediately, you're going to lose sales. 
 10. With digital, it's important to always be experimenting. Often slight modifications have outsized impact. 
 
