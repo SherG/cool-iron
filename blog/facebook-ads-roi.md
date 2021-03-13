@@ -126,7 +126,9 @@ Your data will tell you what your next action step should or can be. For example
 
 ## A Few Additional Considerations
 
-The purpose of this article was to underscore the importance of having a goal for your campaigns before they launch and of having useful metrics by which to judge the outcomes. Here are a few additional considerations. 
+The purpose of this article was to underscore the importance of having a goal for your campaigns before they launch, having useful metrics by which to judge the outcomes, and letting data lead. 
+
+Here are a few additional considerations. 
 
 1. Anything can be done well or poorly and that includes Facebook campaigns. If you're not getting results, choose a different Facebook ad professional.
 2. Before you hire a Facebook ad marketer, first verify results they've achieved for others. This is your best indicator that they will be able to deliver qualified leads to you on a continuing basis.
