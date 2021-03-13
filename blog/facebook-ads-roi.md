@@ -116,10 +116,10 @@ Remember, this scenario assumes you are using a Facebook marketer who delivers q
 Your data will tell you what your next action step should or can be. For example, that might be: 
 
 * Continue to let campaigns runs in order to determine the ability of the Facebook ad marketer to generate quality leads on a regular basis.
-* Fire the advertiser. Find a better one.
+* Fire the advertiser. Get a better one.
 * Tweak your landing page to filter out tirekickers.
-* Save time by setting up automated email follow-ups and replies.
-* Create a secondary product: something you can easily sell if the lead doesn't qualify for your higher-cost main product. (This secondary product can be a service or downloadable that you are an affiliate marketer for.)
+* Save time by setting up automated email follow-ups.
+* Create a secondary product: something you can easily sell if the lead doesn't qualify for your higher-cost main product. (This secondary product can even be a service or downloadable that you are an affiliate marketer for.)
 * Experiment with other lead generation techniques.
 * Experiment with other ad platforms, like YouTube.
 
