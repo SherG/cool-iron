@@ -60,9 +60,16 @@ Let's look at the results through 2 different lenses: one of disappointment and 
 
 The business owner — a solopreneur — had to follow up with leads via email and phone. There was phone tag, he had to send reminder emails, and people were difficult to get ahold of. A minority actually made an appointment for the free consultation for his service. One was a no-show. 
 
-And once you're experimenting with lead generation and sales processes, you'll need to tweak and adjust things, measure, and experiment further. 
+It helps to know that this process is a real slog. Most business owners I know don't enjoy it, but they do enjoy the revenue they obtain from the process.
 
-It helps to know that this process is <em>typically</em> a slog. No one enjoys it, but filtering through no-shows and being persistent in follow-ups is necessary.
+And once you're experimenting with lead generation and sales processes, you'll need to tweak and adjust things, measure, and experiment further. One typical move is finding creative ways to filter out unqualified leads (for example, through questions on your sign-up form) so that you don't get into a phone appointment with them. Automating follow-up emails is also key.
+
+To keep disappointment at bay:
+
+* Remember that the majority of leads don't convert and that's the norm.
+* Most business owners go through multiple (and even ongoing) iterations of lead generation processes to find what works best for them.
+* Keep your eye on the near-term goal -- developing a repeatable lead generation process that works.
+* Keep your utlimate goal in mind: such as growing revenue and potentially selling your business at a good profit in the future.
 
 
 ### The Data Lens
