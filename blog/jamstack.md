@@ -36,7 +36,7 @@ Each individual page is built on the fly by making a series of "calls."
 
 This is what Biilmann rightly terms the Legacy web. 
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1614574590/SignalFox/evolution-of-web_ynrwep.png">
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1614574590/SignalFox/evolution-of-web_ynrwep.png">
 
 ## A brief comparison
 
