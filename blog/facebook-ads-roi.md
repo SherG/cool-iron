@@ -26,7 +26,7 @@ I don't provide a service that vets individual marketers, however I explained th
 
 The idea is that the marketer wants to prove that they can produce leads for you within that time period. They're confident that once you see the leads coming in, you'll sign up for their service. 
 
-Readers please note: leads are not the same as sales, right? The marketer isn't going to deliver sales. Once the leads come in, it's your job to handle the sales process. 
+The marketer isn't going to deliver sales, though. Once the leads come in, it's your job to handle the sales process. 
 
 > You may be closer to success than you realize.
 
