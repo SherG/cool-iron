@@ -128,7 +128,7 @@ Doing so will prevent you from mistaking success for failure and vice versa.
 
 It certainly takes more than one month of results to determine whether or not that Facebook marketer can consistently deliver quality leads.
 
-When it comes to evaluating Facebook ad marketers, do some research: educate yourself first and take time to verify what they've acheived for others.
+When it comes to evaluating Facebook ad marketers, research pays: verify what they've acheived for others.
 
 Not ready for Facebook ads? Consider <a href="/partnerships/">partnerships</a>.  
 
