@@ -116,7 +116,7 @@ Remember, this scenario assumes you are using a Facebook marketer who delivers q
 Your data will tell you what your next action step should or can be. For example, that might be: 
 
 * Continue to let campaigns runs in order to determine the ability of the Facebook ad marketer to generate quality leads on a regular basis.
-* Fire the advertiser and find a better one.
+* Fire the advertiser. Find a better one.
 * Tweak your landing page to include questions or information to filter out unqualified leads.
 * Save time by setting up automated email follow-ups and replies.
 * Create a secondary product: something you can easily sell if the lead doesn't qualify for your higher-cost main product. (This secondary product can be a service or downloadable that you are an affiliate marketer for.)
@@ -130,12 +130,12 @@ The purpose of this article was to underscore the importance of having a goal fo
 
 1. Anything can be done well or poorly and that includes Facebook campaigns. If you're not getting results, choose a different Facebook ad professional.
 2. Before you hire a Facebook ad marketer, first verify results they've achieved for others. This is your best indicator that they will be able to deliver qualified leads to you on a continuing basis.
-3. It's important for you to acquire at least a basic knowledge of this ad platform to know what to look for. Take one or two online courses to educate yourself. 
+3. It's important for you to acquire at least a basic knowledge of this ad platform to know what to look for. Take one or two free online tutorials to educate yourself. 
 4. Do give your marketer adequate time. The campaign is occuring in a live digital ecosystem of thousands of individuals responding to your ad's copy, creative, placement, format, landing page, and offer. Any of these factors, in addition to the ad targeting, may need to be adjusted to improve results. 
 5. When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to calibrate the campaign as it goes along. And don't expect to see the totality of what's possible in the first weeks. Indeed, it will be difficult to judge the marketer in such a short time period. (Also, remember #2 above.)
-6. If you're new to following up with leads and sales, realize that it's a slog, and that's normal. Read and listen to podcasts about sales and prospecting to stay motivated. 
-7. Seek out a community of business owners in your niche. This can be online. You'll be surprised what you learn.
-8. Remember that no single digital tactic, tool, or property delivers business success. Have a system in place for generating quality leads on a regular basis and a good sales process for closing. 
+6. Read and listen to podcasts about sales and prospecting to stay motivated. 
+7. Seek out a community of business owners in your niche. This can be online. You'll be surprised what you learn. What are they doing to get their conversion rates? What are they paying to get those rates? 
+8. Remember that no single tactic, tool, or property delivers business success. They work in tandem. At the heart of it all there needs to be a system for generating quality leads on a regular basis and a good sales process for closing/converting. 
 9. If you're not responding to your inbound leads immediately, you're going to lose sales. 
 10. With digital, it's important to always be experimenting. Often slight modifications have outsized impact. 
 
