@@ -131,9 +131,9 @@ The purpose of this article was to underscore the importance of having a goal fo
 
 When you assess the results of your own ad campaigns, I hope you'll put your "data glasses" on first. 
 
-Doing so will prevent you from mistaking success for failure and vice versa. 
+Doing so will prevent you from mistaking success for failure and vice versa. More importantly, data will tell you what your next action step should be. 
 
-It certainly takes more than one month of results to determine whether or not that Facebook marketer can consistently deliver quality leads.
+And remember, it certainly takes more than one month of results to determine whether or not that Facebook marketer can consistently deliver quality leads.
 
 When it comes to evaluating Facebook ad marketers, research pays: verify what they've acheived for others.
 
