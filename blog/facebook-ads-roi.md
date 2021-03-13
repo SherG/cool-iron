@@ -94,7 +94,7 @@ A colleague of mine in the financial industry makes one sale per 100 leads from 
 
 What's considered amazing or below average varies across business niches. 
 
-## Are You Closer Than You Think?
+## ROI and goals
 
 To really get a handle on ROI we need to have a goal in mind. We need to assess the results in the context of this goal. 
 
@@ -111,6 +111,19 @@ The calculation above is basic. The client would need to account for advertising
 Running a few numbers can open our eyes our options. 
 
 Remember, this scenario assumes you are using a Facebook marketer who delivers quality leads month-over-month, and that you've got your lead qualification / sales process down. You will also have to factor in the cost of your time.
+
+
+## Decide by data
+
+Your data will tell you what your next action step should or can be. For example, that might be: 
+
+* Continue to let campaigns runs in order to determine the ability of the Facebook ad marketer to generate quality leads on a regular basis.
+* Fire the advertiser and find a better one.
+* Tweak your landing page to include questions or information to filter out unqualified leads.
+* Save time by setting up automated email follow-ups and replies.
+* Create a secondary product: something you can easily sell if the lead doesn't qualify for your higher-cost main product. (This secondary product can even be an service or downloadable that you are an affiliate marketer for.)
+* Experiment with other lead generation techniques
+
 
 ## A Few Additional Considerations
 
