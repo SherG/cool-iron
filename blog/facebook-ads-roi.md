@@ -87,7 +87,7 @@ A colleague of mine in the financial industry makes one sale per 100 leads from 
 
 What's considered amazing or below average varies across business niches. 
 
-## You're Closer Than You Think
+## Are You Closer Than You Think?
 
 To really get a handle on ROI we need to have a goal in mind. We need to assess the results in the context of this goal. 
 
@@ -103,7 +103,7 @@ The calculation above is basic. The client would need to account for advertising
 
 Running a few numbers can open our eyes our options. 
 
-Remember, this scenario assumes you are using a Facebook marketer who delivers quality leads on a regular basis and that you've got your lead qualification / sales process down. You will also have to factor in the cost of your time.
+Remember, this scenario assumes you are using a Facebook marketer who delivers quality leads month-over-month, and that you've got your lead qualification / sales process down. You will also have to factor in the cost of your time.
 
 ## A Few Additional Considerations
 
