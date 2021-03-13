@@ -34,7 +34,7 @@ I also explained that some successful Facebook marketers will decline a client i
 
 ## What's Your Average Customer Lifetime Value? 
 
-I also informed the client that Facebook Lead Ads professionals commonly charge fees based on the average customer lifetime value (CLV) of your clients. 
+Facebook Lead Ads professionals commonly charge fees based on the average customer lifetime value (CLV) of your clients. 
 
 Average Customer Lifetime Value (CLV) is an important metric to wrap your head around. In this scenario, it's going to help you assess: 
 * whether your Facebook Lead ads are worth the money, and
