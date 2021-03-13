@@ -28,7 +28,7 @@ The idea is that the marketer wants to prove that they can produce leads for you
 
 The marketer isn't going to deliver sales, though. Once the leads come in, it's your job to handle the sales process. 
 
-> Data will tell you what your next action step should be.
+> Let data lead
 
 I also explained that some successful Facebook marketers will decline a client if the client hasn't been experiencing regular growth. 
 
