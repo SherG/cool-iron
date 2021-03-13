@@ -136,7 +136,7 @@ Here are a few additional considerations.
 4. Do give your marketer adequate time. The campaign is occuring in a live digital ecosystem of thousands of individuals responding to your ad's copy, creative, placement, format, landing page, and offer. Any of these factors, in addition to the ad targeting, may need to be adjusted to improve results. 
 5. When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to calibrate the campaign as it goes along. And don't expect to see the totality of what's possible in the first weeks. Indeed, it will be difficult to judge the marketer in such a short time period. (Also, remember #2 above.)
 6. Read and listen to podcasts about sales and prospecting to stay motivated. 
-7. Seek out a community of business owners in your niche. This can be online. You'll be surprised what you learn. What are they doing to get their conversion rates? What are they paying to get those rates? 
+7. Seek out a community of business owners in your niche. This can be online. You'll be surprised what you learn. What are they doing to get their conversion rates? What are they paying to get those rates? What's their cost-per-acquisition? What's yours?
 8. Remember that no single tactic, tool, or property delivers business success. They work in tandem. At the core of a business's operations are a quality desired product, a system for generating quality leads on a regular basis, a good sales process for closing/converting, and careful tracking of meaningful KPIs. 
 9. If you're not responding to your inbound leads immediately, you're going to lose sales. 
 10. With digital, it's important to always be experimenting. Often slight modifications have outsized impact. 
