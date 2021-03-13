@@ -50,7 +50,7 @@ Intead of 4 free weeks, the client chose 2 free weeks. He paid $200 for the ads.
 
 He got 16 leads and 1 sale. Is that good or bad? 
 
-First, realize that 2 weeks is not a long enough time frame to judge whether that number of leads will come in consistently.  But in order to focus on the ROI aspect, let's assume for this example, that the marketer had produced these results consistently over a longer time frame. 
+First, realize that 2 weeks is not a long enough time frame to judge whether that number of leads will come in consistently. But in order to focus on the ROI aspect, let's assume for this article, a business scenario where a Facebook marketer had produced such results consistently over a long time frame. 
 
 Let's look at the results through 2 different lenses: one of disappointment and one of data. 
 
@@ -73,9 +73,9 @@ Now let's dial in the data from your CLV. This is where you get true clarity.
 
 The business owner paid $200 to get a client worth $35,000. 
 
-With data at the center, any disappointment over no-shows or boring follow-up work should fade immediately. 
+With data at the center, we get clarity.
 
-Now, as mentioned above, two weeks isn't enough time to get an idea of average conversion rate. But let's assume for the sake of this article, that the business owner continues to obtain an average of 2 sales every month. Is that conversion rate good or bad? 
+Now, as mentioned above, two weeks isn't enough time to get an idea of average conversion rate. But let's assume for the sake of this article, that the business owner continues to obtain an average of 2 sales every month. Will that conversion rate be good or bad? 
 
 First, get some perspective. Find out what the average lead conversion rate is for your industry. Look for anecdotal figures from friends. A colleague of mine makes one sale per 100 leads. He'd be beyond thrilled to get 1 sale out of 16. 
 
@@ -93,29 +93,34 @@ What if he increased his ad spend in order to double his sales amount? He could 
 
 The calculation above is basic. The client would need to account for advertising and Facebook marketer costs when calculating ROI and how fast he'd attain his goals. He could then determine whether he wanted to speed the process up. 
 
-Running a few numbers can open our eyes to how close we are to acheiving our business goals. 
+Running a few numbers can open our eyes our options. 
 
 ## A Few Additional Considerations
 
 The purpose of this article was to underscore the importance of having a goal for your campaigns before they launch and of having useful metrics by which to judge the outcomes. But I want to leave you with a few additional considerations. 
 
-* Anything can be done well or poorly and that includes Facebook campaigns. If you're not getting results you can choose another marketer. 
-* Before you hire a Facebook ad marketer, first verify results they've achieved for others. This is your best indicator that they will be able to deliver qualified leads to you on a continuing basis.
-* It's important for you to acquire at least a basic knowledge of this ad platform to know what to look for. Take one or two online courses to educate yourself. 
-* Do give your marketer adequate time. The campaign is occuring in a live digital ecosystem of thousands of individuals responding to your ad's copy, creative, placement, format, landing page, and offer. Any of these factors, in addition to the ad targeting, may need to be adjusted to improve results. 
-* When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to calibrate the campaign as it goes along. And don't expect to see the totality of what's possible in the first weeks. Indeed, it will be difficult to judge the marketer in such a short time period.
-* If you're new to following up with leads and sales, realize that it's a slog, and that's normal. Read and listen to podcasts about sales and prospecting to stay motivated. 
-* Seek out a community of business owners in your niche. This can be online. You'll be surprised what you learn.
-* If you're not responding to your inbound leads immediately, you're going to lose sales. 
-* With digital, it's important to always be experimenting. Sometimes slight modifications have outsized impact. 
+1. Anything can be done well or poorly and that includes Facebook campaigns. If you're not getting results, choose another marketer. 
+2. Before you hire a Facebook ad marketer, first verify results they've achieved for others. This is your best indicator that they will be able to deliver qualified leads to you on a continuing basis.
+3. It's important for you to acquire at least a basic knowledge of this ad platform to know what to look for. Take one or two online courses to educate yourself. 
+4. Do give your marketer adequate time. The campaign is occuring in a live digital ecosystem of thousands of individuals responding to your ad's copy, creative, placement, format, landing page, and offer. Any of these factors, in addition to the ad targeting, may need to be adjusted to improve results. 
+5. When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to calibrate the campaign as it goes along. And don't expect to see the totality of what's possible in the first weeks. Indeed, it will be difficult to judge the marketer in such a short time period. (Also, remember #2 above.)
+6. If you're new to following up with leads and sales, realize that it's a slog, and that's normal. Read and listen to podcasts about sales and prospecting to stay motivated. 
+7. Seek out a community of business owners in your niche. This can be online. You'll be surprised what you learn.
+8. Remember that no single digital tactic, tool, or property delivers business success. You need to have in place a system for generating quality leads on a regular basis and a good sales process for closing. 
+9. If you're not responding to your inbound leads immediately, you're going to lose sales. 
+10. With digital, it's important to always be experimenting. Sometimes slight modifications have outsized impact. 
 
 ## Summary
 
 When you assess the results of your own ad campaigns, I hope you'll put your "data glasses" on first. 
 
-Doing so will prevent you from mistaking success for failure.
+Doing so will prevent you from mistaking success for failure. 
 
-And when it comes to evaluating Facebook ad marketers, do your homework: educate yourself first and take time to verify what they've acheived for others.
+And it takes more than one month of results to determine whether or not that Facebook marketer can consistently deliver quality leads.
+
+When it comes to evaluating Facebook ad marketers, do some homework: educate yourself first and take time to verify what they've acheived for others.
+
+Not ready for Facebook ads? Consider <a href="/partnerships/">partnerships</a>.  
 
 
 ### Related reading
