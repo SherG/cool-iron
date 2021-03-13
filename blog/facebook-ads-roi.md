@@ -119,8 +119,9 @@ Your data will tell you what your next action step should or can be. For example
 * Fire the advertiser and find a better one.
 * Tweak your landing page to include questions or information to filter out unqualified leads.
 * Save time by setting up automated email follow-ups and replies.
-* Create a secondary product: something you can easily sell if the lead doesn't qualify for your higher-cost main product. (This secondary product can even be an service or downloadable that you are an affiliate marketer for.)
-* Experiment with other lead generation techniques
+* Create a secondary product: something you can easily sell if the lead doesn't qualify for your higher-cost main product. (This secondary product can be a service or downloadable that you are an affiliate marketer for.)
+* Experiment with other lead generation techniques.
+* Experiment with other ad platforms, like YouTube.
 
 
 ## A Few Additional Considerations
@@ -142,7 +143,7 @@ The purpose of this article was to underscore the importance of having a goal fo
 
 When you assess the results of your own ad campaigns, I hope you'll put your "data glasses" on first. 
 
-Doing so will prevent you from mistaking success for failure and vice versa. More importantly, data will tell you what your next action step should be. 
+Doing so will prevent you from mistaking success for failure and vice versa. More importantly, you can use that data to shape your next actions.
 
 And remember, it certainly takes more than one month of results to determine whether or not that Facebook marketer can consistently deliver quality leads.
 
