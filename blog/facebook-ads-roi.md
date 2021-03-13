@@ -68,7 +68,7 @@ To keep disappointment at bay:
 
 * Remember that the majority of leads don't convert and that's the norm.
 * Most business owners go through multiple (and even ongoing) iterations of lead generation processes to find what works best for them.
-* Keep your eye on the near-term goal -- developing a repeatable lead generation process that works.
+* Keep your eye on the near-term goal — developing a repeatable lead generation process that works.
 * Keep your utlimate goal in mind: such as growing revenue and potentially selling your business at a good profit in the future.
 
 
