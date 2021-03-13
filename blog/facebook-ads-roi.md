@@ -32,7 +32,7 @@ The marketer isn't going to deliver sales, though. Once the leads come in, it's 
 
 I also explained that some successful Facebook marketers will decline a client if the client hasn't been experiencing regular growth. 
 
-These marketers contend that Facebook lead ads work best for <mark class="highlight2">scaling up growth</mark> in a healthy business, not for sparking growth from zero. (The thinking is that zero growth could indicate a problem with the core business model, something that Facebook Lead Ads can't fix.)
+These marketers contend that Facebook lead ads work best for <mark class="highlight">scaling up growth</mark> in a healthy business, not for sparking growth from zero. (The thinking is that zero growth could indicate a problem with the core business model, something that Facebook Lead Ads can't fix.)
 
 ## What's Your Average Customer Lifetime Value? 
 
