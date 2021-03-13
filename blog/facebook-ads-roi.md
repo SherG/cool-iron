@@ -75,9 +75,17 @@ The business owner paid $200 to get a client worth $35,000.
 
 With data at the center, we get clarity.
 
-Now, as mentioned above, two weeks isn't enough time to get an idea of average conversion rate. But let's assume for the sake of this article, that the business owner continues to obtain an average of 2 sales every month. Will that conversion rate be good or bad? 
+### But wait . . . 
 
-First, get some perspective. Find out what the average lead conversion rate is for your industry. Look for anecdotal figures from friends. A colleague of mine makes one sale per 100 leads. He'd be beyond thrilled to get 1 sale out of 16. 
+Now, as mentioned above, two or four weeks is simply not enough time to get an idea of average conversion rate or of whether the marketer can deliver leads regularly. To learn more about how to assess campaigns, let's assume a hypotheical scenario: that the business owner continues to obtain an average of 2 sales every month. In <em>that scenario</em>, will that conversion rate be good or bad? 
+
+First, get some perspective:
+* What is the average lead conversion rate for your industry? 
+* What rates are your friends and acquaintances in the same field (and regional area) getting? 
+
+A colleague of mine in the financial industry makes one sale per 100 leads from his Facebook ads. He'd be beyond thrilled to get 1 sale out of 16. 
+
+What's considered amazing or below average varies across business niches. 
 
 ## You're Closer Than You Think
 
@@ -89,15 +97,17 @@ If he continues to make 2 sales a month via his Facebook Lead Ads campaigns, how
 
 Since each client pays $500/month, and he's made 1 sale, he's $6,000 towards his $100k goal. That means he needs only 16 more sales to add $100k to his revenue. Sixteen divided by 2 (sales per month) = 8 months to his target. 
 
-What if he increased his ad spend in order to double his sales amount? He could potentially hit his revenue target in 4 measly months. Since he has near-perfect retention rates, once he hits his revenue goal, Facebook Ads would be an occasional, not recurring cost. 
+What if he increased his ad spend in order to double his sales amount? He could potentially hit his revenue target in 4 months. Since he has near-perfect retention rates, once he hits his revenue goal, Facebook Ads would be an occasional, not recurring cost. 
 
 The calculation above is basic. The client would need to account for advertising and Facebook marketer costs when calculating ROI and how fast he'd attain his goals. He could then determine whether he wanted to speed the process up. 
 
 Running a few numbers can open our eyes our options. 
 
+Remember, this scenario assumes you are using a Facebook marketer who delivers quality leads on a regular basis and that you've got your lead qualification / sales process down. You will also have to factor in the cost of your time.
+
 ## A Few Additional Considerations
 
-The purpose of this article was to underscore the importance of having a goal for your campaigns before they launch and of having useful metrics by which to judge the outcomes. But I want to leave you with a few additional considerations. 
+The purpose of this article was to underscore the importance of having a goal for your campaigns before they launch and of having useful metrics by which to judge the outcomes. Here are a few additional considerations. 
 
 1. Anything can be done well or poorly and that includes Facebook campaigns. If you're not getting results, choose another marketer. 
 2. Before you hire a Facebook ad marketer, first verify results they've achieved for others. This is your best indicator that they will be able to deliver qualified leads to you on a continuing basis.
