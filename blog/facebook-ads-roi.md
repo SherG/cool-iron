@@ -84,9 +84,9 @@ Now, as mentioned above, two or four weeks is simply not enough time to get an i
 
 To learn more about how to assess campaigns, let's assume a hypothetical scenario: that the business owner continues to obtain an average of 2 sales every month. In <em>that scenario</em>, how do we determine whether that conversion rate is good or bad? 
 
-First, get some perspective:
-* What is the average lead conversion rate for your industry? 
-* What rates are your friends and acquaintances in the same field (and regional area) getting? 
+First, we need perspective:
+* Ask: What is the average lead conversion rate for my business niche? 
+* What rates are my friends and acquaintances in the same field getting? 
 
 A colleague of mine in the financial industry makes one sale per 100 leads from his Facebook ads. He'd be beyond thrilled to get 1 sale out of 16. 
 
