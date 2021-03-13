@@ -65,7 +65,7 @@ It helps to know that this process is a real slog. Most business owners I know d
 To keep disappointment at bay:
 
 * Remember that the majority of leads don't convert and that's the norm.
-* Know that most business owners go through multiple iterations of lead generation processes to find what works best for them. And the best engage in ongoing interations in order to get optimal results.
+* Know that most business owners go through multiple iterations of lead generation processes to find what works best for them. And the best engage in continual experiments, often via small tweaks, in order to get optimal results.
 * Keep your eye on the near-term goal — developing a repeatable lead generation and sales process that works.
 * Keep your utlimate goal in mind: such as growing revenue and potentially selling your business at a good profit in the future.
 
