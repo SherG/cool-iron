@@ -74,7 +74,7 @@ To keep disappointment at bay:
 
 Now let's dial in the data from your CLV. This is where you get true clarity. 
 
-The business owner paid $200 to get a client worth $35,000. 
+The business owner paid $200 to get a client worth significantly more.
 
 With data at the center, we get clarity.
 
