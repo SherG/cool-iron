@@ -32,11 +32,11 @@ These businesses have perfected verifying business data. Why is this data verifi
 5. Typically a cascade of additional listings in directories ensues, as more directories become aware of the business. 
 
 6. Most expert marketers agree that it's not sheer number of listings that matter, as much as the quality of the directories you're listed on. How is quality represented? By an "authority score." 
-For example, marketing software like BrightLocal.com is use to create business listings. And such software typically rates/ranks these directories, tagging some as having "very high" authority, "high" authority, "medium" authority or "low" authority. 
+For example, there are marketing software services that are commonly used to create business listings. And such software typically rates/ranks these directories, tagging some as having "very high" authority, "high" authority, "medium" authority or "low" authority. 
 There are multiple SEO signals that go into the rating of an online directory. You can think of "authority" as an SEO score that gives you an idea of whether getting listed on that directory would be good for your SEO. 
 Bottom line: It's better to be listed on a handful of sites with a high authority score than on 100 sites with a low authority score.
 
-7. You should never pay someone a monthly fee to work on your business listings. Instead pay a one-time flat fee or do it yourself using a service like <a href="https://www.brightlocal.com/" target="blank">BrightLocal</a>. Your data aggregator listings may incur an annual fee of around $60. The most recent research shows it's quality - not quantity - that matters here. 
+7. You should never pay someone a monthly fee to work on your business listings. Instead pay a one-time flat fee or do it yourself using an online business listings service. Your data aggregator listings may incur an annual fee of around $60. The most recent research shows it's quality - not quantity - that matters here. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What do you see as the most overused, ineffective SEO tactic?</p>&mdash; Bill Slawski ⚓ (@bill_slawski) <a href="https://twitter.com/bill_slawski/status/1179934021448429569?ref_src=twsrc%5Etfw">October 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
