@@ -6,7 +6,7 @@ summary: Too many small business owners believe SEO is a one-time task. Here's w
 tags: ['seo']
 ---
 
-I ocassionally meet small business owners who believe that SEO is like a Hamilton Beach crock pot: you can just "set it and forget it." Sorry, but SEO doesn't work that way. 
+I ocassionally meet small business owners who believe that SEO is like a Hamilton Beach crock pot: you can just "set it and forget it." Sorry friend, but SEO doesn't work that way. 
 
 You can think of SEO as similar to the stock market. It involves a complex environment with billions of participants and factors, and daily fluctuations. Competition is fierce. This is why SEO requires fastidious, regular action on your part. 
 
