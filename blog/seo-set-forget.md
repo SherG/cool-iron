@@ -30,7 +30,9 @@ The most sought-after domains for most businesses are .coms with short names tha
 
 One thing that drives the value of these domains are the inbound links that they've acquired.
 
-I've had the privilege of working with a successful entrepreneur who plays the domain game well to his advantage. He once paid over $350k for a domain, spent years building the brand, and sold it — along with a selection of other web properties in his portfolio — at the start of the pandemic. The entire venture was a resounding success because he understood the value he could extract from that web property and the investment and work that would be required to turn it at a profit. 
+I've had the privilege of working with a successful entrepreneur who plays the domain game well to his advantage. He once paid over $350k for a domain, spent years building the brand, and sold it — along with a selection of other web properties in his portfolio — at the start of the pandemic. 
+
+The entire venture was a resounding success because he understood the value he could extract from that web property and the investment and work that would be required to turn it at a profit. 
 
 Not all old domains are in this price range, of course. If you decide to explore paying 4, 5, or 6 figures for a domain, you'll want to confer with someone who's savvy in the practice of identifying and negotiating for quality domains. 
 
@@ -56,7 +58,7 @@ Your website is just a vehicle for delivering your content. Your content, along 
 
 What makes your content competitive, SEO-wise? Quality. 
 
-Over the years Google has gotten extraordinarily good at assessing the quality of content on a site and on an individual page. Many of the famous algorithm updates -- that have surfaced hidden pages and buried others -- were advances in identifying and rewarding quality content. 
+Over the years Google has gotten extraordinarily good at assessing the quality of content on a site and on an individual page. Many of the famous algorithm updates — that have surfaced hidden pages and buried others — were advances in identifying and rewarding quality content. 
 
 Conversely, it's very good at identifying content that was thrown together in a rush with little thought. So, if you flung that last blog post up, like a side of greasy hashbrowns at Waffle House, don't expect to win Google's equivalent of a Michelin 3-star rating. 
 
