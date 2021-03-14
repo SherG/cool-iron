@@ -89,7 +89,7 @@ For example:
 
 Also beware of image file sizes. For example, if you are blogging regularly and adding images with large file sizes to each page, that can weigh down your speed. (See our tips for <a href="/optimize-images">optimizing images</a>.) 
 
-Don't let these issues lie dormant. I've seen some cases where the only contact function on a website had been broken for years. Few businesses with this level of neglect can survive. 
+Don't let issues lie dormant. I've seen some cases where the only contact function on a website had been broken for years. No business with this level of neglect can survive. 
 
 ## DIY SEO or hire a pro?
 
@@ -99,7 +99,7 @@ The bad news is digital marketing in general and SEO in particular is expensive 
 
 * $1,500 minimum: What one agency charges to handle the simplest SEO tasks, like adding meta-descriptions to your articles.
 * $1,500 minimum: for one article, optimized for SEO (including doing keyword research before writing the article)
-* $1,779/month: the average amount that agencies and freelancers are paid per month, per client.
+* $1,779/month: the average monthly amount that agencies and freelancers are paid per client.
 * $500-$699: average minimum retainer fee for agencies and for freelancers
 * $125/hr: the average SEO freelancer hourly rate. Rates go up to $175/hour+.
 * $600 per link: what one agency charges for obtaining a single link from a low-ranking website to yours.
