@@ -38,7 +38,7 @@ Bottom line: It's better to be listed on a handful of sites with a high authorit
 
 7. You should never pay someone a monthly fee to work on your business listings. Instead pay a one-time flat fee or do it yourself using a service like <a href="https://www.brightlocal.com/" target="blank">BrightLocal</a>. Your data aggregator listings may incur an annual fee of around $60. The most recent research shows it's quality - not quantity - that matters here. 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In local SEO? recurring fees for ongoing &quot;citation management&quot; - Having tons of citations has diminished in importance so much that getting the top tier right once and letting them marinate is just fine...</p>&mdash; Carrie Hill 🗺️📌 (@CarrieHill) <a href="https://twitter.com/CarrieHill/status/1179934632424267776?ref_src=twsrc%5Etfw">October 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What do you see as the most overused, ineffective SEO tactic?</p>&mdash; Bill Slawski ⚓ (@bill_slawski) <a href="https://twitter.com/bill_slawski/status/1179934021448429569?ref_src=twsrc%5Etfw">October 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## "Your Business Listings Aren't Synced" 
