@@ -68,11 +68,12 @@
 }
 
 a {
-  @apply text-green-700 font-bold;
+  @apply text-green-700;
+  @apply border-bottom: 1px solid rgba (0,0,0,0,2);
 }
 
 a:hover {
-  @apply text-green-800;
+  background-color: #E0FBF1;
 }
 
 nav .active {
