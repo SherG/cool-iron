@@ -40,6 +40,7 @@ Bottom line: It's better to be listed on a handful of sites with a high authorit
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What do you see as the most overused, ineffective SEO tactic?</p>&mdash; Bill Slawski ⚓ (@bill_slawski) <a href="https://twitter.com/bill_slawski/status/1179934021448429569?ref_src=twsrc%5Etfw">October 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
 
 ## "Your Business Listings Aren't Synced" 
 
