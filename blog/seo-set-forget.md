@@ -104,6 +104,10 @@ The bad news is digital marketing in general and SEO in particular is expensive 
 * $125/hr: the average SEO freelancer hourly rate. Rates go up to $175/hour+.
 * $600 per link: what one agency charges for obtaining a single link from a low-ranking website to yours.
 
+<em>Note: your inbox may be filled with offers to manage your "business listings" or "business citations." Many of these offers are for around $199 a month. This is a typical spammy offer, where the sender hasn't even bothered to find out whether your business listings have already been taken care of. Besides, there's no scenario where these need to be managed on a monthly basis.</em>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What do you see as the most overused, ineffective SEO tactic?</p>&mdash; Bill Slawski ⚓ (@bill_slawski) <a href="https://twitter.com/bill_slawski/status/1179934021448429569?ref_src=twsrc%5Etfw">October 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 The good news is the internet is filled with quality free tutorials to provide you with the SEO basics a small business owner needs to know. You can choose to handle your own SEO without hiring a professional. 
 
 You needn't try to do everything, or everything at once. Following quality standards for content, and best practices when posting, can go far. 
