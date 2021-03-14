@@ -22,7 +22,7 @@ Instead:
 
 * Include an objective source — such as a customer or respected peer or reviewer — to describe the product or event. 
 
-![hot air balloon](https://res.cloudinary.com/icecloud7/image/upload/w_auto,f_auto,e_sharpen/v1563073903/hot-air-ballooon_cdjnoc.png)
+![hot air balloon](https://unsplash.com/photos/VRTcPxPS)
 
 Hot air annoys readers.
 
