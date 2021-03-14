@@ -10,6 +10,6 @@ I ocassionally meet small business owners who believe that SEO is like a Hamilto
 
 You can think of SEO as similar to the stock market. It involves a complex environment with billions of participants and factors, and daily fluctuations. Competition is fierce. This is why SEO requires fastidious, regular action on your part. 
 
-Rankings are hard won, easily lost.  
+Rankings are hard won, easily lost through neglect.
 
 But disciplined practice can yield amazing results. 
