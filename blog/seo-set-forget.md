@@ -12,4 +12,4 @@ You can think of SEO as similar to the stock market. It involves a complex envir
 
 Rankings are hard won, easily lost through neglect.
 
-But simple, consistent practice can yield amazing results. 
+But simple, disciplined practice can yield amazing results. 
