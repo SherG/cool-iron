@@ -36,9 +36,9 @@ For example, there are marketing software services that are commonly used to cre
 There are multiple SEO signals that go into the rating of an online directory. You can think of "authority" as an SEO score that gives you an idea of whether getting listed on that directory would be good for your SEO. 
 Bottom line: It's better to be listed on a handful of sites with a high authority score than on 100 sites with a low authority score.
 
-7. You should never pay someone a monthly fee to work on your business listings. Instead pay a one-time flat fee or do it yourself using an online business listings service. Your data aggregator listings may incur an annual fee of around $60. The most recent research shows it's quality - not quantity - that matters here. 
+7. Never pay someone a monthly fee to work on your business listings. Instead pay a one-time flat fee or do it yourself using an online business listings service. Your data aggregator listings may incur an annual fee of around $60. The most recent research shows it's quality - not quantity - that matters here. 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What do you see as the most overused, ineffective SEO tactic?</p>&mdash; Bill Slawski ⚓ (@bill_slawski) <a href="https://twitter.com/bill_slawski/status/1179934021448429569?ref_src=twsrc%5Etfw">October 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In local SEO? recurring fees for ongoing &quot;citation management&quot; - Having tons of citations has diminished in importance so much that getting the top tier right once and letting them marinate is just fine...</p>&mdash; Carrie Hill 🗺️🎙️ (@CarrieHill) <a href="https://twitter.com/CarrieHill/status/1179934632424267776?ref_src=twsrc%5Etfw">October 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br/>
 
