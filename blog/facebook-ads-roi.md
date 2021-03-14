@@ -123,6 +123,8 @@ Your data will tell you what your next action step should or can be. For example
 * Experiment with other lead generation techniques.
 * Experiment with other ad platforms, like YouTube.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every time you repeat something automatable, you steal time from your future self.</p>&mdash; Jack Butcher (@jackbutcher) <a href="https://twitter.com/jackbutcher/status/1364267152107307009?ref_src=twsrc%5Etfw">February 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ## A Few Additional Considerations
 
