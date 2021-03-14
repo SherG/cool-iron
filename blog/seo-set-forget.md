@@ -68,7 +68,7 @@ Before you start writing, do a search on your topic to see how many millions, te
 
 The number and quality of inbound links (and referring domains) to your site is important for your ranking. 
 
-Conversely, inbound links that are from spurious websites may harm the ranking of your pages. Identifying whether you have such inbound links, and <a href="https://support.google.com/webmasters/answer/2648487?hl=en" target="blank">disavowing those links</a>is an advanced topic. Executing the disavowals is best handled by an SEO professional.
+Conversely, inbound links that are from spurious websites may harm the ranking of your pages. Identifying whether you have such inbound links, and <a href="https://support.google.com/webmasters/answer/2648487?hl=en" target="blank">disavowing those links</a> is an advanced topic. Executing the disavowals may best handled by an SEO professional.
 
 ## Outbound links
 
