@@ -14,7 +14,17 @@ After hearing stories from small business owners, I've been inspired to address 
 
 Below, I share some recent examples that business owners have shared with me. As is the case with many dodgy marketing proposals, both were focused on "business listings" or "local SEO.' 
 
-Before we look at the questionable pitches, let's take a look at how business listings work.
+<aside><div style="padding-left: 2.3em; background-color: whitesmoke"><br/>
+
+![caution](/static/caution-icon.svg)
+
+<p>Your inbox may be filled with offers to manage your "business listings" or "business citations." Many of these offers are for around $199 a month. Typically, these are <a href="https://www.signalfox.org/business-listings-scams" target="blank">spammy offers</a>. Often the sender hasn't even bothered to find out whether your business listings have already been taken care of. Besides, there's no scenario where these need to be managed on a monthly basis.</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In local SEO? recurring fees for ongoing &quot;citation management&quot; - Having tons of citations has diminished in importance so much that getting the top tier right once and letting them marinate is just fine...</p>&mdash; Carrie Hill 🗺️🎙️ (@CarrieHill) <a href="https://twitter.com/CarrieHill/status/1179934632424267776?ref_src=twsrc%5Etfw">October 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br/></div></aside>
+
+Before we look at the questionable pitches in more depth, let's take a look at how business listings work.
 
 ## What Are Business Listings? 
 
