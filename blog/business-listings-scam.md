@@ -16,6 +16,7 @@ Below, I share some recent examples that business owners have shared with me. As
 
 <aside><div style="padding-left: 2.3em; background-color: whitesmoke">
 <br/>
+
   ## Quick take
 <img src="/caution-icon.svg" class="left" />
 
