@@ -75,9 +75,9 @@ Conversely, it's very good at identifying content that was thrown together in a 
    <ul class="highlight2">
      <li>Consider that there are almost 2 billion websites online. There are hundreds of millions of blogs. And of active sites, all want to rank well and be on page #1 of Google for certain keywords. 
 
-<a href="https://www.statista.com/chart/19058/how-many-websites-are-there/" title="Infographic: How Many Websites Are There? | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/19058.jpeg" alt="Infographic: How Many Websites Are There? | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a> You will find more infographics at <a href="https://www.statista.com/chartoftheday/">Statista</a>
+<a href="https://www.statista.com/chart/19058/how-many-websites-are-there/" title="Infographic: How Many Websites Are There? | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/19058.jpeg" alt="Infographic: How Many Websites Are There? | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a> <small>Chart courtesy of <a href="https://www.statista.com/chartoftheday/">Statista</a></small></li>
 
-Before you start writing, do a Google Incognito search on your topic to see how many competing articles there are. That can provide a motivation for learning more about what makes for quality content. 
+<li>Before you start writing, do a Google Incognito search on your topic to see how many competing articles there are. That can provide a motivation for learning more about what makes for quality content. 
 
 ![seo ranking example](https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto/v1615769644/SignalFox/seo-ranking-example_vvf0h5.png)
 
