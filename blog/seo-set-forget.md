@@ -6,7 +6,7 @@ summary: Too many small business owners believe SEO is a one-time task. Here's w
 tags: ['seo']
 ---
 
-Is SEO like a crockpot? Can you just "set it and forget it"?
+I sometimes meet small business owners who believe SEO is a one-time task. Is SEO like a crockpot? Can you just "set it and forget it"?
 
 Sorry friend, but SEO doesn't work that way. 
 
@@ -14,9 +14,9 @@ You can think of SEO as similar to the stock market. It involves a complex envir
 
 Rankings are hard won, easily lost. 
 
-They're lost through neglect.
+They're lost through neglect. 
 
-Yet a simple, SEO discipline can retain and improve your standing. 
+Yet a simple, SEO discipline can help you retain and improve your standing. Without such a discipline, losing "market share" to your competition is all but guaranteed.
 
 To get a sense of the <em>scope</em> of SEO, let's take a brief flyover of the territory. 
 
