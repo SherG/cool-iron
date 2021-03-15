@@ -70,7 +70,7 @@ Conversely, it's very good at identifying content that was thrown together in a 
 
 Before you start writing, do a Google Incognito search on your topic to see how many millions, tens of millions, or hundreds of millions of pages you're competing against. That can provide a powerful motivation to focus on quality.
 
-![seo ranking example](https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_600,c_scale/v1615769644/SignalFox/seo-ranking-example_vvf0h5.png)
+![seo ranking example](https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto/v1615769644/SignalFox/seo-ranking-example_vvf0h5.png)
 
 ## Inbound links
 
