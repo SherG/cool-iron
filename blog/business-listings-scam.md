@@ -16,7 +16,7 @@ Below, I share some recent examples that business owners have shared with me. As
 
 <aside><div style="padding-left: 2.3em; background-color: whitesmoke"><br/>
 
-![caution](/static/caution-icon.svg)
+![caution](../static/caution-icon.svg)
 
 <p>Your inbox may be filled with offers to manage your "business listings" or "business citations." Many of these offers are for around $199 a month. Typically, these are <a href="https://www.signalfox.org/business-listings-scams" target="blank">spammy offers</a>. Often the sender hasn't even bothered to find out whether your business listings have already been taken care of. Besides, there's no scenario where these need to be managed on a monthly basis.</p>
 
