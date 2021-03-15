@@ -6,7 +6,7 @@ summary: Too many small business owners believe SEO is a one-time task. Here's w
 tags: ['seo']
 ---
 
-Is SEO like a Hamilton Beach crockpot? Can you just "set it and forget it"?
+Is SEO like a crockpot? Can you just "set it and forget it"?
 
 Sorry friend, but SEO doesn't work that way. 
 
