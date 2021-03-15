@@ -69,7 +69,10 @@
 
 a {
   @apply text-green-700;
+}
+a {
   border-bottom: 1px solid rgba (0,0,0,0,2);
+  background-color: #E0FBF1;
 }
 
 a:hover {
@@ -86,9 +89,11 @@ nav .active {
   padding-right: 1rem;
 }
 
+/* changed from original code */
   .w-40 {
 width: 8rem;
   }
+/* end */
 
 @media (min-width: 640px) {
   .container-inner {
