@@ -68,7 +68,7 @@ Over the years Google has gotten extraordinarily good at assessing the quality o
 
 Conversely, it's very good at identifying content that was thrown together in a rush with little thought. So, if you flung that last blog post up, like a side of greasy hashbrowns at Waffle House, don't expect to win Google's equivalent of a Michelin 3-star rating. 
 
-Before you start writing, do a Google Incognito search on your topic to see how many competing articles there are.
+Before you start writing, do a Google Incognito search on your topic to see how many competing articles there are. That can provide a motivation for focusing on quality.
 
 ![seo ranking example](https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto/v1615769644/SignalFox/seo-ranking-example_vvf0h5.png)
 
