@@ -20,7 +20,7 @@ Below, I share some recent examples that business owners have shared with me. As
   ## Quick take
 <img src="/caution-icon.svg" class="left" />
 
-<p>Is your inbox filled with offers to manage your "business listings" or "business citations"? Many of these offers are for around $199 a month. Often, the senders of these <a href="https://www.signalfox.org/business-listings-scams" target="blank">spammy offers</a> often haven't even bothered to find out whether your business listings have already been taken care of. </p><p>More importantly, there's no scenario where these need to be managed on a monthly basis.</p>
+<p>Is your inbox filled with offers to manage your "business listings" or "business citations"? Many of these offers are for around $199 a month. Often, the senders of these <a href="https://www.signalfox.org/business-listings-scams" target="blank">spammy offers</a> often haven't even bothered to find out whether your business listings have already been taken care of. More importantly, there's no scenario where these need to be managed on a monthly basis.</p>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In local SEO? recurring fees for ongoing &quot;citation management&quot; - Having tons of citations has diminished in importance so much that getting the top tier right once and letting them marinate is just fine...</p>&mdash; Carrie Hill 🗺️🎙️ (@CarrieHill) <a href="https://twitter.com/CarrieHill/status/1179934632424267776?ref_src=twsrc%5Etfw">October 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
