@@ -23,7 +23,7 @@ This site provides information on digital strategy, common errors made by small 
 
 It draws on my own experiences in consulting and in running my own businesses. The goal is to encourage the small business owner and provide some time-saving, productive ideas.
 
-While the marjority of our content will be focused on big picture issues, I will occassionally publish content focused on practical how-tos. These how-tos seek to fill a gap where there may not be content available that's clear and easy to follow. 
+While the majority of our content will be focused on big picture issues, I will occassionally publish content focused on practical how-tos. These how-tos seek to fill a gap where there may not be content available that's clear and easy to follow. 
 
 Practical how-tos, however, are not our chief focus. This is because of the sheer wealth of currently available free or low-cost information already available on the internet. 
 
