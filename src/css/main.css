@@ -154,6 +154,9 @@ background-color: #faf6e8;
  padding: 0 0 0 2em;}
 
 
+.left {
+ float: left;
+ padding: 0 0 0 2em;}
 
 /* nunito-sans-regular - latin */
 @font-face {
