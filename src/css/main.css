@@ -72,10 +72,6 @@ a {
 }
 
 
-a:hover {
-  background-color: #E0FBF1;
-}
-
 nav .active {
   font-weight: bold;
   @apply border-black border-b;
