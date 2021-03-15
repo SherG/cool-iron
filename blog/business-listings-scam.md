@@ -15,7 +15,7 @@ After hearing stories from small business owners, I've been inspired to address 
 Below, I share some recent examples that business owners have shared with me. As is the case with many dodgy marketing proposals, both were focused on "business listings" or "local SEO.' 
 
 <aside><div style="padding-left: 2.3em; background-color: whitesmoke">
-
+<br/>
 <img src="/caution-icon.svg" class="left" />
 
 <p>Your inbox may be filled with offers to manage your "business listings" or "business citations." Many of these offers are for around $199 a month. Typically, these are <a href="https://www.signalfox.org/business-listings-scams" target="blank">spammy offers</a>. Often the sender hasn't even bothered to find out whether your business listings have already been taken care of. Besides, there's no scenario where these need to be managed on a monthly basis.</p>
