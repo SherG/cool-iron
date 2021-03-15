@@ -95,7 +95,7 @@ Don't let issues lie dormant. I've seen some cases where the only contact functi
 
 Every business can benefit from prioritizing SEO as a regular marketing activity. And every business that does not engage in any regular SEO activity is likely losing ranking and losing opportunities.
 
-The bad news is digital marketing in general and SEO in particular is expensive and prices are rising each year. Here are some sample fees for SEO work from actual agencies I'm familiar with and from research published in 2019 by <em>Search Engine Journal</em>: 
+The bad news is digital marketing in general and SEO in particular is expensive and prices are rising each year. Here are some sample fees for SEO work from actual agencies I'm familiar with and from <a href="https://www.searchenginejournal.com/new-study-shows-how-much-seo-professionals-are-earning-per-year/291385/" target="blank">research</a> published in 2019 by <em>Search Engine Journal</em>: 
 
 * $1,500 minimum: What one agency charges to handle the simplest SEO tasks, like adding meta-descriptions to your articles.
 * $1,500 minimum: for one article, optimized for SEO (including doing keyword research before writing the article)
