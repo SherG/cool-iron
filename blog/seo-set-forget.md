@@ -111,9 +111,11 @@ The bad news is digital marketing in general and SEO in particular is expensive 
 
 <hr></aside>
 
-The good news is the internet is filled with quality free tutorials to provide you with the SEO basics a small business owner needs to know. You can choose to handle your own SEO without hiring a professional. 
+The good news is the internet is filled with quality free tutorials to provide you with the SEO basics a small business owner needs to know. You can choose to handle your own SEO without hiring a professional. This is an attractive idea for solopreneurs, or businesses with few employees.
 
 You needn't try to do everything, or everything at once. Following quality standards for content, and best practices when posting, can go far. 
+
+In many cases, such as scaling a business with a traffic-based revenue model, it may make more sense to hire a professional. But even then, the knowledge you gain from learning about SEO, will be invalauble. And building in-house, specialized capacity may be more economically viable.
 
 ## Summary
 
@@ -121,8 +123,9 @@ If you've been under the impression that SEO is something you pay for once and i
 
 We've provided a basic overview of common areas of SEO activity and provided you with some options for going forward. 
 
-Have additional questions? Feel free to use the contact form on the home page. 
 
+
+<br/>
 
 ### Related reading 
 
