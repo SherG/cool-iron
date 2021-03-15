@@ -70,10 +70,7 @@
 a {
   @apply text-green-700;
 }
-a {
-  border-bottom: 1px solid rgba (0,0,0,0,2);
-  background-color: #E0FBF1;
-}
+
 
 a:hover {
   background-color: #E0FBF1;
