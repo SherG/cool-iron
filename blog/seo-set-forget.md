@@ -6,7 +6,9 @@ summary: Too many small business owners believe SEO is a one-time task. Here's w
 tags: ['seo']
 ---
 
-I ocassionally meet small business owners who believe that SEO is like a Hamilton Beach crock pot: you can just "set it and forget it." Sorry friend, but SEO doesn't work that way. 
+Is SEO like a Hamilton Beach crock pot? Can you just "set it and forget it." 
+
+Sorry friend, but SEO doesn't work that way. 
 
 You can think of SEO as similar to the stock market. It involves a complex environment with billions of participants and factors, and daily fluctuations. Competition is fierce. This is why SEO requires fastidious, regular action on your part. 
 
@@ -30,7 +32,10 @@ The most sought-after domains for most businesses are .coms with short names tha
 
 One thing that drives the value of these domains are the inbound links that they've acquired.
 
-I've had the privilege of working with a successful entrepreneur who plays the domain game well to his advantage. He once paid over $350k for a domain, spent years building the brand, and sold it — along with a selection of other web properties in his portfolio — at the start of the pandemic. 
+<details>
+  <summary>Would you pay $350,000 for a domain?</summary>
+
+<p>I've had the privilege of working with a successful entrepreneur who plays the domain game well to his advantage. He once paid over $350k for a domain, spent years building the brand, and sold it — along with a selection of other web properties in his portfolio — at the start of the pandemic. 
 
 The entire venture was a resounding success because he understood the value he could extract from that web property and the investment and work that would be required to turn it at a profit. 
 
@@ -38,7 +43,8 @@ Not all old domains are in this price range, of course. If you decide to explore
 
 And, like the CEO I mentioned, you'll want to be clear on the value proposition you're investing in. 
 
-Tip: Thinking of switching domains? Exercise caution before dumping your current domain name. It may have more value than you are aware of.
+<em>Tip: Thinking of switching domains? Exercise caution before dumping your current domain name. It may have more value than you are aware of.</em></p>
+</details>
 
 ### Spam score 
 
