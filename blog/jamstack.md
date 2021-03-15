@@ -84,13 +84,16 @@ In sum, JAMstack could've been designed by Steve Jobs: it seeks to remove everyt
 
 ## When you want to stick with your CMS
 
-For cost or functionality reasons, a business with a complicated site that's running many marketing tools and custom code and has already been built in WordPress or Drupal, may want to stick with what they've got. 
+For cost or functionality reasons (such as the large library of plugins WordPress has), a business with a complicated site that's running many marketing tools and custom code and has already been built in WordPress or Drupal, may want to stick with what they've got. 
 
 But don't let that deter you from improving your speed and performance. After a redesign, <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdigital.com%2F&tab=mobile" target="blank">this massive WordPress site</a> made impressive speed gains.
 
+And if you have a Drupal site, consider Acquia for hosting. Tap their staff expertise. I did so for the 2010 site I mentioned, and after following their recommendations at the time (Varnish and Pressflow for a Drupal 6 site) was amazed by the results.
+
+
 ### Decoupling your WordPress or Drupal site
 
-If you have a <a href="https://www.drupal.org/" target="blank">Drupal</a> or WordPress site you can still obtain some benefits of JAMstack by decoupling your front-end from your back-end. This will give you what's called a "headless CMS." Biilman considers this to be an <em>adaptation</em> to the JAMstack.
+If you have a <a href="https://www.drupal.org/" target="blank">Drupal</a> or WordPress site you can also obtain some benefits of JAMstack by decoupling your front-end from your back-end. This will give you what's called a "headless CMS." Biilman considers this to be an <em>adaptation</em> to the JAMstack.
 
 For more information on decoupling, see:
 * <a href="https://www.netlify.com/with/drupal/?" target="blank">this guidance from Netlify</a>
