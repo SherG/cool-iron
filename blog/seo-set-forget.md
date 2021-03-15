@@ -104,7 +104,7 @@ The bad news is digital marketing in general and SEO in particular is expensive 
 * $125/hr: the average SEO freelancer hourly rate. Rates go up to $175/hour+.
 * $600 per link: what one agency charges for obtaining a single link from a low-ranking website to yours.
 
-<aside><hr>
+<aside class="aside"><hr>
 <em>Note: your inbox may be filled with offers to manage your "business listings" or "business citations." Many of these offers are for around $199 a month. Typically, these are <a href="https://www.signalfox.org/business-listings-scams" target="blank">spammy offers</a>, where the sender hasn't even bothered to find out whether your business listings have already been taken care of. Besides, there's no scenario where these need to be managed on a monthly basis.</em>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In local SEO? recurring fees for ongoing &quot;citation management&quot; - Having tons of citations has diminished in importance so much that getting the top tier right once and letting them marinate is just fine...</p>&mdash; Carrie Hill 🗺️🎙️ (@CarrieHill) <a href="https://twitter.com/CarrieHill/status/1179934632424267776?ref_src=twsrc%5Etfw">October 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
