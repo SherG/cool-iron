@@ -84,7 +84,7 @@ In sum, JAMstack could've been designed by Steve Jobs: it seeks to remove everyt
 
 ## When you want to stick with your CMS
 
-For cost or functionality reasons (such as the large library of plugins WordPress has), a business with a complicated site that's running many marketing tools and custom code and has already been built in WordPress or Drupal, may want to stick with what they've got. 
+For cost or functionality reasons, a business with a complicated site that's running many marketing tools and custom code and has already been built in WordPress or Drupal, may want to stick with what they've got. 
 
 But don't let that deter you from improving your speed and performance. After a redesign, <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdigital.com%2F&tab=mobile" target="blank">this massive WordPress site</a> made impressive speed gains.
 
