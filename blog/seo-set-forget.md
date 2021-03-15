@@ -39,7 +39,7 @@ One thing that drives the value of these domains are the inbound links that they
 
 The entire venture was a resounding success because he understood the value he could extract from that web property and the investment and work that would be required to turn it at a profit. 
 
-Not all old domains are in this price range, of course. If you decide to explore paying 4, 5, or 6 figures for a domain, you'll want to confer with someone who's savvy in the practice of identifying and negotiating for quality domains. 
+Not all old domains are in this price range, of course. If you decide to explore paying 4, 5, or 6 figures for a domain, you'll want to confer with someone who's savvy in identifying and negotiating for quality domains. 
 
 And, like the CEO I mentioned, you'll want to be clear on the value proposition you're investing in. 
 
