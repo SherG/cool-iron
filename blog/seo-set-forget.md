@@ -70,6 +70,8 @@ Conversely, it's very good at identifying content that was thrown together in a 
 
 Before you start writing, do a search on your topic to see how many millions, tens of millions, or hundreds of millions of pages you're competing against. That can provide a powerful motivation to focus on quality.
 
+(https://res.cloudinary.com/icecloud7/image/upload/v1615769644/SignalFox/seo-ranking-example_vvf0h5.png)
+
 ## Inbound links
 
 The number and quality of inbound links (and referring domains) to your site is important for your ranking. 
