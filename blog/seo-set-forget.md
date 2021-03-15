@@ -33,7 +33,7 @@ The most sought-after domains for most businesses are .coms with short names tha
 One thing that drives the value of these domains are the inbound links that they've acquired.
 
 <details>
-  <summary>Would you pay $350,000 for a domain?</summary>
+  <summary>Why do people buy expensive domains?</summary>
 
 <p>I've had the privilege of working with a successful entrepreneur who plays the domain game well to his advantage. He once paid over $350k for a domain, spent years building the brand, and sold it — along with a selection of other web properties in his portfolio — at the start of the pandemic. 
 
