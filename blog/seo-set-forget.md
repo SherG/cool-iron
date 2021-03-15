@@ -68,8 +68,6 @@ Over the years Google has gotten extraordinarily good at assessing the quality o
 
 Conversely, it's very good at identifying content that was thrown together in a rush with little thought. So, if you flung that last blog post up, like a side of greasy hashbrowns at Waffle House, don't expect to win Google's equivalent of a Michelin 3-star rating. 
 
-</details>
-<br/>
 <details>
   <summary>Just how competitive is it out there?</summary><br/>
    <ul class="highlight2">
