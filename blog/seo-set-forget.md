@@ -113,7 +113,7 @@ Know that digital marketing in general and SEO in particular is not cheap. Price
 * $600 per link: what one agency charges for obtaining a single link from a low-ranking website to yours.
 
 <aside><div style="padding-left: 2.3em; background-color: whitesmoke"><br/>
-![image](https://user-images.githubusercontent.com/10387946/111094328-7479a700-8511-11eb-968a-c9e38e88b2c3.png)
+![image](https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1615773916/SignalFox/caution-icon_vrslrc.png)
 <p>Your inbox may be filled with offers to manage your "business listings" or "business citations." Many of these offers are for around $199 a month. Typically, these are <a href="https://www.signalfox.org/business-listings-scams" target="blank">spammy offers</a>. Often the sender hasn't even bothered to find out whether your business listings have already been taken care of. Besides, there's no scenario where these need to be managed on a monthly basis.</p>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In local SEO? recurring fees for ongoing &quot;citation management&quot; - Having tons of citations has diminished in importance so much that getting the top tier right once and letting them marinate is just fine...</p>&mdash; Carrie Hill 🗺️🎙️ (@CarrieHill) <a href="https://twitter.com/CarrieHill/status/1179934632424267776?ref_src=twsrc%5Etfw">October 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
