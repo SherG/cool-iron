@@ -106,7 +106,7 @@ Every business can benefit from prioritizing SEO as a regular marketing activity
 The bad news is digital marketing in general and SEO in particular is expensive and prices are rising each year. Here are some sample fees for SEO work from actual agencies I'm familiar with and from <a href="https://www.searchenginejournal.com/new-study-shows-how-much-seo-professionals-are-earning-per-year/291385/" target="blank">research</a> published in 2019 by <em>Search Engine Journal</em>: 
 
 * $1,500 minimum: What one agency charges to handle the simplest SEO tasks, like adding meta-descriptions to your articles.
-* $1,500 minimum: for one article, optimized for SEO (including doing keyword research before writing the article)
+* $1,500 minimum: for one article, written with modern SEO practices.
 * $1,779/month: the average monthly amount that agencies and freelancers are paid per client.
 * $500-$699: average minimum retainer fee for agencies and for freelancers
 * $125/hr: the average SEO freelancer hourly rate. Rates go up to $175/hour+.
