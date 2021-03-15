@@ -68,9 +68,12 @@
 }
 
 a {
-  @apply text-green-700;
+  @apply text-green-700; font-bold;
 }
 
+a:hover {
+  @apply text-green-800;
+}
 
 nav .active {
   font-weight: bold;
