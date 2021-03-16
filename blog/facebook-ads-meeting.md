@@ -63,11 +63,11 @@ Consider:
 
 <strong>"How many consultations/client packages/trial memberships etc. per month are you aiming for?"</strong>
 
-<strong>"Apart from the goals you shared, what else are you looking for in hiring me?"</strong>
+<strong>"Apart from the goals you shared, what else are you looking for in hiring a Facebook Ads marketer?"</strong>
 
 Here you can share other issues you'd like the marketer to work on, such as analyzing your sales process to identify where prospects are dropping out and proposing fixes.
 
-<strong>"What is marketing budget for (a) ad spend (b) my services?" </strong>
+<strong>"What's your marketing budget for (a) ad spend (b) my services?" </strong>
 
 ### The minimal ad spend
 
