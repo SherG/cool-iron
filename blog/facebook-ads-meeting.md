@@ -32,6 +32,7 @@ For our example, let's assume you want to use Facebook Ads to drive leads to you
 * Prepare to discuss any trial offers or specials that are part of your business's outreach efforts. 
 * If you've been running a trial offer or discount for an in-person service, know your conversion rate and roughly how many people sign up versus show up.
 * Clarify what you don't like about your current sales funnel (e.g., chasing down phone appointment no-shows).
+* Consider your current 'bandwidth' and processes - who's going to handle the prospects? When it comes to the desired number of new customers per month, do you currently have a process and the capacity in place to onboard these? (A successful campaign can surface hidden problems in your processes.)
 
 ## Questions the marketer will ask
 
