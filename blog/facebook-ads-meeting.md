@@ -6,11 +6,11 @@ summary: Get a peek inside the process of a discovery meeting with a Facebook Ad
 tags: ['facebook']
 ---
 
-Before you hire a Facebook Ads professional, you'll participate in a discovery call with them.  As you vet them, they'll be vetting you and your business.
+Before you hire a Facebook Ads professional, you'll participate in a discovery meeting with them. As you vet them, they'll be vetting you and your business.
 
 Here's a peek inside the process, so you can be prepared to make the most of it. 
 
-First, the marketer will likely have you fill out an application beforehand, so they have preliminary information on which to base the call. 
+First, the marketer will likely have you fill out an application beforehand, so they have preliminary information on which to base the call or in-person meeting. 
 
 Throughout the process a good marketer will be centered on these issues:
 * What are your goals?
@@ -22,7 +22,7 @@ The marketer knows that he will either wind up taking you on as a client or he w
 
 For our example, let's assume you want to use Facebook Ads to drive leads to your business, which provides an in-person service.
 
-## Do this before the call
+## Do this before the meeting
 
 * Create a specific goal: e.g., Increase X by Y, within Z months. 
 * Know the monetary value of that goal. 
@@ -53,6 +53,8 @@ Consider all sources of leads:
 Consider:
 * Customer and revenue patterns 
 * Peaks and valleys - and any theories for those.
+
+(https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1615871850/SignalFox/undraw_conversation_h12g_bcmpnl.svg)
 
 <strong>"Are you currently handling sales yourself or do you have an employee or a team that handles that?"</strong>
 
