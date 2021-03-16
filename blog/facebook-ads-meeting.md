@@ -83,7 +83,7 @@ Your marketer will likely tell you that they'll create a proposal that includes 
 
 Either way, this marketer is providing value to you.
 
-## How do I know I'll obtain my goals? 
+## Look at the track record
 
 Know whether the highly skilled marketer is worth his salt, <em>before</em> you enter the discovery call. Most people book discovery calls with successful Facebook Ads marketers based on their verifiable track record. 
 
