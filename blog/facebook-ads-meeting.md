@@ -20,7 +20,7 @@ Throughout the process a good marketer will be centered on these issues:
 
 The marketer knows that he will either wind up taking you on as a client or he will provide value by referring you to someone who's a better fit. So you should look forward to the call. It's an opportunity to discover your best path forward.
 
-For our example, let's assume you want to use Facebook Ads to drive leads to your business. 
+For our example, let's assume you want to use Facebook Ads to drive leads to your business, which provides an in-person service.
 
 ## Do this before the call
 
