@@ -56,7 +56,7 @@ This score will tell you whether you need to dig deeper to ascertain the quality
 
 Shorter domain names are easier for people to remember than longer ones. 
 
-## Content-related SEO
+## Content is still king
 
 Your website is just a vehicle for delivering your content. Your content, along with your product and unique value proposition, will win or lose the day.
 
