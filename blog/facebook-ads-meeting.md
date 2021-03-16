@@ -86,12 +86,11 @@ Know whether the highly skilled marketer is worth his salt, <em>before</em> you 
 
 ## Other options
 
-Hire a newbie: You can opt to try someone who's starting out but is cheap. The question here is, will you be paying a higher cost-per-acquisition? On the otherhand, ninja Facebook Ads marketers started out as beginners with cheap fees. 
+<strong>Hire a newbie</strong>: You can opt to try someone who's starting out but is cheap. The question here is, will you be paying a higher cost-per-acquisition? (On the otherhand, ninja Facebook Ads marketers started out as beginners with cheap fees...)
 
-DIY: you can take a free online course on running Facebook Ads and DIY. There's huge value to any small business owner in understanding paid traffic advertising. This is knowledge that transposes to many other facets of creating and scaling up a successful business. 
+<strong>DIY</strong>: you can take a free online course on running Facebook Ads and DIY. There's huge value to any small business owner in understanding paid traffic advertising. This is knowledge that transposes to many other facets of creating and scaling up a successful business. 
 
-Hybrid option: you can use your knowledge from the free course to vet a beginner. 
-
+<strong>Hybrid option</strong>: you can use your knowledge from the free course to vet a beginner. 
 
 
 
