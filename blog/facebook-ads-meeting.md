@@ -10,7 +10,7 @@ Before you hire a Facebook Ads professional, you'll participate in a discovery m
 
 Here's a peek inside the process, so you can be prepared to make the most of it. 
 
-First, the marketer will likely have you fill out an application beforehand, so they have preliminary information on which to base the call or in-person meeting. 
+First, the marketer will likely have you fill out a questionnaire beforehand, so they have preliminary information on which to base the call or in-person meeting. 
 
 Throughout the process a good marketer will be centered on these issues:
 * What are your goals?
