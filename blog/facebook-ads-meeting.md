@@ -67,7 +67,7 @@ Consider:
 
 Here you can share other issues you'd like the marketer to work on, such as analyzing your sales process to identify where prospects are dropping out and proposing fixes.
 
-<strong>"What's your marketing budget for (a) ad spend (b) my services?" </strong>
+<strong>"What does your marketing budget look like for (a) ad spend and (b) my services?" </strong>
 
 ### The minimal ad spend
 
