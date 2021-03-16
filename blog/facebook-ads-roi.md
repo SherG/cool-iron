@@ -28,7 +28,7 @@ The marketer isn't going to deliver sales, of course. Once the leads come in, it
 
 I also explained that some <a href="facebook-ad-meeting/">successful Facebook Ads marketers</a> will decline a client if the client hasn't been experiencing regular growth. 
 
-These marketers contend that Facebook lead ads work best for <mark class="highlight">scaling up growth</mark> not for sparking growth from zero. (The thinking is that zero growth could indicate a problem with the core business model, something that Facebook Lead Ads can't fix.)
+These marketers contend that Facebook lead ads work best for <em>scaling up growth</em> not for sparking growth from zero. 
 
 ## What's Your Average Customer Lifetime Value? 
 
@@ -86,7 +86,7 @@ First, we need perspective:
 
 A colleague of mine in the financial industry makes one sale per 100 leads from his Facebook ads. He'd be beyond thrilled to get 1 sale out of 16. 
 
-What's considered amazing or below average varies across business niches. But don't overlook a comparison with your own business: how many leads and sales per month were you getting <em>before</a> hiring the ad professional? 
+What's considered amazing or below average varies across business niches. But don't overlook a comparison with your own business: how many leads and sales per month were you getting <em>before</em> hiring the ad professional? 
 
 ## ROI and goals
 
