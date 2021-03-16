@@ -54,7 +54,7 @@ Consider:
 * Customer and revenue patterns 
 * Peaks and valleys - and any theories for those.
 
-![conversation](https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1615871850/SignalFox/undraw_conversation_h12g_bcmpnl.svg)
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1615871850/SignalFox/undraw_conversation_h12g_bcmpnl.svg" alt="conversation" />
 
 <strong>"Are you currently handling sales yourself or do you have an employee or a team that handles that?"</strong>
 
