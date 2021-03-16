@@ -89,7 +89,7 @@ The number and quality of inbound links (and referring domains) to your site is 
 
 Conversely, inbound links that are from spurious websites may harm the ranking of your pages. Identifying whether you have such inbound links, and disavowing those links is an advanced topic. Executing the disavowals may best handled by an SEO professional.
 
-Caution: <em>Never</em> pay other site owners to link to you. It's <a href="https://developers.google.com/search/docs/advanced/guidelines/link-schemes?visit_id=637514569346533899-2898345478&rd=1" target="blank">against Google's guidelines</a> and will sink your site.
+<em>Never</em> pay other site owners to link to you. It's <a href="https://developers.google.com/search/docs/advanced/guidelines/link-schemes?visit_id=637514569346533899-2898345478&rd=1" target="blank">against Google's guidelines</a> and will sink your site.
 
 ## Outbound links
 
