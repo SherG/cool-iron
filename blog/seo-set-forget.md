@@ -127,7 +127,7 @@ The good news is the internet is filled with quality free tutorials to provide y
 
 You needn't try to do everything, or everything at once. Following quality standards for content, and best practices when posting, can go far. 
 
-In many cases, such as scaling a business with a traffic-based revenue model, it may make more sense to hire a professional. But even then, the knowledge you gain from learning about SEO, will be invalauble. And building in-house, specialized capacity may be more economically viable.
+In many cases, such as scaling a business with a traffic-based revenue model, it may make more sense to hire a professional. But even then, the knowledge you gain from learning about SEO, will be invaluable. And building in-house, specialized capacity may be more economically viable.
 
 ## Summary
 
