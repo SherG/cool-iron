@@ -87,9 +87,9 @@ Conversely, it's very good at identifying content that was thrown together in a 
 
 The number and quality of inbound links (and referring domains) to your site is important for your ranking. 
 
-Conversely, inbound links that are from spurious websites may harm the ranking of your pages. Identifying whether you have such inbound links, and <a href="https://support.google.com/webmasters/answer/2648487?hl=en" target="blank">disavowing those links</a> is an advanced topic. Executing the disavowals may best handled by an SEO professional.
+Conversely, inbound links that are from spurious websites may harm the ranking of your pages. Identifying whether you have such inbound links, and disavowing those links is an advanced topic. Executing the disavowals may best handled by an SEO professional.
 
-Caution: <em>Never</em> buy links. This is <a href="https://support.google.com/webmasters/answer/9044175#unnatural-links-to-your-site" target="blank">against Google's guidelines</a> and your site will be penalized for it.
+Caution: <em>Never</em> pay other site owners to link to you. It's <a href="https://developers.google.com/search/docs/advanced/guidelines/link-schemes?visit_id=637514569346533899-2898345478&rd=1" target="blank">against Google's guidelines</a> and will sink your site.
 
 ## Outbound links
 
