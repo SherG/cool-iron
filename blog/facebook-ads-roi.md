@@ -150,7 +150,7 @@ Doing so will prevent you from mistaking success for failure and vice versa. Mor
 
 ### Related reading
 
-<a href="/facebook-ad-meeting/>How to Prepare For Your First Meeting With a Facebook Ad Marketer</a>
+<a href="/facebook-ads-meeting">How to Prepare For Your First Meeting With a Facebook Ads Marketer</a>
 
 Not ready for Facebook ads? Explore <a href="/partnerships/">partnerships</a>. 
 
