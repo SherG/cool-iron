@@ -8,11 +8,7 @@ tags: ['facebook']
 
 Wondering how to determine whether Facebook Ads are worth the cost? Let's take the case of a service-based business running lead ads for the first time. 
 
-While you may be concerned about wasting money or getting disappointing returns, it's also possible to entirely miss the success of your ad campaigns. 
-
-You can avoid this pitfall by understanding a metric called "Customer Lifetime Value" and by setting time-based revenue targets. 
-
-Sometimes, with Facebook Ads, as in life, you're much closer to success than you realize. 
+You can gain clarity by understanding a metric called "Customer Lifetime Value" and by setting time-based revenue targets. 
 
 First, let's set the scene. 
 
@@ -26,13 +22,13 @@ I don't provide a service that vets individual marketers, however I explained th
 
 The idea is that the marketer wants to prove that they can produce leads for you within that time period. They're confident that once you see the leads coming in, you'll sign up for their service. 
 
-The marketer isn't going to deliver sales, though. Once the leads come in, it's your job to handle the sales process. 
+The marketer isn't going to deliver sales, of course. Once the leads come in, it's your job to handle the sales process. 
 
 > Let data lead
 
-I also explained that some successful Facebook marketers will decline a client if the client hasn't been experiencing regular growth. 
+I also explained that some <a href="facebook-ad-meeting/">successful Facebook Ads marketers</a> will decline a client if the client hasn't been experiencing regular growth. 
 
-These marketers contend that Facebook lead ads work best for <mark class="highlight">scaling up growth</mark> in a healthy business, not for sparking growth from zero. (The thinking is that zero growth could indicate a problem with the core business model, something that Facebook Lead Ads can't fix.)
+These marketers contend that Facebook lead ads work best for <mark class="highlight">scaling up growth</mark> not for sparking growth from zero. (The thinking is that zero growth could indicate a problem with the core business model, something that Facebook Lead Ads can't fix.)
 
 ## What's Your Average Customer Lifetime Value? 
 
@@ -68,7 +64,7 @@ To keep disappointment at bay:
 * Know that most business owners go through multiple iterations of lead generation processes to find what works best for them. And the best engage in continual experiments, often via small tweaks, in order to get optimal results.
 * Keep your eye on the near-term goal — developing a repeatable lead generation and sales process that works.
 * Keep your utlimate goal in mind: such as growing revenue and potentially selling your business at a good profit in the future.
-
+* Keep notes on what you dislike about the process and what processes you think need to change as your business scales. (This will be helpful in the future when you're in <a href="facebook-ad-meeting/">conversations</a> with other Facebook Ads marketers you're considering hiring.)
 
 ### The Data Lens
 
@@ -76,7 +72,7 @@ Now let's dial in the data from your CLV. This is where you get true clarity.
 
 The business owner paid $200 to get a client worth significantly more.
 
-With data at the center, we get clarity.
+With data at the center, we get some clarity.
 
 ### But wait . . . 
 
@@ -90,7 +86,7 @@ First, we need perspective:
 
 A colleague of mine in the financial industry makes one sale per 100 leads from his Facebook ads. He'd be beyond thrilled to get 1 sale out of 16. 
 
-What's considered amazing or below average varies across business niches. 
+What's considered amazing or below average varies across business niches. But don't overlook a comparison with your own business: how many leads and sales per month were you getting <em>before</a> hiring the ad professional? 
 
 ## ROI and goals
 
@@ -116,7 +112,7 @@ Remember, this scenario assumes you are using a Facebook marketer who delivers q
 Your data will tell you what your next action step should or can be. For example, that might be: 
 
 * Continue to let campaigns runs in order to determine the ability of the Facebook ad marketer to generate quality leads on a regular basis.
-* Fire the advertiser. Get a better one.
+* Fire the Facebook Ads pro. Get a better one.
 * Tweak your landing page to filter out tirekickers.
 * Save time by setting up automated email follow-ups.
 * Create a secondary product: something you can easily sell if the lead doesn't qualify for your higher-cost main product. (This secondary product can even be a service or downloadable that you are an affiliate marketer for.)
@@ -132,13 +128,13 @@ The purpose of this article was to underscore the importance of having a goal fo
 
 Here are a few additional considerations. 
 
-1. Anything can be done well or poorly and that includes Facebook campaigns. If you're not getting results, choose a different Facebook ad professional.
-2. Before you hire a Facebook ad marketer, first verify results they've achieved for others. This is your best indicator that they will be able to deliver qualified leads to you on a continuing basis.
+1. Anything can be done well or poorly and that includes Facebook campaigns. If you're not getting results, choose a different Facebook Ads marketer.
+2. Before you hire a Facebook ad marketer, first <em>verify results they've achieved for others</em>. This is your best indicator that they will be able to deliver qualified leads to you on a continuing basis.
 3. It's important for you to acquire at least a basic knowledge of this ad platform to know what to look for. Take one or two free online tutorials to educate yourself. 
 4. Do give your marketer adequate time. The campaign is occuring in a live digital ecosystem of thousands of individuals responding to your ad's copy, creative, placement, format, landing page, and offer. Any of these factors, in addition to the ad targeting, may need to be adjusted to improve results. 
-5. When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to calibrate the campaign as it goes along. And don't expect to see the totality of what's possible in the first weeks. Indeed, it will be difficult to judge the marketer in such a short time period. (Also, remember #2 above.)
+5. When it comes to the free trial, opt for 4 weeks, not 2 weeks. The marketer will need to calibrate the campaign as it goes along. And don't expect to see the totality of what's possible in the first weeks. Indeed, it will be difficult to judge the marketer in such a short time period. (Refer to #2 above.)
 6. Read and listen to podcasts about sales and prospecting to stay motivated. 
-7. Seek out a community of business owners in your niche. This can be online. You'll be surprised what you learn. What are they doing to get their conversion rates? What are they paying to get those rates? What's their cost-per-acquisition? What's yours?
+7. Seek out a community of business owners in your niche. This can be online. You'll be surprised what you learn. What are they doing to get their conversion rates? What are they paying to get those rates? Are they handling their own Facebook Ads? Who handles their sales? What's their cost-per-acquisition? What's yours?
 8. Remember that no single tactic, tool, or property delivers business success. They work in tandem. At the core of a business's operations are a quality desired product, a system for generating quality leads on a regular basis, a good sales process for closing/converting, and careful tracking of meaningful KPIs. 
 9. If you're not responding to your inbound leads immediately, you're going to lose sales. 
 10. With digital, it's important to always be experimenting. Often slight modifications have outsized impact. 
@@ -153,6 +149,8 @@ Doing so will prevent you from mistaking success for failure and vice versa. Mor
 
 
 ### Related reading
+
+<a href="/facebook-ad-meeting/>How to Prepare For Your First Meeting With a Facebook Ad Marketer</a>
 
 Not ready for Facebook ads? Explore <a href="/partnerships/">partnerships</a>. 
 
