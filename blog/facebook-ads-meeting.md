@@ -2,7 +2,7 @@
 title: How to Prepare For Your First Meeting With a Facebook Ad Marketer
 path: /facebook-ad-meeting
 date: 2020-04-19
-summary: Vetting a Facebook Ads marketers? Be sure to bring this info with you to your first meeting. 
+summary: Get a peek inside the process of a discovery meeting with a Facebook Ads professional and learn what to prepare beforehand.
 tags: ['facebook']
 ---
 
@@ -36,8 +36,8 @@ For our example, let's assume you want to use Facebook Ads to drive leads to you
 
 <strong>"What are you currently doing to drive leads to your business?"</strong>
 
-Some relevant things to mention may include: 
-* Walk-in traffic based on a good location
+Consider all sources of leads:
+* Walk-in traffic based on a good location and signage
 * Referrals (either casual or as part of an incentive program or a B2B partnership) 
 * Any paid advertising currently underway 
 * Your sales funnel/process
@@ -50,7 +50,7 @@ Some relevant things to mention may include:
 
 <strong>"Is your business growing or plateauing?"</strong>
 
-Also relevant:
+Consider:
 * Customer and revenue patterns 
 * Peaks and valleys - and any theories for those.
 
