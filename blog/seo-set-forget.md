@@ -89,6 +89,8 @@ The number and quality of inbound links (and referring domains) to your site is 
 
 Conversely, inbound links that are from spurious websites may harm the ranking of your pages. Identifying whether you have such inbound links, and <a href="https://support.google.com/webmasters/answer/2648487?hl=en" target="blank">disavowing those links</a> is an advanced topic. Executing the disavowals may best handled by an SEO professional.
 
+Caution: <em>Never</em> buy links. This is <a href="https://support.google.com/webmasters/answer/9044175#unnatural-links-to-your-site" target="blank">against Google's guidelines</a> and your site will be penalized for it.
+
 ## Outbound links
 
 Take care when citing and linking to other websites. These can influence how Google assesses the quality of your pages. 
