@@ -66,7 +66,7 @@ What makes your content competitive, SEO-wise? Quality.
 
 Over the years Google has gotten extraordinarily good at assessing the quality of content on a site and on an individual page. Many of the famous algorithm updates — that have surfaced hidden pages and buried others — were advances in identifying and rewarding quality content. 
 
-Conversely, it's very good at identifying content that was thrown together in a rush with little thought. So, if you flung that last blog post up, like a side of greasy hashbrowns at Waffle House, don't expect to win Google's equivalent of a Michelin 3-star rating. 
+Conversely, it's very good at identifying content that was thrown together in a rush with little thought. So, if you flung that last blog post up, like a side of greasy hashbrowns at Waffle House, don't expect to win Google's equivalent of a <a href="https://en.wikipedia.org/wiki/Michelin_Guide" target="blank">Michelin 3-star rating</a>. 
 
 <details>
   <summary>Just how competitive is it out there?</summary><br/>
