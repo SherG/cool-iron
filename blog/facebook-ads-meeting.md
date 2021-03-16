@@ -2,10 +2,11 @@
 ---
 title: Behind the Scenes - Discovery Meeting with a Facebook Ads Pro
 path: /facebook-ads-meeting
-date: 2020-04-19
+date: 2017-22-06
 summary: Get a peek inside the process of a discovery meeting with a Facebook Ads professional and learn what to prepare beforehand.
 tags: ['facebook']
 ---
+
 
 Before you hire a Facebook Ads professional, you'll participate in a discovery meeting with them. As you vet them, they'll be vetting you and your business.
 
