@@ -68,7 +68,7 @@ Here you can share other issues you'd like the marketer to work on, such as anal
 
 <strong>"What is marketing budget for (a) ad spend (b) my services?" </strong>
 
-## The minimal ad spend
+### The minimal ad spend
 
 At this point in the conversation the marketer will offer to answer any questions. And they'll likely tell you what the minimum ad spend is necessary in order to achieve your stated goals. Don't be surprised if the minimal ad budget is 4 figures.
 
@@ -76,7 +76,7 @@ A good Facebook Ads professional will have a minimal ad budget they'll consider.
 
 To consider an ad spend number, don't look at it in isolation; you have to place it in the context of your goals and projected ROI. And remember, Facebook lead ads are a top-of-funnel activity. You'll need loads of leads in order to siphon off the much smaller number of new clients at the bottom of the funnel. 
 
-## The marketer's rate
+### The marketer's rate
 
 Your marketer will likely tell you that they'll create a proposal that includes the best next action steps for you and his or her rate. They may also mention that if their rate isn't a good fit they may be able to share some names of other marketers who may charge less, but have less experience. 
 
