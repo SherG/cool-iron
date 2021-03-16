@@ -101,9 +101,9 @@ Always cite the most trustworthy, authoritative source available.
 
 Local SEO includes getting listed in high-quality directories and creating and managing a Google My Business page. 
 
-With the latter, you'll want to keep an eye on competitors. For example, how many Google reviews do your competitors have? Are they continually adding new ones? What could you do to get some new reviews? What are your competitors doing on their GMB pages? Who's hustling, and who's asleep at the switch?
+## Google Ads
 
-Google Ads pair well for local SEO. For example, you can teach yourself how to run Google Ads and target people searching for your competitors and choose headlines like: "Before signing up at Competitor X book a free trial at Business Y"
+These pair well with local SEO but can be used for any venture.
 
 
 ## Websites 
@@ -137,6 +137,7 @@ Know that digital marketing in general and SEO in particular is not cheap. Price
 * $500-$699: average minimum retainer fee for agencies and for freelancers
 * $125/hr: the average SEO freelancer hourly rate. Rates go up to $175/hour+.
 * $600 per link: what one agency charges for obtaining a single link from a low-ranking website to yours.
+* $1,500/month: a common flat rate for managing Google Ads. (Doesn't incldue ad spend.)
 
 The good news is the internet is filled with quality free tutorials to provide you with the SEO basics a small business owner needs to know. You can choose to handle your own SEO without hiring a professional. This is an attractive idea for solopreneurs, or businesses with few employees.
 
