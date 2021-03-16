@@ -118,7 +118,7 @@ Know that digital marketing in general and SEO in particular is not cheap. Price
 
 * $1,500 minimum: What one agency charges to handle the simplest SEO tasks, like adding meta-descriptions to your articles.
 * $1,500 minimum: for one article, written with modern SEO practices.
-* $1,779/month: the average monthly amount that agencies and freelancers are paid per client.
+* $1,779/month: the average monthly amount that agencies and freelancers are paid <em>per client</em>.
 * $500-$699: average minimum retainer fee for agencies and for freelancers
 * $125/hr: the average SEO freelancer hourly rate. Rates go up to $175/hour+.
 * $600 per link: what one agency charges for obtaining a single link from a low-ranking website to yours.
