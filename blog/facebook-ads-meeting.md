@@ -24,9 +24,9 @@ For our example, let's assume you want to use Facebook Ads to drive leads to you
 
 ## Do this before the call
 
-* Clarify your goal. Make it specific: e.g., Increase X by Y, within Z months. 
+* Create a specific goal: e.g., Increase X by Y, within Z months. 
 * Know the monetary value of that goal. 
-* Clarify your ultimate goal: e.g., Get a winning Facebook Ads/sales strategy so I can grow my business and open an second location by X date, replicating the strategy there too.
+* Clarify your ultimate goal: e.g., Grow my business so I can open an second location by X date, and replicate the successful strategy there. 
 * Prepare to discuss your current activities regarding lead generation
 * Prepare to discuss any trial offers or specials that are part of your business's outreach efforts. 
 * If you've been running a trial offer or discount for an in-person service, know your conversion rate and roughly how many people sign up versus show up.
