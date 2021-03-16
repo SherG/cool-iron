@@ -1,0 +1,93 @@
+---
+title: How to Prepare For Your First Meeting With a Facebook Ad Marketer
+path: /facebook-ad-meeting
+date: 2020-04-19
+summary: Vetting a Facebook Ads marketers? Be sure to bring this info with you to your first meeting. 
+tags: ['facebook']
+---
+
+Before you hire a Facebook Ads professional, you'll participate in a discovery call with them.  As you vet them, they'll be vetting you and your business.
+
+Here's a peek inside the process, so you can be prepared to make the most of it. 
+
+The marketer will likely have you fill out an application beforehand, so they have preliminary information on which to base the call. 
+
+A good marketer will be centered on these issues:
+* What are your goals?
+* Where is the current state of your business? 
+* What is it going to take to bridge that gap?
+* Am I the best fit for you (and vice versa) or should I refer you to someone else? 
+
+The marketer knows that he will either wind up taking you on as a client or he will provide value by referring you to someone who's a better fit. So you should look forward to the call. It's an opportunity to discover your best path forward.
+
+For our example, let's assume you want to use Facebook Ads to drive leads to your business. 
+
+## Do this before the call
+
+* Clarify your goal. Make it specific: e.g., Increase X by Y, within Z months. 
+* Know the monetary value of that goal. 
+* Clarify your ultimate goal: e.g., Get a winning Facebook Ads/sales strategy so I can grow my business and open an second location by X date, replicating the strategy there too.
+* Prepare to discuss your current activities regarding lead generation
+* Prepare to discuss any trial offers or specials that are part of your business's outreach efforts. 
+* If you've been running a trial offer or discount for an in-person service, know your conversion rate and roughly how many people sign up versus show up.
+* Clarify what you don't like about your current sales funnel (e.g., chasing down phone appointment no-shows).
+
+## Questions the marketer will ask
+
+1. "What are you currently doing to drive leads to your business?" 
+
+Some relevant things to mention may include: 
+* Walk-in traffic based on a good location
+* Referrals (either casual or as part of an incentive program or a B2B partnership) 
+* Any paid advertising currently underway 
+* Your sales funnel/process
+
+2. "Do you have any trial offers, discounts, or other special deals that are part of your current lead generation process?"
+
+3. "What have you done in the past with paid ads?"
+
+4. "What's your ultimate goal?" 
+
+5. "Is your business growing or plateauing?"
+
+Also relevant:
+* Customer and revenue patterns 
+* Peaks and valleys - and any theories for those.
+
+6. "Are you currently handling sales yourself or do you have an employee or a team that handles that?"
+
+7. "How many leads per month are you currently getting?"
+
+8. "How many consultations/client packages/trial memberships etc. per month are you aiming for?"
+
+9. "Apart from the goals you shared, what else are you looking for in hiring me?"
+
+Here you can share other issues you'd like the marketer to work on, such as analyzing your sales process to identify where prospects are dropping out and proposing fixes.
+
+10. "What is marketing budget for (a) ad spend (b) my services?"
+
+## The minimal ad spend
+
+At this point in the conversation the marketer will offer to answer any questions. And they'll likely tell you what the minimum ad spend is necessary in order to achieve your stated goals. Don't be surprised if the minimal ad budget is 4 figures.
+
+A good Facebook Ads professional will have a minimal ad budget they'll consider. That minimal amount is what their experience tells them is necessary in order to achieve the ROI you're looking for <em>within the time frame that you specified</em>. (This is why you need to prepare your specific goal -- which includes a time deadline -- beforehand.)
+
+To consider an ad spend number, don't look at it in isolation; you have to place it in the context of your goals and projected ROI. And remember, Facebook lead ads are a top-of-funnel activity. You'll need loads of leads in order to siphon off the much smaller number of new clients at the bottom of the funnel. 
+
+## The marketer's rate
+
+Your marketer will likely tell you that they'll create a proposal that includes the best next action steps for you and his or her rate. They may also mention that if their rate isn't a good fit they may be able to share some names of other marketers who may charge less, but have less experience. 
+
+Either way, this marketer is providing value to you.
+
+## How do I know I'll obtain my goals? 
+
+Know whether the highly skilled marketer is worth his salt, <em>before</em> you enter the discovery call. Most people book discovery calls with successful Facebook Ads marketers based on their verifiable track record. 
+
+The other option is to try someone who's starting out but is cheap. The question there is, will you be paying a higher cost-per-acquisition? 
+
+
+
+
+
+
