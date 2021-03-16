@@ -98,3 +98,6 @@ Know whether the highly skilled marketer is worth his salt, <em>before</em> you 
 <strong>Hybrid option</strong>: you can use your knowledge from the free course to vet a beginner. 
 
 
+Related:
+
+<a href="https://learn.g2.com/discovery-call" target="blank">Look at the discovery process from the caller's perspective</a>
