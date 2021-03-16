@@ -90,7 +90,7 @@ What's considered amazing or below average varies across business niches. But do
 
 ## ROI and goals
 
-To really get a handle on ROI we need to have a goal in mind. (<a href="/facebook-ads-meeting>See this</a> on prepping goals first.) We need to assess the results in the context of this goal. 
+To really get a handle on ROI we need to have a goal in mind. (<a href="/facebook-ads-meeting">See this</a> on prepping goals first.) We need to assess the results in the context of this goal. 
 
 Let's assume the owner's goal is to add $100,000 to his annual revenue. 
 
