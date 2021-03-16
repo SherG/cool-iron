@@ -7,7 +7,7 @@ tags: ['facebook']
 ---
 
 
-Before you hire a Facebook Ads professional, you'll participate in a discovery meeting with them. As you vet them, they'll be vetting you and your business.
+Before you hire a Facebook Ads professional, you'll participate in a <a href="https://learn.g2.com/discovery-call" target="blank">discovery meeting</a> with them. As you vet them, they'll be vetting you and your business to see if there's an opportunity for a mutually beneficial exchange.
 
 Here's a peek inside the process, so you can be prepared to make the most of it. 
 
