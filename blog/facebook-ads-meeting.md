@@ -38,6 +38,7 @@ For our example, let's assume you want to use Facebook Ads to drive leads to you
 
 Consider all sources of leads:
 * Walk-in traffic based on a good location and signage
+* Community events
 * Referrals (either casual or as part of an incentive program or a B2B partnership) 
 * Any paid advertising currently underway 
 * Your sales funnel/process
