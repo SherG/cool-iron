@@ -14,7 +14,7 @@ You can think of SEO as similar to the stock market. It involves a complex envir
 
 Rankings are hard won, easily lost. 
 
-They're lost through neglect. 
+They're lost through neglect and because you got outcompeted. 
 
 Yet a simple, SEO discipline can help you retain and improve your standing. Without such a discipline, losing "market share" to your competition is all but guaranteed.
 
@@ -97,6 +97,14 @@ Take care when citing and linking to other websites. These can influence how Goo
 
 Always cite the most trustworthy, authoritative source available.
 
+## Local SEO
+
+Local SEO includes getting listed in high-quality directories and creating and managing a Google My Business page. 
+
+With the latter, you'll want to keep an eye on competitors. For example, how many Google reviews do your competitors have? Are they continually adding new ones? What could you do to get some new reviews? What are your competitors doing on their GMB pages? Who's hustling, and who's asleep at the switch?
+
+Google Ads pair well for local SEO. For example, you can teach yourself how to run Google Ads and target people searching for your competitors and choose headlines like: "Before signing up at Competitor X book a free trial at Business Y"
+
 
 ## Websites 
 
@@ -108,9 +116,14 @@ For example:
 * If there's a checkout feature, is it easy to use?
 * If you're selling products, is there a clear, easy-to-find return policy?  
 
-Also beware of image file sizes. For example, if you are blogging regularly and adding images with large file sizes to each page, that can weigh down your speed. (See our tips for <a href="/optimize-images">optimizing images</a>.) 
-
 Don't let issues lie dormant. I've seen some cases where the only contact function on a website had been broken for years. No business with this level of neglect can survive. 
+
+
+### Images
+
+How your image files are named can impact SEO.
+
+Also beware of image file sizes. For example, if you are blogging regularly and adding images with large file sizes to each page, that can weigh down your speed. (See our tips for <a href="/optimize-images">optimizing images</a>.) 
 
 ## DIY SEO or hire a pro?
 
