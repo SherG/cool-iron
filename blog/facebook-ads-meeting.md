@@ -1,5 +1,5 @@
 ---
-title: How to Prepare For Your First Meeting With a Facebook Ad Marketer
+title: Behind the Scenes: Discovery Meeting with a Facebook Ads Pro
 path: /facebook-ad-meeting
 date: 2020-04-19
 summary: Get a peek inside the process of a discovery meeting with a Facebook Ads professional and learn what to prepare beforehand.
