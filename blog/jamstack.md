@@ -84,7 +84,7 @@ In sum, JAMstack could've been designed by Steve Jobs: it seeks to remove everyt
 
 ## When you want to stick with your CMS
 
-For cost or functionality reasons, a business with a complicated site that's running many marketing tools and custom code and has already been built in WordPress or Drupal, may want to stick with what they've got. 
+For cost or functionality reasons, some businesses may want to stick with their current CMS. For example, a business with a complicated site that's running multiple marketing tools and custom code and has already been built in WordPress or Drupal, may want to continue with their investment in their CMS.
 
 But don't let that deter you from improving your speed and performance. After a redesign, <a href="https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fdigital.com%2F&tab=mobile" target="blank">this massive WordPress site</a> made impressive speed gains.
 
@@ -98,9 +98,9 @@ If you have a <a href="https://www.drupal.org/" target="blank">Drupal</a> or Wor
 (Biilman considers decoupling a monolithic app to be an <em>adaptation</em> to the JAMstack that is less-than-ideal.)
 
 For more information on decoupling, see:
-* <a href="https://www.netlify.com/with/drupal/?" target="blank">this guidance from Netlify</a>
-* <a href="https://www.acquia.com/resources/decoupled-drupal" target="blank">this from Acquia</a>
-* and <a href="https://pantheon.io/features/decoupled-cms" target="blank">this from Pantheon</a>.
+* <a href="https://www.netlify.com/with/drupal/?" target="blank">This guidance from Netlify</a>
+* <a href="https://www.acquia.com/resources/decoupled-drupal" target="blank">This from Acquia</a>
+* <a href="https://pantheon.io/features/decoupled-cms" target="blank">This from Pantheon</a>.
 
 ## What is JAMstack's maturity?
 
