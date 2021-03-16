@@ -34,7 +34,7 @@ For our example, let's assume you want to use Facebook Ads to drive leads to you
 
 ## Questions the marketer will ask
 
-1. "What are you currently doing to drive leads to your business?" 
+<strong>"What are you currently doing to drive leads to your business?"</strong>
 
 Some relevant things to mention may include: 
 * Walk-in traffic based on a good location
@@ -42,29 +42,29 @@ Some relevant things to mention may include:
 * Any paid advertising currently underway 
 * Your sales funnel/process
 
-2. "Do you have any trial offers, discounts, or other special deals that are part of your current lead generation process?"
+<strong>"Do you have any trial offers, discounts, or other special deals that are part of your current lead generation process?"</strong>
 
-3. "What have you done in the past with paid ads?"
+<strong>"What have you done in the past with paid ads?"</strong>
 
-4. "What's your ultimate goal?" 
+<strong>"What's your ultimate goal?" </strong>
 
-5. "Is your business growing or plateauing?"
+<strong>"Is your business growing or plateauing?"</strong>
 
 Also relevant:
 * Customer and revenue patterns 
 * Peaks and valleys - and any theories for those.
 
-6. "Are you currently handling sales yourself or do you have an employee or a team that handles that?"
+<strong>"Are you currently handling sales yourself or do you have an employee or a team that handles that?"</strong>
 
-7. "How many leads per month are you currently getting?"
+<strong>"How many leads per month are you currently getting?"</strong>
 
-8. "How many consultations/client packages/trial memberships etc. per month are you aiming for?"
+<strong>"How many consultations/client packages/trial memberships etc. per month are you aiming for?"</strong>
 
-9. "Apart from the goals you shared, what else are you looking for in hiring me?"
+<strong>"Apart from the goals you shared, what else are you looking for in hiring me?"</strong>
 
 Here you can share other issues you'd like the marketer to work on, such as analyzing your sales process to identify where prospects are dropping out and proposing fixes.
 
-10. "What is marketing budget for (a) ad spend (b) my services?"
+<strong>"What is marketing budget for (a) ad spend (b) my services?" </strong>
 
 ## The minimal ad spend
 
