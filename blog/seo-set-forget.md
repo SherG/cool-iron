@@ -131,7 +131,7 @@ In many cases, such as scaling a business with a traffic-based revenue model, it
 
 ## Summary
 
-If you've been under the impression that SEO is something you pay for once and it lasts forever, I hope this article has been helpful. 
+If you've been under the impression that SEO is something you pay for once and it lasts forever, I hope this article has been enlightening.
 
 We've provided a basic overview of common areas of SEO activity and provided you with some options for going forward. 
 
