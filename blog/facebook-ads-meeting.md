@@ -72,7 +72,7 @@ Here you can share other issues you'd like the marketer to work on, such as anal
 
 At this point in the conversation the marketer will offer to answer any questions. And they'll likely tell you what the minimum ad spend is necessary in order to achieve your stated goals. Don't be surprised if the minimal ad budget is 4 figures.
 
-A good Facebook Ads professional will have a minimal ad budget they'll consider. That minimal amount is what their experience tells them is necessary in order to achieve the ROI you're looking for <em>within the time frame that you specified</em>. (This is why you need to prepare your specific goal -- which includes a time deadline -- beforehand.)
+A good Facebook Ads professional will have a minimal ad budget they'll consider. That minimal amount is what their experience tells them is necessary in order to achieve the ROI you're looking for <em>within the time frame that you specified</em>. (This is why you need to prepare your specific goal — which includes a time deadline — beforehand.)
 
 To consider an ad spend number, don't look at it in isolation; you have to place it in the context of your goals and projected ROI. And remember, Facebook lead ads are a top-of-funnel activity. You'll need loads of leads in order to siphon off the much smaller number of new clients at the bottom of the funnel. 
 
