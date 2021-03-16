@@ -10,9 +10,9 @@ Before you hire a Facebook Ads professional, you'll participate in a discovery c
 
 Here's a peek inside the process, so you can be prepared to make the most of it. 
 
-The marketer will likely have you fill out an application beforehand, so they have preliminary information on which to base the call. 
+First, the marketer will likely have you fill out an application beforehand, so they have preliminary information on which to base the call. 
 
-A good marketer will be centered on these issues:
+Throughout the process a good marketer will be centered on these issues:
 * What are your goals?
 * Where is the current state of your business? 
 * What is it going to take to bridge that gap?
@@ -84,9 +84,13 @@ Either way, this marketer is providing value to you.
 
 Know whether the highly skilled marketer is worth his salt, <em>before</em> you enter the discovery call. Most people book discovery calls with successful Facebook Ads marketers based on their verifiable track record. 
 
-The other option is to try someone who's starting out but is cheap. The question there is, will you be paying a higher cost-per-acquisition? 
+## Other options
 
+Hire a newbie: You can opt to try someone who's starting out but is cheap. The question here is, will you be paying a higher cost-per-acquisition? On the otherhand, ninja Facebook Ads marketers started out as beginners with cheap fees. 
 
+DIY: you can take a free online course on running Facebook Ads and DIY. There's huge value to any small business owner in understanding paid traffic advertising. This is knowledge that transposes to many other facets of creating and scaling up a successful business. 
+
+Hybrid option: you can use your knowledge from the free course to vet a beginner. 
 
 
 
