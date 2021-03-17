@@ -105,6 +105,8 @@ Local SEO includes getting listed in high-quality directories and creating and m
 
 These pair well with local SEO but can be used for any venture.
 
+Google Ads are a shortcut to appearing on Page #1 of search results for a particular keyword.
+
 
 ## Websites 
 
@@ -137,7 +139,7 @@ Know that digital marketing in general and SEO in particular is not cheap. Price
 * $500-$699: average minimum retainer fee for agencies and for freelancers
 * $125/hr: the average SEO freelancer hourly rate. Rates go up to $175/hour+.
 * $600 per link: what one agency charges for obtaining a single link from a low-ranking website to yours.
-* $1,500/month: a common flat rate for managing Google Ads. (Doesn't incldue ad spend.)
+* $1,500/month: a common flat rate for managing Google Ads. (Doesn't include ad spend.)
 
 The good news is the internet is filled with quality free tutorials to provide you with the SEO basics a small business owner needs to know. You can choose to handle your own SEO without hiring a professional. This is an attractive idea for solopreneurs, or businesses with few employees.
 
