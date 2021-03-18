@@ -95,7 +95,7 @@ And if you have a Drupal site, consider Acquia for hosting. Tap their staff expe
 
 If you have a <a href="https://www.drupal.org/" target="blank">Drupal</a> or WordPress site you can also obtain some benefits of JAMstack by decoupling your front-end from your back-end. This will give you what's called a headless CMS. 
 
-(Biilman considers decoupling a monolithic app to be an <em>adaptation</em> to the JAMstack that is less-than-ideal.)
+(Biilmann considers decoupling a monolithic app to be an <em>adaptation</em> to the JAMstack that is less-than-ideal.)
 
 For more information on decoupling, see:
 * <a href="https://www.netlify.com/with/drupal/?" target="blank">This guidance from Netlify</a>
@@ -115,6 +115,6 @@ One more note: What's my Netlify bill for 2 years of blazingly fast JAMstack sit
 
 ### Related 
 
-Video: <a href="https://www.youtube.com/watch?v=uWTMEDEPw8c" target="blank">Mathias Biilman's 2017 presentation: Rise of the JAMstack</a>
+Video: <a href="https://www.youtube.com/watch?v=uWTMEDEPw8c" target="blank">Mathias Biilmann's 2017 presentation: Rise of the JAMstack</a>
 
 
