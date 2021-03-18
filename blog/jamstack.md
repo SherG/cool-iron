@@ -112,6 +112,7 @@ One more note: What's my Netlify bill for 2 years of blazingly fast JAMstack sit
 
 
 <br/>
+
 ### Related 
 
 Video: <a href="https://www.youtube.com/watch?v=uWTMEDEPw8c" target="blank">Mathias Biilman: Rise of the JAMstack</a>
