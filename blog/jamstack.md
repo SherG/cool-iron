@@ -79,7 +79,7 @@ I'm sold on the JAMstack and on Netlify's leadership in this arena. <a href="htt
 
 <br/>
 <br/>
-In sum, JAMstack could've been designed by Steve Jobs: it seeks to remove everything inefficient, unnecessary, and unsupportive of a beautiful and performant experience. In doing so, it cuts across the grain of the status quo.
+In sum, JAMstack could've been designed by Steve Jobs: it seeks to remove everything inefficient, unnecessary, and unsupportive of a performant experience. In doing so, it cuts across the grain of the status quo and redefines what beauty in visual design is.
 
 
 ## When you want to stick with your CMS
