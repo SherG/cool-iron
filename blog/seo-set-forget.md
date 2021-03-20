@@ -14,7 +14,7 @@ You can think of SEO as similar to the stock market. It involves a complex envir
 
 Rankings are hard won, easily lost. 
 
-They're lost through neglect and because you got outcompeted. 
+They're lost through neglect. And because you got outcompeted. 
 
 Yet a simple, SEO discipline can help you retain and improve your standing. Without such a discipline, losing "market share" to your competition is all but guaranteed.
 
