@@ -1,7 +1,7 @@
 ---
 title: Behind the Scenes - Discovery Meeting with a Facebook Ads Pro
 path: /facebook-ads-meeting
-date: 2021-03-6
+date: 2021-03-06
 summary: Get a peek inside the process of a discovery meeting with a Facebook Ads professional and learn what to prepare beforehand.
 tags: ['facebook']
 ---
