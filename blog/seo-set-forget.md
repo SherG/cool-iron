@@ -1,7 +1,7 @@
 ---
 title: SEO Is Not a One-Time Task
 path: /seo-set-forget
-date: 2020-02-20
+date: 2021-03-01
 summary: Too many small business owners believe SEO is a one-time task. Here's why that's wrong.
 tags: ['seo']
 ---
