@@ -75,7 +75,7 @@ Conversely, it's very good at identifying content that was thrown together in a 
 
 <a href="https://www.statista.com/chart/19058/how-many-websites-are-there/" title="Infographic: How Many Websites Are There? | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/19058.jpeg" alt="Infographic: How Many Websites Are There? | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/></a> <small>Chart courtesy of <a href="https://www.statista.com/chartoftheday/">Statista</a></small></li>
 
-<li>Before you start writing, do a Google Incognito search on your topic to see how many competing articles there are. That can provide a motivation for learning more about what makes for quality content. 
+<li>Before you start writing, do a Google Incognito search on your topic to see how many competing articles there are. That can provide a motivation for learning more about <a href="/quality-content/">what makes for quality content</a>. 
 
 ![seo ranking example](https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto/v1615769644/SignalFox/seo-ranking-example_vvf0h5.png)
 
