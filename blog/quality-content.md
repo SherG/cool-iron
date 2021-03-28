@@ -51,10 +51,10 @@ Here are some sample descriptions of web pages that deserve a "low" ranking:
 ### High quality content
 
 Here are some quotes from the guide on high quality content: 
+* "original, accurate, comprehensive, clearly communicated, professionally presented"
 * "High level of Expertise, Authoritativeness, and Trustworthiness" (Referred to colloquially as "EAT.") EAT is determined in context of the purpose of the page.
 * Quality of a website may also take into account the amount of quality content: "A satisfying amount of high quality MC (main content)"
-* "original, accurate, comprehensive, clearly communicated, professionally presented"
-* Google may take into account website reputation, as inferred (partly) from third-party groups: "This is a highly reputable charity <em>according to multiple charity rating organizations</em>." (Emphasis ours)
+* Google may take into account website reputation, as inferred (partly) from third-party groups. Example: "This is a highly reputable charity <em>according to multiple charity rating organizations</em>." (Emphasis ours)
 
 The functionality on the website is also considered when assessing quality. For example, in the case of a shopping cart, is the checkout smooth, simple, intuitive? Or is it confusing to the user? Is there a clear return/refund policy (if relevant)? Is it easy to find what you're looking for? Is it easy to discover who the website owner is? 
 
