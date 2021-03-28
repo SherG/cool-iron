@@ -78,7 +78,7 @@ Creating a logical order in your article helps your user. Using h-tags for headl
 
 ## Takeaways
 
-* Quality trumps quantity every time.
+* Quality trumps quantity.
 * Consider whether some improvements should be made to your current content and create a process for that.
 * Ignore spurious ideas like "Every article has to be 2,000 words to rank well." Instead of focusing on word count, focus on providing the maximum value you can on the topic you've chosen. 
 
