@@ -1,6 +1,5 @@
-
 ---
-title: What Doe Google Consider to Be Quality Content? 
+title: What Does Google Consider to Be Quality Content? 
 path: /quality-content
 date: 2021-02-06
 summary: If content production is part of your strategy then you'll want to understand how Google defines quality.
