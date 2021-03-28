@@ -64,9 +64,11 @@ Medium quality is described as "Nothing wrong, but nothing special."
 
 ## Formatting and order
 
-Read Jakob Nielsen's groundbreaking research on <a href="https://www.nngroup.com/articles/how-users-read-on-the-web/" target="blank">How Users Read on the Web</a>. The summary? "They don't. People rarely read Web pages word by word; instead, they scan the page . . . "  Nielsen's site offers tips on how to format your page to communicate effectively.
+Read Jakob Nielsen's groundbreaking research on <a href="https://www.nngroup.com/articles/how-users-read-on-the-web/" target="blank">How Users Read on the Web</a>. The summary? "They don't. People rarely read Web pages word by word; instead, they scan the page . . . "  
 
 This research was conducted in 1997 but subsequent research has repeatedly arrived at the same conclusion. 
+
+Nielsen's site offers tips on how to format your page to communicate effectively.
 
 ### Logical order
 
