@@ -46,7 +46,7 @@ Here are some sample descriptions of web pages that deserve a "low" ranking:
 
 Here are some quotes from the guide on high quality content: 
 * "original, accurate, comprehensive, clearly communicated, professionally presented"
-* "This is a highly reputable charity according to multiple charity rating organizations. "
+* Google may take into account website reputation, as inferred (partly) from third-party groups: "This is a highly reputable charity <em>according to multiple charity rating organizations</em>." (Emphasis ours)
 
 Medium quality is described as "Nothing wrong, but nothing special."
 
