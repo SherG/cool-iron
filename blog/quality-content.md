@@ -34,7 +34,7 @@ Let's contrast those qualities with their opposite:
 
 ## Learning from Google’s guidelines
 
-Google uses human raters in addition to algorithms. The raters' assessments do not affect the ranking of content; they are used to assess how well the algorithms are engineered. However, reviewing the guidelines used by the raters — <a href="https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf" target="blank">a 175-page document</a> — even very briefly, provides clear cues as to what Google considers to be high quality or low quality content. 
+Google uses human raters in addition to algorithms. The raters' assessments do not affect the ranking of content; they are used to assess how well the algorithms are engineered. However, reviewing the guidelines used by the raters — <a href="https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf" target="blank">a 175-page document</a> — even very briefly, provides clear cues as to how Google rates content.
 
 ### Low quality content
 
