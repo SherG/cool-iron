@@ -45,15 +45,19 @@ Here are some sample descriptions of web pages that deserve a "low" ranking:
 * "copied content with little or no time, effort, expertise, manual curation, or added value for users"
 
 Here are some quotes from the guide on high quality content: 
+* "High level of Expertise, Authoritativeness, and Trustworthiness" (Referred to colloquially as "EAT.") EAT is determined in context of the purpose of the page.
+* Quality of a website may also take into account the amount of quality content: "A satisfying amount of high quality MC (main content)"
 * "original, accurate, comprehensive, clearly communicated, professionally presented"
 * Google may take into account website reputation, as inferred (partly) from third-party groups: "This is a highly reputable charity <em>according to multiple charity rating organizations</em>." (Emphasis ours)
+
+The functionality on the website (e.g., of shopping cart) is also considered when assessing quality. Is the checkout smooth, simple, intuitive? Or is it confusing to the user? Is there a clear return/refund policy (if relevant)? Is it easy to find what you're looking for? Is it easy to discover who the website owner is? 
 
 Medium quality is described as "Nothing wrong, but nothing special."
 
 ## Takeaways
 
 * Quality trumps quantity every time.
-* Identify any pages on your site that might require improvement and create a process for that.
+* Consider whether some improvements should be made to your current content and create a process for that.
 * Ignore spurious ideas like "Every article has to be 2,000 words to rank well." Instead of focusing on word count, focus on providing the maximum value you can on the topic you've chosen. 
 
 ### Formatting and Order
@@ -74,4 +78,4 @@ Creating a logical order in your article helps your user. Using h-tags for headl
 
 These simple actions are the unsexy fundamentals. And they should be diligently followed whenever you create and post an article. 
 
-Many website owners skip over the unsexy fundamentals. That provides an opportunity for you. 
+Many website owners skip over the unsexy fundamentals. And that provides an opportunity for you.
