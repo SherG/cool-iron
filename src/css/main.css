@@ -69,6 +69,7 @@
 
 a {
   @apply text-green-700 font-bold;
+  border-bottom: dotted .02em;
 }
 
 a:hover {
