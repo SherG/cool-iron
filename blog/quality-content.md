@@ -25,6 +25,8 @@ When we were in school our teachers sometimes said, "This really isn't your best
 
 In Google's words, "creating high quality MC [main content] takes a significant amount of at least one of the following: time, effort, expertise, and talent/skill."
 
+> Google is like a schoolteacher who expects your best effort.
+
 Think about the articles on your website now. Do they manifest the above characteristics? 
 
 Let's contrast those qualities with their opposite: 
@@ -50,8 +52,6 @@ Here are some sample descriptions of web pages that deserve a "low" ranking:
 * "The writing of this article is unprofessional, including many grammar and punctuation errors"
 * "appears to have been paraphrased from a science article found on a different source"
 * "copied content with little or no time, effort, expertise, manual curation, or added value for users"
-
-> Google is like a schoolteacher who expects your best effort.
 
 ### High quality content
 
