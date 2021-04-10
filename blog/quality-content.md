@@ -117,3 +117,6 @@ Many website owners skip over the unsexy fundamentals. And that provides an oppo
 ### Related
 
 <a href="/seo-set-forget">SEO is not a one-time task</a>
+
+<hr>
+<small>Illustrations: Copyright 2021 Katerina Limpitsouni</small>
