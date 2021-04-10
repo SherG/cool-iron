@@ -25,7 +25,7 @@ When we were in school our teachers sometimes said, "This really isn't your best
 
 In Google's words, "creating high quality MC [main content] takes a significant amount of at least one of the following: time, effort, expertise, and talent/skill."
 
-> Google is like a schoolteacher who expects your best effort.
+> Google is like a schoolteacher who knows you can do better.
 
 Think about the articles on your website now. Do they manifest the above characteristics? 
 
