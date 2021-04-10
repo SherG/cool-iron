@@ -75,7 +75,7 @@ This research was conducted in 1997 but subsequent research has repeatedly arriv
 
 Nielsen's site offers tips on how to format your page to communicate effectively.
 
-### Logical order
+### Logical structure
 
 Creating a logical order in your article helps your user. Using h-tags for headlines and sub-headlines helps Google understand the structure of your page.
 
@@ -103,7 +103,8 @@ To give yourself a chance of ranking in the top 5 articles about a subject, try 
 
 * Quality trumps quantity.
 * Consider whether some improvements should be made to your current content and create a process for that.
-* Ignore spurious ideas like "Every article has to be 2,000 words to rank well." Instead of focusing on word count, focus on providing the maximum value you can on the topic you've chosen. 
+* Ignore spurious ideas like "Every article has to be 2,000 words to rank well." Instead of focusing on word count, focus on providing the maximum value you can to your target reader.
+* Be very clear about who you are writing for.
 * To start driving traffic to your site, try to have at least 3 articles that rank in the top 5 search results for their keyword (i.e., subject). 
 
 
