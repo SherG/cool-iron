@@ -51,6 +51,8 @@ Here are some sample descriptions of web pages that deserve a "low" ranking:
 * "appears to have been paraphrased from a science article found on a different source"
 * "copied content with little or no time, effort, expertise, manual curation, or added value for users"
 
+> Google is like a schoolteacher who expects your best effort.
+
 ### High quality content
 
 Here are some quotes from the guide on high quality content: 
