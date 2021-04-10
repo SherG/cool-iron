@@ -16,6 +16,8 @@ We can use common sense to arrive at a definition of quality content. But given 
 
 Remember that the goal of quality content is to provide value to the user. This is Google's goal in its algorithms as well.
 
+![illustration-woman-and-laptop](https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1618076953/SignalFox/illustration-woman-and-laptop_oax2up.png)
+
 
 ## It Takes Effort
 
@@ -32,7 +34,6 @@ Let's contrast those qualities with their opposite:
 * Unsubstantiated claims, factual errors, or use of questionable sources
 * Content that is disorganized, formatted poorly, and needs editing
 
-(https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1618076953/SignalFox/illustration-woman-and-laptop_oax2up.png)
 
 ## Learning from Google’s guidelines
 
