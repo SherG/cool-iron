@@ -112,3 +112,8 @@ To give yourself a chance of ranking in the top 5 articles about a subject, try 
 These simple actions are the unsexy fundamentals. And they should be diligently followed whenever you create and post an article. 
 
 Many website owners skip over the unsexy fundamentals. And that provides an opportunity for you.
+
+
+### Related
+
+<a href="/seo-set-forget">SEO is not a one-time task</a>
