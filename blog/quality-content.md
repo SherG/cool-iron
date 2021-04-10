@@ -78,11 +78,6 @@ Creating a logical order in your article helps your user. Using h-tags for headl
 * Learn good headline practices
 * Learn how to create a good meta-description 
 
-## Takeaways
-
-* Quality trumps quantity.
-* Consider whether some improvements should be made to your current content and create a process for that.
-* Ignore spurious ideas like "Every article has to be 2,000 words to rank well." Instead of focusing on word count, focus on providing the maximum value you can on the topic you've chosen. 
 
 ## Choosing your subject
 
@@ -95,6 +90,14 @@ To give yourself a chance of ranking in the top 5 articles about a subject, try 
 1. Choose a topic you're passionate about. (You'll be motivated to put the required effort in.)
 2. Choose a topic that's highly niched. (There often won't be as much competition for the top-ranking articles for these topics.)
 3. Choose a topic that the competition is weak on. (If you look at the top ranking articles and think "I can do better than that!" you've found a good option.)
+
+
+## Takeaways
+
+* Quality trumps quantity.
+* Consider whether some improvements should be made to your current content and create a process for that.
+* Ignore spurious ideas like "Every article has to be 2,000 words to rank well." Instead of focusing on word count, focus on providing the maximum value you can on the topic you've chosen. 
+* To start driving traffic to your site, try to have at least 3 articles that rank in the top 5 search results for their keyword (i.e., subject). 
 
 
 ## Summary
