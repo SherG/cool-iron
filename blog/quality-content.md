@@ -32,6 +32,8 @@ Let's contrast those qualities with their opposite:
 * Unsubstantiated claims, factual errors, or use of questionable sources
 * Content that is disorganized, formatted poorly, and needs editing
 
+(https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1618076953/SignalFox/illustration-woman-and-laptop_oax2up.png)
+
 ## Learning from Google’s guidelines
 
 Google uses human raters in addition to algorithms. The raters' assessments do not affect the ranking of content; they are used to assess how well the algorithms are engineered. However, reviewing the guidelines used by the raters — <a href="https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf" target="blank">a 175-page document</a> — even very briefly, provides clear cues as to how Google rates content.
