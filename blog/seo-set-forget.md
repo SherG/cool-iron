@@ -159,5 +159,7 @@ We've provided a basic overview of common areas of SEO activity and provided you
 
 ### Related reading 
 
-<a href="https://www.signalfox.org/business-listings-scams" target="blank">Small Businesses Bombarded With Dodgy Marketing Proposals</a>
+<a href="/business-listings-scams" target="blank">Small Businesses Bombarded With Dodgy Marketing Proposals</a>
+
+<a href="/quality-content">What Does Google Consider to be Quality Content?</a>
 
