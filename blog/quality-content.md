@@ -83,7 +83,7 @@ Creating a logical order in your article helps your user. Using h-tags for headl
 * Learn good headline practices
 * Learn how to create a good meta-description 
 
-<img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_0.3/v1618077609/SignalFox/illustration-woman-typing_afeumm.png">
+<img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_0.5/v1618077609/SignalFox/illustration-woman-typing_afeumm.png">
 
 
 ## Choosing your subject
