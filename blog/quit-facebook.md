@@ -44,9 +44,7 @@ First, if people’s minds are really so feeble that they need all sorts of assi
 
 Secondly, even if the Post-it note is accurate (and that's a big 'if' given nuanced problems that have ensued), is there any evidence that these notes change people’s minds? Do they perhaps make people <em>more</em> interested in the comment, once it’s labeled — implicity —  subversive or <em>transgressive</em>?
 
-My logical mind is functioning fine. I don’t need Facebook’s omnipresent hall monitors (whether algorithmic or otherwise) to do my thinking for me. 
-
-Such an ecosystem has zero appeal for me. 
+I never had a warning label appended to a post of mine, and I was not active on Facebook after they started doing this. But such an ecosystem has zero appeal to me. My logical mind is functioning fine. I don’t need Facebook’s omnipresent hall monitors (whether algorithmic or otherwise) to do my thinking for me. 
 
 ## Busybodies Push Facebook Into the Strait of Messina
 
@@ -60,9 +58,15 @@ Now, I’ve criticized this “Post-it” note system for its flaws and for the 
 
 Facebook has struck a bargain with Charybdis which may not save it from rocky crags of Scylla. 
 
+In the meantime, unfortunately, we'll be treated to the continuing spectacle of our Kabuki politicians on the right and left grilling Zuckerberg in public, and fighting for greater control of Facebook, a powerful platform. 
+
+This signs of this political struggle are across Facebook's newsfeeds -- a big turn-off.
+
 ## In Sum
 
-Conversation fails to feel natural (or appealing) knowing countless bots (and people) — and by extension, political leaders and their hacks — are watching every word you’re typing and assessing (and perhaps commenting) on it.
+Mr. Zuckerberg, thanks for the good times. I've had a lot of laughs and fun on Facebook, sharing photos and humor. I've played games. I've enjoyed seeing my friends' updates and having conversations as well as learning things from my brainy friends' Facebook Notes.
+
+But conversation fails to feel natural (or appealing) knowing every word you're typing is being watched and weighted, just in case your ideas need to be disapproved of by a bureaucratic functionary or its algorithmic stand-in.
 
 No thanks. 
 
