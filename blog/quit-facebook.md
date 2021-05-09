@@ -74,7 +74,7 @@ The signs of this political struggle are strewn across Facebook's newsfeeds — 
 
 Mr. Zuckerberg, thanks for all the good times. I've had a lot of laughs and fun on Facebook, sharing photos and humor. I've played games and been entertained. I've enjoyed seeing my friends' updates and having conversations as well as learning things from my brainy friends' Facebook Notes.
 
-But conversation fails to feel natural (or appealing) knowing every word you're typing is being watched and weighed, as a bureaucratic functionary or its algorithmic stand-in decide whether your ideas warrant <em>social</em> disapproval. 
+But I'm reprioritizing my time. Besides, conversation fails to feel natural (or appealing) knowing every word you're typing is being watched and weighed, as a bureaucratic functionary or its algorithmic stand-in decide whether your ideas warrant <em>social</em> disapproval. 
 
 No thanks. 
 
