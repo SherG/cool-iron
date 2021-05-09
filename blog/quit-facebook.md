@@ -20,6 +20,8 @@ Reading Cal Newport's <em>Digital Minimalism</em>, just re-enforced my questioni
 
 It's perhaps not surprising that there is a short time overlap between the advent of social media and the prophetic goal voiced by the CEO of Ericsson who promised to make the cellphone the center of the consumer's universe. 
 
+![pizza-party](../static/pizza-party.svg)
+
 ## Escaping the walled garden
 
 When I last logged in, I noticed Facebook’s user interface (UI) had changed considerably. I didn’t particularly care for the new design, which seemed busier. 
