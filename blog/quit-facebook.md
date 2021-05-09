@@ -6,9 +6,9 @@ summary: I deleted my Facebook account - and I'm happy I did it. Here's why.
 tags: ['facebook']
 ---
 
-I’ve had a personal account on Facebook for well over a decade, but I’ve been inactive on that social media platform for a few years. During that inactive period I did check in a couple of times but considered my account dormant. I finally exported my photos and greenlit the deletion of my account — which actually takes 30 days. 
+I’ve had a personal account on Facebook for well over a decade, but I’ve been inactive on that social media platform for a few years. During that inactive period I did check in a couple of times but considered my account dormant. I finally exported my photos and greenlit the deletion of my account.
 
-I simply lost interest in the platform. Here are some of the reasons why. 
+I lost interest in the platform. Here are some of the reasons why. 
 
 ## Nostalgia for the pre-Facebook era
 
