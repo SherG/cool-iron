@@ -34,11 +34,17 @@ This, of course, can easily lead to wasted time. I always have better things to 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Whatever you’re doing right now is the best use of your time, according to you.</p>&mdash; Sahil (@shl) <a href="https://twitter.com/shl/status/1383072769793925123?ref_src=twsrc%5Etfw">April 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Escaping the warden and the fools
+## The warden and the fools
 
 Before formally shutting my account down I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian school marm onto people’s comments that it finds problematic. These I saw on a friend’s newsfeed - who in frustration, reacted with the humorous epithet: “fascistbook!”
 
-The idea of seeing individual warning labels stuck like annoying Post-its on people’s casual comments is definitely not appealing. A professor and author recently had such a warning label appended to a comment of his, because he linked to a page he was criticizing. (Guilt by association.) Similarly, a Princeton fellow and biologist had a video interview flagged because his interview subject voiced concerns about mutations that might result from the rollout of the COVID-19 vaccine. 
+The idea of seeing individual warning labels stuck like annoying Post-its on people’s casual comments is definitely not appealing. 
+
+Consider: 
+* A professor and author recently had such a warning label appended to a comment of his, because he linked to a page he was criticizing. (Guilt by association.) 
+* Similarly, a Princeton fellow and biologist had a video interview flagged because his interview subject voiced concerns about mutations that might result from the rollout of the COVID-19 vaccine. 
+
+### Social Disapproval Doesn't Lead to Independent Thinking
 
 First, if people’s minds are really so feeble that they need all sorts of assists and crutches just to make their way through what are usually low-definition social media posts, then it’s a problem that Post-it notes aren’t going to fix. Indeed, outsourcing our thinking (and therefore agency) to others is part of the larger, underlying societal fault line. 
 
