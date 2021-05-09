@@ -80,9 +80,11 @@ Besides, conversation fails to feel natural (or appealing) knowing every word yo
 
 No thanks. 
 
+<br/>
+
 <hr>
 
-## Why discuss this on SignalFox? 
+### Why discuss this on SignalFox? 
 
 Given this was my personal Facebook account, you may be wondering why I chose to publish this post on a business website. The reasons are I'm reading and encountering in conversations, (1) greater pushback against the idea that Facebook is important or critical to business, and (2) a trend - albeit unmeasured - of disillusioned individuals leaving Facebook. 
 
