@@ -44,11 +44,13 @@ Consider:
 * A professor and author recently had such a warning label appended to a comment of his, because he linked to a page he was criticizing. (Guilt by association.) 
 * Similarly, a Princeton fellow and biologist had a video interview flagged because his interview subject voiced concerns about mutations that might result from the rollout of the COVID-19 vaccine. 
 
-### Social Disapproval: Does it Foster Independent Thinking?
+### Independent Thinking and the Lure of the Transgressive
 
 First, if people’s minds are really so feeble that they need all sorts of assists and crutches just to make their way through what are usually low-definition social media posts, then it’s a problem that Post-it notes aren’t going to fix. Indeed, outsourcing our thinking (and therefore agency) to others is part of the larger, underlying societal fault line. 
 
 Secondly, even if the Post-it note is accurate (and that's a big 'if' given nuanced problems that have ensued), is there any evidence that these notes change people’s minds? Do they perhaps make people <em>more</em> interested in the comment, once it’s labeled — implicity —  subversive or <em>transgressive</em>?
+
+> Does social disapproval, via 'warning labels,' promote independent thinking or its opposite?
 
 I never had a warning label appended to a post of mine, and I was not active on Facebook after they started doing this. But such an ecosystem has zero appeal to me. My logical mind is functioning fine. I don’t need Facebook’s omnipresent hall monitors (whether algorithmic or otherwise) to do my thinking for me. 
 
