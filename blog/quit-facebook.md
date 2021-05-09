@@ -42,7 +42,7 @@ The idea of seeing individual warning labels stuck like annoying Post-its on peo
 
 First, if people’s minds are really so feeble that they need all sorts of assists and crutches just to make their way through what are usually low-definition social media posts, then it’s a problem that Post-it notes aren’t going to fix. Indeed, outsourcing our thinking (and therefore agency) to others is part of the larger, underlying societal fault line. 
 
-Secondly, even if the Post-it note is accurate (and that's a big 'if' given nuanced problems that have ensued), is there any evidence that these notes change people’s minds? Do they perhaps make people more interested in the comment, once it’s labeled (implicitly) subversive or transgressive?
+Secondly, even if the Post-it note is accurate (and that's a big 'if' given nuanced problems that have ensued), is there any evidence that these notes change people’s minds? Do they perhaps make people more interested in the comment, once it’s labeled — implicity —  subversive or <em>transgressive</em>?
 
 My logical mind is functioning fine. I don’t need Facebook’s omnipresent hall monitors (whether algorithmic or otherwise) to do my thinking for me. 
 
