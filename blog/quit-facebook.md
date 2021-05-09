@@ -16,7 +16,7 @@ It used to be that if you wanted to socialize there were 2 options: by phone or 
 
 The more I’ve reminisced about this, the more I’ve questioned the value I get from newsfeed-based social media platforms like Facebook and Twitter. 
 
-Reading Cal Newport's <em>Digital Minimalism</em>, just re-enforced my questioning. Interestingly, Newport has never had a social media account. He doesn't spend much time surfing the web either. Newport writes, "As a result, my phone plays a relatively minor role in my life . . ." 
+Reading Cal Newport's <em><a href="https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525542876/" target="blank">Digital Minimalism</a></em>, just re-enforced my questioning. Interestingly, Newport has never had a social media account. He doesn't spend much time surfing the web either. Newport writes, "As a result, my phone plays a relatively minor role in my life . . ." 
 
 It's perhaps not surprising that there is a short time overlap between the advent of social media and the prophetic goal voiced by the CEO of Ericsson who promised to make the cellphone the center of the consumer's universe. 
 
@@ -28,7 +28,7 @@ For me, post-pandemic, I'm looking forward to prioritizing offline socializing.
 
 When I last logged in, I noticed Facebook’s user interface (UI) had changed considerably. I didn’t particularly care for the new design, which seemed busier. 
 
-Also, Facebook has become much more of a walled garden: a one-stop shop designed to contain you like a steel ball in a pinball machine. You ping about, setting off “buzzers” and getting “rewards." They collect behavioral data on you to sell to others.
+Also, Facebook has become much more of a walled garden: a one-stop shop designed to contain you like a steel ball in a pinball machine. You ping about, setting off 'buzzers' and getting 'rewards.' They collect behavioral data on you to sell to others.
 
 This, of course, can easily lead to wasted time. I always have better things to do with my time than to be on Facebook.
 
