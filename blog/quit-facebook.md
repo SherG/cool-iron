@@ -10,7 +10,7 @@ I’ve had a personal account on Facebook for well over a decade, but I’ve bee
 
 I simply lost interest in the platform. Here are some of the reasons why. 
 
-## Nostalgia for the pre-facebook era
+## Nostalgia for the pre-Facebook era
 
 It used to be that if you wanted to socialize there were 2 options: by phone or in person. In person was always the preferred default and the norm. Only if your friends or relatives lived far away did you resort to phone calls. 
 
@@ -19,6 +19,8 @@ The more I’ve reminisced about this, the more I’ve questioned the value I ge
 Reading Cal Newport's <em>Digital Minimalism</em>, just re-enforced my questioning. Interestingly, Newport has never had a social media account. He doesn't spend much time surfing the web either. Newport writes, "As a result, my phone plays a relatively minor role in my life . . ." 
 
 It's perhaps not surprising that there is a short time overlap between the advent of social media and the prophetic goal voiced by the CEO of Ericsson who promised to make the cellphone the center of the consumer's universe. 
+
+For me, post-pandemic, I'm looking forward to prioritizing offline socializing.
 
 ![pizza-party](../static/pizza-party.svg)
 
