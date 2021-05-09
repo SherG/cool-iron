@@ -28,7 +28,7 @@ For me, post-pandemic, I'm looking forward to prioritizing offline socializing.
 
 When I last logged in, I noticed Facebook’s user interface (UI) had changed considerably. I didn’t particularly care for the new design, which seemed busier. 
 
-Also, Facebook has become much more of a walled garden: a one-stop shop designed to contain you like a steel ball in a pinball machine. You ping about, setting off 'buzzers' and getting 'rewards.' They collect behavioral data on you to sell to others.
+Also, Facebook has become much more of a walled garden: a one-stop shop designed to contain you like a steel ball in a pinball machine. You ping about, setting off 'buzzers' and getting 'rewards' while they collect behavioral data on you to sell to others.
 
 This, of course, can easily lead to wasted time. I always have better things to do with my time than to be on Facebook.
 
