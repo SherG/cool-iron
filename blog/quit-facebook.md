@@ -54,11 +54,13 @@ Facebook became powerful because billions of consumers said “Yes, we like this
 
 Nothing needed to be “done” to Facebook to “fix” it. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)
 
+### Antitrust, Censorship, and Narrative Shaping
+
 Now, I’ve criticized this “Post-it” note system for its flaws and for the lack of evidence that it produces a needed benefit, but my contention is it’s not designed to work. It’s designed to buy off Facebook’s political bullies, who’ve pushed the social media giant between the Scylla of threatened antitrust action (on the right) and the Charybdis of “Make people stop saying things we find abhorrent!” (on the left).
 
 Facebook has struck a bargain with Charybdis which may not save it from rocky crags of Scylla. 
 
-In the meantime, unfortunately, we'll be treated to the continuing spectacle of our Kabuki politicians on the right and left grilling Zuckerberg in public, and fighting for greater control of Facebook, a powerful platform. 
+In the meantime, unfortunately, we'll be treated to the continuing spectacle of politicians on the right and left grilling Zuckerberg in public Kabuki theater, and fighting for greater control of Facebook, a powerful platform. 
 
 The signs of this political struggle are strewn across Facebook's newsfeeds — a big turn-off.
 
