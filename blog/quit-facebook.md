@@ -60,7 +60,7 @@ Facebook has struck a bargain with Charybdis which may not save it from rocky cr
 
 In the meantime, unfortunately, we'll be treated to the continuing spectacle of our Kabuki politicians on the right and left grilling Zuckerberg in public, and fighting for greater control of Facebook, a powerful platform. 
 
-The signs of this political struggle span Facebook's newsfeeds — a big turn-off.
+The signs of this political struggle are strewn across Facebook's newsfeeds — a big turn-off.
 
 ## In Sum
 
