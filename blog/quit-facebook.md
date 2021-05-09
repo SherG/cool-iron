@@ -79,3 +79,11 @@ Mr. Zuckerberg, thanks for all the good times. I've had a lot of laughs and fun 
 Besides, conversation fails to feel natural (or appealing) knowing every word you're typing is being watched and weighed, as a bureaucratic functionary or its algorithmic stand-in decide whether your ideas warrant social disapproval.
 
 No thanks. 
+
+<hr>
+
+## Why discuss this on SignalFox? 
+
+Given this was my personal Facebook account, you may be wondering why I chose to publish this post on a business website. The reasons are I'm reading and encountering in conversations, (1) greater pushback against the idea that Facebook is important or critical to business, and (2) a trend - albeit unmeasured - of disillusioned individuals leaving Facebook. 
+
+I'm interested in whether these phenomena are indicative of a coming trend. For that reason, I'll continue to share related information here that I believe our readers will find of interest.
