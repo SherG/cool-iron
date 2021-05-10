@@ -91,3 +91,9 @@ Given this was my personal Facebook account, you may be wondering why I chose to
 I'm interested in whether these phenomena will develop into a significant trend. For that reason, I'll continue to share related information here that I believe our readers will find of interest.
 
 Facebook advertising continues to be a powerful way to <a href="/see-think-do-model">boost initial awareness</a> for a brand, and to entice people to begin learning more about your business. But YouTube (with its long-form podcasts and videos) and your website are two of the best platforms for fostering in-depth exploration. 
+
+<br/>
+
+### Related 
+
+<a href="https://www.cnbc.com/2021/05/10/citi-downgrades-facebook-and-google-says-ad-market-expectations-are-too-bullish.html" target="blank">Citi downgrades Facebook on advertising expectations</a>
