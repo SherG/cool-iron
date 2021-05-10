@@ -52,7 +52,7 @@ Secondly, even if the Post-it note is accurate (and that's a big 'if' given nuan
 
 > Does social disapproval, via 'warning labels,' promote independent thinking or its opposite?
 
-I never had a warning label appended to a post of mine, and I was not active on Facebook after they started doing this. But such an ecosystem has zero appeal to me. My logical mind is functioning fine. I don’t need Facebook’s omnipresent hall monitors (whether algorithmic or otherwise) to do my thinking for me. 
+Such an ecosystem has zero appeal to me. I don’t need Facebook’s omnipresent hall monitors (whether algorithmic or otherwise) to do my thinking for me. 
 
 ## Busybodies Push Facebook Into the Strait of Messina
 
