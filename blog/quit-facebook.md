@@ -6,7 +6,7 @@ summary: I deleted my Facebook account - and I'm happy I did it. Here's why.
 tags: ['facebook']
 ---
 
-I’ve had a personal account on Facebook for well over a decade, but I’ve been inactive on that social media platform for a few years. During that inactive period I did check in a couple of times but considered my account dormant. I finally exported my photos and greenlit the deletion of my account.
+I’ve had a personal account on Facebook for well over a decade, but I’ve been inactive on that social media platform for a few years. During that inactive period I checked in a couple of times but considered my account dormant. I finally exported my photos and greenlit the deletion of my account.
 
 Why? I lost interest in the platform. 
 
@@ -90,4 +90,4 @@ Given this was my personal Facebook account, you may be wondering why I chose to
 
 I'm interested in whether these phenomena will develop into a significant trend. For that reason, I'll continue to share related information here that I believe our readers will find of interest.
 
-Facebook advertising continues to be a powerful way to <a href="/see-think-do-model">gain visibility</a> for a brand, and to entice people to learn more about your business. 
+Facebook advertising continues to be a powerful way to <a href="/see-think-do-model">boost initial awareness</a> for a brand, and to entice people to begin learning more about your business. But YouTube (with its long-form podcasts and videos) and your website are two of the best platforms for fostering in-depth exploration. 
