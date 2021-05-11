@@ -62,6 +62,8 @@ Facebook became powerful because billions of consumers said “Yes, we like this
 
 Nothing needed to be “done” to Facebook to “fix” it. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)
 
+Please note that this does not mean that there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank">seriously sub-optimal dynamics</a> baked into strategy. But that's not the realm for political activists.
+
 ### Antitrust, Censorship, and Narrative Shaping
 
 Now, I’ve criticized this “Post-it” note system for its flaws and for the lack of evidence that it produces a needed benefit, but my contention is it’s not designed to work. It’s designed to buy off Facebook’s political bullies, who’ve pushed the social media giant between the Scylla of <a href="https://newsfilter.io/articles/why-facebook-and-google-face-the-most-risk-in-an-overhaul-of-antitrust-law-c2c1d6a16a2bd9a9cb0125e2f4f9e1c7" target="blank">antitrust action</a> (right and left) and the Charybdis of “Make people stop saying things we find abhorrent!” (on the left).
@@ -71,6 +73,7 @@ Facebook has struck a bargain with Charybdis which may not save it from rocky cr
 In the meantime, unfortunately, we'll be treated to the continuing spectacle of politicians on the right and left grilling Zuckerberg in public Kabuki theater, and fighting for greater control of Facebook, a powerful platform. 
 
 The signs of this political struggle are strewn across Facebook's newsfeeds.
+
 
 ## In Sum
 
@@ -95,6 +98,8 @@ Facebook advertising continues to be a powerful way to <a href="/see-think-do-mo
 <br/>
 
 ### Related 
+
+<a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank">How we lost social media to algorithms</a> - Thomas Baekdal
 
 <a href="https://www.amazon.com/dp/B004XOZ66W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" target="blank"><em>The Antitrust Religion</em></a> - Edwin S. Rockefeller
 
