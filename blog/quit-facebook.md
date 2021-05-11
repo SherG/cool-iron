@@ -14,6 +14,8 @@ Why? I lost interest in the platform.
 
 It used to be that if you wanted to socialize there were 2 options: by phone or in person. In person was always the preferred default and the norm. Only if your friends or relatives lived far away did you resort to phone calls. 
 
+Cellphones were used primarily for making plans: "Hey Eric, I'm picking up Arminda and we'll meet you guys at Dave & Busters. Are John and Marina coming?"
+
 The more I’ve reminisced about this, the more I’ve questioned the value I get from newsfeed-based social media platforms like Facebook and Twitter. 
 
 Reading Cal Newport's <em><a href="https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525542876/" target="blank">Digital Minimalism</a></em>  reinforced my questioning. Interestingly, Newport has never had a social media account. He doesn't spend much time surfing the web either. "As a result, my phone plays a relatively minor role in my life," he notes.
@@ -62,7 +64,7 @@ Facebook became powerful because billions of consumers said “Yes, we like this
 
 Nothing needed to be “done” to Facebook to “fix” it. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)
 
-Please note that this does not mean that there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank">seriously sub-optimal dynamics</a> baked into strategy. But that's not the realm for political activists.
+Please note that this does not mean that there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank">seriously sub-optimal dynamics</a> baked into Facebook's strategy. But that's not the realm for political activists.
 
 ### Antitrust, Censorship, and Narrative Shaping
 
