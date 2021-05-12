@@ -20,7 +20,7 @@ The more I’ve reminisced about this, the more I’ve questioned the value I ge
 
 Reading Cal Newport's <em><a href="https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525542876/" target="blank">Digital Minimalism</a></em>  reinforced my questioning. Interestingly, Newport has never had a social media account. He doesn't spend much time surfing the web either. "As a result, my phone plays a relatively minor role in my life," he notes.
 
-It's perhaps not surprising that there is a short time overlap between the advent of social media and the prophetic goal voiced by the CEO of Ericsson who promised to make the cellphone the center of the consumer's universe. 
+It's not surprising that social media's birth occured not long after the the CEO of Ericsson prophesied that the cellphone would become the center of the consumer's universe. 
 
 For me, post-pandemic, I'm looking forward to prioritizing offline socializing.
 
@@ -28,7 +28,7 @@ For me, post-pandemic, I'm looking forward to prioritizing offline socializing.
 
 ## Escaping the walled garden
 
-When I last logged in, I noticed Facebook’s user interface (UI) had changed considerably. I didn’t particularly care for the new design, which seemed busier. 
+When I last logged in, I noticed Facebook’s user interface (UI) had changed considerably. I didn’t care for the new design, which seemed busier. 
 
 Also, Facebook has become much more of a walled garden: a one-stop shop designed to contain you like a steel ball in a pinball machine. You ping about, setting off 'buzzers' and getting 'rewards' while they collect behavioral data on you to sell to others.
 
@@ -40,9 +40,9 @@ This, of course, can easily lead to wasted time. I always have better things to 
 
 Before formally shutting my account down I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian schoolmarm onto people’s comments that it finds problematic. These I saw on a friend’s newsfeed - who in frustration, reacted with the humorous epithet: “fascistbook!”
 
-The idea of seeing individual warning labels stuck like annoying Post-its on people’s casual comments is definitely not appealing. 
+The idea of seeing individual warning labels stuck like annoying Post-its on casual comments is definitely not appealing. 
 
-Consider: 
+Consider also: 
 * A professor and author recently had such a warning label appended to a comment of his, because he linked to a page he was criticizing. (Guilt by association.) 
 * Similarly, a Princeton fellow and biologist had a video interview flagged because his interview subject voiced concerns about mutations that might result from the rollout of the COVID-19 vaccine. 
 
@@ -64,7 +64,7 @@ Facebook became powerful because billions of consumers said “Yes, we like this
 
 Nothing needed to be “done” to Facebook to “fix” it. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)
 
-Please note that this does not mean that there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank">seriously sub-optimal dynamics</a> baked into Facebook's strategy. But that's not the realm for political activists.
+This does not mean that there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank"> sub-optimal dynamics</a> baked into Facebook's strategy. But that's not the realm for political activists.
 
 ### Antitrust, Censorship, and Narrative Shaping
 
