@@ -2,7 +2,7 @@
 title: Why I Quit Facebook
 path: /quit-facebook
 date: 2021-05-09
-summary: I deleted my Facebook account - and I'm happy I did it. Here's why.
+summary: I deleted my Facebook account - and I'm happy I did. Here's why.
 tags: ['facebook']
 ---
 
@@ -38,7 +38,7 @@ This, of course, can easily lead to wasted time. I always have better things to 
 
 ## The warden and the fools
 
-Before formally shutting my account down I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian schoolmarm onto people’s comments that it finds problematic. These I saw on a friend’s newsfeed - who in frustration, reacted with the humorous epithet: “fascistbook!”
+Before formally shutting my account down I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian schoolmarm onto  comments it deems problematic. These I saw on a friend’s newsfeed, who responded with the humorous epithet: “fascistbook!”
 
 The idea of seeing individual warning labels stuck like annoying Post-its on casual comments is definitely not appealing. 
 
