@@ -105,7 +105,7 @@ Facebook advertising continues to be a powerful way to <a href="/see-think-do-mo
 
 <a href="https://www.amazon.com/dp/B004XOZ66W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" target="blank"><em>The Antitrust Religion</em></a> - Edwin S. Rockefeller
 
-This fascinating book (a short, accessible read) argues that "everything most people know about antitrust is wrong. The orthodox view is that antitrust was created to protect competition." Edwin S. Rockefeller's "account is strikingly different. He argues that antitrust in practice has often benefited, not the public, but specific businesses that wanted to take down their competitors." Rockefeller is a graduate of Yale Law School and former chairman of the American Bar Association's Section of Antitrust Law.
+This short, accessible read argues that "everything most people know about antitrust is wrong. The orthodox view is that antitrust was created to protect competition." Author Edwin S. Rockefeller argues that in practice antitrust "has often benefited, not the public, but specific businesses that wanted to take down their competitors." Rockefeller is a graduate of Yale Law School and former chairman of the American Bar Association's Section of Antitrust Law.
 
 <a href="https://newsfilter.io/articles/why-facebook-and-google-face-the-most-risk-in-an-overhaul-of-antitrust-law-c2c1d6a16a2bd9a9cb0125e2f4f9e1c7" target="blank">Why Facebook and Google Face the Most Risk in an Overhaul of Antitrust Law</a> - <em>Barron's</em>
 
