@@ -18,11 +18,9 @@ Cellphones were used primarily for making plans: "Hey Eric, I'm picking up Armin
 
 The more I’ve reminisced about this, the more I’ve questioned the value I get from newsfeed-based social media platforms like Facebook and Twitter. 
 
-Reading Cal Newport's <em><a href="https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525542876/" target="blank">Digital Minimalism</a></em>  reinforced my questioning. Interestingly, Newport has never had a social media account. He doesn't spend much time surfing the web either. "As a result, my phone plays a relatively minor role in my life," he notes.
+Reading Cal Newport's <em><a href="https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525542876/" target="blank">Digital Minimalism</a></em>  reinforced my questioning. Interestingly, Newport has never had a social media account. He doesn't spend much time surfing the web either. "As a result, my phone plays a relatively minor role in my life," he notes. (The advent of social media occurred only a few years after the CEO of Ericsson promised to make the cellphone the center of the consumer's universe.)
 
-The advent of social media occurred only a few years after the CEO of Ericsson promised to make the cellphone the center of the consumer's universe. 
-
-Post-pandemic, I'm looking forward to prioritizing offline socializing.
+For me, post-pandemic, I'm looking forward to prioritizing offline socializing.
 
 ![pizza-party](../static/pizza-party.svg)
 
