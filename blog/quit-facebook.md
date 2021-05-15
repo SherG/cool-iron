@@ -40,7 +40,9 @@ This, of course, can easily lead to wasted time. I always have better things to 
 
 Before formally shutting my account down I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian schoolmarm onto  comments it deems problematic. These I saw on a friend’s newsfeed, who responded with the humorous epithet: “fascistbook!”
 
-The idea of seeing individual warning labels stuck like annoying Post-its on casual comments is definitely not appealing. 
+Seeing warning labels stuck like annoying Post-its on casual comments is definitely not appealing. 
+
+> Do we need to outsource our fact-checking to others? If so, why?
 
 Consider also: 
 * A professor and author recently had such a warning label appended to a comment of his, because he linked to a page he was criticizing. (Guilt by association.) 
