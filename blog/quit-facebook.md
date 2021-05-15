@@ -8,7 +8,7 @@ tags: ['facebook']
 
 I’ve had a personal account on Facebook for well over a decade, but I’ve been inactive on that social media platform for a few years. During that inactive period I checked in a couple of times but considered my account dormant. I finally exported my photos and greenlit the deletion of my account.
 
-Why? I lost interest in the platform. 
+Why? I simply lost interest in the platform. 
 
 ## Nostalgia for the pre-Facebook era
 
@@ -20,9 +20,9 @@ The more I’ve reminisced about this, the more I’ve questioned the value I ge
 
 Reading Cal Newport's <em><a href="https://www.amazon.com/Digital-Minimalism-Choosing-Focused-Noisy/dp/0525542876/" target="blank">Digital Minimalism</a></em>  reinforced my questioning. Interestingly, Newport has never had a social media account. He doesn't spend much time surfing the web either. "As a result, my phone plays a relatively minor role in my life," he notes.
 
-It's not surprising that social media's birth occured not long after the the CEO of Ericsson prophesied that the cellphone would become the center of the consumer's universe. 
+The advent of social media occurred only a few years after the CEO of Ericsson promised to make the cellphone the center of the consumer's universe. 
 
-For me, post-pandemic, I'm looking forward to prioritizing offline socializing.
+Post-pandemic, I'm looking forward to prioritizing offline socializing.
 
 ![pizza-party](../static/pizza-party.svg)
 
