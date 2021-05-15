@@ -111,6 +111,6 @@ This short, accessible read argues that "everything most people know about antit
 
 "Congress is pushing to crack down on the power of the megacap internet companies. But current U.S. antitrust law is focused on regulating abusive pricing—and in most cases, that’s just not the issue. Google and Facebook, for instance, don’t charge consumers anything for their most important products."
 
-<a href="https://www.mercatus.org/system/files/Perils-of-Classifying-Social-Media-Platforms-Public-Utilities.pdf" target="blank">The Perils of Classifying Social Media Platforms as Public Utilities</> - Adam Thierer, Senior Research Fellow, <a href="https://www.mercatus.org/" target="blank">Mercatus Center</a> at George Mason University
+<a href="https://www.mercatus.org/system/files/Perils-of-Classifying-Social-Media-Platforms-Public-Utilities.pdf" target="blank">The Perils of Classifying Social Media Platforms as Public Utilities</a> - Adam Thierer, Senior Research Fellow, <a href="https://www.mercatus.org/" target="blank">Mercatus Center</a> at George Mason University
 
 <a href="https://www.cnbc.com/2021/05/10/citi-downgrades-facebook-and-google-says-ad-market-expectations-are-too-bullish.html" target="blank">Citi downgrades Facebook on advertising expectations</a>
