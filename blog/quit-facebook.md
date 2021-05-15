@@ -105,7 +105,7 @@ Facebook advertising continues to be a powerful way to <a href="/see-think-do-mo
 
 <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank">How we lost social media to algorithms</a> - Thomas Baekdal
 
-"This is the reality of all social algorithms. They are not even close to being good, on any channel. All they do is to surface the type of content that people engage with when they have very low intent. This is a systemic problem with the very concept of how social media works."
+Regarding content and behavior, Baekdal discusses why Facebook and Twitter are optimized only for "a micro moment for people on a break."
 
 <a href="https://www.amazon.com/dp/B004XOZ66W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" target="blank"><em>The Antitrust Religion</em></a> - Edwin S. Rockefeller
 
