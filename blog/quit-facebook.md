@@ -30,21 +30,19 @@ When I last logged in, I noticed Facebook’s user interface (UI) had changed co
 
 Also, Facebook has become much more of a walled garden: a one-stop shop designed to contain you like a steel ball in a pinball machine. You ping about, setting off 'buzzers' and getting 'rewards' while they collect behavioral data on you to sell to others.
 
-This, of course, can easily lead to wasted time. I always have better things to do with my time than to be on Facebook.
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Whatever you’re doing right now is the best use of your time, according to you.</p>&mdash; Sahil (@shl) <a href="https://twitter.com/shl/status/1383072769793925123?ref_src=twsrc%5Etfw">April 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## The warden and the fools
 
 Before formally shutting my account down I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian schoolmarm onto  comments it deems problematic. These I saw on a friend’s newsfeed, who responded with the humorous epithet: “fascistbook!”
 
-Seeing warning labels stuck like annoying Post-its on casual comments is definitely not appealing. 
-
-> Do we need to outsource our thinking to others? 
+Warning labels stuck like annoying Post-its on casual comments change the mood and atmosphere on the platform. It's not just you and your friends and acquaintances socializing anymore, it's you, them, and a phalanx of intrusive busybodies.
 
 Consider also: 
 * A professor and author recently had such a warning label appended to a comment of his, because he linked to a page he was criticizing. (Guilt by association.) 
-* Similarly, a Princeton fellow and biologist had a video interview flagged because his interview subject voiced concerns about mutations that might result from the rollout of the COVID-19 vaccine. 
+* Similarly, a Princeton fellow and biologist had a video interview flagged because his interview subject voiced concerns about mutations that might result from the rollout of the COVID-19 vaccine. The interviewer did not agree with those concerns but wanted to explore them in dialogue. 
+
+There are many other instances where precision in fact-checking and 'intervention' is missing but its results are suppression of communication. 
 
 ### Interventionists and the Lure of the Transgressive
 
@@ -54,7 +52,7 @@ Secondly, even if the Post-it note is accurate (and that's a big 'if' given nuan
 
 > Does social disapproval, via 'warning labels,' promote independent thinking or its opposite?
 
-Such an ecosystem has zero appeal to me. I don’t need Facebook’s omnipresent hall monitors (whether algorithmic or otherwise) to do my thinking for me. 
+How could such an ecosystem have appeal, save for those fact-checking businesses that have sprung up like crabgrass, political entities hoping to acquire more control, 
 
 ## Busybodies Push Facebook Into the Strait of Messina
 
@@ -62,9 +60,13 @@ Facebook has an opt-in, opt-out system. That’s the best you can get with marke
 
 Facebook became powerful because billions of consumers said “Yes, we like this!” 
 
-Nothing needs to be “done” to Facebook to “fix” it. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)
+Nothing needed to be “done” to Facebook to “fix” it. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)
 
 This does not mean that there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank"> sub-optimal dynamics</a> baked into Facebook's strategy. But that's not the realm for political activists.
+
+And I don't buy the "Facebook is addictive" argument. Show me someone who needs medical assistance because they are going through Facebook withdrawal symptoms. Show me cellphone video of a Facebook addict, crumpled over in an alleyway, being resuscitated by paramedics. 
+
+What we used to call "being lazy," "getting into a rut," "wasting time, "a bad habit" or "lack of discipline" is now an "addiction" that needs a 3rd party and the entire U.S. government to intervene, but only after newly minted stars have made the media rounds talking about the "addiction" problem and creating a market for their ideas. 
 
 ### Antitrust, Censorship, and Narrative Shaping
 
