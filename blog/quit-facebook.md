@@ -65,7 +65,7 @@ This does not mean that there aren't some <a href="https://www.baekdal.com/strat
 
 And I don't buy the "Facebook is addictive" argument. Show me someone who needs medical assistance because they are going through Facebook withdrawal symptoms. Show me cellphone video of a Facebook addict, crumpled over in an alleyway, being resuscitated by paramedics. 
 
-What we used to call "being lazy," "getting into a rut," "wasting time, "a bad habit" or "lack of discipline" is now an "addiction" that needs a 3rd party and the entire U.S. government to intervene, but only after newly minted stars have made the media rounds talking about the "addiction" problem and creating a market for their ideas. 
+What we used to call "being lazy," "getting into a rut," "wasting time, "a bad habit" or "lack of discipline" is now an "addiction" that needs countless third parties and the leaders of the U.S. government to intervene, but only after newly minted stars have made the media rounds talking about the "addiction" problem and creating a market for their ideas. 
 
 ### Antitrust, Censorship, and Narrative Shaping
 
@@ -94,7 +94,7 @@ No thanks.
 
 Given this was my personal Facebook account, you may be wondering why I chose to publish this post on a business website. I've been reading and encountering in conversations, (1) greater pushback against the idea that Facebook is important or critical to business, and (2) a trend - albeit unmeasured - of disillusioned individuals leaving Facebook. 
 
-I'm interested in whether these phenomena will develop into a significant trend. For that reason, I'll continue to share related information here that I believe our readers will find of interest.
+I'm interested in whether these phenomena will develop into a significant trend. For that reason, I'll continue to share related information here that I believe our readers will find of interest. And I'll have more to say soon about controversies surrounding Facebook.
 
 Facebook advertising continues to be a powerful way to <a href="/see-think-do-model">boost initial awareness</a> for a brand, and to entice people to begin learning more about your business. But YouTube (with its long-form podcasts and videos) and your website are two of the best platforms for fostering in-depth exploration. 
 
