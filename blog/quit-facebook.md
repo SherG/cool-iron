@@ -36,19 +36,19 @@ Also, Facebook has become much more of a walled garden: a one-stop shop designed
 
 Before formally shutting my account down I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian schoolmarm onto  comments it deems problematic. These I saw on a friend’s newsfeed, who responded with the humorous epithet: “fascistbook!”
 
-Warning labels stuck like annoying Post-its on casual comments change the mood and atmosphere on the platform. It's not just you and your friends and acquaintances socializing anymore, it's you, them, and a phalanx of intrusive busybodies.
+Warning labels stuck like annoying Post-its on casual comments change the mood and atmosphere on the platform. It's not just you and your friends and acquaintances socializing anymore, it's you, them, and a phalanx of <a href="https://www.youtube.com/watch?v=YsShZNHmpGE" target="blank">intrusive busybodies</a>. 
 
-Consider also: 
+Also consider:
 * A professor and author recently had such a warning label appended to a comment of his, because he linked to a page he was criticizing. (Guilt by association.) 
 * Similarly, a Princeton fellow and biologist had a video interview flagged because his interview subject voiced concerns about mutations that might result from the rollout of the COVID-19 vaccine. The interviewer did not agree with those concerns but wanted to explore them in dialogue. 
 
-There are many other instances where precision in fact-checking and 'intervention' is missing but its results are suppression of communication. 
+There are many other instances where precision in fact-checking and 'intervention' is missing but its results are suppression of communication nonetheless. 
 
 ### Interventionists and the Lure of the Transgressive
 
-First, if people’s minds are really so feeble that they need all sorts of assists and crutches just to make their way through what are usually low-definition social media posts, then it’s a problem that Post-it notes aren’t going to fix. Indeed, outsourcing our thinking (and therefore agency) to others is part of the larger, underlying societal fault line. 
+If people’s minds are really so feeble that they need all sorts of assists and crutches just to make their way through what are usually low-definition social media posts, then it’s a problem that Post-it notes aren’t going to fix. Indeed, outsourcing our thinking (and therefore agency) to others is part of the larger, underlying societal fault line. 
 
-Secondly, even if the Post-it note is accurate (and that's a big 'if' given nuanced problems that have ensued), is there any evidence that these notes change people’s minds? Do they perhaps make people <em>more</em> interested in the comment, once it’s labeled — implicity —  subversive or <em>transgressive</em>?
+And, even if the Post-it note is accurate (and that's a big 'if' given nuanced problems that have ensued), is there any evidence that these notes change people’s minds? Do they perhaps make people <em>more</em> interested in the comment, once it’s labeled — implicity —  subversive or <em>transgressive</em>?
 
 > Does social disapproval, via 'warning labels,' promote independent thinking or its opposite?
 
@@ -63,9 +63,9 @@ Nothing needed to be “done” to Facebook to “fix” it. This is something p
 
 This does not mean that there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank"> sub-optimal dynamics</a> baked into Facebook's strategy. But that's not the realm for political activists.
 
-And I don't buy the "Facebook is addictive" argument. Show me someone who needs medical assistance because they are going through Facebook withdrawal symptoms. Show me cellphone video of a Facebook addict, crumpled over in an alleyway, being resuscitated by paramedics. 
+And I don't buy the "Facebook is addictive" argument. Show me someone who needs medical assistance because they are going through Facebook withdrawal symptoms. 
 
-What we used to call "being lazy," "getting into a rut," "wasting time, "a bad habit" or "lack of discipline" is now an "addiction" that needs countless third parties and the leaders of the U.S. government to intervene, but only after newly minted stars have made the media rounds talking about the "addiction" problem and creating a market for their ideas. 
+What we used to call "being lazy," "getting into a rut," "wasting time, "a bad habit" or "lack of discipline" is now an "addiction" that needs countless third parties and the leaders of the U.S. government to intervene in, but only after newly minted stars have made the media rounds talking about the "addiction" problem and manufacturing a market for their ideas. 
 
 ### Antitrust, Censorship, and Narrative Shaping
 
