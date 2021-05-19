@@ -52,7 +52,6 @@ Secondly, even if the Post-it note is accurate (and that's a big 'if' given nuan
 
 > Does social disapproval, via 'warning labels,' promote independent thinking or its opposite?
 
-How could such an ecosystem have appeal, save for those fact-checking businesses that have sprung up like crabgrass, political entities hoping to acquire more control, 
 
 ## Busybodies Push Facebook Into the Strait of Messina
 
