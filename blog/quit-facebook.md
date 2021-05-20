@@ -59,13 +59,9 @@ Facebook has an opt-in, opt-out system. That’s the best you can get with marke
 
 Facebook became powerful because billions of consumers said “Yes, we like this!” 
 
-Nothing needed to be “done” to Facebook to “fix” it. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)
+There's no need for a political or cultural intervention. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)
 
-This does not mean that there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank"> sub-optimal dynamics</a> baked into Facebook's strategy. But that's not the realm for political activists.
-
-And I don't buy the "Facebook is addictive" argument. Show me someone who needs medical assistance because they are going through Facebook withdrawal symptoms. 
-
-What we used to call "being lazy," "getting into a rut," "wasting time, "a bad habit" or "lack of discipline" is now an "addiction" that needs countless third parties and the leaders of the U.S. government to intervene in, but only after newly minted stars have made the media rounds talking about the "addiction" problem and manufacturing a market for their ideas. 
+This doesn't mean there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank"> sub-optimal dynamics</a> baked into Facebook's strategy. But that's not the realm for political activists.  
 
 ### Antitrust, Censorship, and Narrative Shaping
 
