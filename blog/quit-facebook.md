@@ -63,13 +63,14 @@ There was no need for a political or cultural intervention. This is something pe
 
 This doesn't mean there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank"> sub-optimal dynamics</a> baked into Facebook's strategy. But that's not the realm for political activists.  
 
-And from its start, Facebook has adapted to on-platform threats and experimented with new ways of handling them. It needs to retain the freedom to do so rather than being forced to accept a brittle, top-down 'solution' from a political bureaucrats who've historically polled <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_Natl_010813_.pdf" target="blank">lower than cockroaches</a>. 
+And from its start, Facebook has adapted to on-platform threats and experimented with new ways of handling them. It needs to retain the freedom to do so rather than being forced to accept a brittle, top-down 'solution.' 
 
-For me, I'd rather put my money behind the people who fostered these <a href="https://opensource.facebook.com/projects/" target="blank">brilliant open source tools</a>. 
+Who would you rather bet on: <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_Natl_010813_.pdf" target="blank">these people</a> or the people who <a href="https://opensource.facebook.com/projects/" target="blank">fostered this</a>. 
+
 
 ### Antitrust, Censorship, and Narrative Shaping
 
-Now, I’ve criticized this “Post-it” note system for its flaws and for the lack of evidence that it produces a needed benefit, but my contention is it’s not designed to work in the way you expect. It’s designed to buy off Facebook’s political bullies, and/or it's a price extracted by the bullies, who’ve pushed the social media giant between the Scylla of <a href="https://newsfilter.io/articles/why-facebook-and-google-face-the-most-risk-in-an-overhaul-of-antitrust-law-c2c1d6a16a2bd9a9cb0125e2f4f9e1c7" target="blank">antitrust action</a> (right and left) and the Charybdis of “Make people stop saying things we find abhorrent!” (on the left).
+Now, I’ve criticized this “Post-it” note system for its flaws and for the lack of evidence that it produces a needed benefit, but my contention is it’s not designed to work in the way you expect. It’s partly a price extracted by the political busybodies who’ve pushed the social media giant between the Scylla of <a href="https://newsfilter.io/articles/why-facebook-and-google-face-the-most-risk-in-an-overhaul-of-antitrust-law-c2c1d6a16a2bd9a9cb0125e2f4f9e1c7" target="blank">antitrust action</a> (right and left) and the Charybdis of “Make people stop saying things we find abhorrent!” (on the left).
 
 Facebook has struck a bargain with Charybdis which may not save it from rocky crags of Scylla. And then there's the threatened revocation of Section 230 (<a href="https://www.commerce.senate.gov/2020/10/committee-to-hold-hearing-with-big-tech-ceos-on-section-230" target="blank">on the right</a>) as well.
 
