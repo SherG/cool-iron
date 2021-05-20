@@ -65,7 +65,7 @@ This doesn't mean there aren't some <a href="https://www.baekdal.com/strategy/ho
 
 And from its start, Facebook has adapted to on-platform threats and experimented with new ways of handling them. It needs to retain the freedom to do so rather than being forced to accept a brittle, top-down 'solution.' 
 
-Who would you rather bet on: <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_Natl_010813_.pdf" target="blank">these people</a> or the people who <a href="https://opensource.facebook.com/projects/" target="blank">fostered this</a>. 
+When it comes to identifying and fixing Facebook problems, who would you trust more: <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_Natl_010813_.pdf" target="blank">these people</a> or <a href="https://opensource.facebook.com/projects/" target="blank">these people?</a>. 
 
 
 ### Antitrust, Censorship, and Narrative Shaping
