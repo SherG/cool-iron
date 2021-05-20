@@ -63,7 +63,7 @@ There was no need for a political or cultural intervention. This is something pe
 
 This doesn't mean there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank"> sub-optimal dynamics</a> baked into Facebook's strategy. But that's not the realm for political activists.  
 
-And from its start, Facebook has adapted to on-platform threats and experimented with new ways of handling them. It needs to retain the freedom to do so rather than being forced to accept a brittle, top-down 'solution' from a political bureaucrats who've historically polled <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_Natl_010813_.pdf target="blank">lower than cockroaches</a>. 
+And from its start, Facebook has adapted to on-platform threats and experimented with new ways of handling them. It needs to retain the freedom to do so rather than being forced to accept a brittle, top-down 'solution' from a political bureaucrats who've historically polled <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_Natl_010813_.pdf" target="blank">lower than cockroaches</a>. 
 
 For me, I'd rather put my money behind the people who fostered these <a href="https://opensource.facebook.com/projects/" target="blank">brilliant open source tools</a>. 
 
