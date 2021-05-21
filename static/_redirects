@@ -1,5 +1,5 @@
 # These rules will change if you change your site’s custom domains or HTTPS settings
-https://www.signalfox.org/see-think-do-model/)-modellen * https://www.signalfox.org/see-think-do-model/
+/see-think-do-model/)-modellen* /see-think-do-model/
 
 # Redirect default Netlify subdomain to primary domain
 https://cool-iron-687a6.netlify.app/* https://www.signalfox.org/:splat 301!
