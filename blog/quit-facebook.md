@@ -59,7 +59,7 @@ Facebook has an opt-in, opt-out system. That’s the best you can get with marke
 
 Facebook became powerful because billions of consumers said “Yes, we like this!” 
 
-There need for a political or cultural intervention was questionable. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.) 
+Feedback is always important, especially if it's unfiltered and unmarred by "expert re-interpretation" or skewed assumptions. But the need for a political intervention was/is questionable. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.) 
 
 This doesn't mean there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank"> sub-optimal dynamics</a> baked into Facebook's strategy. But that's not the realm for political activists.  
 
