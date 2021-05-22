@@ -63,10 +63,6 @@ Feedback is always important, especially if it's unfiltered and unmarred by "exp
 
 This doesn't mean there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank"> sub-optimal dynamics</a> baked into Facebook's strategy. But that's not the realm for political activists.  
 
-From its start, Facebook has adapted to on-platform threats and experimented with new ways of handling them. It needs to retain the freedom to do so rather than being pressured or forced to accept brittle, top-down 'solutions' from interest groups with their own array of unexamined, interlocking, and problematic incentives. 
-
-When it comes to leadership and control in identifying, understanding, classifying, and fixing Facebook problems, who would you trust more: <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_Natl_010813_.pdf" target="blank">these people</a> or <a href="https://opensource.facebook.com/projects/" target="blank">these people?</a>
-
 
 ### Antitrust, Censorship, and Narrative Shaping
 
