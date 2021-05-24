@@ -83,7 +83,7 @@ In the meantime, unfortunately, we'll be treated to the continuing spectacle of 
 The signs of this political struggle are strewn across Facebook's newsfeeds.
 
 
-## In Sum
+## In Sum - 👎 
 
 Mr. Zuckerberg, thanks for all the good times. I've had a lot of laughs and fun on Facebook, sharing photos and humor. I've played games and been entertained. I've enjoyed seeing my friends' updates and having conversations as well as learning things from my brainy friends' Facebook Notes. But this is not the best use of my time.
 
