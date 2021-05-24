@@ -57,11 +57,11 @@ Unfortunately, there are many other stories, across the political spectrum, of f
 
 Where precision or nuance in fact-checking and 'intervention' is missing the results are censorship or suppression of speech nonetheless. 
 
-Indeed, taking on the mantle of "fact checker" is a tall order, and requires, among other things, a thorough understanding of related multiple contexts; the nature, current state of, and history of contrarian positions among scientists and academics including in research papers; and ab understanding of game theory and complex systems science. It also requires a precise understanding of what <em>isn't known</em> and therefore can't be "fact-checked." 
+Indeed, taking on the mantle of "fact checker" is a tall order, and requires, among other things, for each topic, a thorough grasp of related and multiple contexts; the nature, current state of, and history of contrarian positions among scientists and academics including in research papers; and an understanding of game theory and complex systems science. It also requires a precise understanding of what <em>isn't known</em> and therefore can't be "fact-checked." 
 
 And it requires an understanding of the one speaking: of their history, and style of, or propensity for, satire and dry humor, for example. 
 
-The potential to chill speech should be of particular concern to mainstream media, who are neck-deep in Facebook fact-checking. After all, they're well-versed in instances where the government has <a href="https://www.mtsu.edu/first-amendment/article/897/chilling-effect" target="blank">chilled speech</a>.
+The potential to chill speech should be of deep concern to mainstream media, who are neck-deep in Facebook fact-checking. After all, they're well-versed in instances where the government has <a href="https://www.mtsu.edu/first-amendment/article/897/chilling-effect" target="blank">chilled speech</a>.
 
 
 ## Busybodies Push Facebook Into the Strait of Messina
