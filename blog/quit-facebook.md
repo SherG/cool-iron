@@ -12,7 +12,7 @@ Why? I lost interest in the platform.
 
 ## Nostalgia for the pre-Facebook era
 
-It used to be that if you wanted to socialize there were 2 options: by phone or in person. In person was always the preferred default and the norm. Only if your friends or relatives lived far away did you resort to phone calls. 
+It used to be that if you wanted to socialize there were 2 options: by phone or in person. In person was always the preferred default. Only if your friends or relatives lived far away did you resort to phone calls. 
 
 Cellphones were used primarily for making plans: "Hey Eric, I'm picking up Arminda and we'll meet you guys at Dave & Busters. Are John and Marina coming?"
 
@@ -30,19 +30,14 @@ When I last logged in, I noticed Facebook’s user interface (UI) had changed co
 
 Also, Facebook has become much more of a walled garden: a one-stop shop designed to contain you like a steel ball in a pinball machine. You ping about, setting off 'buzzers' and getting 'rewards' while they collect behavioral data on you to sell to others.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Whatever you’re doing right now is the best use of your time, according to you.</p>&mdash; Sahil (@shl) <a href="https://twitter.com/shl/status/1383072769793925123?ref_src=twsrc%5Etfw">April 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+> "Whatever you’re doing right now is the best use of your time, according to you." - <a href="https://twitter.com/shl/status/1383072769793925123?ref_src=twsrc%5Etfw" target="blank">@shl</a>
+
 
 ## The warden and the fools
 
 Before formally shutting my account down I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian schoolmarm onto  comments it deems problematic. These I saw on a friend’s newsfeed, who responded with the humorous epithet: “fascistbook!”
 
 Warning labels stuck like annoying Post-its on casual comments change the mood and atmosphere on the platform. It's not just you and your friends and acquaintances socializing anymore, it's you, them, and a phalanx of <a href="https://www.youtube.com/watch?v=YsShZNHmpGE" target="blank">intrusive busybodies</a>. 
-
-Also consider:
-* A professor and author recently had such a warning label appended to a comment of his, because he linked to a page he was criticizing. (Guilt by association.) 
-* Similarly, a Princeton fellow and biologist had a video interview flagged because his interview subject voiced concerns about mutations that might result from the rollout of the COVID-19 vaccine. The interviewer did not agree with those concerns but wanted to explore them in dialogue. 
-
-There are many other instances where precision in fact-checking and 'intervention' is missing but its results are suppression of communication nonetheless. 
 
 ### Interventionists and the Lure of the Transgressive
 
@@ -52,6 +47,20 @@ And, even if the Post-it note is accurate (and that's a big 'if' given nuanced p
 
 > Does social disapproval, via 'warning labels,' promote independent thinking or its opposite?
 
+### Fact-checking or promoting orthodoxy? 
+
+Consider:
+* Professor and author Gad Saad recently had such a warning label appended to a comment of his, because he linked to a page he was criticizing. (Guilt by association.) 
+* Similarly, a Princeton fellow and biologist Bret Weinstein, a self-described progressive, had a video interview flagged because his interview subject voiced concerns about mutations that might result from the age-tiered rollout of the COVID-19 vaccine. The interviewer did not agree with those concerns but wanted to explore them -- with his audience -- in dialogue. Facebook fact-checkers decided this was a bad idea, and that anyone who wanted to discuss these ideas should only "listen" to what they had to say on the matter. 
+* Facebook fact-checker Politifact had to <a href="https://twitter.com/EricRWeinstein/status/1396581749665140738" target=blank">walk back a previous "Pants on fire" label</a>. What their first fact-check did was simply endeavor to have readers adhere to the orthodoxy <em>du jour</em>. It missed entirely the wider context of the unknown. 
+
+Where precision in fact-checking and 'intervention' is missing the results are censorship and suppression of speech nonetheless. 
+
+Indeed, taking on the mantle of "fact checker" is a tall order, and requires, among other things, a thorough understanding of related multiple contexts; the nature, current state of, and history of contrarian positions among scientists and academics including in research papers; and a solid understand of game theory and complex systems science. It also requires a precise understanding of what <em>isn't known</em> and therefore can't be "fact-checked." 
+
+And it requires an understanding of the one speaking: of their history, and style of, or propensity for, satire and dry humor, for example. 
+
+The potential to chill speech should be of particular concern to mainstream media, who are neck-deep in Facebook fact-checking. After all, they're well-versed in instances where the government has <a href="https://www.mtsu.edu/first-amendment/article/897/chilling-effect" target="blank">chilled speech</a> and the dynamics that create such an outcome.
 
 ## Busybodies Push Facebook Into the Strait of Messina
 
@@ -59,18 +68,15 @@ Facebook has an opt-in, opt-out system. That’s the best you can get with marke
 
 Facebook became powerful because billions of consumers said “Yes, we like this!” 
 
-Feedback is always important, especially if it's unfiltered and unmarred by "expert re-interpretation" or skewed assumptions. But the need for a political intervention was/is questionable. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.) 
-
-This doesn't mean there aren't some <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank"> sub-optimal dynamics</a> baked into Facebook's strategy. But that's not the realm for political activists.  
-
+Feedback is always important, especially if it's unfiltered and unmarred by "expert re-interpretation" or skewed assumptions. But the need for a political intervention was/is questionable. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)  
 
 ### Antitrust, Censorship, and Narrative Shaping
 
-Now, I’ve criticized this “Post-it” note system for its flaws and for the lack of evidence that it produces a needed benefit, but my contention is it’s not designed to work in the way you expect. It’s partly a price extracted by the political busybodies who’ve pushed the social media giant between the Scylla of <a href="https://newsfilter.io/articles/why-facebook-and-google-face-the-most-risk-in-an-overhaul-of-antitrust-law-c2c1d6a16a2bd9a9cb0125e2f4f9e1c7" target="blank">antitrust action</a> (right and left) and the Charybdis of “Make people stop saying things we find abhorrent!” (on the left).
+Now, I’ve criticized this “Post-it” note system for its flaws and for the lack of evidence that it produces a needed benefit, but my contention is it’s not designed to work in the way you expect. It’s partly a price extracted by the political busybodies who’ve pushed the social media giant between the Scylla of <a href="https://newsfilter.io/articles/why-facebook-and-google-face-the-most-risk-in-an-overhaul-of-antitrust-law-c2c1d6a16a2bd9a9cb0125e2f4f9e1c7" target="blank">antitrust action</a> (right and left) and the Charybdis of “Make people stop saying stupid things and things we find abhorrent!” (on the left).
 
 Facebook has struck a bargain with Charybdis which may not save it from rocky crags of Scylla. And then there's the threatened revocation of Section 230 (<a href="https://www.commerce.senate.gov/2020/10/committee-to-hold-hearing-with-big-tech-ceos-on-section-230" target="blank">on the right</a>) as well.
 
-In the meantime, unfortunately, we'll be treated to the continuing spectacle of politicians on the right and left grilling Zuckerberg in public Kabuki theater, and fighting for greater control of Facebook, a powerful platform. 
+In the meantime, unfortunately, we'll be treated to the continuing spectacle of politicians on the right and left grilling Zuckerberg in public Kabuki theater, and fighting for greater control of Facebook. 
 
 The signs of this political struggle are strewn across Facebook's newsfeeds.
 
@@ -79,7 +85,7 @@ The signs of this political struggle are strewn across Facebook's newsfeeds.
 
 Mr. Zuckerberg, thanks for all the good times. I've had a lot of laughs and fun on Facebook, sharing photos and humor. I've played games and been entertained. I've enjoyed seeing my friends' updates and having conversations as well as learning things from my brainy friends' Facebook Notes. But this is not the best use of my time.
 
-Besides, conversation fails to feel natural (or appealing) knowing every word you're typing is being watched and weighed, as a bureaucratic functionary or its algorithmic stand-in decide whether your ideas warrant social disapproval.
+Besides, conversation fails to feel natural (or appealing) knowing every word you're typing is being watched and weighed, as a bureaucratic functionary or its algorithmic stand-in decide whether your ideas warrant warning labels, suppression, and social disapproval.
 
 No thanks. 
 
