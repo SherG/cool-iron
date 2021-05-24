@@ -48,7 +48,7 @@ And, even if the Post-it note is accurate (and that's a big 'if' given nuanced p
 > Does social disapproval, via 'warning labels,' promote independent thinking or its opposite?
 
 
-### Fact-checking or promoting orthodoxy? 
+### Truth and orthodoxy
 
 Consider:
 * Professor and author <a href="https://www.concordia.ca/jmsb/faculty/gad-saad.html" target="blank">Gad Saad</a> recently had such a warning label appended to a comment of his, because he linked to a page he was criticizing. (Guilt by association.) 
