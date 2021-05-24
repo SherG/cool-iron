@@ -74,20 +74,20 @@ Feedback is always important, especially if it's unfiltered and unmarred by "exp
 
 ### Antitrust, Censorship, and Narrative Shaping
 
-Now, I’ve criticized this “Post-it” note system for its flaws and for the lack of evidence that it produces a needed benefit, but my contention is it’s not designed to work in the way you expect. It’s partly a price extracted by the political busybodies who’ve pushed the social media giant between the Scylla of <a href="https://newsfilter.io/articles/why-facebook-and-google-face-the-most-risk-in-an-overhaul-of-antitrust-law-c2c1d6a16a2bd9a9cb0125e2f4f9e1c7" target="blank">antitrust action</a> (right and left) and the Charybdis of “Make people stop saying stupid things and things we find abhorrent!” (on the left).
+Now, I’ve criticized this “Post-it” note system for its flaws and for the lack of evidence that it produces a needed benefit, but my contention is it’s not designed to work -- at least not in the way you expect. It’s partly a price extracted by the political busybodies who’ve pushed the social media giant between the Scylla of <a href="https://newsfilter.io/articles/why-facebook-and-google-face-the-most-risk-in-an-overhaul-of-antitrust-law-c2c1d6a16a2bd9a9cb0125e2f4f9e1c7" target="blank">antitrust action</a> (right and left) and the Charybdis of “Make people stop saying stupid things and things we find abhorrent!” (on the left).
 
 Facebook has struck a bargain with Charybdis which may not save it from rocky crags of Scylla. And then there's the threatened revocation of Section 230 (<a href="https://www.commerce.senate.gov/2020/10/committee-to-hold-hearing-with-big-tech-ceos-on-section-230" target="blank">on the right</a>) as well.
 
-In the meantime, unfortunately, we'll be treated to the continuing spectacle of politicians on the right and left grilling Zuckerberg in public Kabuki theater, and fighting for greater control of Facebook. 
+In the meantime, unfortunately, we'll be treated to the continuing spectacle of <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_Natl_010813_.pdf" target="blank">politicians</a> on the right and left grilling Zuckerberg in public Kabuki theater, and fighting for greater control of Facebook. 
 
 The signs of this political struggle are strewn across Facebook's newsfeeds.
 
 
 ## In Sum 
 
-👍 Mr. Zuckerberg, thanks for all the good times. I've had a lot of laughs and fun on Facebook, sharing photos and humor. I've played games and been entertained. I've enjoyed seeing my friends' updates and having conversations as well as learning things from my brainy friends' Facebook Notes. But this is not the best use of my time.
+Mr. Zuckerberg, thanks for all the good times. I've had a lot of laughs and fun on Facebook, sharing photos and humor. I've played games and been entertained. I've enjoyed seeing my friends' updates and having conversations as well as learning things from my brainy friends' Facebook Notes. But this is not the best use of my time.
 
-👎 Besides, conversation fails to feel natural (or appealing) knowing every word you're typing is being watched and weighed, as a bureaucratic functionary or its algorithmic stand-in decide whether your ideas warrant warning labels, suppression, and social disapproval.
+Besides, conversation fails to feel natural (or appealing) knowing every word you're typing is being watched and weighed, as a bureaucratic functionary or its algorithmic stand-in decide whether your ideas warrant warning labels, suppression, and social disapproval.
 
 No thanks. 
 
