@@ -98,11 +98,11 @@ No thanks.
 
 ### Why discuss this on SignalFox? 
 
-Given this was my personal Facebook account, you may be wondering why I chose to publish this post on a business website. I've been reading and encountering in conversations, (1) greater pushback against the idea that Facebook is important or critical to business, and (2) a trend - albeit unmeasured - of disillusioned individuals leaving Facebook. 
+Given this was my personal Facebook account, you may be wondering why I chose to publish this post on a business website. I've been reading and encountering in conversations, (1) greater pushback among business owners against the idea that Facebook is important or even useful to business, and (2) a trend - albeit unmeasured - of disillusioned individuals leaving Facebook. 
 
-I'm interested in whether these phenomena will develop into a significant trend. For that reason, I'll continue to share related information here that I believe our readers will find of interest. And I'll have more to say soon about controversies surrounding Facebook.
+I'm interested in whether these phenomena will develop into a significant trend. I'm also interested in what unintended consequences may ensue from the fact-checking program. For that reason, I'll continue to share related information here that I believe our readers will find of interest. And I'll have more to say soon about controversies surrounding Facebook.
 
-Facebook advertising continues to be a powerful way to <a href="/see-think-do-model">boost initial awareness</a> for a brand, and to entice people to begin learning more about your business. But YouTube (with its long-form podcasts and videos) and your website are two of the best platforms for fostering in-depth exploration. 
+Facebook advertising continues to be a powerful way to <a href="/see-think-do-model">boost initial awareness</a> for a brand, and to entice people to begin learning about your business. But YouTube (with its long-form podcasts and videos) and your website are two of the best platforms for fostering in-depth exploration. 
 
 <br/>
 
