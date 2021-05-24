@@ -37,7 +37,7 @@ Also, Facebook has become much more of a walled garden: a one-stop shop designed
 
 Before formally shutting my account down I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian schoolmarm onto  comments it deems problematic. These I saw on a friend’s newsfeed, who responded with the humorous epithet: “fascistbook!”
 
-Warning labels stuck like annoying Post-its on casual comments change the mood and atmosphere on the platform. It's not just you and your friends and acquaintances socializing anymore, it's you, them, and a phalanx of <a href="https://www.youtube.com/watch?v=YsShZNHmpGE" target="blank">intrusive busybodies</a>. 
+Warning labels stuck like annoying Post-its on casual comments change the platform's atmosphere. It's not just you and your friends and acquaintances socializing anymore, it's you, them, and a phalanx of <a href="https://www.youtube.com/watch?v=YsShZNHmpGE" target="blank">intrusive busybodies</a>. 
 
 ### Interventionists and the Lure of the Transgressive
 
