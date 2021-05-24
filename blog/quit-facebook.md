@@ -54,7 +54,7 @@ And, even if the Post-it note is accurate (and that's a big 'if' given nuanced p
 Also consider:
 * Professor and author <a href="https://www.concordia.ca/jmsb/faculty/gad-saad.html" target="blank">Gad Saad</a> recently had such a warning label appended to a comment of his, because he linked to a page he was criticizing. (Guilt by association.) 
 * Similarly, Princeton fellow and biologist <a href="https://bretweinstein.net/" target="blank">Bret Weinstein</a>, a self-described progressive, had a video interview flagged because his interview subject voiced concerns that the COVID-19 vaccination rollout could create escape mutants, making the pandemic far worse. The interviewer did not agree with those concerns but wanted to explore them &mdash; with his audience &mdash; in dialogue. Facebook fact-checkers <a href="https://www.youtube.com/watch?v=2t7P2i4o53U" target="blank">appended a warning label</a> to the video. (Original video interview is <a href="https://www.youtube.com/watch?v=BNyAovuUxro&t=5762s" target="blank">here, cued up to the final segment</a> where a discussion of censorship occurs.)
-* Facebook fact-checker Politifact had to <a href="https://twitter.com/EricRWeinstein/status/1396581749665140738" target="blank">walk back a previous "Pants on fire" label</a>. What their initial "fact-check" did was encourage viewers to outsource their thinking to Politifact and not question the orthodoxy <em>du jour</em>. Meanwhile, Politifact entirely missed context of the unknown, something not missed by dozens of scientists who believed the "lab leak" hypothesis was reasonable and deserved further exploration. [Those scientists included <a href="https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html" target="blank">Philip Murphy</a> — <a href="https://www.niaid.nih.gov/research/philip-m-murphy-md" target="blank">chief of the Laboratory of Molecular Immunology</a> at the National Institutes of Health (NIH).]
+* Facebook fact-checker Politifact had to <a href="https://twitter.com/EricRWeinstein/status/1396581749665140738" target="blank">walk back a previous "Pants on fire" label</a>. What their initial "fact-check" did, it would seem, was encourage viewers to outsource their thinking to Politifact and not question the orthodoxy <em>du jour</em>. In so doing it discounted the views of dozens of scientists who believed the <a href="https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/" target="blank">"lab leak" hypothesis</a> was reasonable and deserved further exploration. [Those scientists included <a href="https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html" target="blank">Philip Murphy</a> — <a href="https://www.niaid.nih.gov/research/philip-m-murphy-md" target="blank">chief of the Laboratory of Molecular Immunology</a> at the National Institutes of Health (NIH).] To be clear, there are nothing but hypotheses: either it came 100% from nature or was hot-rodded in a lab from which it escaped. Neither hypothesis is proven.
 
 Where precision in fact-checking and 'intervention' is missing the results are censorship or suppression of speech nonetheless. 
 
@@ -110,7 +110,7 @@ Facebook advertising continues to be a powerful way to <a href="/see-think-do-mo
 
 <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank">How we lost social media to algorithms</a> - Thomas Baekdal
 
-Baekdal discusses why Facebook and Twitter are optimized to only deliver "a micro moment for people on a break."
+Baekdal discusses why Facebook and Twitter are designed to deliver just a "micro moment for people on a break."
 
 <a href="https://www.amazon.com/dp/B004XOZ66W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" target="blank"><em>The Antitrust Religion</em></a> - Edwin S. Rockefeller
 
@@ -122,4 +122,3 @@ This short, accessible read argues that "everything most people know about antit
 
 <a href="https://www.mercatus.org/system/files/Perils-of-Classifying-Social-Media-Platforms-Public-Utilities.pdf" target="blank">The Perils of Classifying Social Media Platforms as Public Utilities</a> - Adam Thierer, Senior Research Fellow, <a href="https://www.mercatus.org/" target="blank">Mercatus Center</a> at George Mason University
 
-<a href="https://www.cnbc.com/2021/05/10/citi-downgrades-facebook-and-google-says-ad-market-expectations-are-too-bullish.html" target="blank">Citi downgrades Facebook on advertising expectations</a>
