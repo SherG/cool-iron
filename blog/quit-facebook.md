@@ -47,6 +47,7 @@ And, even if the Post-it note is accurate (and that's a big 'if' given nuanced p
 
 > Does social disapproval, via 'warning labels,' promote independent thinking or its opposite?
 
+</br>
 
 ### Truth and orthodoxy
 
