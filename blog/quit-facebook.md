@@ -51,8 +51,8 @@ And, even if the Post-it note is accurate (and that's a big 'if' given nuanced p
 ### Fact-checking or promoting orthodoxy? 
 
 Consider:
-* Professor and author Gad Saad recently had such a warning label appended to a comment of his, because he linked to a page he was criticizing. (Guilt by association.) 
-* Similarly, a Princeton fellow and biologist Bret Weinstein, a self-described progressive, had a video interview flagged because his interview subject voiced concerns about mutations that might result from the age-tiered rollout of the COVID-19 vaccine. The interviewer did not agree with those concerns but wanted to explore them -- with his audience -- in dialogue. Facebook fact-checkers decided this was a bad idea, and that anyone who wanted to discuss these ideas should only "listen" to what they had to say on the matter. 
+* Professor and author <a href="https://www.concordia.ca/jmsb/faculty/gad-saad.html" target="blank">Gad Saad</a> recently had such a warning label appended to a comment of his, because he linked to a page he was criticizing. (Guilt by association.) 
+* Similarly, a Princeton fellow and biologist <a href="https://bretweinstein.net/" target="blank">Bret Weinstein</a>, a self-described progressive, had a video interview flagged because his interview subject voiced concerns about mutations that might result from the age-tiered rollout of the COVID-19 vaccine. The interviewer did not agree with those concerns but wanted to explore them -- with his audience -- in dialogue. Facebook fact-checkers decided this was a bad idea, and that anyone who wanted to discuss these ideas should only "listen" to what they had to say on the matter. 
 * Facebook fact-checker Politifact had to <a href="https://twitter.com/EricRWeinstein/status/1396581749665140738" target="blank">walk back a previous "Pants on fire" label</a>. What their first fact-check did was simply endeavor to have readers adhere to the orthodoxy <em>du jour</em>. It missed entirely the wider context of the unknown. 
 
 Where precision in fact-checking and 'intervention' is missing the results are censorship and suppression of speech nonetheless. 
