@@ -109,7 +109,7 @@ Facebook advertising continues to be a powerful way to <a href="/see-think-do-mo
 
 <a href="https://www.baekdal.com/strategy/how-we-lost-social-media-to-algorithms/" target="blank">How we lost social media to algorithms</a> - Thomas Baekdal
 
-Baekdal discusses why Facebook and Twitter are designed to deliver just a "micro moment for people on a break."
+Baekdal discusses why Facebook and Twitter are designed to deliver just a "micro moment for people on a break." And he reveals "why we end up with content that drives a lot of engagement and activity but which means very little."
 
 <a href="https://www.amazon.com/dp/B004XOZ66W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" target="blank"><em>The Antitrust Religion</em></a> - Edwin S. Rockefeller
 
