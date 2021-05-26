@@ -57,9 +57,7 @@ Unfortunately, there are many other stories, across the political spectrum, of f
 
 ### From social media to social bureaucracy
 
-Where precision or nuance in fact-checking is missing the results are censorship or suppression of speech nonetheless. When fact checking fails and becomes baseless censorship, who's to blame? Both Facebook and fact checkers appear to have a type of plausible deniability available to them:
-* Facebook has already said "we do not believe that a private company like Facebook should be the arbiters of truth. . ."
-* Fact checkers are not involved in the technical task of suppressing or removing content.
+Where precision or nuance in fact-checking is missing the results are censorship or suppression of speech nonetheless. 
 
 Taking on the mantle of "fact checker" is a tall order, and requires, among other things, for each topic, a thorough grasp of related and multiple contexts; the nature, current state of, and history of contrarian positions among scientists and academics including in research papers; and an understanding of game theory and complex systems science. It also requires a precise understanding of what <em>isn't known</em> and therefore can't be "fact-checked." 
 
