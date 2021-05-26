@@ -55,6 +55,8 @@ Consider, Facebook fact-checker Politifact had to <a href="https://twitter.com/E
 
 Unfortunately, there are many other stories, across the political spectrum, of fact-checking gone awry.
 
+### From social media to social bureaucracy
+
 Where precision or nuance in fact-checking is missing the results are censorship or suppression of speech nonetheless. Observe that when fact checking fails and becomes baseless censorship, both Facebook and fact checkers have plausible deniability in their toolkit: 
 * Facebook has already said "we do not believe that a private company like Facebook should be the arbiters of truth. . ."
 * Fact checkers don't handle the technical task of suppressing or removing content.
