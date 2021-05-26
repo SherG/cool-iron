@@ -28,7 +28,7 @@ For me, post-pandemic, I'm looking forward to prioritizing offline socializing.
 
 When I last logged in, I noticed Facebook’s user interface (UI) had changed considerably. I didn’t care for the new design, which seemed busier. 
 
-Also, Facebook has become much more of a walled garden: a one-stop shop designed to contain you like a steel ball in a pinball machine. You ping about, setting off 'buzzers' and getting 'rewards' while they collect behavioral data on you to sell to others.
+Also, Facebook has become much more of a walled garden: a one-stop shop designed to contain you like a steel ball in a pinball machine. You ping about, setting off buzzers and getting rewards while they collect your behavioral data to sell to others.
 
 > "Whatever you’re doing right now is the best use of your time, according to you." - <a href="https://twitter.com/shl/status/1383072769793925123?ref_src=twsrc%5Etfw" target="blank">@shl</a>
 
@@ -41,7 +41,7 @@ Warning labels stuck like annoying Post-its on casual comments change the platfo
 
 ### Interventionists and the Lure of the Transgressive
 
-If people’s minds are really so feeble that they need all sorts of assists and crutches just to make their way through what are usually low-definition social media posts, then it’s a problem that Post-it notes aren’t going to fix. Indeed, outsourcing our thinking (and therefore agency) to others is part of the larger, underlying societal fault line. 
+If people’s minds are really so feeble that they need professional assistance just to make their way through low-definition social media posts, then it’s a problem that Post-it notes aren’t going to fix. Indeed, outsourcing our thinking (and therefore agency) to others is an underlying societal fault line. 
 
 And, even if the Post-it note is accurate (and that's a big 'if' given nuanced problems that have ensued), is there any evidence that these notes change people’s minds? Do they perhaps make people <em>more</em> interested in the comment, once it’s labeled &mdash; implicity &mdash; subversive or <em>transgressive</em>?
 
@@ -51,11 +51,13 @@ And, even if the Post-it note is accurate (and that's a big 'if' given nuanced p
 
 ### Truth and orthodoxy
 
-Consider, Facebook fact-checker Politifact had to <a href="https://twitter.com/EricRWeinstein/status/1396581749665140738" target="blank">walk back a previous "Pants on fire" label</a> regarding the origin of COVID-19. What their initial "fact-check" did, it would seem, was encourage viewers to not question the orthodoxy <em>du jour</em>. In doing so, it effectively discounted the views of dozens of scientists who believed the <a href="https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/" target="blank">"lab leak" hypothesis</a> was reasonable and deserved exploration. [Those scientists included <a href="https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html" target="blank">Philip Murphy</a> — <a href="https://www.niaid.nih.gov/research/philip-m-murphy-md" target="blank">chief of the Laboratory of Molecular Immunology</a> at the National Institutes of Health (NIH).]  
+Consider, Facebook fact-checker Politifact had to <a href="https://twitter.com/EricRWeinstein/status/1396581749665140738" target="blank">walk back a previous "Pants on fire" label</a> regarding hypotheses about the origin of COVID-19. What their initial "fact-check" did, it would seem, was encourage viewers to not question the orthodoxy <em>du jour</em>. In doing so, it effectively discounted the views of dozens of scientists who believed the <a href="https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/" target="blank">"lab leak" hypothesis</a> was reasonable and deserved exploration. [Those scientists included <a href="https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html" target="blank">Philip Murphy</a> — <a href="https://www.niaid.nih.gov/research/philip-m-murphy-md" target="blank">chief of the Laboratory of Molecular Immunology</a> at the National Institutes of Health (NIH).]  
 
 Unfortunately, there are many other stories, across the political spectrum, of fact-checking gone awry.
 
-Where precision or nuance in fact-checking is missing the results are censorship or suppression of speech nonetheless. 
+Where precision or nuance in fact-checking is missing the results are censorship or suppression of speech nonetheless. Observe that when fact checking fails and becomes baseless censorship, both Facebook and fact checkers have plausible deniability in their toolkit: 
+* Facebook has already said "we do not believe that a private company like Facebook should be the arbiters of truth. . ."
+* Fact checkers don't handle the technical task of suppressing or removing content.
 
 Taking on the mantle of "fact checker" is a tall order, and requires, among other things, for each topic, a thorough grasp of related and multiple contexts; the nature, current state of, and history of contrarian positions among scientists and academics including in research papers; and an understanding of game theory and complex systems science. It also requires a precise understanding of what <em>isn't known</em> and therefore can't be "fact-checked." 
 
