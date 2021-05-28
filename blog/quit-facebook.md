@@ -61,13 +61,13 @@ Where precision or nuance in fact-checking is missing the results are censorship
 
 Taking on the mantle of "fact-checker" is a tall order, and requires, among other things, for each topic, a thorough grasp of related and multiple contexts; the nature, current state of, and history of contrarian positions among scientists and academics including in research papers; and an understanding of game theory and complex systems science. It also requires a precise understanding of what <em>isn't known</em> and therefore can't be "fact-checked." 
 
-And it requires an understanding of the one speaking: including their writing style, profession (an edgy playwright?), and propensity for satire and dry humor, for example.
-
-The potential to chill speech should be of deep concern to mainstream media, who are neck-deep in Facebook fact-checking. After all, they're well-versed in instances where the government has <a href="https://www.mtsu.edu/first-amendment/article/897/chilling-effect" target="blank">chilled speech</a>.
+And it requires an understanding of the one speaking: including their writing style, profession (edgy playwright?), and propensity for satire or dry humor, for example.
 
 Unfortunately, Facebook's program has gone far beyond the stated mission of fact-checking, to squelching debate on topics like the one above. 
 
-Under duress, Facebook & Co have bolted a low-def newsroom fact-checking operation onto a complex, evolving marketplace of over a billion participants. This is bound to rupture at the joint.
+This is ironic since Facebook's fact-checking journalists are well-versed in instances where the government has <a href="https://www.mtsu.edu/first-amendment/article/897/chilling-effect" target="blank">chilled speech</a>.
+
+From my perch, it appears that under duress, Facebook & Co. have bolted a low-def newsroom fact-checking operation onto a complex, evolving marketplace of over a billion participants. This is bound to rupture at the joint.
 
 ## Busybodies Push Facebook Into the Strait of Messina
 
