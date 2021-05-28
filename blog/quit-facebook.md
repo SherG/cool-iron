@@ -35,7 +35,7 @@ Also, Facebook has become much more of a walled garden: a one-stop shop designed
 
 ## The warden and the fools
 
-Before deleting my account I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian schoolmarm onto  comments it deems problematic. These I saw on a friend’s newsfeed. She responded with the humorous epithet: “fascistbook!”
+Before deleting my account I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian schoolmarm onto  comments it deems problematic. These I saw on the newsfeed of a friend who responded with the humorous epithet: “fascistbook!”
 
 Warning labels stuck like annoying Post-its on casual comments change the platform's atmosphere. It's not just you and your friends and acquaintances socializing anymore, it's you, them, and a phalanx of <a href="https://www.youtube.com/watch?v=YsShZNHmpGE" target="blank">intrusive busybodies</a>. 
 
