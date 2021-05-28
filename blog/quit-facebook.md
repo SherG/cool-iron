@@ -67,7 +67,7 @@ Unfortunately, Facebook's program has gone far beyond the stated mission of fact
 
 This is ironic since Facebook's fact-checking journalists are well-versed in instances where the government has <a href="https://www.mtsu.edu/first-amendment/article/897/chilling-effect" target="blank">chilled speech</a>.
 
-From my perch, it appears that under duress, Facebook & Co. have bolted a low-def newsroom fact-checking operation onto a complex, evolving marketplace of over a billion participants. This is bound to rupture at the joint.
+Under duress, Facebook & Co. have bolted a low-def newsroom fact-checking operation onto a complex, evolving marketplace of over a billion participants. This is bound to rupture at the joint.
 
 ## Busybodies Push Facebook Into the Strait of Messina
 
