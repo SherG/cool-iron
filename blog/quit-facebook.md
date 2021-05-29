@@ -65,9 +65,7 @@ And it requires an understanding of the one speaking: including their writing st
 
 Unfortunately, Facebook's program has gone far beyond the stated mission of fact-checking, to squelching debate on topics like the one above. 
 
-This is ironic since Facebook's fact-checking journalists are well-versed in instances where the government has <a href="https://www.mtsu.edu/first-amendment/article/897/chilling-effect" target="blank">chilled speech</a>.
-
-Under duress, Facebook & Co. have bolted a low-def newsroom fact-checking operation onto a complex, evolving marketplace of over a billion participants. This is bound to rupture at the joint.
+This is ironic given Facebook's fact-checking journalists are well-versed in instances where the government has <a href="https://www.mtsu.edu/first-amendment/article/897/chilling-effect" target="blank">chilled speech</a>.
 
 ## Busybodies Push Facebook Into the Strait of Messina
 
