@@ -62,5 +62,5 @@ To my readers: would you please consider <a href="https://coronanoparedao.doare.
 
 One "digital food basket" costs 100 Brazilian reals, which is less than $10 US dollars.
 
-Thank you.
+Thank you!
 
