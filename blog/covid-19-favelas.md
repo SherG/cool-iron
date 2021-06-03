@@ -6,6 +6,7 @@ summary: Social entrepreneurship is riding to the rescue of Brazil's favelas. Bu
 tags: ['social entrepreneurship']
 ---
 
+
 Language instructor Vlad Souza from <a href="http://tropicalportuguese.com/" target="blank">TropicalPortuguese.com</a> has created a <a href="https://tropicalportuguese.teachable.com/p/mini-course-sound-like-brazilians" target="blanks">100% free Portuguese course</a> to help feed Brazilians living in the favelas. 
 
 ## COVID-19 and Brazil's favelas
