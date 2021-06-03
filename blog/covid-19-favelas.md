@@ -52,9 +52,7 @@ Gerando Falcões has set up a <a href="https://coronanoparedao.doare.org/br/doac
 
 Donations are distributed as "digital food baskets" - pre-paid debit cards which can only be used to purchase food and hygeine items. These are typically used at local businesses which also helps the community. 
 
-The General Electric (G.E.) Foundation in the United States is <a href="https://www.ge.com/news/press-releases/ge-foundation-covid-19-grant-helps-local-communities-in-brazil-fight-hunger" target="blank">among the donors</a> to the Gerando Falcões food initiative. 
-
-Other well-known corporate sponsors of Gerando Falcões include Citibank, Accenture, Nestlé, and UnitedHealthcare.
+The General Electric (G.E.) Foundation in the United States is <a href="https://www.ge.com/news/press-releases/ge-foundation-covid-19-grant-helps-local-communities-in-brazil-fight-hunger" target="blank">among the donors</a> to the Gerando Falcões food initiative. Other well-known corporate sponsors of Gerando Falcões include Citibank, Accenture, Nestlé, and UnitedHealthcare.
 
 ## Will you join us?
 
