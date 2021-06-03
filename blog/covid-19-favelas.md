@@ -39,7 +39,7 @@ But even if you're not interested in learning Portuguese, you can <a href="https
 
 Students are asked to make a small donation if they like the course. All of the money raised goes to the favelas via a remarkable organization called Gerando Falcões ("Raising Falcons"). 
 
-Founded by social entrepreneur <a href="https://www.lse.ac.uk/lacc/news/edu-lyra-of-gerando-falcoes-speaks-at-LSE" target="blank">Edu Lyra</a>, Gerando Falcões works in the streets of the favelas bringing education in entrepreneurship as well as sports and social engagement, along with direct humanitarian relief. The organization achieves impact by coordinating a network of NGOs to accelelerate progress.  
+Founded by social entrepreneur <a href="https://www.lse.ac.uk/lacc/news/edu-lyra-of-gerando-falcoes-speaks-at-LSE" target="blank">Edu Lyra</a>, Gerando Falcões works in the favelas bringing education in entrepreneurship as well as sports and social engagement, along with direct humanitarian relief. The organization amplifies its impact by coordinating a network of NGOs to accelelerate progress.  
 
 (See <a href="https://www.forbes.com/sites/angelicamarideoliveira/2021/01/06/brazils-gerando-falces-aims-to-eradicate-misery-with-smart-slums/" target="blanks">this <em>Forbes</em> article</a> for more on their amazing work).
 
