@@ -23,6 +23,10 @@ Approximately 6% of Brazilian residents live in favelas, or <a href="https://www
 
 Brazil has been devastated by the COVID-19 outbreak, suffering the second highest number of deaths worldwide. A chronic lack of supplies, vaccines, and financial support for those affected has worsened the impact. 
 
+<img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_300/v1622704663/vlad-souza-tropical-portuguese_lcf8xj.jpg"/>
+<div style="padding-left: 2.3em; background-color: whitesmoke"><br/><p>Vlad (pronounced "Vlagee") has created a mini-course to raise funds for the favelas. But even if you're not interested in learning Portuguese, you can donate to provide food to those in need.  </p><br/>
+</div><br/>
+
 ## Vlad's course and how to donate
 
 Vlad's course is a 7-day guide on how to sound like a native Brazilian:<br/>
@@ -37,9 +41,6 @@ Founded by social entrepreneur <a href="https://www.lse.ac.uk/lacc/news/edu-lyra
 
 (See <a href="https://www.forbes.com/sites/angelicamarideoliveira/2021/01/06/brazils-gerando-falces-aims-to-eradicate-misery-with-smart-slums/" target="blanks">this <em>Forbes</em> article</a> for more on their amazing work).
 
-<img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_300/v1622704663/vlad-souza-tropical-portuguese_lcf8xj.jpg"/>
-<div style="padding-left: 2.3em; background-color: whitesmoke"><br/><p>Vlad (pronounced "Vlagee") has created a mini-course to raise funds for the favelas. But even if you're not interested in learning Portuguese, you can donate to provide food to those in need.  </p><br/>
-</div><br/>
   
 #### Vlad's fund-raising page
 
