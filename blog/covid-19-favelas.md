@@ -15,9 +15,11 @@ Residents of the favelas are among those hardest hit by COVID-19.
 * Those who do work put themselves and their families at risk of catching COVID-19. 
 * Yet, those who do not have work -- due to lockdowns and lost jobs -- have nothing to eat. 
 
-The BBC reports that somer residents are lining up <a href="https://www.bbc.com/news/world-latin-america-56765150" target="blank">as early as 3 am</a> in the hopes of obtaining a meager amount of food assistance: "They are given a bowl of pasta with meat and a portion of rice, two packets of biscuits and a carton of milk, shared between a whole household and usually their only meal of the day."
+The BBC reports that somer residents are lining up <a href="https://www.bbc.com/news/world-latin-america-56765150" target="blank">as early as 3 am</a> in the hopes of obtaining a meager amount of food assistance: 
 
-The reporter quoted a mother whose family faces homelessness: "I was hoping for a good life," she says, fighting back tears.
+<div style="padding-left: 2.5em;"><p>They are given a bowl of pasta with meat and a portion of rice, two packets of biscuits and a carton of milk, shared between a whole household and usually their only meal of the day.</p></div>
+
+The reporter quoted a mother whose family faces homelessness: "I was hoping for a good life," she says, clearly at the brink.
 
 Approximately 6% of Brazilian residents live in favelas, or <a href="https://www.bbc.com/news/world-latin-america-27635554" target="blank">over 11 million</a>. The BBC estimates that lockdowns and business failures have pushed an additional 9 million into poverty.
 
