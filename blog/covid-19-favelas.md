@@ -22,7 +22,7 @@ The reporter quoted a mother whose family faces homelessness: "I was hoping for 
 
 Approximately 6% of Brazilian residents live in favelas, or <a href="https://www.bbc.com/news/world-latin-america-27635554" target="blank">over 11 million</a>. The BBC estimates that lockdowns and business failures have pushed an additional 9 million into poverty.
 
-Brazil has been devastated by the COVID-19 outbreak, suffering the second highest number of deaths worldwide. A chronic lack of supplies, vaccines, and financial support for those affected has worsened the impact. 
+In Brazil, which has suffered the second highest number of deaths worldwide, a chronic lack of supplies, vaccines, and financial support for those affected has worsened the impact. 
 
 ## Vlad's course and how to donate
 
