@@ -38,7 +38,7 @@ Students are asked to make a small donation if they like the course. All of the 
 
 (See <a href="https://www.forbes.com/sites/angelicamarideoliveira/2021/01/06/brazils-gerando-falces-aims-to-eradicate-misery-with-smart-slums/" target="blanks">this <em>Forbes</em> article</a> for more on their amazing work).
 
-Gerando Falcões has set up a <a href="<a href="https://coronanoparedao.doare.org/br/doacao/gf/7e6de77a-81d3-4855-99ee-2edf0c12606b/Tropical-Portuguese" target="blank">" custom fund-raising page on their site</a> for Vlad's initiative. (Even if you're not in the market for a language course, you can donate.) 
+Gerando Falcões has set up a <a href="https://coronanoparedao.doare.org/br/doacao/gf/7e6de77a-81d3-4855-99ee-2edf0c12606b/Tropical-Portuguese" target="blank">" custom fund-raising page on their site</a> for Vlad's initiative. (Even if you're not in the market for a language course, you can donate.) 
 
 ## Digital food baskets
 
