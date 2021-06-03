@@ -27,7 +27,7 @@ Brazil has been devastated by the COVID-19 outbreak, suffering the second highes
 
 ## Vlad's course and how to donate
 
-<img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_420/v1622707234/vlad-souza_pr89ur.png"/>
+<img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_300/v1622704663/vlad-souza-tropical-portuguese_lcf8xj.jpg"/>
 <div style="padding-left: 2.3em; background-color: whitesmoke"><br/><p>Vlad (pronounced "Vlagee") has created a mini-course to raise funds for the favelas. 
 
 The course is a highly-rated 7-day guide on how to sound like a native Brazilian:<br/>
