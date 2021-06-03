@@ -49,9 +49,9 @@ Gerando Falcões has set up a <a href="https://coronanoparedao.doare.org/br/doac
 
 Donations are distributed as "digital food baskets" - debit cards to purchase food and hygeine items. The General Electric (G.E.) Foundation in the United States is <a href="https://www.ge.com/news/press-releases/ge-foundation-covid-19-grant-helps-local-communities-in-brazil-fight-hunger" target="blank">among the donors</a> to the Gerando Falcões food initiative.
 
-## Thank you, Vlad!
+## Will you join us?
 
-Bravo to Vlad (pronounced "Vlagee"). This is a wonderful use of social entrepreneurship and marketing. 
+Bravo, Vlad! This is a wonderful use of social entrepreneurship and marketing. 
 
 To my readers: would you please consider <a href="https://coronanoparedao.doare.org/br/doacao/gf/7e6de77a-81d3-4855-99ee-2edf0c12606b/Tropical-Portuguese" target="blank">making a donation</a> today? It takes just a few minutes to make a profound impact. 
 
