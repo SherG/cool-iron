@@ -14,7 +14,7 @@ Residents of the favelas are among those hardest hit by COVID-19.
 * Crowded conditions make social distancing impossible. 
 * Those who do work put themselves and their families at risk of catching COVID-19. Yet, those who do not have work — due to lockdowns and lost jobs — <em>have nothing to eat</em>. 
 
-The BBC reports that some residents are lining up <a href="https://www.bbc.com/news/world-latin-america-56765150" target="blank">as early as 3 am</a> in the hopes of obtaining a meager amount of food assistance: 
+The BBC reported in April that some residents are lining up <a href="https://www.bbc.com/news/world-latin-america-56765150" target="blank">as early as 3 am</a> in the hopes of obtaining a meager amount of food assistance: 
 
 <div style="padding-left: 2.5em;"><p>They are given a bowl of pasta with meat and a portion of rice, two packets of biscuits and a carton of milk, shared between a whole household and usually their only meal of the day.</p></div>
 
