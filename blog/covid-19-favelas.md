@@ -10,7 +10,7 @@ Language instructor Vlad Souza from <a href="http://tropicalportuguese.com/" tar
 
 Residents of the favelas are among those hardest hit by COVID-19.
 
-<img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/v1622704663/vlad-souza-tropical-portuguese_lcf8xj.jpg"/>
+<img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_300/v1622704663/vlad-souza-tropical-portuguese_lcf8xj.jpg"/>
 
 * Many of them lack running water, which makes basic sanitation and hygiene impossible.
 * Crowded conditions make social distancing impossible. 
