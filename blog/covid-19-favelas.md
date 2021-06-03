@@ -1,9 +1,9 @@
 ---
 title: Food for the Favelas: COVID-19 Spurs Social Entrepreneurship in Brazil
 path: /covid-19-favelas
-date: 2021-06-03
+date: 2021-06-02
 summary: Social entrepreneurship is riding to the rescue of Brazil's favelas. But we need your help. Here's how you can easily make a big impact.
-tags: ['facebook']
+tags: ['social entrepreneurship']
 ---
 
 Language instructor Vlad Souza from <a href="http://tropicalportuguese.com/" target="blank">TropicalPortuguese.com</a> has created a <a href="https://tropicalportuguese.teachable.com/p/mini-course-sound-like-brazilians" target="blanks">100% free Portuguese course</a> to help feed Brazilians living in the favelas. 
