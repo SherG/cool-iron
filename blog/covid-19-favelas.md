@@ -1,5 +1,5 @@
 ---
-title: Food for the Favelas: COVID-19 Spurs Social Entrepreneurship in Brazil
+title: Food for the Favelas - COVID-19 Spurs Social Entrepreneurship in Brazil
 path: /covid-19-favelas
 date: 2019-04-19
 summary: Social entrepreneurship is riding to the rescue of Brazil's favelas. The only thing missing? You. 
@@ -44,7 +44,9 @@ Gerando Falcões has set up a <a href="<a href="https://coronanoparedao.doare.or
 
 Donations are distributed as "digital food baskets" - debit cards to purchase food and hygeine items. The General Electric (G.E.) Foundation in the United States is <a href="https://www.ge.com/news/press-releases/ge-foundation-covid-19-grant-helps-local-communities-in-brazil-fight-hunger" target="blank">among the donors</a> to the Gerando Falcões food initiative.
 
-This is a wonderful use of social entrepreneurship and marketing. Would you please consider making a donation today? It takes just a few minutes to make a profound impact. 
+Bravo to Vlad (pronounced "Vlagee"). This is a wonderful use of social entrepreneurship and marketing. 
+
+Would you please consider making a donation today? It takes just a few minutes to make a profound impact. 
 
 Thank you.
 
