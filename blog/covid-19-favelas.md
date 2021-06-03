@@ -12,7 +12,7 @@ Residents of the favelas are among those hardest hit by COVID-19.
 
 * Many of them lack running water, which makes basic sanitation and hygiene impossible.
 * Crowded conditions make social distancing impossible. 
-* Those who do work put themselves and their families at risk of catching COVID-19. Yet, those who do not have work — due to lockdowns and lost jobs — have nothing to eat. 
+* Those who do work put themselves and their families at risk of catching COVID-19. Yet, those who do not have work — due to lockdowns and lost jobs — <em>have nothing to eat</em>. 
 
 The BBC reports that some residents are lining up <a href="https://www.bbc.com/news/world-latin-america-56765150" target="blank">as early as 3 am</a> in the hopes of obtaining a meager amount of food assistance: 
 
