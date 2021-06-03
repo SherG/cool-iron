@@ -30,7 +30,7 @@ https://tropicalportuguese.teachable.com/p/mini-course-sound-like-brazilians
 
 <img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_300/v1622704663/vlad-souza-tropical-portuguese_lcf8xj.jpg"/>
 <div style="padding-left: 2.3em; background-color: whitesmoke"><br/><p>Vlad (pronounced "Vlagee") has created a mini-course to raise funds for the favelas. But even if you're not interested in learning Portuguese, you can donate to provide food to those in need.  </p><br/>
-</div>
+</div><br/>
 
 ### Gerando Falcões
 
