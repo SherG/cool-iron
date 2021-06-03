@@ -35,7 +35,7 @@ The course is a highly-rated 7-day guide on how to sound like a native Brazilian
 But even if you're not interested in learning Portuguese, you can <a href="https://coronanoparedao.doare.org/br/doacao/gf/7e6de77a-81d3-4855-99ee-2edf0c12606b/Tropical-Portuguese" target="blank"><u>donate here</u></a> to provide food to those in need. (PayPal is accepted.) </p><br/>
 </div>
 
-### Gerando Falcões
+### Gerando Falcões: applying business savvy to social problems
 
 Students are asked to make a small donation if they like the course. All of the money raised goes to the favelas via a remarkable organization called Gerando Falcões ("Raising Falcons"). 
 
