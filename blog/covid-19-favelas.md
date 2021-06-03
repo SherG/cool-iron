@@ -8,9 +8,9 @@ tags: ['social entrepreneurship']
 
 Language instructor Vlad Souza from <a href="http://tropicalportuguese.com/" target="blank">TropicalPortuguese.com</a> has created a <a href="https://tropicalportuguese.teachable.com/p/mini-course-sound-like-brazilians" target="blanks">100% free Portuguese course</a> to help feed Brazilians living in the favelas. 
 
-## COVID-19 and Brazil's favelas
-
 Residents of the favelas are among those hardest hit by COVID-19.
+
+<img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/v1622704663/vlad-souza-tropical-portuguese_lcf8xj.jpg"/>
 
 * Many of them lack running water, which makes basic sanitation and hygiene impossible.
 * Crowded conditions make social distancing impossible. 
