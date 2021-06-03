@@ -10,8 +10,6 @@ Language instructor Vlad Souza from <a href="http://tropicalportuguese.com/" tar
 
 Residents of the favelas are among those hardest hit by COVID-19.
 
-<img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_300/v1622704663/vlad-souza-tropical-portuguese_lcf8xj.jpg"/>
-
 * Many of them lack running water, which makes basic sanitation and hygiene impossible.
 * Crowded conditions make social distancing impossible. 
 * Those who do work put themselves and their families at risk of catching COVID-19. 
@@ -29,6 +27,10 @@ Brazil has been devastated by the COVID-19 outbreak, suffering the second highes
 
 Vlad's course is a 7-day guide on how to sound like a native Brazilian:<br/>
 https://tropicalportuguese.teachable.com/p/mini-course-sound-like-brazilians
+
+<img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_300/v1622704663/vlad-souza-tropical-portuguese_lcf8xj.jpg"/>
+<div style="padding-left: 2.3em; background-color: whitesmoke"><br/><p>Vlad (pronounced "Vlagee") has created a mini-course to raise funds for the favelas. But even if you're not interested in learning Portuguese, you can donate to provide food to those in need.  </p><br/>
+</div>
 
 ### Gerando Falcões
 
