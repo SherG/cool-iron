@@ -34,6 +34,36 @@ describe('Loading Pages', () => {
     cy.contains('Introduction to Gridsome')
   })
 
+  it('visits the docs page', () => {
+    cy.visit('/docs')
+      .contains('Vue Components in Markdown')
+  })
+
+     it('can click the docs page', () => {
+    cy.visit('/')
+
+    cy.get('[data-cypress=docs]').click()
+
+    cy.url().should('include', '/docs')
+    cy.contains('Vue Components in Markdown')
+  })
+
+  it('can visit a single doc post', () => {
+    cy.visit('/docs/vue-components-in-markdown')
+
+    cy.url().should('include', '/docs/vue-components-in-markdown')
+    cy.contains('Vue Components in Markdown')
+  })
+
+  it('can click a single doc post', () => {
+    cy.visit('/docs')
+
+    cy.contains('Vue Components in Markdown').click()
+
+    cy.url().should('include', '/docs/vue-components-in-markdown')
+    cy.contains('Vue Components in Markdown')
+  })
+})
 
 
 describe('Page Scroll to Sections', () => {
