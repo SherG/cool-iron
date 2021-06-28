@@ -1,7 +1,7 @@
 ---
 title: Food for the Favelas - COVID-19 Spurs Social Entrepreneurship in Brazil
 path: /covid-19-favelas
-date: 2021-06-02
+date: 2021-06-01
 summary: Social entrepreneurship is riding to the rescue of Brazil's favelas. What's missing? You. 
 tags: ['social entrepreneurship']
 ---
