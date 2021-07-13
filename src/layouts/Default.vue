@@ -36,7 +36,7 @@
           </li>
           <li>
             <a v-if="$route.path === '/'" href="/#contact" v-scroll-to="{ el: '#contact', offset: -25 }" class="text-copy-primary hover:text-gray-600" data-cypress="contact">Contact</a>
-            <g-link v-else to="/#contact" class="text-copy-primary hover:text-gray-600">Contact</g-link>
+            <g-link v-else to="/#contact" class="text-copy-primary hover:text-gray-600">Connect</g-link>
           </li>
           <li>
             <g-link to="/blog" class="text-copy-primary hover:text-gray-600" data-cypress="blog">Blog</g-link>
