@@ -6,4 +6,4 @@ summary: This is a test post made during maintenance.
 tags: ['security']
 ---
 
-This is a temporary test post
+This is a temporary test post - testing build command
