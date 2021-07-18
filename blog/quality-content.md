@@ -55,7 +55,7 @@ Here are some sample descriptions of web pages that deserve a "low" ranking:
 
 ### High quality content
 
-Here are some quotes from the guide on high quality content: 
+Here are some quotes on high quality content from the guide: 
 * "original, accurate, comprehensive, clearly communicated, professionally presented"
 * "High level of Expertise, Authoritativeness, and Trustworthiness . . ." (Referred to colloquially as "EAT." EAT is determined in context of the purpose of the page.)
 * Quality of a website may also take into account the amount of quality content: "A satisfying amount of high quality MC (main content) . . ."
