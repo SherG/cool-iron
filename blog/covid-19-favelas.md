@@ -6,7 +6,7 @@ summary: Social entrepreneurship is riding to the rescue of Brazil's favelas. Wh
 tags: ['social entrepreneurship']
 ---
 
-Vladimir Souza from <a href="http://tropicalportuguese.com/" target="blank">TropicalPortuguese.com</a> has created a <a href="https://tropicalportuguese.teachable.com/p/mini-course-sound-like-brazilians" target="blanks">100% free Portuguese course</a> to help feed Brazilians living in the favelas. 
+Vlad Souza from <a href="http://tropicalportuguese.com/" target="blank">TropicalPortuguese.com</a> has created a <a href="https://tropicalportuguese.teachable.com/p/mini-course-sound-like-brazilians" target="blanks">100% free Portuguese course</a> to help feed Brazilians living in the favelas. 
 
 Residents of the favelas are among those hardest hit by COVID-19.
 
@@ -27,9 +27,7 @@ In Brazil, which has suffered the second highest number of deaths worldwide, a c
 ## Vlad's course and how to donate
 
 <img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_300/v1622704663/vlad-souza-tropical-portuguese_lcf8xj.jpg"/>
-<div style="padding-left: 2.3em; background-color: whitesmoke"><br/><p>Vlad (pronounced "Vlagee") has created a mini-course to raise funds for the favelas. 
-
-The course is a highly-rated 7-day guide on how to sound like a native Brazilian:<br/>
+<div style="padding-left: 2.3em; background-color: whitesmoke"><br/><p>Vlad (pronounced "Vlagee") has created a highly-rated mini-course on how to sound like a native Brazilian:<br/>
 <a href="https://tropicalportuguese.teachable.com/p/mini-course-sound-like-brazilians" target="blank">https://tropicalportuguese.teachable.com/p/mini-course-sound-like-brazilians</a>
 
 But even if you're not interested in learning Portuguese, you can <a href="https://coronanoparedao.doare.org/br/doacao/gf/7e6de77a-81d3-4855-99ee-2edf0c12606b/Tropical-Portuguese" target="blank"><u>donate here</u></a> to provide food to those in need. (PayPal is accepted.) </p><br/>
