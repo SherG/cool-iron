@@ -30,7 +30,7 @@ In Brazil, which has suffered the second highest number of deaths worldwide, a c
 <div style="padding-left: 2.3em; background-color: whitesmoke"><br/><p>Vlad (pronounced "Vlagee") has created a highly-rated mini-course on how to sound like a native Brazilian:<br/>
 <a href="https://tropicalportuguese.teachable.com/p/mini-course-sound-like-brazilians" target="blank">https://tropicalportuguese.teachable.com/p/mini-course-sound-like-brazilians</a>
 
-But even if you're not interested in learning Portuguese, you can <a href="https://coronanoparedao.doare.org/br/doacao/gf/7e6de77a-81d3-4855-99ee-2edf0c12606b/Tropical-Portuguese" target="blank"><u>donate here</u></a> to provide food to those in need. (PayPal is accepted.) </p><br/>
+Not interested in learning Portuguese? You can <a href="https://coronanoparedao.doare.org/br/doacao/gf/7e6de77a-81d3-4855-99ee-2edf0c12606b/Tropical-Portuguese" target="blank"><u>donate here</u></a> to provide food to those in need. (PayPal is accepted.) </p><br/>
 </div>
 
 ### Gerando Falcões: applying business savvy to social problems
