@@ -71,17 +71,19 @@ This is ironic given Facebook's fact-checking journalists are well-versed in ins
 
 Facebook has an opt-in, opt-out system. That’s the best you can get with marketing. Like it? Join and stay. Don’t like it? Don’t join or leave. 
 
-Facebook became powerful because billions of consumers said “Yes, we like this!” 
+Facebook became powerful because billions of consumers said “Yes, we like this!”
 
-Feedback is always important, especially if it's unfiltered and unmarred by "expert re-interpretation" or skewed assumptions. But the need for a political intervention was/is questionable. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)  
+Feedback is always important, especially if it's unfiltered and unmarred by "expert re-interpretation" or skewed assumptions. But the need for a political intervention always was questionable. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)  
 
 ### Antitrust, Censorship, and Narrative Shaping
 
-Now, I’ve criticized this “Post-it” note system for its flaws and for the lack of evidence that it produces a needed benefit, but my contention is it’s not designed to work -- at least not in the way you expect. It’s partly a price extracted by the politicians who’ve pushed the social media giant between the Scylla of <a href="https://newsfilter.io/articles/why-facebook-and-google-face-the-most-risk-in-an-overhaul-of-antitrust-law-c2c1d6a16a2bd9a9cb0125e2f4f9e1c7" target="blank">antitrust action</a> (right and left) and the Charybdis of “Make people stop saying stupid things and things we find abhorrent!” (on the left).
+Now, I’ve criticized this “Post-it” note system for its flaws and for the lack of evidence that it produces a needed benefit, but my contention is it’s not designed to work -- at least not in the way you expect. 
+
+It’s partly a price extracted by the politicians who’ve pushed the social media giant between the Scylla of <a href="https://newsfilter.io/articles/why-facebook-and-google-face-the-most-risk-in-an-overhaul-of-antitrust-law-c2c1d6a16a2bd9a9cb0125e2f4f9e1c7" target="blank">antitrust action</a> (right and left) and the Charybdis of “Make people stop saying things we find abhorrent!” (on the left).
 
 Facebook has struck a bargain with Charybdis which may not save it from rocky crags of Scylla. And then there's the threatened revocation of Section 230 (<a href="https://www.commerce.senate.gov/2020/10/committee-to-hold-hearing-with-big-tech-ceos-on-section-230" target="blank">on the right</a>) as well.
 
-In the meantime, unfortunately, we'll be treated to the continuing spectacle of <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_Natl_010813_.pdf" target="blank">politicians</a> on the right and left grilling Zuckerberg in public Kabuki theater, and fighting for greater control of Facebook. 
+In the meantime, unfortunately, we'll be treated to the continuing spectacle of <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_Natl_010813_.pdf" target="blank">politicians</a> on the right and left grilling Zuckerberg in public <a href="https://en.wikipedia.org/wiki/Kabuki_dance" target="blank">Kabuki</a> theater and fighting for greater control of Facebook. 
 
 The signs of this political struggle are strewn across Facebook's newsfeeds.
 
@@ -98,15 +100,6 @@ No thanks.
 
 <hr>
 
-### Why discuss this on SignalFox? 
-
-Given this was my personal Facebook account, you may be wondering why I chose to publish this post on a business website. I've been reading and encountering in conversations, (1) greater pushback among business owners against the idea that Facebook is important or even useful to business, and (2) a trend - albeit unmeasured - of disillusioned individuals leaving Facebook. 
-
-I'm interested in whether these phenomena will develop into a significant trend. I'm also interested in what unintended consequences may ensue from the fact-checking program. For that reason, I'll continue to share related information here that I believe our readers will find of interest. And I'll have more to say soon about controversies surrounding Facebook.
-
-Facebook advertising continues to be a powerful way to <a href="/see-think-do-model">boost initial awareness</a> for a brand, and to entice people to begin learning about your business. But YouTube (with its long-form podcasts and videos) and your website are two of the best platforms for fostering in-depth exploration. 
-
-<br/>
 
 ### Related 
 
