@@ -43,7 +43,7 @@ Not all old domains are in this price range, of course. If you decide to explore
 
 And, like the CEO I mentioned, you'll want to be clear on the value proposition you're investing in. 
 
-<em>Tip: Thinking of switching domains? Exercise caution before dumping your current domain name. It may have more SEO and monetary value than you are aware of.</em></p>
+<em>Tip: Thinking of switching domains? Exercise caution before dumping your current domain name. It may have more SEO and monetary value than you are aware of. One organization I'm familiar with, changed their brand and dumped their valuable (and very old) 3-letter domain name only to have it snapped up immediately by the Bill & Melinda Gates Foundation. The domain now redirects to the Gates site. </em></p>
 </details>
 
 ### Spam score 
