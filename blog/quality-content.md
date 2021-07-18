@@ -57,8 +57,8 @@ Here are some sample descriptions of web pages that deserve a "low" ranking:
 
 Here are some quotes on high quality content from the guide: 
 * "original, accurate, comprehensive, clearly communicated, professionally presented"
-* "High level of Expertise, Authoritativeness, and Trustworthiness . . ." (Referred to colloquially as "EAT." EAT is determined in context of the purpose of the page.)
-* Quality of a website may also take into account the amount of quality content: "A satisfying amount of high quality MC (main content) . . ."
+* "High level of Expertise, Authoritativeness, and Trustworthiness . . ." (This is referred to colloquially as "EAT." EAT is determined in context of the purpose of the page.)
+* The <em>amount</em> of quality content can also be a factor: "A satisfying amount of high quality MC (main content) . . ." (Emphasis ours)
 * Google may take into account website reputation, as inferred (partly) from third-party groups. Example: "This is a highly reputable charity <em>according to multiple charity rating organizations</em>." (Emphasis ours)
 
 The functionality on the website is also considered when assessing quality. For example, in the case of a shopping cart, is the checkout smooth, simple, intuitive? Or is it confusing to the user? Is there a clear return/refund policy (if relevant)? Is it easy to find what you're looking for? Is it easy to discover who the website owner is? 
@@ -67,13 +67,13 @@ The functionality on the website is also considered when assessing quality. For 
 
 Medium quality is described as "Nothing wrong, but nothing special."
 
-## Formatting and order
+## Format and order
 
-Read Jakob Nielsen's groundbreaking research on <a href="https://www.nngroup.com/articles/how-users-read-on-the-web/" target="blank">How Users Read on the Web</a>. The summary? "They don't. People rarely read Web pages word by word; instead, they scan the page . . . "  
+Read Jakob Nielsen's groundbreaking research on <a href="https://www.nngroup.com/articles/how-users-read-on-the-web/" target="blank">How Users Read on the Web</a>. The summary? "They don't. People rarely read web pages word by word; instead, they scan the page . . . "  
 
-This research was conducted in 1997 but subsequent research has repeatedly arrived at the same conclusion. 
+This research was conducted by the Nielsen Norman Group in 1997 but subsequent research has repeatedly arrived at the same conclusion. 
 
-Nielsen's site offers tips on how to format your page to communicate effectively.
+Nielsen's site offers tips on how to format your page to communicate effectively and the articles themselves are tutorials for the observant.
 
 ### Logical structure
 
@@ -108,11 +108,11 @@ To give yourself a chance of ranking in the top 5 articles about a subject, try 
 * To start driving traffic to your site, try to have at least 3 articles that rank in the top 5 search results for their keyword (i.e., subject). 
 
 
-## Summary
+## Unsexy fundamentals
 
-These simple actions are the unsexy fundamentals. And they should be diligently followed whenever you create and post an article. 
+These simple ideas and actions are the unsexy fundamentals. And they should be kept in mind whenever you create and post an article. 
 
-Many website owners skip over the unsexy fundamentals. And that provides an opportunity for you.
+Most website owners skip over the unsexy fundamentals. And that provides an opportunity for you.
 
 
 ### Related
