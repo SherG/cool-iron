@@ -43,7 +43,7 @@ Not all old domains are in this price range, of course. If you decide to explore
 
 And, like the CEO I mentioned, you'll want to be clear on the value proposition you're investing in. 
 
-<em>Tip: Thinking of switching domains? Exercise caution before dumping your current domain name. It may have more value than you are aware of.</em></p>
+<em>Tip: Thinking of switching domains? Exercise caution before dumping your current domain name. It may have more SEO and monetary value than you are aware of.</em></p>
 </details>
 
 ### Spam score 
@@ -87,7 +87,7 @@ Conversely, it's very good at identifying content that was thrown together in a 
 
 The number and quality of inbound links (and referring domains) to your site is important for your ranking. 
 
-Conversely, inbound links that are from spurious websites may harm the ranking of your pages. Identifying whether you have such inbound links, and disavowing those links is an advanced topic. Executing the disavowals may best handled by an SEO professional.
+Conversely, inbound links that are from spurious websites may harm the ranking of your pages. Identifying whether you have such inbound links, and disavowing those links is an advanced topic. Executing the disavowals can be handled by an SEO professional. Realize though, that there are SEO software tools that include tutorials on how to do this yourself. 
 
 <em>Never</em> pay other site owners to link to you. It's <a href="https://developers.google.com/search/docs/advanced/guidelines/link-schemes?visit_id=637514569346533899-2898345478&rd=1" target="blank">against Google's guidelines</a> and will sink your site.
 
