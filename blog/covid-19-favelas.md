@@ -27,7 +27,9 @@ In Brazil, which has suffered the second highest number of deaths worldwide, a c
 ## Vlad's course and how to donate
 
 <img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_300/v1622704663/vlad-souza-tropical-portuguese_lcf8xj.jpg"/>
-<div style="padding-left: 2.3em; background-color: whitesmoke"><br/><p>Vlad (pronounced "Vlagee") has created a highly-rated mini-course on how to sound like a native Brazilian:<br/>
+<div style="padding-left: 2.3em; background-color: whitesmoke"><br/><p>Vlad (pronounced "Vlagee") has created a mini-course to raise funds for the favelas.
+
+The course is a highly-rated 7-day guide on how to sound like a native Brazilian:
 <a href="https://tropicalportuguese.teachable.com/p/mini-course-sound-like-brazilians" target="blank">https://tropicalportuguese.teachable.com/p/mini-course-sound-like-brazilians</a>
 
 Not interested in learning Portuguese? You can <a href="https://coronanoparedao.doare.org/br/doacao/gf/7e6de77a-81d3-4855-99ee-2edf0c12606b/Tropical-Portuguese" target="blank"><u>donate here</u></a> to provide food to those in need. (PayPal is accepted.) </p><br/>
