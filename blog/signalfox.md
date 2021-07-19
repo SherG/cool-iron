@@ -6,7 +6,20 @@ summary: SignalFox provides free resources to small businesses looking to scale.
 tags: ['strategy']
 ---
 
-<em>Note: Sorry! But we're fully booked and cannot accept new clients. Free to peruse our free resources on this site. If you are a small business, making a minimum of $300k/year and looking for an agency recommendation, please use the contact form on the home page and be sure to include your business email (i.e., domain-based email) and industry. We are happy to help!</em>
+<em>Note: Sorry! But we're fully booked and cannot accept new clients. Free to peruse our free resources on this site. If you are a small business, we are happy to make an agency recommendation for you. However, given our limited time, we are limiting our recommendation to businesses that fit the following profile: 
+
+* Your business is pulling in at least $300k/year in revenue
+* Your business has had at least 2 years of profitability 
+* You're looking to improve on what's already working for your business.
+
+To receive our recommendation, please use the contact form on the home page. 
+
+*  Include your business domain-based email and industry.
+*  Your title
+  
+Rest assured we do not share your contact information with anyone.
+  
+We are happy to help!</em>
 
 SignalFox is now providing free resources to small business owners looking to scale. Our goal is to provide information drawn from experience on how to identify problems worth solving, prioritize those opportunities, and create a strategic plan for growth.
 
