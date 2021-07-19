@@ -22,6 +22,8 @@ Rest assured we do not share your contact information with anyone.
   
 We are happy to help!</em>
 
+<hr/>
+
 SignalFox is now providing free resources to small business owners looking to scale. Our goal is to provide information drawn from experience on how to identify problems worth solving, prioritize those opportunities, and create a strategic plan for growth.
 
 Excellence in digital can bring:
