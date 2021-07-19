@@ -6,11 +6,12 @@ summary: SignalFox provides free resources to small businesses looking to scale.
 tags: ['strategy']
 ---
 
-<em>Note: Sorry! But we're fully booked and cannot accept new clients. Free to peruse our free resources on this site. If you are a small business, we are happy to make an agency recommendation for you. However, given our limited time, we are limiting our recommendation to businesses that fit the following profile: 
+<em>Note: Sorry! But we're fully booked and cannot accept new clients. Free to peruse our free resources on this site. If you are a small business, we are happy to make an agency recommendation for you. However, given our limited time, we are only providing recommendations to businesses that fit the following profile: 
 
 * Your business is pulling in at least $300k/year in revenue
 * Your business has had at least 2 years of profitability 
-* You're looking to improve on what's already working for your business.
+* You have systems in place that generate leads and sales and you track KPIs
+* You're looking to scale 
 
 To receive our recommendation, please use the contact form on the home page. 
 
