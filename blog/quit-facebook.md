@@ -39,7 +39,7 @@ Before deleting my account I caught my first glimpse of Facebook’s “warning�
 
 Warning labels stuck like annoying Post-its on casual comments change the platform's atmosphere. It's not just you and your friends and acquaintances socializing anymore, it's you, them, and a phalanx of <a href="https://www.youtube.com/watch?v=YsShZNHmpGE" target="blank">intrusive busybodies</a>. 
 
-### Interventionists and the Lure of the Transgressive
+### Interventionists and the lure of the transgressive
 
 If people’s minds are really so feeble that they need professional assistance just to make their way through low-definition social media posts, then it’s a problem that Post-it notes aren’t going to fix. Indeed, outsourcing our thinking (and therefore agency) to others is an underlying societal fault line. 
 
@@ -67,7 +67,7 @@ Unfortunately, Facebook's program has gone far beyond the stated mission of fact
 
 This is ironic given Facebook's fact-checking journalists are well-versed in instances where the government has <a href="https://www.mtsu.edu/first-amendment/article/897/chilling-effect" target="blank">chilled speech</a>.
 
-## Busybodies Push Facebook Into the Strait of Messina
+## Busybodies push Facebook into the Strait of Messina
 
 Facebook has an opt-in, opt-out system. That’s the best you can get with marketing. Like it? Join and stay. Don’t like it? Don’t join or leave. 
 
@@ -88,7 +88,7 @@ In the meantime, unfortunately, we'll be treated to the continuing spectacle of 
 The signs of this political struggle are strewn across Facebook's newsfeeds.
 
 
-## In Sum 
+## In sum 
 
 Mr. Zuckerberg, thanks for all the good times. I've had a lot of laughs and fun on Facebook, sharing photos and humor. I've played games and been entertained. I've enjoyed seeing my friends' updates and having conversations as well as learning things from my brainy friends' Facebook Notes. But this is not the best use of my time.
 
