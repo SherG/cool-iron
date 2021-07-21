@@ -75,7 +75,7 @@ Facebook became powerful because billions of consumers said “Yes, we like this
 
 Feedback is always important, especially if it's unfiltered and unmarred by "expert re-interpretation" or skewed assumptions. But the need for a political intervention always was questionable. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)  
 
-### Antitrust, Censorship, and Narrative Shaping
+### Antitrust, censorship, and narrative shaping
 
 Now, I’ve criticized this “Post-it” note system for its flaws and for the lack of evidence that it produces a needed benefit, but my contention is it’s not designed to work -- at least not in the way you expect. 
 
