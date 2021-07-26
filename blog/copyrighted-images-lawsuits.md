@@ -135,6 +135,8 @@ I hope you've found this information useful. Developing good habits now regardin
 
 ### Related Reading
 
+<a href="/copyright-trolls/">How Using the Wrong Photo Can Put You Out of Business</a> - SignalFox
+
 <a href="https://www.extortionletterinfo.com/" target="blank">Extortion Letter Info (ELI)</a>
 Reports on stock photo settlement demand letters. 
 
