@@ -6,7 +6,7 @@ summary: Trolls are lying in wait to fleece you over a photo on your website.
 tags: ['security']
 ---
 
-Back in January of 2019 <a href="/copyrighted-images-lawsuits" target="blank">I wrote about</a> how careful you need to be regarding every single image that you use for your business or non-profit. A single slip up -- using an image you don't have the legal right to use, or not attributing it exactly as the photographer requested -- can get you fined up to $150,000 <em>per image</em>.
+Back in January of 2019 <a href="/copyrighted-images-lawsuits" target="blank">I wrote about</a> how careful you need to be regarding every single image that you use for your business or non-profit. A single slip up — using an image you don't have the legal right to use, or not attributing it exactly as the photographer requested — can get you fined up to $150,000 <em>per image</em>.
 
 The fact that some people take photographs on purpose and place them on websites like Wikimedia Commons in order to lure the clueless into mis-using the photos, is why the term "copyright troll" exists. 
 
