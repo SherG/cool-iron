@@ -10,8 +10,6 @@ Back in January of 2019 <a href="/copyrighted-images-lawsuits" target="blank">I 
 
 The fact that some people take photographs on purpose and place them on websites like Wikimedia Commons in order to lure the clueless into mis-using the photos, seems to warrant the popular term "troll."
 
-You can compare the troll to the office weirdo who puts chocolate out in an enticing dish, offering it to everyone, then berates them later for eating too much of it. (Yes, this actually happened to someone I know.)
-
 If you're new to the troll racket then take 3 minutes to read <a href="https://www.bloomberg.com/news/articles/2021-06-28/copyright-law-how-rock-photographer-larry-philpot-perfected-usage-lawsuits" target="blank">this short Bloomberg piece</a>. 
 
 Then do a serious re-think of who has access to post on your website. As <a href="/copyrighted-images-lawsuits" target="blank">I wrote back in 2019</a>: 
