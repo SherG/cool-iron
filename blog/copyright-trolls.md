@@ -8,7 +8,7 @@ tags: ['images','website management']
 
 Back in January of 2019 <a href="/copyrighted-images-lawsuits" target="blank">I wrote about</a> how careful you need to be regarding every single image that you use for your business or non-profit. A single slip up — using an image you don't have the legal right to use, or not attributing it exactly as the photographer requested — can get you fined up to $150,000 <em>per image</em>.
 
-The fact that some people take photographs on purpose and place them on websites in order to lure the clueless into mis-using the photos, seems to warrant the popular term "troll."
+The fact that some people take photographs on purpose and place them on websites like Wikimedia in order to lure the clueless into mis-using the photos, seems to warrant the popular term "troll."
 
 If you're new to the troll racket then take 3 minutes to read <a href="https://www.bloomberg.com/news/articles/2021-06-28/copyright-law-how-rock-photographer-larry-philpot-perfected-usage-lawsuits" target="blank">this recent Bloomberg piece</a>. 
 
