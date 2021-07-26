@@ -2,7 +2,7 @@
 title: How Using the Wrong Photo Can Put You Out of Business
 path: /copyright-trolls
 date: 2021-07-26
-summary: Trolls are lying in wait to fleece you over a photo on your website.
+summary: Trolls are lying in wait to fleece you over a photo on your website. Time to get your office policies in order.
 tags: ['images','website management']
 ---
 
