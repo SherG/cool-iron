@@ -27,6 +27,6 @@ Then do a serious re-think of who has access to post on your website. As <a href
 
 <a href="copyrighted-images-lawsuits/">Using Copyrighted Images Online - What You Don't Know Can Hurt You</a> - SignalFox
 
-<a href="https://www.jdsupra.com/legalnews/beware-of-the-trolls-recent-uptick-in-63839/" target="blank">Beware of the Trolls: Recent Uptick in Copyright Trolling and What You Should Do</a> -- Heidi Crikelair and David Perry of <a href="https://www.blankrome.com/" target="blank">Blank Rome LLC</a>.
+<a href="https://www.jdsupra.com/legalnews/beware-of-the-trolls-recent-uptick-in-63839/" target="blank">Beware of the Trolls: Recent Uptick in Copyright Trolling and What You Should Do</a> — Heidi Crikelair and David Perry of <a href="https://www.blankrome.com/" target="blank">Blank Rome LLC</a>.
 
 
