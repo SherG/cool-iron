@@ -18,7 +18,7 @@ The BBC reported in April that some residents are lining up <a href="https://www
 
 <div style="padding-left: 2.5em;"><p>They are given a bowl of pasta with meat and a portion of rice, two packets of biscuits and a carton of milk, shared between a whole household and usually their only meal of the day.</p></div>
 
-The reporter quoted a mother whose family faces homelessness: "I was hoping for a good life," she says, clearly at the brink.
+The reporter quoted a mother whose family faces homelessness: "I was hoping for a good life," she says, at the brink.
 
 Approximately 6% of Brazilian residents live in favelas, or <a href="https://www.bbc.com/news/world-latin-america-27635554" target="blank">over 11 million</a>. The BBC estimates that lockdowns and business failures have pushed an additional 9 million into poverty.
 
@@ -56,7 +56,7 @@ The General Electric (G.E.) Foundation in the United States is <a href="https://
 
 ## Will you join us?
 
-Bravo to Vlad. This is a creative use of social entrepreneurship and marketing. 
+Bravo to Vlad. This is a creative use of social entrepreneurship and marketing. And thank you to my Latin America-based colleague who told me about Vlad's venture. 
 
 To my readers: would you please consider <a href="https://coronanoparedao.doare.org/br/doacao/gf/7e6de77a-81d3-4855-99ee-2edf0c12606b/Tropical-Portuguese" target="blank">making a donation</a> today? It takes just a few minutes to make a profound impact. 
 
