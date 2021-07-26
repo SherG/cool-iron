@@ -3,7 +3,7 @@ title: Using Copyrighted Images Online - What You Don't Know Can Hurt You
 path: /copyrighted-images-lawsuits
 date: 2019-01-03
 summary: You can be fined up to $150,000 per unlicensed image posted on your website or blog. Find out how to manage your risk and prevent copyright infringement.
-tags: ['images', 'website management']
+tags: ['images' , 'website management']
 ---
 
 
