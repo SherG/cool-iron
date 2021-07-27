@@ -2,6 +2,7 @@
 /see-think-do-model/)-modellen* /see-think-do-model/
 /see-think-do* /see-think-do-model/
 /see-think-do/* /see-think-do-model/
+/docs/* /blog/
 
 # Redirect default Netlify subdomain to primary domain
 https://cool-iron-687a6.netlify.app/* https://www.signalfox.org/:splat 301!
