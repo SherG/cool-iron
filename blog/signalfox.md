@@ -8,8 +8,7 @@ tags: ['strategy']
 
 <em>Note: Sorry! But we're fully booked and cannot accept new clients. Free to peruse our free resources on this site. If you are a small business, we are happy to make an agency recommendation for you. However, given our limited time, we are only providing recommendations to businesses that fit the following profile: 
 
-* Minimum $300k/year in revenue
-* Minimum 2 years of profitability 
+* Minimum $300k/year in revenue (or, if a startup, you have equivalent contracts)
 * Processes to generate leads and sales are in place and you track and understand KPIs
 * You want to scale 
 
