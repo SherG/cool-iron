@@ -10,7 +10,7 @@ tags: ['strategy']
 
 * Minimum $300k/year in revenue
 * Minimum 2 years of profitability 
-* Processes to generate leads and sales are in place and you track KPIs
+* Processes to generate leads and sales are in place and you track and understand KPIs
 * You want to scale 
 
 To receive our recommendation, please use the contact form on the home page. 
