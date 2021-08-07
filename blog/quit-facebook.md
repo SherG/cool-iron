@@ -73,7 +73,7 @@ Facebook has an opt-in, opt-out system. That’s the best you can get with marke
 
 Facebook became powerful because billions of consumers said “Yes, we like this!”
 
-Feedback is always important, especially if it's unfiltered and unmarred by "expert re-interpretation" or skewed assumptions. But the need for a political intervention always was questionable. This is something perpetual busybodies don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)  
+Feedback is always important, especially if it's unfiltered and unmarred by "expert re-interpretation" or skewed assumptions. But the need for a political intervention always was questionable. Often, political interventions do more harm than good. This is something <a href="https://www.goodreads.com/quotes/19967-of-all-tyrannies-a-tyranny-sincerely-exercised-for-the-good">perpetual busybodies</a> don’t understand. (The world would perhaps be a far kinder, better place if said busybodies attended to ridding themselves of their own hypocrisies and errors in thinking, rather than trying to police others.)  
 
 ### Antitrust, censorship, and narrative shaping
 
