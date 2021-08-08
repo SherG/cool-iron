@@ -106,11 +106,11 @@ If your situation falls into one of these categories, consider scouring each pag
 
 ## How to Find Photos Online and Obtain Licenses
 
-My colleague over at Digital.com, <a href="https://danielleantosz.com/" target="blank">Danielle Antosz</a>, has put together a comprehensive article on <a href="https://digital.com/blog/stock-photos/" target="blank">stock photos</a> that will tell you where you can get high-quality free stock photos or editorial ('newsmaker') photos plus tips on how licenses work.
+<a href="https://danielleantosz.com/" target="blank">Danielle Antosz</a>, has put together a comprehensive article on <a href="https://digital.com/blog/stock-photos/" target="blank">stock photos</a> that will tell you where you can get high-quality free stock photos or editorial ('newsmaker') photos plus tips on how licenses work.
 
 You'll learn about public domain images and Creative Commons licenses as well. 
 
-Given Digital.com's popularity with small business owners, we're hoping this article will reach many business owners who are looking for answers to these questions.
+Given Digital.com's popularity with small business owners, this article will reach many business owners who are looking for answers to these questions.
 
 ### Tip: Read the License 
 
