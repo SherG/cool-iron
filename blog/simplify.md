@@ -45,13 +45,13 @@ Sometimes when we set out to solve a key problem, we can get pulled off course b
 
 This shows up as the placement of unnecessary hurdles to be cleared before the original problem can be solved.
 
-Because circumstances are such that there is no moving forward with a perfect solution for the problem-cluster, you stay stuck.
+Because circumstances are such that there is no moving forward with a perfect solution for the problem-cluster, we stay stuck. 
 
 I call this PIC - or problem identification creep. It’s similar to scope creep: a bloating of the work at hand. PIC bars progress and delays results.
 
 Coming up with solutions is easy. Identifying problems <em>worth solving</em> requires clear thinking. 
 
-Staying focused on your most important problem(s) is key. Without this clarity, you may rush into action, wasting resources. This busyness may diffuse the anxiety that comes from the psychic burden of a half-assed situation. But that burden will grow.
+Staying focused on your most important problem(s) is key. Without this clarity, you may rush into action, wasting resources. This busyness may diffuse the anxiety that comes from the psychic burden of a half-assed situation. But that burden will grow.  And we may wind up discounting <a href="https://twitter.com/visualizevalue/status/1279132741032906753" target="blank">persistence</a>.
 
 So what can you do to avoid this scenario? 
 
