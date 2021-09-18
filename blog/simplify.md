@@ -130,9 +130,9 @@ In an <a href="https://www.youtube.com/watch?v=l-vfn97QTr0" target="blank">inter
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l-vfn97QTr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Reinhardt persuaded his team that they should create an attractive landing page explaining the idea, with a sign-up form, and post it on Hacker News. Reinhardt knew no one would be interested. This would quickly kill the idea. And everyone could get back to brainstorming.
+Reinhardt persuaded his team that they should create an attractive landing page explaining the idea, with a sign-up form, and post it on Hacker News. Reinhardt knew no one would be interested. This seemed to be a good way to kill the idea so everyone could get back to brainstorming.
 
-However, something unexpected happened after they posted the landing page. Interest <em>exploded</em>.
+After posting the landing page, the unexpected happened. Interest <em>exploded</em>.
 
 Fast-forward to 2020: Reinhardt and his co-founders sold Segment to Twilio for $3.2 billion.
 
