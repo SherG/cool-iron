@@ -55,7 +55,11 @@ Staying focused on your most important problem(s) is key. Without this clarity, 
 
 So what can you do to avoid this scenario? 
 
+<hr>
+
 When the mental clutter starts accumulating, I simply stop and ask <em>again</em>: What problem am I trying to solve? 
+
+<hr>
 
 That question brings me back to the main thing, back from the rabbit trails, back from 101 pointless ideas. Everything comes back into sharp focus. It’s clear what my 1,2 or 3 options are. A decision follows quickly. The problem is resolved.
 
