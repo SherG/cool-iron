@@ -6,7 +6,7 @@ summary: Feeling overwhelmed? Try uncomplicating things.
 tags: ['models']
 ---
 
-Back when I was performing as a guitarist in South Florida, I sometimes did session work on the side. One night, while performing live on South Beach, I was approached by Brazilian singer Iramar and his producer to lay down some tracks on an upcoming album. 
+Back when I was performing as a guitarist in South Florida, I sometimes did session work on the side. One night, while playing on South Beach, I was approached by Brazilian singer Iramar and his producer to lay down some tracks on an upcoming album. 
 
 Recorded at <a href="https://www.mixonline.com/recording/ocean-vu-studio-373693" target="blank">Ocean VU Studio</a> in 1995 with Victor Di Persia at the console, the album was released under the title: “<a href="https://immub.org/artista/iramar" target="blank">é fácil complicar</a>.” Translated: “It’s easy to complicate things.”
 
