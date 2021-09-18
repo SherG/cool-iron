@@ -62,7 +62,7 @@ When the mental clutter starts accumulating, I simply stop and ask myself again:
 
 <hr>
 
-That question brings me back to the main thing, back from the rabbit trails, back from 101 pointless ideas. Everything snaps into focus. My options are clear. A decision follows quickly. The problem is resolved.
+Everything snaps into focus. My options are clear. A decision follows quickly. The problem is resolved.
 
 Using a <a href="/business-priorities">tool like this one</a> can also help you easily identify problems worth solving. 
 
