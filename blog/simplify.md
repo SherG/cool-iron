@@ -3,7 +3,7 @@ title: It's Easy to Complicate Things
 path: /simplify
 date: 2021-09-17
 summary: Feeling overwhelmed? Try uncomplicating things. 
-tags: ['execution']
+tags: ['models']
 ---
 
 Back when I was performing as a guitarist in South Florida, I sometimes did session work on the side. One night, while performing live on South Beach, I was approached by Brazilian singer Iramar and his producer to lay down some tracks on an upcoming album. 
