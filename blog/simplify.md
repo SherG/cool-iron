@@ -1,7 +1,7 @@
 ---
 title: It's Easy to Complicate Things
 path: /simplify
-date: 2020-09-17
+date: 2021-09-17
 summary: Feeling overwhelmed? Try uncomplicating things. 
 tags: ['execution']
 ---
