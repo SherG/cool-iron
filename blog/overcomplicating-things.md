@@ -137,7 +137,7 @@ Reinhardt persuaded his team that they should create a landing page explaining t
 
 After posting the landing page however, something unexpected happened. Interest <em>exploded</em>.
 
-Fast-forward to 2020: Reinhardt and his co-founders sold Segment to Twilio for $3.2 billion.
+Fast-forward to 2020: after 9 years of rapid growth and success, Reinhardt and his co-founders sold Segment to Twilio for $3.2 billion.
 
 
 ## Summing it up
