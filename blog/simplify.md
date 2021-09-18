@@ -41,7 +41,7 @@ Start compiling a list of your own thought-joggers. You’ll be surprised at the
 
 ## 2. We’ve forgotten what we’re solving for
 
-Sometimes when we set out to solve a key problem, we can get pulled off course by overthinking. We wind up trying to solve a cluster of problems at the same time, with the most important one drowned in the mix.
+Sometimes when we set out to solve a key problem, we can get pulled off course by overthinking. We then wind up trying to solve a cluster of problems at the same time, with the most important one drowned in the mix.
 
 This shows up as the placement of unnecessary hurdles to be cleared before the original problem can be solved.
 
