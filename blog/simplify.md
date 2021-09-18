@@ -57,7 +57,7 @@ So what can you do to avoid this scenario?
 
 <hr>
 
-When the mental clutter starts accumulating, I simply stop and ask <em>again</em>: What problem am I trying to solve? 
+When the mental clutter starts accumulating, I simply stop and ask: What problem am I trying to solve? 
 
 <hr>
 
