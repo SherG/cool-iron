@@ -122,9 +122,9 @@ A team member floated a new idea. "That is literally the worst idea I've ever he
 
 In an <a href="https://www.youtube.com/watch?v=l-vfn97QTr0" target="blank">interview with Y Combinator</a>, Reinhardt recalled:
 
-<div style="padding-left: 2.5em;"><p>So we fought about it all day long - there were four of us - I was the most skeptical, I think. There was literally, like, brutal fighting.</p>
+<div style="padding-left: 2.5em;"><p>So we fought about it all day long - there were four of us - I was the most skeptical, I think. There was literally, like, brutal fighting.</p></div>
 
-<div style="padding-left: 2.5em;"><p>I went home and I was trying to figure out how to kill the idea. I was awake half the night. Finally figured it out.</p>
+<div style="padding-left: 2.5em;"><p>I went home and I was trying to figure out how to kill the idea. I was awake half the night. Finally figured it out.</p></div>
 
 Reinhardt persuaded his team that they should create an attractive landing page explaining the idea, with a sign-up form, and post it on Hacker News. Reinhardt knew no one would be interested. This seemed to be a good way to kill the idea and get back to brainstorming.
 
