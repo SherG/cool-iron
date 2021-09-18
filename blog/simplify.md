@@ -28,7 +28,7 @@ Demand for Egan’s bass playing grew. After he graduated and moved to New York 
 
 This lateral shift unlocked a new future: Mark Egan went from being a “one-finger” bassist in college to being one of the world’s premier bassists.
 
-If you feel stuck in your business, the key here is to be willing to explore a pivot to something related.
+If you feel stuck in your business, why not explore a pivot to something related?
 
 Consider: 
 * Would you rather architect than build? 
