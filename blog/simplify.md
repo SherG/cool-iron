@@ -67,9 +67,9 @@ Good models can help you structure your thinking  and solve problems constructiv
 
 Some of my favorite marketing models are:
 
-* Acquisition, Behavior, Outcomes
-* See - Think - Do
-* Digital Measurement and Marketing 
+* <a href="/acquisition-behavior-outcomes">Acquisition, Behavior, Outcomes</a>
+* <a href="/see-think-do-model">See - Think - Do</a>
+* <a href="/dmmm">Digital Measurement and Marketing</a>
 
 Startups might want to consider Strategyzer or Startups.com for models and related online courses. 
 
