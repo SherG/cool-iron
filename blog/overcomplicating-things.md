@@ -122,7 +122,7 @@ While your intuition may open new avenues for creative exploration and testing, 
 
 <strong>Pivotal moment example</strong>: This example comes from <a href="https://segment.com/" target="blank">Segment</a>'s journey to find the right product-market fit. Working within the framework of Y Combinator, their first product had failed. They had 6 months of funding left to find a direction.
 
-A team member floated a new idea. "That is literally the worst idea I've ever heard," replied co-founder Peter Reinhardt, "I have no idea how you build a business around that." 
+A team member floated a new idea. "That is literally the worst idea I've ever heard," replied co-founder <a href="https://twitter.com/reinpk?lang=en" target="blank">Peter Reinhardt</a>, "I have no idea how you build a business around that." 
 
 In an <a href="https://www.youtube.com/watch?v=l-vfn97QTr0" target="blank">interview with Y Combinator</a>, Reinhardt recalled:
 
@@ -141,7 +141,7 @@ Fast-forward to 2020: Reinhardt and his co-founders sold Segment to Twilio for $
 
 ## Summing it up
 
-Have you ever turned a molehill into a mountain? Snatched defeat from the jaws of victory? 
+Have you ever turned a molehill into a mountain? Snatched defeat from the jaws of victory? Stubbonly stuck to your path even though it's going in circles? Refused to entertain opposing ideas? 
 
 Overcomplicating things can lead to completely avoidable problems. 
 
