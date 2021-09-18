@@ -49,11 +49,11 @@ Because circumstances are such that there is no moving forward with a perfect so
 
 I call this PIC - or problem identification creep. It’s similar to scope creep: a bloating of the work at hand that threatens to bar progress and delay results.
 
-Coming up with solutions is easy. People are quick to offer both solutions and ideas. But identifying problems worth solving requires clear thinking. 
+Coming up with solutions is easy. Identifying problems worth solving requires clear thinking. 
 
 Staying focused on your most important problem(s) is key.
 
-Without this clarity, you may rush into action wasting resources and time. This busyness may diffuse the anxiety that comes from the psychic burden of a half-assed situation. But that burden will grow.
+Without this clarity, you may rush into action, wasting resources. This busyness may diffuse the anxiety that comes from the psychic burden of a half-assed situation. But that burden will grow.
 
 So what can you do to avoid this scenario? 
 
