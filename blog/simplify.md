@@ -137,6 +137,6 @@ Fast-forward to 2020: Reinhardt and his co-founders sold Segment to Twilio for $
 
 Have you ever turned a molehill into a mountain? Snatched defeat from the jaws of victory? 
 
-Overcomplicating simple things can lead to completely avoidable problems. 
+Overcomplicating things can lead to completely avoidable problems. 
 
 We all do it. But the good news is, while it’s easy to complicate things it’s also easy to stop. 
