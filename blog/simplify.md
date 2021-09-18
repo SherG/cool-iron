@@ -110,7 +110,7 @@ Otherwise it’s too easy to get caught up in thousands of details and miss key 
 
 ## 5. Focusing on gut instinct rather than evidence
 
-Data is the only reliable steering system for your business. Therefore knowing how to collect it and sift it; knowing what to ignore and pay attention to; is vital for any leader. Data's twin is experimentation.
+Data is the only reliable steering system for your business. Knowing how to collect it and sift it; knowing what to ignore and pay attention to; is vital. And don't forget data's twin: experimentation.
 
 While your intuition may open new avenues for creative exploration and testing, it can also be misleading. This is true in small everyday situations as well as in pivotal moments in a business. 
 
