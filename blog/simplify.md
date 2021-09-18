@@ -61,7 +61,7 @@ When the mental clutter starts accumulating, I simply stop and ask: What problem
 
 <hr>
 
-That question brings me back to the main thing, back from the rabbit trails, back from 101 pointless ideas. Everything snaps into focus. It’s clear what my 1,2 or 3 options are. A decision follows quickly. The problem is resolved.
+That question brings me back to the main thing, back from the rabbit trails, back from 101 pointless ideas. Everything snaps into focus. My options are clear. A decision follows quickly. The problem is resolved.
 
 Using a <a href="/business-priorities">tool like this one</a> can also help you easily identify problems worth solving. 
 
