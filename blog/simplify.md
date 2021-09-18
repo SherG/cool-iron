@@ -128,6 +128,8 @@ In an <a href="https://www.youtube.com/watch?v=l-vfn97QTr0" target="blank">inter
 
 <div style="padding-left: 2.5em;"><p>I went home and I was trying to figure out how to kill the idea. I was awake half the night. Finally figured it out.</p></div>
 
+https://www.youtube.com/watch?v=l-vfn97QTr0
+
 Reinhardt persuaded his team that they should create an attractive landing page explaining the idea, with a sign-up form, and post it on Hacker News. Reinhardt knew no one would be interested. This seemed to be a good way to kill the idea and get back to brainstorming.
 
 After posting the idea however, interest exploded.
