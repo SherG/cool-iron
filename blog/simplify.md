@@ -33,7 +33,7 @@ If you feel stuck in your business, the key here is to be willing to explore a p
 Consider: 
 * Would you rather architect than build? 
 * Would you rather teach than manage?
-* Do you have strong diagnostic skills, yet dislike implementing the related fixes?
+* Do you have strong diagnostic skills but dislike implementing related fixes?
 * Do you want to build once, sell twice? (Develop digital recurring revenue.)
 * Do you want to investigate, research, or write? 
 
