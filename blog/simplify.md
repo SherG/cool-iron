@@ -116,7 +116,7 @@ Data is the only reliable steering system for your business. Knowing how to coll
 
 While your intuition may open new avenues for creative exploration and testing, it can also be misleading. This is true in small everyday situations as well as in pivotal moments in a business. 
 
-> Do you make decisions based on opinions rather than evidence?
+> Do you make decisions based on opinions or evidence?
 
 <strong>Everyday example from my own work</strong>: it was believed that our P-Team (an internal nickname) needed to increase throughput. A bonus system was floated toward that end. The conclusion (and solution) seemed reasonable on the surface. However, a check of data showed they had been regularly increasing throughput, week-over-week. The decision then became clear: while we still planned on implementing a bonus system, we needed to grow P-Team substanitally. We tripled the team's size in order to achieve the desired throughput.
 
