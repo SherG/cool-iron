@@ -47,17 +47,15 @@ This shows up as the placement of unnecessary hurdles to be cleared before the o
 
 Because circumstances are such that there is no moving forward with a perfect solution for the problem-cluster, you stay stuck.
 
-I call this PIC - or problem identification creep. It’s similar to scope creep: a bloating of the work at hand that threatens to bar progress and delay results.
+I call this PIC - or problem identification creep. It’s similar to scope creep: a bloating of the work at hand. PIC bars progress and delays results.
 
-Coming up with solutions is easy. Identifying problems worth solving requires clear thinking. 
+Coming up with solutions is easy. Identifying problems <em>worth solving</em> requires clear thinking. 
 
-Staying focused on your most important problem(s) is key.
-
-Without this clarity, you may rush into action, wasting resources. This busyness may diffuse the anxiety that comes from the psychic burden of a half-assed situation. But that burden will grow.
+Staying focused on your most important problem(s) is key. Without this clarity, you may rush into action, wasting resources. This busyness may diffuse the anxiety that comes from the psychic burden of a half-assed situation. But that burden will grow.
 
 So what can you do to avoid this scenario? 
 
-When the mental clutter starts accumulating, I simply stop and ask again: What problem am I trying to solve? 
+When the mental clutter starts accumulating, I simply stop and ask <em>again</em>: What problem am I trying to solve? 
 
 That question brings me back to the main thing, back from the rabbit trails, back from 101 pointless ideas. Everything comes back into sharp focus. It’s clear what my 1,2 or 3 options are. A decision follows quickly. The problem is resolved.
 
