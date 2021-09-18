@@ -12,7 +12,7 @@ Recorded at <a href="https://www.mixonline.com/recording/ocean-vu-studio-373693"
 
 Sometimes when we feel stuck or frustrated the answer is simple: we need to stop complicating things
 
-Here are some common ways overcomplicating things creeps into work and life. 
+Here are some common ways we overcomplicate.
 
 ## 1. We expect progress to unfold in a straight line
 
