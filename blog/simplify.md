@@ -26,7 +26,7 @@ Egan brought his electric bass with him. He wasn’t nearly as accomplished on t
 
 Demand for Egan’s bass playing grew. After he graduated and moved to New York City, the bass gigs kept coming: a gig with the Pointer Sisters, then with Eumir Deodato, then with David Sanborn, and so on.
 
-This lateral shift unlocked a new future: Mark Egan went from being a trumpeter and “one-finger” bassist in college to being one of the world’s premier jazz bassists.
+This lateral shift unlocked a new future: Mark Egan went from being a trumpeter (and “one-finger” bassist) to being one of the world’s premier jazz bassists.
 
 If you feel stuck in your business, why not explore a pivot to something related?
 
