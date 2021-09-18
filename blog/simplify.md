@@ -53,8 +53,6 @@ Coming up with solutions is easy. Identifying problems <em>worth solving</em> re
 
 Staying focused on your most important problem(s) is key. Without this clarity, you may rush into action, wasting resources. This busyness may diffuse the anxiety that comes from the psychic burden of a half-assed situation. But that burden will grow.  And we may wind up discounting <a href="https://twitter.com/visualizevalue/status/1279132741032906753" target="blank">persistence</a>.
 
-### Escaping PIC
-
 So what can you do to avoid this scenario? 
 
 <hr>
