@@ -114,9 +114,9 @@ Data is the only reliable steering system for your business. Knowing how to coll
 
 While your intuition may open new avenues for creative exploration and testing, it can also be misleading. This is true in small everyday situations as well as in pivotal moments in a business. 
 
-An example of the former from my own work: it was believed that our P-Team (an internal nickname) needed to increase throughput. That conclusion seemed reasonable on the surface. However, a check of data showed they had been regularly increasing throughput, week-over-week. The decision then became clear: we needed to grow P-Team, and did so by tripling its size in order to achieve the desired throughput.
+An example of the former from my own work: it was believed that our P-Team (an internal nickname) needed to increase throughput. A bonus system was floated toward that end. The conclusion (and solution) seemed reasonable on the surface. However, a check of data showed they had been regularly increasing throughput, week-over-week. The decision then became clear: while we still planned on implementing a bonus system, we needed to grow P-Team substanitally. We tripled the team's size in order to achieve the desired throughput.
 
-An good example of when gut instinct can be wrong at pivotal moments, comes from Segment's journey to find the right product-market fit. Working within the framework of Y Combinator, their first product had failed and they had 6 months of funding left to find a direction.
+A good example of when gut instinct can be wrong at pivotal moments, comes from <a href="https://segment.com/" target="blank">Segment</a>'s journey to find the right product-market fit. Working within the framework of Y Combinator, their first product had failed. They had 6 months of funding left to find a direction.
 
 A team member floated a new idea. "That is literally the worst idea I've ever heard," replied co-founder Peter Reinhardt, "I have no idea how you build a business around that." 
 
