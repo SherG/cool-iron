@@ -61,7 +61,7 @@ When the mental clutter starts accumulating, I simply stop and ask again: What p
 
 That question brings me back to the main thing, back from the rabbit trails, back from 101 pointless ideas. Everything comes back into sharp focus. It’s clear what my 1,2 or 3 options are. A decision follows quickly. The problem is resolved.
 
-Using a tool like this one can also help you easily identify problems worth solving. 
+Using a <a href="/business-priorities">tool like this one</a> can also help you easily identify problems worth solving. 
 
 Good models can help you structure your thinking  and solve problems constructively.
 
