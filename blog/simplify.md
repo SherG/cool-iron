@@ -20,7 +20,7 @@ Sometimes moving forward requires significant changes (such as redesigning a pro
 
 As an analogy, consider Mark Egan’s path. In the late 60s, he had already played trumpet professionally before moving to Miami to study at the University’s School of Music.
 
-Egan brought his electric bass with him. He wasn’t nearly as accomplished on that instrument. But soon he was getting calls to do bass gigs. In an interview with <em>Music in the Moment</em> <a href="http://markegan.com/wp-content/uploads/2014/05/Review-Mark-Egan-Music-in-the-Moment-July-2014.pdf" target="blank">explained</a>: 
+Egan brought his electric bass with him. He wasn’t nearly as accomplished on that instrument. But soon he was getting calls to do bass gigs. In an interview with <em>Music in the Moment</em> <a href="http://markegan.com/wp-content/uploads/2014/05/Review-Mark-Egan-Music-in-the-Moment-July-2014.pdf" target="blank">he explained</a>: 
 
 <div style="padding-left: 2.5em;"><p>More and more people called me because I had a good feel. I played one finger bass – and I mean on the fingerboard I really only played with one finger!</p></div>
 
