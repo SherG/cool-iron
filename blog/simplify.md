@@ -30,7 +30,7 @@ This lateral shift unlocked a new future: Mark Egan went from being a “one-fin
 
 If you feel stuck in your business, the key here is to be willing to explore a pivot to something related.
 
-For example: 
+Consider: 
 * Would you rather architect than build? 
 * Would you rather teach than manage?
 * Do you have strong diagnostic skills, yet dislike implementing the related fixes?
