@@ -57,8 +57,8 @@
             <div class="text-lg text-gray-600">Developed case study for Smithsonian Institution's Romare Bearden mobile app. Tested mobile apps.</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Content Marketing</div>
-            <div class="text-lg text-gray-600">Work under an NDA for European company, with a very bright team, delivering continuous growth. </div>
+            <div>Digital growth</div>
+            <div class="text-lg text-gray-600">Work with a very bright team that invests in, operates, and grows valuable digital assets in some of the world's most competitive sectors. </div>
           </li>
           <li class="checkmark mb-6">
             <div>Business financing</div>
