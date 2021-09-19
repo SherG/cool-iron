@@ -62,7 +62,7 @@
           </li>
           <li class="checkmark mb-6">
             <div>Digital growth</div>
-            <div class="text-lg text-gray-600">Work with a very bright team that invests in, operates, and grows valuable digital assets in some of the world's most competitive sectors. </div>
+            <div class="text-lg text-gray-600">Work with a very bright team that buys, grows, and sells valuable digital assets in some of the world's most competitive sectors. </div>
           </li>
           <li class="checkmark mb-6">
             <div>Business financing</div>
