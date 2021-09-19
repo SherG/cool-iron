@@ -56,6 +56,10 @@
             <div>Case Study</div>
             <div class="text-lg text-gray-600">Developed case study for Smithsonian Institution's Romare Bearden mobile app. Tested mobile apps.</div>
           </li>
+              <li class="checkmark mb-6">
+            <div>Content marketing</div>
+            <div class="text-lg text-gray-600">AI-enabled content marketing for a portfolio of websites that was successfully sold at the start of the pandemic.</div>
+          </li>
           <li class="checkmark mb-6">
             <div>Digital growth</div>
             <div class="text-lg text-gray-600">Work with a very bright team that invests in, operates, and grows valuable digital assets in some of the world's most competitive sectors. </div>
