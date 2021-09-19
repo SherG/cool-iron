@@ -35,6 +35,7 @@ Consider:
 * Would you rather teach than manage?
 * Do you have strong diagnostic skills but dislike implementing related fixes?
 * Do you want to build once, sell twice? (Develop digital recurring revenue.)
+* Do you prefer fixing messes or taking something from good to excellent?
 * Do you want to investigate, research, or write? 
 
 Start compiling a list of your own thought-joggers. You’ll be surprised at the number of options available to you.
