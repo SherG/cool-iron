@@ -142,7 +142,7 @@ Fast-forward to 2020: after 9 years of rapid growth and success, Reinhardt and h
 
 ## Summing it up
 
-Have you ever turned a molehill into a mountain? Snatched defeat from the jaws of victory? Stubbonly stuck to your path even though it's going in circles? Refused to entertain opposing ideas? 
+Have you ever turned a molehill into a mountain? Snatched defeat from the jaws of victory? Refused to entertain opposing ideas? 
 
 Overcomplicating things can lead to completely avoidable problems. 
 
