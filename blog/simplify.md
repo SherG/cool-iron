@@ -86,7 +86,7 @@ Blue Ocean resources include:
 * The <a href="https://www.blueoceanstrategy.com/" target="blank">Blue Ocean Strategy website</a> 
 * Blue Ocean <a href="https://www.blueoceanstrategy.com/tools/" target="blank">online tools</a>
   
-Thanks to INSEAD, there's even a <a href="https://www.insead.edu/centres/blue-ocean-strategy" target="blank">Blue Ocean Strategy Institute</a> at Fontainebleau in France. The instutute offers distance and in-person programs on Blue Ocean strategy.
+Thanks to INSEAD, there's even a <a href="https://www.insead.edu/centres/blue-ocean-strategy" target="blank">Blue Ocean Strategy Institute</a> at Fontainebleau in France. The instutute offers distance and in-person programs on Blue Ocean strategy and Blue Ocean leadership.
 
   </details>
 <br/>
