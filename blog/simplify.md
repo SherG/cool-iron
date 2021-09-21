@@ -124,13 +124,16 @@ Otherwise it’s too easy to get caught up in thousands of details and miss key 
 
 Data is the only reliable steering system for your business. Knowing how to collect it and sift it; knowing what to ignore and pay attention to; is vital. And don't forget data's twin: experimentation.
 
+> Do you make decisions based on opinions or evidence?
+
 While your intuition may open new avenues for creative exploration and testing, it can also be misleading. This is true in small everyday situations as well as in pivotal moments in a business. 
 
-> Do you make decisions based on opinions or evidence?
 
 ### Use data to check assumptions
 
-<strong>Everyday example from my own work</strong>: it was believed that our P-Team (an internal nickname) needed to increase throughput. A bonus system was floated toward that end. The conclusion (and solution) seemed reasonable on the surface. However, a check of data showed they had been regularly increasing throughput, week-over-week. The decision then became clear: while we still planned on implementing a bonus system, we needed to grow P-Team substanitally. We tripled the team's size in order to achieve the desired throughput.
+<strong>Everyday example from my own work</strong>: it was believed that our P-Team (an internal nickname) needed to increase throughput. A bonus system was floated toward that end. The conclusion (and solution) seemed reasonable on the surface. However, a check of data showed they had been regularly increasing throughput, week-over-week. 
+
+The decision then became clear: while we still planned on implementing a bonus system, we needed to grow P-Team substanitally. We tripled the team's size in order to achieve the desired throughput.
 
 ### Peter Reinhardt and Segment's search for product-market fit
 
