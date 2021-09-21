@@ -64,10 +64,12 @@ When the mental clutter starts accumulating, I simply stop and ask myself again:
 <hr>
 
 Everything snaps into focus. My options are clear. A decision follows quickly. The problem is resolved.
+<details>
+  <summary>A few resources</summary><br/>
 
-Using a <a href="/business-priorities">tool like this one</a> can also help you easily identify problems worth solving. 
+<p>Using a <a href="/business-priorities">tool like this one</a> can help you easily identify problems worth solving.</p>
 
-Good models can help you structure your thinking  and solve problems constructively.
+<p>Good models can help you structure your thinking  and solve problems constructively.</p>
 
 Some of my favorite marketing models are:
 
@@ -85,6 +87,9 @@ Blue ocean resources include:
 * Blue Ocean Strategy and Shift <a href="https://www.blueoceanstrategy.com/tools/" target="blank">online tools</a>
 * The educational program at INSEAD’s <a href="https://www.insead.edu/centres/blue-ocean-strategy" target="blank">Blue Ocean Strategy Institute</a> at Fontainebleau in France.
 
+  </details>
+<br/>
+<hr>
 
 ## 3. Lack of process
 
