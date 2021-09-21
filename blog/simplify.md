@@ -151,7 +151,7 @@ In an <a href="https://www.youtube.com/watch?v=l-vfn97QTr0" target="blank">inter
 
 Reinhardt persuaded his team that they should create a landing page explaining the idea, with a sign-up form, and post it on <a href="https://news.ycombinator.com/" target="blank">Hacker News</a>. Reinhardt knew no one would be interested. This seemed to be a good way to kill the idea. Soon everyone could get back to brainstorming.
 
-After posting the landing page however, something unexpected happened. Interest <em>exploded</em>. Reinhardt's team had found their path forward.
+After posting the landing page however, something unexpected happened. Interest <em>exploded</em>. Reinhardt's team had found their direction.
 
 Fast-forward to 2020: after 9 years of rapid growth and success, Reinhardt and his co-founders sold Segment to Twilio for $3.2 billion.
 
