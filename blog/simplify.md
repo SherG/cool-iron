@@ -83,9 +83,10 @@ And then there are the excellent strategy resources from the founders of Blue Oc
 
 Blue ocean resources include:
 * The books <a href="https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/B089DM3GZ9/" target="blank"><em>Blue Ocean Strategy</em></a> and <a href="https://www.amazon.com/Blue-Ocean-Shift-Competing-Confidence-ebook/dp/B01N2ZVA4J/" target="blank"><em>Blue Ocean Shift</em></a>
-* Educational programs from INSEAD’s <a href="https://www.insead.edu/centres/blue-ocean-strategy" target="blank">Blue Ocean Strategy Institute</a> at Fontainebleau in France.
 * The <a href="https://www.blueoceanstrategy.com/" target="blank">Blue Ocean Strategy website</a> 
 * Blue Ocean <a href="https://www.blueoceanstrategy.com/tools/" target="blank">online tools</a>
+  
+Thanks to INSEAD, there's even a <a href="https://www.insead.edu/centres/blue-ocean-strategy" target="blank">Blue Ocean Strategy Institute</a> at Fontainebleau in France. The instutute offers distance and in-person programs on Blue Ocean strategy.
 
   </details>
 <br/>
