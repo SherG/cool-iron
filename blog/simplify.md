@@ -149,7 +149,7 @@ In an <a href="https://www.youtube.com/watch?v=l-vfn97QTr0" target="blank">inter
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l-vfn97QTr0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Reinhardt persuaded his team that they should create a landing page explaining the idea, with a sign-up form, and post it on Hacker News. Reinhardt knew no one would be interested. This seemed to be a good way to kill the idea. Soon everyone could get back to brainstorming.
+Reinhardt persuaded his team that they should create a landing page explaining the idea, with a sign-up form, and post it on <a href="https://news.ycombinator.com/" target="blank">Hacker News</a>. Reinhardt knew no one would be interested. This seemed to be a good way to kill the idea. Soon everyone could get back to brainstorming.
 
 After posting the landing page however, something unexpected happened. Interest <em>exploded</em>.
 
