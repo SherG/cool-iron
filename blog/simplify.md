@@ -89,7 +89,7 @@ Blue ocean resources include:
 
   </details>
 <br/>
-<hr>
+
 
 ## 3. Lack of process
 
