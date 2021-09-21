@@ -126,7 +126,11 @@ While your intuition may open new avenues for creative exploration and testing, 
 
 > Do you make decisions based on opinions or evidence?
 
+### Use data to check assumptions
+
 <strong>Everyday example from my own work</strong>: it was believed that our P-Team (an internal nickname) needed to increase throughput. A bonus system was floated toward that end. The conclusion (and solution) seemed reasonable on the surface. However, a check of data showed they had been regularly increasing throughput, week-over-week. The decision then became clear: while we still planned on implementing a bonus system, we needed to grow P-Team substanitally. We tripled the team's size in order to achieve the desired throughput.
+
+### Peter Reinhardt and Segment's search for product-market fit
 
 <strong>Pivotal moment example</strong>: This example comes from <a href="https://segment.com/" target="blank">Segment</a>'s journey to find the right product-market fit. Working within the framework of Y Combinator, their first product had failed. They had 6 months of funding left to find a direction.
 
