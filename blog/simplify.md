@@ -10,7 +10,9 @@ Back when I was performing as a guitarist in South Florida, I sometimes did sess
 
 Recorded at <a href="https://www.mixonline.com/recording/ocean-vu-studio-373693" target="blank">Ocean VU Studio</a> with Victor Di Persia at the helm, the album was released under the title: “<a href="https://immub.org/artista/iramar" target="blank">é fácil complicar</a>.” Translated: “It’s easy to complicate things.”
 
-Sometimes when we feel stuck or frustrated the answer is simple: we need to stop complicating things
+That phrase comes back to me when progress requires solving a key problem and unnecessary contraints need to be removed.
+
+Often when we feel stuck or frustrated the answer is simple: we need to stop complicating things
 
 Here are some common ways we overcomplicate.
 
