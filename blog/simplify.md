@@ -107,7 +107,7 @@ Some tough love: if you can’t clearly describe what you’re doing, you don’
 
 Documenting your processes also makes it easier to onboard new hires. And when it comes time to sell your digital properties, it can make those more valuable.
 
-If you’re a solopreneur you might get away with not writing anything down. Maybe you’ve got it all in your head. But even solopreneurs can benefit from the clarity of written processes.
+If you’re a solopreneur you might get away with not writing anything down. Maybe you’ve got it all in your head. But even solopreneurs can benefit from the clarity obtained by documenting processes.
 
 ## 4. Grind, but no think
 
