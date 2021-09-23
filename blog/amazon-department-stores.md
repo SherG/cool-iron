@@ -28,7 +28,7 @@ Let's go back to the <em>Wall St. Journal</em> article, which provides details l
 
 <div style="padding-left: 2.3em;><p>One idea that has been tested is for customers to scan QR codes of items they want to try on by using a smartphone app . . . </a></divp
 
-<div style="padding-left: 2.3em;><p>Once there, customers could ask for more items using a touch screen, which might be capable of recommending additional clothing based on the pieces shoppers liked.</p></div>
+<div style="padding-left: 2.3em;><p>Once there [in the fitting room], customers could ask for more items using a touch screen, which might be capable of recommending additional clothing based on the pieces shoppers liked.</p></div>
 
 <div style="padding-left: 2.3em;><p>. . .  Robots or other forms of automation could eventually be deployed in the stores, one of the people said.</p></div>
 
