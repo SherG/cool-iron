@@ -56,7 +56,7 @@ You don't say!
 
 Is Shouraboura is involved in this project? Perhaps Amazon bought her intellectual property and tech. 
 
-If not, maybe they should consider it. Amazon has an invaluable assets in their recommendation engine and massive customer purchase histories. But Shouraboura has already bridged the digital and physical retail space successfully, using her proprietary mix of mobile tech, IoT, and robotics to solve key customer problems and unlock new value.
+If not, maybe they should consider it. Amazon has an invaluable assets in their recommendation engine and massive customer purchase histories. But Shouraboura has already bridged the digital and physical retail apparel space successfully, using her proprietary mix of mobile tech, IoT, and robotics to solve key customer problems and unlock new value.
 
 One thing's for sure: everything described in the article was done a decade ago. 
 
