@@ -14,7 +14,7 @@ Shoppers could use her app to capture QR codes. Tap the app and the items were a
 
 Tap another button and have a knowledgeable stylist come to consult with you on a different look. And forget the checkout line. You paid on your way out with a wave of your phone. 
 
-Let's go back to the <em>Wall St. Journal</am> article, which provides details leaked by the insiders: 
+Let's go back to the <em>Wall St. Journal</em> article, which provides details leaked by the insiders: 
 
 <div style="padding-left: 2.3em;><p>One idea that has been tested is for customers to scan QR codes of items they want to try on by using a smartphone app . . . </a></divp
 
