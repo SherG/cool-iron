@@ -18,7 +18,7 @@ Tap another button and have a knowledgeable stylist come to consult with you on 
 
 Interestingly, <a href="https://www.youtube.com/watch?v=O_G8m4FLk6g" target="blank">her model</a>, a problem-solving fusion of the tactile and digital, would limit face-to-face interaction in today's pandemic-aware world.
 
-The Hointer vision was captured in this charming video that Shouraboura filmed with her daughter: 
+The Hointer vision was captured in this charming video that Shouraboura filmed with her daughter <a href=https://www.linkedin.com/in/caroline-shouraboura-527a9693/" target="blank">Caroline</a>: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hq9ZIW79_18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
