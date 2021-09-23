@@ -1,7 +1,7 @@
 ---
 title: Amazon's Department Store Push Traces Nadia Shouraboura's Work
 path: /amazon-department-stores
-date: 2021-09-17
+date: 2021-09-22
 summary: The Wall St. Journal's leak of Amazon's plans to launch high-tech fashion stores seems to read form Nadia Shouraboura's script
 tags: ['strategy']
 ---
@@ -42,7 +42,4 @@ Is Shouraboura is involved in this project? Perhaps Amazon bought her intellectu
 
 If not, maybe they should consider it. 
 
-After all, she invested $5 million of her own funds in the venture. 
-
 One thing's for sure: everything they described was done 9 years ago.
-
