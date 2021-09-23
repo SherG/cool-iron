@@ -2,7 +2,7 @@
 title: Amazon's Department Store Push Traces Nadia Shouraboura's Work
 path: /amazon-department-stores
 date: 2021-09-22
-summary: The Wall St. Journal's leak of Amazon's plans to launch high-tech apparel stores is reminiscent of Nadia Shouraboura's work.
+summary: The Wall St. Journal's leak of Amazon's plans to launch high-tech apparel stores calls to mind Nadia Shouraboura's work.
 tags: ['strategy']
 ---
 
@@ -44,7 +44,7 @@ I know the code name: "Shouraboura!" Or maybe "Mayday!" (That's an insider joke 
 
 Seriously, the leakers aren't describing anything fundamentally different than Hointer, so they may as well have code-named the project: Shouraboura. 
 
-There are some odd, pedestrian details included in the leak. After customers scan QR codes, "then associates in the store" would "gather the items and place them in fitting rooms." Come on. People have been doing that since the 1800s. It seems certain Amazon will use something similar to Shouraboura's automated delivery system.
+There are some odd, pedestrian details included in the leak. After customers scan QR codes, "then associates in the store" would "gather the items and place them in fitting rooms." Come on. Salespeople have been hand-gathering garments and carrying them to fitting rooms since the 1800s. Amazon's not going to do that. They'll use something similar to Shouraboura's automated delivery system.
 
 Remember that qualifier:
 
@@ -56,11 +56,11 @@ You don't say!
 
 Is Shouraboura is involved in this project? Perhaps Amazon bought her intellectual property and tech. 
 
-If not, maybe they should consider it. Amazon has an invaluable assets in their recommendation engine and massive customer purchase histories. But Shouraboura has already bridged the digital and physical retail apparel space successfully, using her proprietary mix of mobile tech, IoT, and robotics to solve key customer problems and unlock new value.
+If not, maybe they should consider it. Amazon's recommendation engine, massive customer purchase histories, and continual testing regimen are valuable assets. But Shouraboura has already bridged the digital and physical retail apparel space successfully, using her proprietary mix of mobile tech, IoT, and robotics to solve key customer problems and unlock new value.
 
-One thing's for sure: everything described in the article was done a decade ago. 
+One thing's for sure: everything described in the article was in place a decade ago. 
 
-And since then Shouraboura has deployed her concepts to successfully transform shopping experiences at Macy's and other top retailers.
+Hointer's beta stores functioned as innovation labs and proof-of-concept. So it's not surprising that since Hointer's launch Shouraboura has deployed her concepts to successfully transform shopping experiences at Macy's and other top retailers.
 
 
 ### Related
