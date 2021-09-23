@@ -8,13 +8,15 @@ tags: ['strategy']
 
 Today's <em>Wall St. Journal</em> featured an "exclusive" article leaking Amazon plans to trial high-tech brick-and-mortar clothing stores. The headline: "<a href="https://www.wsj.com/articles/inside-amazons-department-store-plans-high-tech-dressing-rooms-its-own-apparel-brands-11632303002" target="blank">Inside Amazon’s Department Store Plans: High-Tech Dressing Rooms, Its Own Apparel Brands</a>." 
 
-The article tells us that Amazon's stores could feature "QR codes," "touch screens," and "a non-traditional shopping experience."  
+Amazon's stores could feature "QR codes," "touch screens," and "a non-traditional shopping experience" the <em>Journal</em> reports.
 
-I felt I had been whooshed back to 9 years ago. The insider leaks seemed to be describing <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">Hointer</a>: a pilot store launched in 2012 by <em>former</em> Amazon exec <a href="https://www.linkedin.com/in/nadiashouraboura/" target="blank">Nadia Shouraboura</a> in Seattle's U district. 
+I felt I had been whooshed back to 9 years ago. The insider leaks seemed to be describing Hointer: a retail concept and set of technologies developed by <em>former</em> Amazon exec <a href="https://www.linkedin.com/in/nadiashouraboura/" target="blank">Nadia Shouraboura</a>. The Hointer experience was trialed in pilot stores, including a <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">mens's store</a> in Seattle's U district.
 
-Shoppers could use her app to capture QR codes. Tap the app and the items were automatically sent to a high-tech dressing room. Need a different size? Tap the touch screen in the fitting room and the clothing item would be deposited before you via tech. No running after the salesperson or going in-and-out of the dressing room to hunt down what you needed. 
+Shoppers could use her proprietary app to capture QR codes. Tap the app and the items were automatically sent to a high-tech dressing room. Need a different size? Tap the touch screen in the fitting room and the clothing item would be deposited before you via tech. No running after the salesperson or going in-and-out of the dressing room to hunt down what you needed. 
 
 Tap another button and have a knowledgeable stylist come to consult with you on a different look. And forget the checkout line. You paid on your way out with a wave of your phone. 
+
+Interestingly, <a href="https://www.youtube.com/watch?v=O_G8m4FLk6g" target="blank">her model</a>, a problem-solving fusion of the tactile and digital, would limit face-to-face interaction in today's pandemic-aware world.
 
 The Hointer vision was captured in this charming video that Shouraboura filmed with her daughter: 
 
@@ -31,6 +33,8 @@ Let's go back to the <em>Wall St. Journal</em> article, which provides details l
 The article continues: 
 
 <div style="padding-left: 2.3em;><p>The online shopping company has made an effort to keep its clothing concept secret, giving it a code name. </p></div>
+
+## Code name: Shouraboura
 
 I know the code name: "Shouraboura!". Or maybe "Mayday." (That's an insider joke Shouraboura would appreciate.) 
 
