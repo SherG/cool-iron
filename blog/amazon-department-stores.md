@@ -40,7 +40,7 @@ The article continues:
 
 I know the code name: "Shouraboura!" Or maybe "Mayday!" (That's an insider joke Shouraboura would appreciate.) 
 
-There are some odd, pedestrian details included in the leak. After customers scan QR codes, "then associates in the store" would "gather the items and place them in fitting rooms." That's hardly high-tech. It seems certain they'll use something similar to Shouraboura's automated delivery system.
+There are some odd, pedestrian details included in the leak. After customers scan QR codes, "then associates in the store" would "gather the items and place them in fitting rooms." Come on. People have been doing that since the 1800s. It seems certain Amazon will use something similar to Shouraboura's automated delivery system.
 
 Remember that qualifier:
 
