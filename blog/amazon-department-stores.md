@@ -36,7 +36,7 @@ The article continues:
 
 ## Code name: Shouraboura!
 
-I know the code name: "Shouraboura!". Or maybe "Mayday." (That's an insider joke Shouraboura would appreciate.) 
+I know the code name: "Shouraboura!" Or maybe "Mayday!" (That's an insider joke Shouraboura would appreciate.) 
 
 There are some odd, pedestrian details included in the leak. After customers scan QR codes, "then associates in the store" would "gather the items and place them in fitting rooms." That's hardly high-tech. It seems certain they'll use something similar to Shouraboura's automated delivery system.
 
