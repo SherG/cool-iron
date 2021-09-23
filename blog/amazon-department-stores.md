@@ -58,4 +58,4 @@ If not, maybe they should consider it.
 
 One thing's for sure: everything described in the article was done 9 years ago. 
 
-Since then Shouraboura has been instrumental in deploying her mobile tech concepts to transform shopping experiences at Macy's and other top retailers.
+And since then Shouraboura has been instrumental in deploying her mobile tech concepts to transform shopping experiences at Macy's and other top retailers.
