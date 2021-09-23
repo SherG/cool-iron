@@ -64,9 +64,14 @@ And since then Shouraboura has been instrumental in deploying her mobile tech co
 
 ## Bridging the digital and physical 
 
-Nadia's vision brought an easy digital experience into the physical store environment, in a way that enhanced shopping and solved key shopper pain points. Instead of not enough attention or too much attention from salespeople, the shopper was now back in the driver's seat: in complete control of salesperson-customer dynamic. Finding what you want and trying it on was made easier than ever. Consultations with a favored stylist could extend beyond the physical store walls.
+Nadia's vision brought an easy digital experience into the physical store environment, in a way that enhanced shopping and solved key shopper pain points. 
+* Instead of not enough attention or too much attention from salespeople, the shopper was now back in the driver's seat: in complete control of salesperson-customer dynamic. 
+* Finding what you want and trying it on was made easier than ever. 
+* Consultations with a favored stylist could extend beyond the physical store walls.
 
-One of Amazon's most valuable assets in their proposed venture would be its massive database of customer purchase histories. That opens up some intriguing push-pull options: making in-store recommendations (including discounts) based on previous online purchases and Amazon.com browsing behavior. And using their brick-and-mortar data to make new Amazon.com recommendations to customers.
+One of Amazon's most valuable assets in their proposed venture would be its massive database of customer purchase histories. 
+
+That opens up some intriguing push-pull options: making in-store recommendations (including discounts) based on previous online purchases and Amazon.com browsing behavior. And using their brick-and-mortar data to make new Amazon.com recommendations to customers.
 
 This can be combined with the current state of personalized marketing to do some cool things.
 
@@ -76,8 +81,8 @@ For example:
 * Location-based disounts could be pushed (via opt-in) to mobile phones of Amazon Prime users in the area of one of their physical stores. 
 * Personalized messaging could be used on Amazon.com referencing in-store browsing. 
 * Perhaps more importantly, the digital-physical bridge could be used to solve individual customer problems. (They searched for something on Prime but it wasn't in their size. Now they're a mile from an Amazon store who has that item in stock.)
+* AR (augmented reality), IoT, and large screens could be used to create an immersive, visually lush experience
 
-None of that is new: but tying those tactics to Amazon's recommendation engine and massive purchasing history and deploying itin a Shouraboura-enabled store would definitely be new. 
+None of those technologies are new. But tying them into Amazon's recommendation engine and massive purchasing history and deploying it in a Shouraboura-enabled store would definitely be new. 
 
 One thing everyone can agree on, as Shouraboura said in her video: the future is now. 
-
