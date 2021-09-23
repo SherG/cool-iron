@@ -12,6 +12,8 @@ Amazon's stores could feature "QR codes," "touch screens," and "a non-traditiona
 
 I felt I had been whooshed back to 9 years ago. The insider leaks seemed to be describing Hointer: a retail concept and set of technologies developed by <em>former</em> Amazon exec <a href="https://www.linkedin.com/in/nadiashouraboura/" target="blank">Nadia Shouraboura</a>. The Hointer experience was trialed in pilot stores, including a <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">mens's store</a> in Seattle's U district.
 
+> The insider leaks seem to be describing Hointer, a project spearheaded by former Amazon exec Nadia Shouraboura 
+
 Shoppers could use her proprietary app to capture QR codes. Tap the app and the items were automatically sent to a high-tech dressing room. Need a different size? Tap the touch screen in the fitting room and the clothing item would be deposited before you via tech. No running after the salesperson or going in-and-out of the dressing room to hunt down what you needed. 
 
 Tap another button and have a knowledgeable stylist come to consult with you on a different look. And forget the checkout line. You paid on your way out with a wave of your phone. 
