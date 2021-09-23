@@ -60,7 +60,7 @@ If not, maybe they should consider it. Amazon's recommendation engine, massive c
 
 One thing's for sure: everything described in the article was in place a decade ago. 
 
-Hointer's beta stores functioned as innovation labs and proof-of-concept. So it's not surprising that since their launch Shouraboura has deployed her concepts to successfully transform shopping experiences at Macy's and other top retailers.
+Hointer's beta stores functioned as innovation labs and proof-of-concept. So it's not surprising that since their launch Shouraboura has deployed her concepts to successfully transform shopping experiences at <a href="https://digital.hbs.edu/platform-rctom/submission/how-macys-and-technology-fit-well-together/" target="blank">Macy's</a> and other top retailers.
 
 
 ### Related
