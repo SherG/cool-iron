@@ -34,7 +34,7 @@ The article continues:
 
 <div style="padding-left: 2.3em;><p>The online shopping company has made an effort to keep its clothing concept secret, giving it a code name. </p></div>
 
-## Code name: Shouraboura
+## Code name: Shouraboura!
 
 I know the code name: "Shouraboura!". Or maybe "Mayday." (That's an insider joke Shouraboura would appreciate.) 
 
