@@ -16,7 +16,7 @@ I felt I had been whooshed back to 9 years ago. The insider leaks seemed to be d
 
 > The insider leaks seem to be describing Hointer, a project spearheaded by former Amazon exec Nadia Shouraboura 
 
-Shoppers could use her proprietary app to capture QR codes. Tap the app and the items were automatically sent to a high-tech dressing room. Need a different size? Tap the touch screen in the fitting room and the clothing item would be deposited before you via tech. No running after the salesperson or going in-and-out of the dressing room to hunt down what you needed. 
+Shoppers could use her proprietary app to capture QR codes. Tap the app and the items were automatically sent to a high-tech dressing room. Need a different size? Tap the touch screen in the fitting room and the clothing item would instantly appear before you, thanks to micro-robotics. No running after the salesperson or going in-and-out of the dressing room to hunt down what you needed. 
 
 Tap another button and have a knowledgeable stylist come to consult with you on a different look. And forget the checkout line. You paid on your way out with a wave of your phone. 
 
