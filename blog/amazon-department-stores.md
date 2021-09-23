@@ -8,7 +8,7 @@ tags: ['strategy']
 
 Today's <em>Wall St. Journal</em> featured an "exclusive" article leaking Amazon plans to trial high-tech brick-and-mortar clothing stores. The headline: "<a href="https://www.wsj.com/articles/inside-amazons-department-store-plans-high-tech-dressing-rooms-its-own-apparel-brands-11632303002" target="blank">Inside Amazon’s Department Store Plans: High-Tech Dressing Rooms, Its Own Apparel Brands</a>." 
 
-The article tells us that Amazon's stores could feature "QR codes," "touch screens," and "a non-traditional shopping experience.  
+The article tells us that Amazon's stores could feature "QR codes," "touch screens," and "a non-traditional shopping experience."  
 
 I felt I had been whooshed back to 9 years ago. The insider leaks seemed to be describing <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">Hointer</a>: a pilot store launched in 2012 by <em>former</em> Amazon exec <a href="https://www.linkedin.com/in/nadiashouraboura/" target="blank">Nadia Shouraboura</a> in Seattle's U district. 
 
