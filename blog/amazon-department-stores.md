@@ -44,7 +44,7 @@ I know the code name: "Shouraboura!" Or maybe "Mayday!" (That's an insider joke 
 
 Seriously, the leakers aren't describing anything fundamentally different than Hointer, so they may as well have code-named the project: Shouraboura. 
 
-There are some odd, pedestrian details included in the leak. After customers scan QR codes, "then associates in the store" would "gather the items and place them in fitting rooms." Come on. Salespeople have been hand-gathering garments and carrying them to fitting rooms since the 1800s. Amazon's not going to do that. They'll use something similar to Shouraboura's automated delivery system.
+There are some odd, pedestrian details included in the leak. After customers scan QR codes, "then associates in the store" would "gather the items and place them in fitting rooms." Gathering garments and hand-carrying them to fitting rooms is very 1800s. Amazon's not going to do that. They'll use something similar to Shouraboura's automated delivery system.
 
 Remember that qualifier:
 
