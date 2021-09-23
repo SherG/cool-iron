@@ -56,11 +56,11 @@ You don't say!
 
 Is Shouraboura is involved in this project? Perhaps Amazon bought her intellectual property and tech. 
 
-If not, maybe they should consider it. Amazon has an invaluable assets in their recommendation engine and massive customer purchase histories. But Shouraboura has has already bridged the digital and physical retail space successfully, deploying mobile tech and robotics to solve key customer problems and unlock new value.
+If not, maybe they should consider it. Amazon has an invaluable assets in their recommendation engine and massive customer purchase histories. But Shouraboura has already bridged the digital and physical retail space successfully, deploying mobile tech and robotics to solve key customer problems and unlock new value.
 
 One thing's for sure: everything described in the article was done a decade ago. 
 
-And since then Shouraboura has been instrumental in deploying her concepts to transform shopping experiences at Macy's and other top retailers.
+And since then Shouraboura has deployed her concepts to successfully transform shopping experiences at Macy's and other top retailers.
 
 
 ### Related
