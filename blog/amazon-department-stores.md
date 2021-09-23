@@ -42,4 +42,4 @@ Is Shouraboura is involved in this project? Perhaps Amazon bought her intellectu
 
 If not, maybe they should consider it. 
 
-One thing's for sure: everything they described was done 9 years ago.
+One thing's for sure: everything described in the article was done 9 years ago. 
