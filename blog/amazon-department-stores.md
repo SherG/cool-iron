@@ -16,6 +16,8 @@ I felt I had been whooshed back to 9 years ago. The insider leaks seemed to be d
 
 > The insider leaks seem to be describing Hointer, a project spearheaded by former Amazon exec Nadia Shouraboura 
 
+Hointer's beta stores functioned as testbeds and proof-of-concept. So it's not surprising that they were used to attract <a href="https://digital.hbs.edu/platform-rctom/submission/how-macys-and-technology-fit-well-together/" target="blank">retailers</a> who wanted to deploy and test the tech in their own stores.
+
 Shoppers could use her proprietary app to capture QR codes. Tap the app and the items were automatically sent to a high-tech dressing room. Need a different size? Tap the touch screen in the fitting room and the clothing item would instantly appear before you, thanks to micro-robotics. No running after the salesperson or going in-and-out of the dressing room to hunt down what you needed. 
 
 Tap another button and have a knowledgeable stylist come to consult with you on a different look. And forget the checkout line. You paid on your way out with a wave of your phone. 
@@ -38,8 +40,6 @@ The article continues:
 
 <div style="padding-left: 2.3em;><p>The online shopping company has made an effort to keep its clothing concept secret, giving it a code name. </p></div>
 
-## Code name: Shouraboura!
-
 I know the code name: "Shouraboura!" Or maybe "Mayday!" (That's an insider joke Shouraboura would appreciate.) 
 
 Seriously, the leakers aren't describing anything fundamentally different than Hointer, so they may as well have code-named the project: Shouraboura. 
@@ -56,11 +56,14 @@ You don't say!
 
 Is Shouraboura is involved in this project? Perhaps Amazon bought her intellectual property and tech. 
 
-If not, maybe they should consider it. Amazon's recommendation engine, massive customer purchase histories, and continual testing regimen are valuable assets. But Shouraboura has already bridged the digital and physical retail apparel space successfully, using her proprietary mix of mobile tech, IoT, and robotics to solve key customer problems and unlock new value.
+If not, maybe they should consider it. 
 
-One thing's for sure: everything described in the article was in place a decade ago. 
+* Amazon's recommendation engine, massive customer purchase histories, and continual testing regimen are invaluable assets. 
+* Meanwhile, Shouraboura has already identified, reverse-engineered, and solved some key, related customer problems using a proprietary mix of mobile tech, IoT, and micro-robotics.
 
-Hointer's beta stores functioned as innovation labs and proof-of-concept. So it's not surprising that since their launch Shouraboura has deployed her concepts to successfully transform shopping experiences at <a href="https://digital.hbs.edu/platform-rctom/submission/how-macys-and-technology-fit-well-together/" target="blank">Macy's</a> and other top retailers.
+It'll be interesting to see what comes of Amazon's new experiments.
+
+One thing's for sure: everything described in the article was in place a decade ago. So we'll have to wait to hear what's truly innovative about Amazon's plan.
 
 
 ### Related
