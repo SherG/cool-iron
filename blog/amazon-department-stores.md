@@ -1,0 +1,48 @@
+---
+title: Amazon's Department Store Push Traces Nadia Shouraboura's Work
+path: /amazon-department-stores
+date: 2021-09-17
+summary: The Wall St. Journal's leak of Amazon's plans to launch high-tech fashion stores seems to read form Nadia Shouraboura's script
+tags: ['strategy']
+---
+
+Today's <em>Wall St. Journal</em> featured an "exclusive" article leaking Amazon plans to trial high-tech brick-and-mortar clothing stores. The headline: "<a href="https://www.wsj.com/articles/inside-amazons-department-store-plans-high-tech-dressing-rooms-its-own-apparel-brands-11632303002" target="blank">Inside Amazon’s Department Store Plans: High-Tech Dressing Rooms, Its Own Apparel Brands</a>." The artices tells us that Amazon's stores could feature "QR codes," "touch screens," and "a non-traditional shopping experience.  
+
+I felt I had been whooshed back to 9 years ago. The article -- based on insider leaks -- seemed to be describing <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">Hointer</a>: a pilot store launched in 2012 by <em>former</em> Amazon exec <a href="https://www.linkedin.com/in/nadiashouraboura/" target="blank">Nadia Shouraboura</a> in Seattle's U district. 
+
+Shoppers could use her app to capture QR codes. Tap the app and the items were automatically sent to a high-tech dressing room. Need a different size? Tap the touch screen in the fitting room and the clothing item would be deposited before you via tech. No running after the salesperson or going in-and-out of the dressing room to hunt down what you needed. 
+
+Tap another button and have a knowledgeable stylist come to consult with you on a different look. And forget the checkout line. You paid on your way out with a wave of your phone. 
+
+Let's go back to the <em>Wall St. Journal</am> article, which provides details leaked by the insiders: 
+
+<div style="padding-left: 2.3em;><p>One idea that has been tested is for customers to scan QR codes of items they want to try on by using a smartphone app . . . </a></divp
+
+<div style="padding-left: 2.3em;><p>Once there, customers could ask for more items using a touch screen, which might be capable of recommending additional clothing based on the pieces shoppers liked.</p></div>
+
+<div style="padding-left: 2.3em;><p>. . .  Robots or other forms of automation could eventually be deployed in the stores, one of the people said.</p></div>
+
+The article continues: 
+
+<div style="padding-left: 2.3em;><p>The online shopping company has made an effort to keep its clothing concept secret, giving it a code name. </p></div>
+
+I know the code name: "Shouraboura!". Or maybe "Mayday." (That's an insider joke Shouraboura would appreciate.) 
+
+There are some odd, pedestrian details included in the leak. After customers scan QR codes, "then associates in the store" would "gather the items and place them in fitting rooms." That's hardly high-tech. It seems certain they'll use something similar to Shouraboura's automated delivery system.
+
+Remember that qualifier:
+
+<div style="padding-left: 2.3em;><p>Robots or other forms of automation could eventually be deployed in the stores, one of the people said.</p></div>
+
+<div style="padding-left: 2.3em;><p>The plans aren’t completed and could change, they said.</p></div>
+
+You don't say!
+
+Is Shouraboura is involved in this project? Perhaps Amazon bought her intellectual property and tech. 
+
+If not, maybe they should consider it. 
+
+After all, she invested $5 million of her own funds in the venture. 
+
+One thing's for sure: everything they described was done 9 years ago.
+
