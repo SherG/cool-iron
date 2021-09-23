@@ -2,7 +2,7 @@
 title: Amazon's Department Store Push Traces Nadia Shouraboura's Work
 path: /amazon-department-stores
 date: 2021-09-22
-summary: The Wall St. Journal's leak of Amazon's plans to launch high-tech fashion stores seems to read form Nadia Shouraboura's script
+summary: The Wall St. Journal's leak of Amazon's plans to launch high-tech apparel stores seems to read form Nadia Shouraboura's script
 tags: ['strategy']
 ---
 
