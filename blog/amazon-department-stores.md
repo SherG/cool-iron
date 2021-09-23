@@ -54,8 +54,8 @@ You don't say!
 
 Is Shouraboura is involved in this project? Perhaps Amazon bought her intellectual property and tech. 
 
-If not, maybe they should consider it. 
+If not, maybe they should consider it. While Amazon can adapt its recommendation engines for in-store use, Shouraboura has already worked through key product-market fit issues. 
 
-One thing's for sure: everything described in the article was done 9 years ago. 
+One thing's for sure: everything described in the article was done a decade ago. 
 
 And since then Shouraboura has been instrumental in deploying her mobile tech concepts to transform shopping experiences at Macy's and other top retailers.
