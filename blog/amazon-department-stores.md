@@ -56,36 +56,12 @@ You don't say!
 
 Is Shouraboura is involved in this project? Perhaps Amazon bought her intellectual property and tech. 
 
-If not, maybe they should consider it. While Amazon can adapt its recommendation engines for in-store use, Shouraboura has already worked through key product-market fit issues. 
+If not, maybe they should consider it. Amazon has an invaluable assets in their recommendation engine and massive customer purchase histories. But Shouraboura has has already bridged the digital and physical retail space successfully, deploying mobile tech and robotics to solve key customer problems and unlock new value.
 
 One thing's for sure: everything described in the article was done a decade ago. 
 
-And since then Shouraboura has been instrumental in deploying her mobile tech concepts to transform shopping experiences at Macy's and other top retailers.
+And since then Shouraboura has been instrumental in deploying her concepts to transform shopping experiences at Macy's and other top retailers.
 
-## Bridging the digital and physical 
-
-Nadia's vision brought an easy digital experience into the physical store environment, in a way that enhanced shopping and solved key shopper pain points. 
-* Instead of not enough attention or too much attention from salespeople, the shopper was now back in the driver's seat: in complete control of salesperson-customer dynamic. 
-* Finding what you want and trying it on was made easier than ever. 
-* Consultations with a favored stylist could extend beyond the physical store walls.
-
-One of Amazon's most valuable assets in their proposed venture would be its massive database of customer purchase histories. 
-
-That opens up some intriguing push-pull options: making in-store recommendations (including discounts) based on previous online purchases and Amazon.com browsing behavior. And using their brick-and-mortar data to make new Amazon.com recommendations to customers.
-
-This can be combined with the current state of personalized marketing to do some cool things.
-
-For example: 
-
-* A 30-something guy who made Amazon Prime purchases indicating he's an Oakland Raiders fan could receive in-store recommendations (by first name) for similar merchandise.
-* Location-based disounts could be pushed (via opt-in) to mobile phones of Amazon Prime users in the area of one of their physical stores. 
-* Personalized messaging could be used on Amazon.com referencing in-store browsing. 
-* Perhaps more importantly, the digital-physical bridge could be used to solve individual customer problems. (They searched for something on Prime but it wasn't in their size. Now they're a mile from an Amazon store who has that item in stock.)
-* AR (augmented reality), IoT, and large screens could be used to create an immersive, visually lush experience
-
-None of those technologies are new. But tying them into Amazon's recommendation engine and massive purchasing history and deploying it in a Shouraboura-enabled store would definitely be new. 
-
-One thing everyone can agree on, as Shouraboura said in her video: the future is now. 
 
 ### Related
 
