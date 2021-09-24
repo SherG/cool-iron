@@ -58,7 +58,7 @@ Is Shouraboura is involved in this project? Perhaps Amazon bought her intellectu
 
 If not, maybe they should consider it. 
 
-* Amazon's recommendation engine, massive customer purchase histories, and continual testing regimen are invaluable assets. 
+* Amazon's recommendation engine, massive customer data trove, and continual testing regimen are invaluable assets. 
 * Meanwhile, Shouraboura has already identified, reverse-engineered, and solved some key, related customer problems using a proprietary mix of mobile tech, IoT, and micro-robotics.
 
 It'll be interesting to see what comes of Amazon's new experiments.
