@@ -78,7 +78,7 @@ One thing's for sure: everything described in the article was in place a decade 
 * When omni-channel meets Amazon's customer data, in-store (and on Prime) personalization will acquire new dimensions. Think: 1:1 lookbooks, seamless recommendations that span the physical and digital, and your favorite music automatically streaming in the dressing room. 
 * First-party data will likely remain a priority for bricks.
 * Amazon is now the <a href="https://www.campaignlive.com/article/amazon-biggest-advertiser-earth-adspend-hits-11bn/1672723" target="blank">world’s biggest advertiser</a>. Add that to the mix and bricks are facing quite an intriguing challenge.</p>
-</details>
+</details><br/>
 
 ### Related
 
