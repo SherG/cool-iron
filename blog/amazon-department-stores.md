@@ -71,7 +71,7 @@ One thing's for sure: everything described in the article was in place a decade 
   <summary>More on Hointer and high-tech retail experiments</summary>
 <p class="highlight2"> The retail chessboard’s about to get more interesting with Amazon’s play. Some questions and observations:</p>
 
-* How many retailers trialed Hointer’s tech or kept using it. What were their findings? 
+* How many retailers trialed Hointer’s tech or kept using it? What were their findings? 
 * Ironically, Hointer was at one point described as conferring a potential competitive advantage over Amazon.
 * Ditching a QR-reading app has appeal. Why be distracted with having to download an app and keep your potentially large cell or phablet in your hand while interacting with merch, especially clothing, which you'll want to touch with both hands? Old-school push-buttons, hand movements, or voice commands could also be used to select and send apparel to fitting rooms.
 * Experiments with AR, VR, and QR codes as well as touchscreens in dressing rooms have a long history now. And there's plenty to learn from successes. For example, when Rebecca Minkoff launched interactive mirrors, they helped contribute to a <a href="https://www.cnbc.com/2017/09/09/how-rebecca-minkoff-uses-tech-to-drive-triple-digit-sales-growth.html" target="blank">tripling of sales</a>. 
