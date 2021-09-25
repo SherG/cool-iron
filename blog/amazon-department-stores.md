@@ -46,6 +46,8 @@ I know the code name: "Shouraboura!" Or maybe "Mayday!" (That's an insider joke 
 
 Seriously, the leakers aren't describing anything fundamentally different than Hointer, so they may as well have code-named the project "Shouraboura."
 
+> When omni-channel meets Amazon's customer data, in-store (and on Prime) personalization will acquire new dimensions. Think: 1:1 lookbooks, seamless recommendations that span the physical and digital, and your favorite music streaming in the dressing room.
+
 There are some odd, pedestrian details included in the leak. After customers scan QR codes, "associates in the store" will "gather the items and place them in fitting rooms." Come on. Salespeople hand-carrying garments to fitting rooms has been done since when — the 1800s? Amazon's not going to do that. They'll likely create something similar to Shouraboura's automated delivery system.
 
 Remember that qualifier:
