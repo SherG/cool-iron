@@ -46,7 +46,7 @@ I know the code name: "Shouraboura!" Or maybe "Mayday!" (That's an insider joke 
 
 Seriously, the leakers aren't describing anything fundamentally different than Hointer, so they may as well have code-named the project "Shouraboura."
 
-There are some odd, pedestrian details included in the leak. After customers scan QR codes, "associates in the store" will "gather the items and place them in fitting rooms." Come on. Salespeople hand-carrying garments to fitting rooms has been done since when — the 1800s? Amazon's not going to do that. They'll copy Shouraboura's automated delivery system.
+There are some odd, pedestrian details included in the leak. After customers scan QR codes, "associates in the store" will "gather the items and place them in fitting rooms." Come on. Salespeople hand-carrying garments to fitting rooms has been done since when — the 1800s? Amazon's not going to do that. They'll likely create something similar to Shouraboura's automated delivery system.
 
 Remember that qualifier:
 
@@ -66,6 +66,20 @@ If not, maybe they should consider it.
 It'll be interesting to see what comes of Amazon's new experiments.
 
 One thing's for sure: everything described in the article was in place a decade ago. So we'll have to wait to hear what's truly innovative about Amazon's plan.
+
+<details>
+  <summary>More on Hointer and high-tech retail experiments</summary>
+<p class="highlight2"> The retail chessboard’s about to get more interesting with Amazon’s play. Some questions and observations:</p>
+
+* How many retailers trialed Hointer’s tech or kept using it. What were their findings? 
+* Ironically, Hointer was at one point described as conferring a potential competitive advantage over Amazon.
+* Ditching a QR-reading app has appeal. Why be distracted with having to download an app and keep your potentially large cell or phablet in your hand while interacting with merch, especially clothing, which you'll want to touch with both hands? Shouraboura's "magic wand" is one example of moving away from needing a phone app. Old-school push-buttons, hand movements, or voice commands could also be used to select and send apparel to fitting rooms.
+* Experiments with AR, VR, and QR codes as well as touchscreens in dressing rooms have been common. When Rebecca Minkoff launched interactive digital mirrors, they helped contribute to a <a href="https://www.cnbc.com/2017/09/09/how-rebecca-minkoff-uses-tech-to-drive-triple-digit-sales-growth.html" target="blank">tripling of sales</a>. 
+* When omni-channel meets Amazon's customer data, in-store (and on Prime) personalization will acquire new dimensions. Think: 1:1 Lookbooks, seamless recommendations that span the physical and digital, and your favorite music streaming in the dressing room. 
+* First-party data will likely remain a priority for bricks.
+* Amazon is now the <a href="https://www.campaignlive.com/article/amazon-biggest-advertiser-earth-adspend-hits-11bn/1672723" target="blank">world’s biggest advertiser</a>. Add that to the mix and bricks are facing quite an intriguing challenge.
+</details>
+
 
 
 ### Related
