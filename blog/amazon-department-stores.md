@@ -69,7 +69,7 @@ One thing's for sure: everything described in the article was in place a decade 
 
 <details>
   <summary>More on Hointer and high-tech retail experiments</summary>
-<p class="highlight2"> The retail chessboard’s about to get more interesting with Amazon’s play. Some questions and observations:</p>
+<p> The retail chessboard’s about to get more interesting with Amazon’s play. Some questions and observations:</p>
 
 * How many retailers trialed Hointer’s tech or kept using it? What were their findings? 
 * Ironically, Hointer was at one point described as conferring a potential competitive advantage over Amazon.
@@ -77,7 +77,7 @@ One thing's for sure: everything described in the article was in place a decade 
 * Experiments with AR, VR, and QR codes as well as touchscreens in dressing rooms have a long history now. And there's plenty to learn from successes. For example, when Rebecca Minkoff launched interactive mirrors, they helped contribute to a <a href="https://www.cnbc.com/2017/09/09/how-rebecca-minkoff-uses-tech-to-drive-triple-digit-sales-growth.html" target="blank">tripling of sales</a>. 
 * When omni-channel meets Amazon's customer data, in-store (and on Prime) personalization will acquire new dimensions. Think: 1:1 lookbooks, seamless recommendations that span the physical and digital, and your favorite music automatically streaming in the dressing room. 
 * First-party data will likely remain a priority for bricks.
-* Amazon is now the <a href="https://www.campaignlive.com/article/amazon-biggest-advertiser-earth-adspend-hits-11bn/1672723" target="blank">world’s biggest advertiser</a>. Add that to the mix and bricks are facing quite an intriguing challenge.
+* Amazon is now the <a href="https://www.campaignlive.com/article/amazon-biggest-advertiser-earth-adspend-hits-11bn/1672723" target="blank">world’s biggest advertiser</a>. Add that to the mix and bricks are facing quite an intriguing challenge.</p>
 </details>
 
 ### Related
