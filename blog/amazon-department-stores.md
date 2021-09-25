@@ -2,7 +2,7 @@
 title: Amazon's Department Store Push Traces Nadia Shouraboura's Work
 path: /amazon-department-stores
 date: 2021-09-22
-summary: The Wall St. Journal's leak of Amazon's plans to launch high-tech apparel stores calls to mind Nadia Shouraboura's work.
+summary: Amazon's leaked plans to launch high-tech apparel stores echo Nadia Shouraboura's work.
 tags: ['strategy']
 ---
 
