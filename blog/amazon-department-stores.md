@@ -75,7 +75,7 @@ One thing's for sure: everything described in the article was in place a decade 
 * Ironically, Hointer was at one point described as conferring a potential competitive advantage over Amazon.
 * Ditching a QR-reading app has appeal. Why be distracted with having to download an app and keep your potentially large cell or phablet in your hand while interacting with merch, especially clothing, which you'll want to touch with both hands? Old-school push-buttons, hand movements, or voice commands could also be used to select and send apparel to fitting rooms.
 * Experiments with AR, VR, and QR codes as well as touchscreens in dressing rooms have been common. When Rebecca Minkoff launched interactive digital mirrors, they helped contribute to a <a href="https://www.cnbc.com/2017/09/09/how-rebecca-minkoff-uses-tech-to-drive-triple-digit-sales-growth.html" target="blank">tripling of sales</a>. 
-* When omni-channel meets Amazon's customer data, in-store (and on Prime) personalization will acquire new dimensions. Think: 1:1 Lookbooks, seamless recommendations that span the physical and digital, and your favorite music streaming in the dressing room. 
+* When omni-channel meets Amazon's customer data, in-store (and on Prime) personalization will acquire new dimensions. Think: 1:1 lookbooks, seamless recommendations that span the physical and digital, and your favorite music streaming in the dressing room. 
 * First-party data will likely remain a priority for bricks.
 * Amazon is now the <a href="https://www.campaignlive.com/article/amazon-biggest-advertiser-earth-adspend-hits-11bn/1672723" target="blank">world’s biggest advertiser</a>. Add that to the mix and bricks are facing quite an intriguing challenge.
 </details>
