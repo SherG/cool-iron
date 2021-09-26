@@ -51,7 +51,7 @@ The article continues:
 
 <div style="padding-left: 2.3em;><p>The online shopping company has made an effort to keep its clothing concept secret, giving it a code name. </p></div>
 
-I know the code name: "Shouraboura!" Or maybe "Mayday!" (That's an insider joke Shouraboura would appreciate.) 
+I know the code name: "Shouraboura!" Or maybe "Mayday!" (That's a joke Shouraboura would appreciate.) 
 
 Seriously, the leakers aren't describing anything fundamentally different than Hointer, so they may as well have code-named the project "Shouraboura."
 
