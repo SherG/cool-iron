@@ -29,9 +29,11 @@ And forget the checkout line. You paid on your way out with a wave of your phone
 
 Hointer's beta stores functioned as testbeds and proof-of-concept. So it's not surprising that they were used to attract <a href="https://digital.hbs.edu/platform-rctom/submission/how-macys-and-technology-fit-well-together/" target="blank">retailers</a> like Macy's who wanted to deploy and test the tech in their own stores.
 
+Shouraboura's vision evolved from apps to a wand-like device which customers could use to select merchandise to be sent to a fitting room. Users <a href="https://www.deborahweinswig.com/tick-tock-retailers-its-wake-up-time-a-retail-symposium/" target="blank">enjoyed the evocation of magic</a> that the wand provided.
+
 Interestingly, <a href="https://www.youtube.com/watch?v=O_G8m4FLk6g" target="blank">her model</a>, a problem-solving fusion of the tactile and digital, would limit face-to-face interaction in today's pandemic-aware world.
 
-The Hointer vision was captured in this charming video that Shouraboura filmed with her daughter <a href="https://www.linkedin.com/in/caroline-shouraboura-527a9693/" target="blank">Caroline</a>: 
+The early Hointer vision was captured in this charming video that Shouraboura filmed with her daughter <a href="https://www.linkedin.com/in/caroline-shouraboura-527a9693/" target="blank">Caroline</a>: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hq9ZIW79_18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -77,8 +79,7 @@ One thing's for sure: everything described in the article was in place a decade 
 <p> The retail chessboard’s about to get more interesting with Amazon’s play. Some questions and observations:</p>
 
 * How many retailers trialed Hointer’s tech or kept using it? What were their findings? 
-* Shouraboura moved from apps to a wand-like device which customers could use to select merchandise to be sent to a fitting room. Users <a href="https://www.deborahweinswig.com/tick-tock-retailers-its-wake-up-time-a-retail-symposium/" target="blank">enjoyed the evocation of magic</a> that the wand provided.
-* Ditching the QR-reading app definitely has appeal. Why be distracted with having to download an app and keep your potentially large cell or phablet in your hand while interacting with merch, especially clothing, which you'll want to touch with both hands? Old-school push-buttons, hand movements, or voice commands could also be used to select and send apparel to fitting rooms.
+* Ditching the QR-reading app -- as Shouraboura did with her "magic wand" -- definitely has appeal. Why be distracted with having to download an app and keep your potentially large cell or phablet in your hand while interacting with merch, especially clothing, which you'll want to touch with both hands? Old-school push-buttons, hand movements, or voice commands could also be used to select and send apparel to fitting rooms.
 * Ironically, Hointer was at one point described as <a href="https://www.wired.com/2013/04/store-of-the-future/" target="blank">conferring a potential competitive advantage over Amazon</a>. 
 * Experiments with AR, VR, and QR codes as well as touchscreens in dressing rooms have a long history now. And there's plenty to learn from successes. For example, when Rebecca Minkoff launched interactive mirrors, they helped contribute to a <a href="https://www.cnbc.com/2017/09/09/how-rebecca-minkoff-uses-tech-to-drive-triple-digit-sales-growth.html" target="blank">tripling of sales</a>. 
 * When omni-channel meets Amazon's customer data, in-store (and on Prime) personalization will acquire new dimensions. Think: 1:1 lookbooks, seamless recommendations that span the physical and digital, and your favorite music automatically streaming in the dressing room. 
