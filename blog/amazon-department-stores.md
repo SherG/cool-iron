@@ -15,6 +15,7 @@ Amazon's stores could feature "QR codes," "touch screens," and "a non-traditiona
 I felt I had been whooshed back to 9 years ago. The insider leaks seemed to be describing Hointer: a retail concept and set of technologies developed by <em>former</em> Amazon exec <a href="https://www.linkedin.com/in/nadiashouraboura/" target="blank">Nadia Shouraboura</a>. 
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1632680916/nadia-shouraboura-amazon-department-stores_rkpynp.png"/>
+<small>Deja vu: This <em>Wired</em> article from 2013 describes Shouraboura's bot-powered store design</small>
 
 The Hointer experience was trialed in pilot stores, including a <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">mens's store</a> in Seattle's U district.
 
