@@ -78,14 +78,17 @@ One thing's for sure: everything described in the article was in place a decade 
   <summary>More on Hointer and high-tech retail experiments</summary>
 <p> The retail chessboard’s about to get more interesting with Amazon’s play. Some questions and observations:</p>
 
+* Hointer customers tried on far more items of clothing, according to Shouraboura, who told the <a href="https://www.smh.com.au/business/companies/hointer-how-a-mathematician-got-microrobots-to-sell-you-jeans-20140722-zvqel.html" target="blank"><em>Sydney Morning Herald</em></a> in 2014: “Normally customers try on three to five – at Hointer on average they try on 12 because it’s very fast.” 
+* The Hointer approach enabled a store to operate in a small footprint with far fewer employees than would otherwise be needed.
 * How many retailers trialed Hointer’s tech or kept using it? What were their findings? 
 * Ditching the QR-reading app — as Shouraboura did with her "magic wand" — definitely has appeal. Why be distracted with having to download an app and keep your potentially large cell or phablet in your hand while interacting with merch, especially clothing, which you'll want to touch with both hands? Old-school push-buttons, hand movements, or voice commands could also be used to select and send apparel to fitting rooms.
 * Ironically, Hointer was at one point described as <a href="https://www.wired.com/2013/04/store-of-the-future/" target="blank">conferring a potential competitive advantage over Amazon</a>. 
-* Some Amazon employees visited Shouraboura's store and mocked it, according to the founder: "<a href="https://www.geekwire.com/2017/women-in-business-law-richard-branson/" target="blank">When I left Amazon, I opened my own store, and every asshole from Amazon would come in to my store and make fun of me. After a year of that, I decided, ‘This is it. I am going to step up.’ And that’s what kept me going: the assholes.</a>”
-* Experiments with AR, VR, and QR codes as well as touchscreens in dressing rooms have a long history now. And there's plenty to learn from successes. For example, when Rebecca Minkoff launched interactive mirrors, they helped contribute to a <a href="https://www.cnbc.com/2017/09/09/how-rebecca-minkoff-uses-tech-to-drive-triple-digit-sales-growth.html" target="blank">tripling of sales</a>. 
+* Some Amazon employees visited Shouraboura's store and mocked it, <a href="https://www.geekwire.com/2017/women-in-business-law-richard-branson/" target="blank">according to the founder</a>: "When I left Amazon, I opened my own store, and every asshole from Amazon would come in to my store and make fun of me. After a year of that, I decided, ‘This is it. I am going to step up.’ And that’s what kept me going: the assholes.”
+* There have been plenty of experiments with AR, VR, and QR codes as well as touchscreens in dressing rooms. And there's plenty to learn from the successes. For example, when Rebecca Minkoff launched interactive mirrors, they helped contribute to a <a href="https://www.cnbc.com/2017/09/09/how-rebecca-minkoff-uses-tech-to-drive-triple-digit-sales-growth.html" target="blank">tripling of sales</a>. 
 * When omni-channel meets Amazon's customer data, in-store (and on Prime) personalization will acquire new dimensions. Think: 1:1 lookbooks, seamless recommendations that span the physical and digital, and your favorite music automatically streaming in the dressing room. 
 * First-party data will likely remain a priority for bricks.
 * Amazon is now the <a href="https://www.campaignlive.com/article/amazon-biggest-advertiser-earth-adspend-hits-11bn/1672723" target="blank">world’s biggest advertiser</a>, posing an additional challenge to bricks.</p>
+* Meanwhile, Motley Fool sees physical retail as "clearly Amazon's weakest point, despite multiple attempts by the e-commerce giant to break into this market."
 </details><br/>
 
 ### Related
