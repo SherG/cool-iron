@@ -92,8 +92,8 @@ One thing's for sure: everything described in the article was in place a decade 
 
 <a href="https://patents.justia.com/inventor/nadia-shouraboura" target="blank">Patents by inventors Nadia Shouraboura and Caroline Jacqueline Shouraboura</a>
 
-<a href="https://www.wired.com/2013/04/store-of-the-future/" target="blank">This Bot-Powered Store Could Halt Amazon in Its Tracks
-Hointer's racks of designer denim distract from Nadia Shouraboura's deeper ambition: To invent the technology that halts Amazon's march toward global dominance.</a>
+<p><a href="https://www.wired.com/2013/04/store-of-the-future/" target="blank">This Bot-Powered Store Could Halt Amazon in Its Tracks</a></p>
+"Hointer's racks of designer denim distract from Nadia Shouraboura's deeper ambition: To invent the technology that halts Amazon's march toward global dominance."
 
 <a href="https://www.smh.com.au/business/companies/hointer-how-a-mathematician-got-microrobots-to-sell-you-jeans-20140722-zvqel.html" target="blank">Hointer: How a mathematician got micro-robots to sell you jeans</a>
 
