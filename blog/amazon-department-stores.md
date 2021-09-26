@@ -88,7 +88,7 @@ One thing's for sure: everything described in the article was in place a decade 
 * When omni-channel meets Amazon's customer data, in-store (and on Prime) personalization will acquire new dimensions. Think: 1:1 lookbooks, seamless recommendations that span the physical and digital, and your favorite music automatically streaming in the dressing room. 
 * First-party data will likely remain a priority for bricks.
 * Amazon is now the <a href="https://www.campaignlive.com/article/amazon-biggest-advertiser-earth-adspend-hits-11bn/1672723" target="blank">world’s biggest advertiser</a>, posing an additional challenge to bricks.</p>
-* Meanwhile, Motley Fool's Rhian Hunt notes physical retail iss "<a href="https://www.fool.com/investing/2021/08/22/is-amazon-poised-to-conquer-department-store-space/" target="blank">clearly Amazon's weakest point</a>, despite multiple attempts by the e-commerce giant to break into this market."
+* Meanwhile, some analysts see physical retail as "<a href="https://www.fool.com/investing/2021/08/22/is-amazon-poised-to-conquer-department-store-space/" target="blank">clearly Amazon's weakest point</a>, despite multiple attempts by the e-commerce giant to break into this market."
 </details><br/>
 
 ### Related
