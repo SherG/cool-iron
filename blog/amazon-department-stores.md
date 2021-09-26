@@ -12,7 +12,11 @@ Amazon's stores could feature "QR codes," "touch screens," and "a non-traditiona
 
 ## Back to the future 
 
-I felt I had been whooshed back to 9 years ago. The insider leaks seemed to be describing Hointer: a retail concept and set of technologies developed by <em>former</em> Amazon exec <a href="https://www.linkedin.com/in/nadiashouraboura/" target="blank">Nadia Shouraboura</a>. The Hointer experience was trialed in pilot stores, including a <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">mens's store</a> in Seattle's U district.
+I felt I had been whooshed back to 9 years ago. The insider leaks seemed to be describing Hointer: a retail concept and set of technologies developed by <em>former</em> Amazon exec <a href="https://www.linkedin.com/in/nadiashouraboura/" target="blank">Nadia Shouraboura</a>. 
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1632680916/nadia-shouraboura-amazon-department-stores_rkpynp.png"/>
+
+The Hointer experience was trialed in pilot stores, including a <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">mens's store</a> in Seattle's U district.
 
 > The insider leaks seem to be describing Hointer, a project spearheaded by former Amazon exec Nadia Shouraboura 
 
@@ -72,12 +76,13 @@ One thing's for sure: everything described in the article was in place a decade 
 <p> The retail chessboard’s about to get more interesting with Amazon’s play. Some questions and observations:</p>
 
 * How many retailers trialed Hointer’s tech or kept using it? What were their findings? 
-* Ironically, Hointer was at one point described as conferring a potential competitive advantage over Amazon.
-* Ditching a QR-reading app has appeal. Why be distracted with having to download an app and keep your potentially large cell or phablet in your hand while interacting with merch, especially clothing, which you'll want to touch with both hands? Old-school push-buttons, hand movements, or voice commands could also be used to select and send apparel to fitting rooms.
+* Shouraboura moved from apps to a wand-like device which customers could use to select merchandise to be sent to a fitting room. Users <a href="https://www.deborahweinswig.com/tick-tock-retailers-its-wake-up-time-a-retail-symposium/" target="blank">enjoyed the evocation of magic</a> that the wand provided.
+* Ditching the QR-reading app definitely has appeal. Why be distracted with having to download an app and keep your potentially large cell or phablet in your hand while interacting with merch, especially clothing, which you'll want to touch with both hands? Old-school push-buttons, hand movements, or voice commands could also be used to select and send apparel to fitting rooms.
+* Ironically, Hointer was at one point described as <a href="https://www.wired.com/2013/04/store-of-the-future/" target="blank">conferring a potential competitive advantage over Amazon</a>. 
 * Experiments with AR, VR, and QR codes as well as touchscreens in dressing rooms have a long history now. And there's plenty to learn from successes. For example, when Rebecca Minkoff launched interactive mirrors, they helped contribute to a <a href="https://www.cnbc.com/2017/09/09/how-rebecca-minkoff-uses-tech-to-drive-triple-digit-sales-growth.html" target="blank">tripling of sales</a>. 
 * When omni-channel meets Amazon's customer data, in-store (and on Prime) personalization will acquire new dimensions. Think: 1:1 lookbooks, seamless recommendations that span the physical and digital, and your favorite music automatically streaming in the dressing room. 
 * First-party data will likely remain a priority for bricks.
-* Amazon is now the <a href="https://www.campaignlive.com/article/amazon-biggest-advertiser-earth-adspend-hits-11bn/1672723" target="blank">world’s biggest advertiser</a>. Add that to the mix and bricks are facing quite an intriguing challenge.</p>
+* Amazon is now the <a href="https://www.campaignlive.com/article/amazon-biggest-advertiser-earth-adspend-hits-11bn/1672723" target="blank">world’s biggest advertiser</a>, posing an additional challenge to bricks.</p>
 </details><br/>
 
 ### Related
