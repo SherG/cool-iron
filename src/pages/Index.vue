@@ -64,10 +64,6 @@
             <div>Digital growth</div>
             <div class="text-lg text-gray-600">Work with a very bright team that buys, grows, and sells valuable digital assets in some of the world's most competitive sectors. </div>
           </li>
-          <li class="checkmark mb-6">
-            <div><a href="https://www.spearfishcap.com/" target="blank">Spearfish</a></div>
-            <div class="text-lg text-gray-600">Helping entrepreneurs grow their business </div>
-
         </ul>
       </div> <!-- end projects -->
     </div>
