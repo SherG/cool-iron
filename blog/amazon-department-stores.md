@@ -17,7 +17,7 @@ I felt I had been whooshed back to 9 years ago. The insider leaks seemed to be d
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1632680916/nadia-shouraboura-amazon-department-stores_rkpynp.png"/>
 <small>Deja vu: This <em>Wired</em> article from 2013 describes Shouraboura's bot-powered store design. The inventor, pictured at center above, put $5 million of her own funds into the project.</small>
 
-The Hointer experience was trialed in pilot stores, including a <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">mens's store</a> in Seattle's U district.
+The Hointer experience was trialed in pilot stores, including a <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">men's store</a> in Seattle's U district.
 
 > The insider leaks seem to be describing Hointer, a project spearheaded by former Amazon exec Nadia Shouraboura 
 
