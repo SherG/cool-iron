@@ -53,6 +53,8 @@ I know the code name: "Shouraboura!" Or maybe "Mayday!" (That's a joke Shourabou
 
 Seriously, the leakers aren't describing anything fundamentally different than Hointer, so they may as well have code-named the project "Shouraboura."
 
+> Bricks account for <a href="https://www.census.gov/retail/mrts/www/data/pdf/ec_current.pdf" target="blank">84% of retail sales</a> in the U.S.
+
 There are some odd, pedestrian details included in the leak. After customers scan QR codes, "associates in the store" will "gather the items and place them in fitting rooms." Come on. Salespeople hand-carrying garments to fitting rooms has been done since when — the 1800s? Amazon's not going to do that. They'll likely copy Shouraboura's automated delivery system.
 
 Remember that qualifier:
@@ -87,7 +89,6 @@ One thing's for sure: everything described in the article was in place a decade 
 * There have been plenty of experiments with AR, VR, and QR codes as well as touchscreens in dressing rooms. For example, when Rebecca Minkoff launched interactive mirrors, they helped contribute to a <a href="https://www.cnbc.com/2017/09/09/how-rebecca-minkoff-uses-tech-to-drive-triple-digit-sales-growth.html" target="blank">tripling of sales</a>. 
 * When omni-channel meets Amazon's customer data, in-store (and on Prime) personalization will acquire new dimensions. Think: 1:1 lookbooks, seamless recommendations that span the physical and digital, and your favorite music automatically streaming in the dressing room. 
 * First-party data will likely remain a priority for bricks.
-* Bricks account for <a href="https://www.census.gov/retail/mrts/www/data/pdf/ec_current.pdf" target="blank">84% of retail sales</a> in the U.S.
 * Amazon is now the <a href="https://www.campaignlive.com/article/amazon-biggest-advertiser-earth-adspend-hits-11bn/1672723" target="blank">world’s biggest advertiser</a>, posing an additional challenge to bricks.</p>
 * Meanwhile, some analysts see physical retail as "<a href="https://www.fool.com/investing/2021/08/22/is-amazon-poised-to-conquer-department-store-space/" target="blank">clearly Amazon's weakest point</a>, despite multiple attempts by the e-commerce giant to break into this market."
 
