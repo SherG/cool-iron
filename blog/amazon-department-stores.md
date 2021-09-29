@@ -77,7 +77,7 @@ One thing's for sure: everything described in the article was in place a decade 
 <details>
   <summary>More on Hointer and high-tech retail experiments</summary>
 <p> The retail chessboard’s about to get more interesting with Amazon’s play. Some questions and observations:</p>
-
+<ul>
 * Hointer customers tried on far more items of clothing, according to Shouraboura, who told the <a href="https://www.smh.com.au/business/companies/hointer-how-a-mathematician-got-microrobots-to-sell-you-jeans-20140722-zvqel.html" target="blank"><em>Sydney Morning Herald</em></a> in 2014: “Normally customers try on three to five – at Hointer on average they try on 12 because it’s very fast.” Half of what they tried on was recommended by the app and, critically, they bought "a lot more" than the average buyer in traditional stores selling similar items.
 * The Hointer approach enabled a store to operate in a small footprint with far fewer employees (and lower costs and prices) than otherwise would be possible. 
 * How many retailers trialed Hointer’s tech or kept using it? What were their findings? 
@@ -89,7 +89,7 @@ One thing's for sure: everything described in the article was in place a decade 
 * First-party data will likely remain a priority for bricks.
 * Amazon is now the <a href="https://www.campaignlive.com/article/amazon-biggest-advertiser-earth-adspend-hits-11bn/1672723" target="blank">world’s biggest advertiser</a>, posing an additional challenge to bricks.</p>
 * Meanwhile, some analysts see physical retail as "<a href="https://www.fool.com/investing/2021/08/22/is-amazon-poised-to-conquer-department-store-space/" target="blank">clearly Amazon's weakest point</a>, despite multiple attempts by the e-commerce giant to break into this market."
-* Bricks account for <a href="https://www.census.gov/retail/mrts/www/data/pdf/ec_current.pdf" target="blank">84% of retail sales</a> in the U.S.
+* Bricks account for <a href="https://www.census.gov/retail/mrts/www/data/pdf/ec_current.pdf" target="blank">84% of retail sales</a> in the U.S.</ul>
 </details><br/>
 
 ### Related
