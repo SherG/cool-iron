@@ -117,4 +117,4 @@ This short, accessible read argues that "everything most people know about antit
 
 <a href="https://www.mercatus.org/system/files/Perils-of-Classifying-Social-Media-Platforms-Public-Utilities.pdf" target="blank">The Perils of Classifying Social Media Platforms as Public Utilities</a> - Adam Thierer, Senior Research Fellow, <a href="https://www.mercatus.org/" target="blank">Mercatus Center</a> at George Mason University
 
-<a href="https://twitter.com/AdamThierer/status/1151150523124502528" target="blank">10 must-reads on Section 230</a> (from Adam Thierer) 
+<a href="https://twitter.com/AdamThierer/status/1151150523124502528" target="blank">10 must-reads on Section 230</a> from Adam Thierer 
