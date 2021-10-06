@@ -81,20 +81,18 @@ Now, I’ve criticized this “Post-it” note system for its flaws and for the 
 
 It’s partly a price extracted by the politicians who’ve pushed the social media giant between the Scylla of <a href="https://newsfilter.io/articles/why-facebook-and-google-face-the-most-risk-in-an-overhaul-of-antitrust-law-c2c1d6a16a2bd9a9cb0125e2f4f9e1c7" target="blank">antitrust action</a> (right and left) and the Charybdis of “Make people stop saying things we find abhorrent!” (on the left).
 
-Facebook has struck a bargain with Charybdis which may not save it from rocky crags of Scylla. And then there's the threatened revocation of Section 230 (<a href="https://www.commerce.senate.gov/2020/10/committee-to-hold-hearing-with-big-tech-ceos-on-section-230" target="blank">on the right</a>) as well.
+Facebook has struck a bargain with one which may not save it from the other. And then there's the threatened revocation of Section 230 (<a href="https://www.commerce.senate.gov/2020/10/committee-to-hold-hearing-with-big-tech-ceos-on-section-230" target="blank">on the right</a>) as well.
 
 In the meantime, unfortunately, we'll be treated to the continuing spectacle of <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_Natl_010813_.pdf" target="blank">politicians</a> on the right and left grilling Zuckerberg in public <a href="https://en.wikipedia.org/wiki/Kabuki_dance" target="blank">Kabuki</a> theater and fighting for greater control of Facebook. 
 
-The signs of this political struggle are strewn across Facebook's newsfeeds.
+The signs of this political struggle are strewn across media.
 
 
 ## In sum 
 
 Mr. Zuckerberg, thanks for all the good times. I've had a lot of laughs and fun on Facebook, sharing photos and humor. I've played games and been entertained. I've enjoyed seeing my friends' updates and having conversations as well as learning things from my brainy friends' Facebook Notes. But this is not the best use of my time.
 
-Besides, conversation fails to feel natural (or appealing) knowing every word you're typing is being watched and weighed, as a bureaucratic functionary or its algorithmic stand-in decide whether your ideas warrant warning labels, suppression, and social disapproval.
-
-No thanks. 
+Besides, conversation fails to feel natural (or appealing) knowing every word you're typing is being watched and weighed, as a bureaucratic functionary or its algorithmic stand-in decide whether one's ideas warrant warning labels, suppression, and social disapproval.
 
 <br/>
 
