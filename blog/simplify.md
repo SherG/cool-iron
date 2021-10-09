@@ -131,7 +131,9 @@ While your intuition may open new avenues for creative exploration and testing, 
 
 ### Use data to check assumptions
 
-<strong>Everyday example from my own work</strong>: it was believed that our P-Team (an internal nickname) needed to increase throughput. A bonus system was floated toward that end. The conclusion (and solution) seemed reasonable on the surface. However, a check of data showed they had been regularly increasing throughput, week-over-week. 
+<strong>Everyday example from my own work</strong>: During an offhand conversation the idea of boosting the throughout of our "P-Team" (an internal nickname) was raised. Someone floated the possibility of a bonus system as a possible means.
+
+If we were the type of organization that made decisions off the cuff like this we might've moved forward immediately. But instead we check premises by looking at data. It took 5 minutes to see that week-over-week, the P-team was actually increasing their throughput.
 
 The decision then became clear: while we still planned on implementing a bonus system, we needed to grow P-Team substanitally. We tripled the team's size in order to achieve the desired throughput.
 
