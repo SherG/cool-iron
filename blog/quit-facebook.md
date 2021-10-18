@@ -92,7 +92,7 @@ The signs of this political struggle are strewn across media.
 
 Mr. Zuckerberg, thanks for all the good times. I've had a lot of laughs and fun on Facebook, sharing photos and humor. I've played games and been entertained. I've enjoyed seeing my friends' updates and having conversations as well as learning things from my brainy friends' Facebook Notes. But this is not the best use of my time.
 
-Besides, conversation fails to feel natural (or appealing) knowing every word typed is being watched and weighed, by a bureaucratic functionary or its algorithmic stand-in, ever-present to dispense warning labels, suppression, and social disapproval.
+Besides, conversation fails to feel natural (or appealing) knowing every word typed is being watched and weighed, by a bureaucratic functionary or its algorithmic stand-in, ready to dispense warning labels, suppression, and social disapproval.
 
 No thanks.
 
