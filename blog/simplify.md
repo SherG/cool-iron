@@ -106,7 +106,7 @@ A process is repeatable and clear. The KPIs provide a reliable measure of result
 
 Implementing processes is simple. Executing them is a grind, but if the processes are sound, the grind is what produces results. 
 
-Some tough love: if you can’t clearly describe what you’re doing, you don’t know what you’re doing. Writing produces clarity. 
+Some tough love: if you can’t describe what you’re doing in terms of processes, you don’t know what you’re doing. Writing produces clarity. 
 
 Documenting your processes also makes it easier to onboard new hires. And when it comes time to sell your digital properties, it can make those more valuable.
 
