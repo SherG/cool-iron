@@ -83,7 +83,7 @@ It’s partly a price extracted by the politicians who’ve pushed the social me
 
 Facebook has struck a bargain with one which may not save it from the other. And then there's the threatened revocation of Section 230 (<a href="https://www.commerce.senate.gov/2020/10/committee-to-hold-hearing-with-big-tech-ceos-on-section-230" target="blank">on the right</a>) as well.
 
-In the meantime, unfortunately, we'll be treated to the continuing spectacle of <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_Natl_010813_.pdf" target="blank">politicians</a> on the right and left grilling Zuckerberg in public <a href="https://en.wikipedia.org/wiki/Kabuki_dance" target="blank">Kabuki</a> theater and fighting for greater control of Facebook. 
+In the meantime, unfortunately, we'll be treated to the continuing spectacle of <a href="https://www.publicpolicypolling.com/wp-content/uploads/2017/09/PPP_Release_Natl_010813_.pdf" target="blank">politicians</a> on both sides grilling Zuckerberg in public <a href="https://en.wikipedia.org/wiki/Kabuki_dance" target="blank">Kabuki</a> theater as they fight for greater control of Facebook. 
 
 The signs of this political struggle are strewn across media.
 
