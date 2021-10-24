@@ -57,7 +57,7 @@ Unfortunately, there are many other stories, across the political spectrum, of f
 
 ### From social media to social monitoring
 
-Where precision or nuance in fact-checking is missing the results are censorship or suppression of speech nonetheless. 
+Where objectivity or nuance in fact-checking is missing the results are censorship or suppression of speech nonetheless. 
 
 Taking on the mantle of "fact-checker" is a tall order, and requires, among other things, for each topic, a thorough grasp of related and multiple contexts; the nature, current state of, and history of contrarian positions among scientists and academics including in research papers; and an understanding of game theory and complex systems science. It also requires a precise understanding of what <em>isn't known</em> and therefore can't be "fact-checked." 
 
