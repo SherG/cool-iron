@@ -107,6 +107,8 @@ No thanks.
 
 Baekdal discusses why Facebook and Twitter are designed to deliver just a "micro moment for people on a break." And he reveals "why we end up with content that drives a lot of engagement and activity but which means very little."
 
+<a href="https://journalistsresource.org/home/principles-of-journalism/" target="blank">Committee of Concerned Journalists: Principles of Journalism</a>
+
 <a href="https://www.amazon.com/dp/B004XOZ66W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" target="blank"><em>The Antitrust Religion</em></a> - Edwin S. Rockefeller
 
 This short, accessible read argues that "everything most people know about antitrust is wrong. The orthodox view is that antitrust was created to protect competition." In practice, antitrust "has often benefited, not the public, but specific businesses that wanted to take down their competitors." 
