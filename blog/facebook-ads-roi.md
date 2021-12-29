@@ -111,7 +111,7 @@ Remember, this scenario assumes you are using a Facebook marketer who delivers q
 
 Your data will tell you what your next action step should or can be. For example, that might be: 
 
-* Continue to let campaigns runs in order to determine the ability of the Facebook ad marketer to generate quality leads on a regular basis.
+* Continue to let campaigns run in order to determine the ability of the Facebook ad marketer to generate quality leads on a regular basis.
 * Fire the Facebook Ads pro. Get a better one.
 * Tweak your landing page to filter out tirekickers.
 * Save time by setting up automated email follow-ups.
