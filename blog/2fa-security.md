@@ -249,8 +249,3 @@ While no solution offers perfect or guaranteed security, making yourself a hard 
 
 <a href="https://www.yubico.com/2016/02/use-of-fido-u2f-security-keys-focus-of-2-year-google-study/" target="blank">Google publishes two-year study on use of FIDO U2F Security Keys</a>
 
-
-
-Temporary code test
-
-<div><div rel="commodity-price-graph" style="width: 520px; max-width: 100%; height: 450px; display: flex; flex-direction: column; overflow: hidden;" data-symbol="XAU/USD" data-range="4" data-width="720" data-height="450" data-micro-limit-ts="1642464000000" data-macro-limit-ts="1610928000000" data-title="Gold Spot / US Dollar"></div><a href="https://commodity.com"><img width="128" height="38" alt="Commodity.com" src="https://commodity.com/wp-content/plugins/commodity-price-graph/assets/commodity-logo.png"></a><script src="https://commodity.com/wp-content/plugins/commodity-price-graph/widget-js/embed-v3.js" rel="commodity-price-graph-js"></script></div>
