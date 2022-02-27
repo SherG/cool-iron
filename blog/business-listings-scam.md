@@ -4,6 +4,8 @@ path: /business-listings-scams
 date: 2019-07-19
 summary: Have you received a call from Google about your business listings? Or from Amazon about being listed on Alexa? Here's what you need to know about these unsolicited marketing proposals. 
 tags: ['dodgy marketing']
+categories: ['test']
+
 ---
 
 If you're like most small businesses, your email inbox is overflowing with unsolicited marketing pitches. 
