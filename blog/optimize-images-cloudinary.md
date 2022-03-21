@@ -58,7 +58,7 @@ WebP, JPEG 2000, and JPEG XR are examples of next-gen formats.
 #### The Browser Compatability Problem — Solved
 <a href="https://developers.google.com/speed/webp/" target="blank">WebP</a> was developed by Google. It loads extremely fast, but is <a href="https://caniuse.com/#search=webp" target="blank">not supported by all browsers</a>. 
 
-For example, it's not compatible with Safari, iOS Safari, BlackBerry Browser, or IE Mobile. <em>If all of your website images were WebP images, visitors coming to your website using one of these other browsers would see blank spaces where the images were supposed to be.</em>
+[<em>Update: WebP is now compatible with Safari - but only on version 14, which launched in Sept. 2020</em>.]For example, it's not compatible with Safari, iOS Safari, BlackBerry Browser, or IE Mobile. <em>If all of your website images were WebP images, visitors coming to your website using one of these other browsers would see blank spaces where the images were supposed to be.</em>
 
 In addition, formats like <a href="https://caniuse.com/#feat=jpegxr" target="blank">JPEG XR</a> are only supported by Microsoft's Internet Explorer and Edge browsers. 
 
