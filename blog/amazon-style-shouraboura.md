@@ -6,7 +6,7 @@ summary: Amazon Style department store concept uses Hointer concept
 tags: ['strategy']
 ---
 
-In a previous blog post we highlighted the striking similarities between Amazon's department store concept ("leaked" to the Wall St. Journal) and the bot-powered store design <a href="/amazon-department-stores">launched a decade ago</a> by engineer-entrepreneurs Nadia Shouraboura and Caroline Shouraboura.
+In a <a href="https://www.signalfox.org/amazon-department-stores/">previous blog post</a> we highlighted the striking similarities between Amazon's department store concept ("leaked" to <em>The Wall St. Journal</a>) and the bot-powered store design <a href="/amazon-department-stores">launched a decade ago</a> by engineer-entrepreneurs Nadia Shouraboura and Caroline Shouraboura.
 
 In a <a href="https://www.aboutamazon.com/news/retail/amazon-reimagines-in-store-shopping-with-amazon-style" target="blank">blog post</a> published today, Amazon elaborates on their soon-to-launch physical apparel store -- called Amazon Style -- and the similarities are even more striking.
 
