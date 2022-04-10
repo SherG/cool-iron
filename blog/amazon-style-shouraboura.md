@@ -28,4 +28,4 @@ Hointer was acquired by the Australian firm Wesfarmers. While some big US retail
 
 In retrospect, it seems the Shourabouras were a decade ahead of everyone else — including Amazon. "The future is now" was one of Hointer's taglines. 
  
-If Amazon's deployment of this same concept takes off, it'll be a bitter pill for retailers who dithered for a decade when offered a set of technologies <a href="https://www.wired.com/2013/04/store-of-the-future/" target="blank">sold as a competitive advanatage</a> against Amazon. 
+If Amazon's deployment of this same concept takes off, it'll be a bitter pill for retailers who dithered for a decade when offered a set of technologies <a href="https://www.wired.com/2013/04/store-of-the-future/" target="blank">sold as a competitive advantage</a> against Amazon. 
