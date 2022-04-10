@@ -1,7 +1,7 @@
 ---
 title: Amazon Style and the Decade that Slipped By
 path: /amazon-style-shouraboura
-date: 2000-01-20
+date: 2022-01-22
 summary: "Amazon Style" department store concept uses Hointer concept
 tags: ['strategy']
 ---
