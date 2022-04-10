@@ -22,7 +22,7 @@ Here's an overview of similarities with Hointer:
 
 To be sure, touchless checkout, use of a shopping app, or in-store QR codes alone are hardly novel. What made Hointer unique was the particular design and  combination of technologies in order to significantly improve customer experience. And they got there a decade before Amazon.
 
-Hointer opened flagship stores which served as test-beds; they had coders on the floor reacting to shoppers' feedback and altering things on the go. But they also functioned as a technology company, much in the same way that Ocado does or Amazon does with their cloud services: making their innovative tech available to other businesses.
+Hointer opened flagship stores which served as test-beds; they had coders on the floor reacting to shoppers' feedback and altering things on the go. They were primarily a technology company, and functioned much in the same way that Ocado does or Amazon does with their cloud services: making their innovative tech available to other businesses.
 
 Hointer was acquired by the Australian firm Wesfarmers. While some big US retailers trialed Hointer tech it's not clear that it ever caught on here. 
 
