@@ -20,7 +20,7 @@ Here's an overview of similarities with Hointer:
 * Use of the above to develop stores with small footprints and labor requirements and better customer experience
 * Touchless self-checkout (Hointer used an app, Amazon Style will use palm-based biometrics.)
 
-To be sure, touchless checkout, use of a shopping app, or in-store QR codes are hardly novel. What made Hointer unique is the particular combination of technologies in order to significantly improve customer experience. And they got there a decade before Amazon.
+To be sure, touchless checkout, use of a shopping app, or in-store QR codes alone are hardly novel. What made Hointer unique was the particular design and  combination of technologies in order to significantly improve customer experience. And they got there a decade before Amazon.
 
 Hointer opened flagship stores which served as test-beds; they had coders on the floor reacting to shoppers' feedback and altering things on the go. But they also functioned as a technology company, much in the same way that Ocado does or Amazon does with their cloud services: making their innovative tech available to other businesses.
 
