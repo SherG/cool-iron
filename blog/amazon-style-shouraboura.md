@@ -1,3 +1,4 @@
+
 ---
 title: Amazon Style and the Decade that Slipped By
 path: /amazon-style-shouraboura
