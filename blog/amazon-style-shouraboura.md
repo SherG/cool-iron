@@ -8,7 +8,7 @@ tags: ['strategy']
 
 Back in September of 2021, we <a href="https://www.signalfox.org/amazon-department-stores/">highlighted</a> the striking similarities between Amazon's department store concept ("leaked" to <em>The Wall St. Journal</em>) and the bot-powered store design <a href="/amazon-department-stores">launched a decade ago</a> by engineer-entrepreneurs Nadia Shouraboura and Caroline Shouraboura.
 
-A few months later, GeekWire <a href="https://www.geekwire.com/2022/amazon-to-try-another-tech-infused-retail-concept-with-amazon-style-its-first-physical-fashion-store/" target="blank">wrote about</a> the similarities too. They were well-positioned to do so as they <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">covered</a> the evolution of Hointer from its start.
+A few months later, GeekWire <a href="https://www.geekwire.com/2022/amazon-to-try-another-tech-infused-retail-concept-with-amazon-style-its-first-physical-fashion-store/" target="blank">wrote about</a> the similarities too. They were well-positioned to do so; they had <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">covered</a> the evolution of Hointer from its start.
 
 Now, in a <a href="https://www.aboutamazon.com/news/retail/amazon-reimagines-in-store-shopping-with-amazon-style" target="blank">blog post</a> published today, Amazon elaborates on their soon-to-launch physical apparel store -- called Amazon Style -- and the similarities are even more striking.
 
