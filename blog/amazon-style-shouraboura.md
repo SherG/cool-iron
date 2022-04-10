@@ -2,7 +2,7 @@
 title: Amazon Style and the Decade that Slipped By
 path: /amazon-style-shouraboura
 date: 2022-01-22
-summary: Amazon Style department store concept uses Hointer concept
+summary: Amazon Style clothing store set to launch, with striking similarities to the work of engineer-entrepreneurs Nadia Shouraboura and Caroline Shouraboura
 tags: ['strategy']
 ---
 
