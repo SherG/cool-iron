@@ -16,15 +16,15 @@ Here's that passage:
 
 <div style="padding-left: 2.3em"><p>And I ask that you join me now in a moment of silence for all those in uniform and out uniform — military and civilian, who have given the last full measure of devotion.</p></div>
 
-The Book of Isaiah is a major prophetic book that spans several themes. One of the main themes is God's judgment on his own people. It's filled with bone-chilling predictions of divine punishment, including on the military. For example, in Chapter 3, verse 25 we read: "Your men shall fall by the sword and your mighty men in battle." 
+The Book of Isaiah is a major prophetic book that spans several themes. One of the main themes is God's judgment on his own people. It's filled with bone-chilling predictions of divine punishment, including on the military. For example, in Chapter 3, <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">verse 25</a> we read: "Your men shall fall by the sword and your mighty men in battle." 
 
 This is one reason why the choice of Isaiah is bizarre: the prophet foretold the destruction of his own nation's military at the hand of a foreign power. 
 
 Not exactly reassuring words to use in a presidential speech.
 
-American Presidents have often used biblical allusions in their speeches — such as "city on a hill." These allusions, more often than not it would seem, are used as tools of political propaganda and persuasion.
+American Presidents have often used biblical allusions in their speeches — such as "city on a hill." These allusions, more often than not it would seem, are used as expressions of political propaganda and persuasion.
 
-While phrases and passages from the Bible can sound familiar, poetic, or inspiring, stripping them of all context makes them meaningless. Worse, it can cause confusion or appear manipulative. 
+While phrases and passages from the Bible can sound familiar, poetic, or inspiring, stripping them of all context makes them meaningless. Worse, such communications can cause confusion or appear manipulative. 
 
 Presidents — and their speechwriters — should instead speak plainly. Say what you mean. And be wary of invoking scripture. 
 
