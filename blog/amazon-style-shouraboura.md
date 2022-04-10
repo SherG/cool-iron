@@ -26,6 +26,6 @@ Hointer opened flagship stores which served as test-beds; they had coders on the
 
 Hointer was acquired by the Australian firm Wesfarmers. While some big US retailers trialed Hointer tech it's not clear that it ever caught on here. 
 
-In retrospect, it seems the Shourabouras were a decade ahead of everyone else — including Amazon. "The future is now" was the Hointer tagline. 
+In retrospect, it seems the Shourabouras were a decade ahead of everyone else — including Amazon. "The future is now" was Hointer's tagline. 
  
 If Amazon's deployment of this same concept takes off, it'll be a bitter pill for retailers who dithered for a decade when offered a set of technologies <a href="https://www.wired.com/2013/04/store-of-the-future/" target="blank">sold as a competitive advantage</a> against Amazon. 
