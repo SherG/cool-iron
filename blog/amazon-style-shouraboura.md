@@ -10,7 +10,7 @@ Back in September of 2021, we <a href="https://www.signalfox.org/amazon-departme
 
 A few months later, GeekWire <a href="https://www.geekwire.com/2022/amazon-to-try-another-tech-infused-retail-concept-with-amazon-style-its-first-physical-fashion-store/" target="blank">wrote about</a> the similarities too. They were well-positioned to do so; they had <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">covered</a> the evolution of Hointer from its start.
 
-Now, in a <a href="https://www.aboutamazon.com/news/retail/amazon-reimagines-in-store-shopping-with-amazon-style" target="blank">blog post</a> published today, Amazon elaborates on their soon-to-launch physical apparel store -- called Amazon Style -- and the similarities are even more striking.
+Now, in a <a href="https://www.aboutamazon.com/news/retail/amazon-reimagines-in-store-shopping-with-amazon-style" target="blank">blog post</a> published today, Amazon elaborates on their soon-to-launch physical apparel store — called Amazon Style — and the similarities are even more striking.
 
 Here's an overview of similarities with Hointer:
 
@@ -22,10 +22,10 @@ Here's an overview of similarities with Hointer:
 
 To be sure, touchless checkout, use of a shopping app, or in-store QR codes are hardly novel. What made Hointer unique is the particular combination of technologies in order to significantly improve customer experience. And they got there a decade before Amazon.
 
-Hointer opened flagship stores which served as test-beds -- they had coders on the floor reacting to shoppers' feedback and altering things on the go. But they also functioned as a technology company, much in the same way that Ocado does or that Amazon does with their cloud services: making their innovative tech available to other businesses.
+Hointer opened flagship stores which served as test-beds; they had coders on the floor reacting to shoppers' feedback and altering things on the go. But they also functioned as a technology company, much in the same way that Ocado does or Amazon does with their cloud services: making their innovative tech available to other businesses.
 
 Hointer was acquired by the Australian firm Wesfarmers. While some big US retailers trialed Hointer tech it's not clear that it ever caught on here. 
 
-In retrospect, it seems the Shourabouras were a decade ahead of everyone else -- including Amazon. "The future is now" was one of Hointer's taglines. 
+In retrospect, it seems the Shourabouras were a decade ahead of everyone else — including Amazon. "The future is now" was one of Hointer's taglines. 
  
 If Amazon's deployment of this same concept takes off, it'll be a bitter pill for retailers who dithered for a decade when offered a set of technologies <a href="https://www.wired.com/2013/04/store-of-the-future/" target="blank">sold as a competitive advanatage</a> against Amazon. 
