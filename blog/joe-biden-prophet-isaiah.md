@@ -16,11 +16,10 @@ Here's that passage:
 
 <div style="padding-left: 2.3em"><p>And I ask that you join me now in a moment of silence for all those in uniform and out uniform — military and civilian, who have given the last full measure of devotion.</p></div>
 
-The Book of Isaiah is a major prophetic book that spans several themes. One of the main themes is God's judgment on his own people. It's filled with bone-chilling predictions of divine punishment, including on the military. For example, in Chapter 3, <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">verse 25</a> we read: "Your men shall fall by the sword and your mighty men in battle." 
 
-This is one reason why the choice of Isaiah is bizarre: the prophet foretold the destruction of his own nation's military at the hand of a foreign power. 
+In the Book of Isaiah, the phrase "Here am I, Lord. Send me" is not a warrior volunteering for military service. It's Isaiah volunteering to deliver God's messages as a prophet.
 
-Not exactly reassuring words to use in a presidential speech.
+One of the main themes of the Book of Isaiah is God's judgment on his own people. It's filled with bone-chilling predictions of divine punishment, including on the military. For example, in Chapter 3, <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">verse 25</a> we read: "Your men shall fall by the sword and your mighty men in battle." 
 
 American Presidents have often used biblical allusions in their speeches — such as "city on a hill." These allusions, more often than not it would seem, are used as expressions of political propaganda and persuasion.
 
