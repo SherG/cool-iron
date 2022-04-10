@@ -6,7 +6,7 @@ summary: Amazon Style department store concept uses Hointer concept
 tags: ['strategy']
 ---
 
-Back in September of 2021, we <a href="https://www.signalfox.org/amazon-department-stores/">highlighted</a> the striking similarities between Amazon's department store concept ("leaked" to <em>The Wall St. Journal</em>) and the bot-powered store design <a href="/amazon-department-stores">launched a decade ago</a> by engineer-entrepreneurs <a href="https://www.linkedin.com/in/nadiashouraboura" target="blank">Nadia Shouraboura</a> and <a href="https://www.linkedin.com/in/caroline-shouraboura-527a9693" target="blank">Caroline Shouraboura</a>.
+Back in September of 2021, we <a href="https://www.signalfox.org/amazon-department-stores/">highlighted</a> the striking similarities between Amazon's department store concept ( "leaked" to <em>The Wall St. Journal</em> ) and the bot-powered store design <a href="/amazon-department-stores">launched a decade ago</a> by engineer-entrepreneurs <a href="https://www.linkedin.com/in/nadiashouraboura" target="blank">Nadia Shouraboura</a> and <a href="https://www.linkedin.com/in/caroline-shouraboura-527a9693" target="blank">Caroline Shouraboura</a>.
 
 A few months later, GeekWire <a href="https://www.geekwire.com/2022/amazon-to-try-another-tech-infused-retail-concept-with-amazon-style-its-first-physical-fashion-store/" target="blank">wrote about</a> the similarities too. They were well-positioned to do so; they had <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">covered</a> the evolution of Hointer from its start.
 
