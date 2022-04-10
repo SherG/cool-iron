@@ -22,7 +22,7 @@ This is one reason why the choice of Isaiah is bizarre: the prophet foretold the
 
 Not exactly reassuring words to use in a presidential speech.
 
-American Presidents have often used biblical allusions in their speeches -- such as "city on a hill." While phrases and passages from the Bible can sound familiar, poetic, or inspiring, stripping them of all context makes them meaningless and can cause confusion or appear manipulative. 
+American Presidents have often used biblical allusions in their speeches -- such as "city on a hill." While phrases and passages from the Bible can sound familiar, poetic, or inspiring, stripping them of all context makes them meaningless. Worse, it can cause confusion or appear manipulative. 
 
 Presidents — and their speechwriters — should instead speak plainly. Say what you mean. And be wary of invoking scripture. 
 
