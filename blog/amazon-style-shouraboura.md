@@ -14,10 +14,10 @@ Now, in a <a href="https://www.aboutamazon.com/news/retail/amazon-reimagines-in-
 
 Here's an overview of similarities with Hointer:
 
-* Creative use of QR codes paired to in-store shopping app to (a) Find alternative style recommendations and reviews and (b) Tap to have items automatically delivered to fitting room
+* Creative use of QR codes paired to in-store shopping app to (a) Find alternative style recommendations and reviews and (b) Tap to have items automatically delivered to fitting room.
 * Interactive screens in fitting rooms to request auto-delivery of different sizes, call for a stylist, or view related recommendations.
 * Use of single display items rather than racks and shelves of clothing. Inventory is kept off-floor and delivered directly to fitting rooms via micro-robotics. 
-* Use of the above to develop stores with small footprints and labor requirements and better customer experience
+* Use of the above to develop stores with small footprints and labor requirements and better customer experience.
 * Touchless self-checkout (Hointer used an app, Amazon Style will use palm-based biometrics.)
 
 To be sure, touchless checkout, use of a shopping app, or in-store QR codes alone are hardly novel. What made Hointer unique was the particular design and  combination of technologies in order to significantly improve customer experience. And they got there a decade before Amazon.
