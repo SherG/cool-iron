@@ -6,9 +6,11 @@ summary: Amazon Style department store concept uses Hointer concept
 tags: ['strategy']
 ---
 
-In a <a href="https://www.signalfox.org/amazon-department-stores/">previous blog post</a> we highlighted the striking similarities between Amazon's department store concept ("leaked" to <em>The Wall St. Journal</em>) and the bot-powered store design <a href="/amazon-department-stores">launched a decade ago</a> by engineer-entrepreneurs Nadia Shouraboura and Caroline Shouraboura.
+Back in September of 2021, we <a href="https://www.signalfox.org/amazon-department-stores/">highlighted</a> the striking similarities between Amazon's department store concept ("leaked" to <em>The Wall St. Journal</em>) and the bot-powered store design <a href="/amazon-department-stores">launched a decade ago</a> by engineer-entrepreneurs Nadia Shouraboura and Caroline Shouraboura.
 
-In a <a href="https://www.aboutamazon.com/news/retail/amazon-reimagines-in-store-shopping-with-amazon-style" target="blank">blog post</a> published today, Amazon elaborates on their soon-to-launch physical apparel store -- called Amazon Style -- and the similarities are even more striking.
+A few months later, GeekWire <a href="https://www.geekwire.com/2022/amazon-to-try-another-tech-infused-retail-concept-with-amazon-style-its-first-physical-fashion-store/" target="blank">wrote about</a> the similarities too. They were well-positioned to do so as they <a href="https://www.geekwire.com/2012/hointer-robot-jeans-clothing-apparel-store-startup/" target="blank">covered</a> the evolution of Hointer from its start.
+
+Now, in a <a href="https://www.aboutamazon.com/news/retail/amazon-reimagines-in-store-shopping-with-amazon-style" target="blank">blog post</a> published today, Amazon elaborates on their soon-to-launch physical apparel store -- called Amazon Style -- and the similarities are even more striking.
 
 Here's an overview of similarities with Hointer:
 
@@ -18,10 +20,12 @@ Here's an overview of similarities with Hointer:
 * Use of the above to develop stores with small footprints and labor requirements and better customer experience
 * Touchless self-checkout (Hointer used an app, Amazon Style will use palm-based biometrics.)
 
-Hointer opened flagship stores which served as test-beds -- they had coders on the floor reacting to shoppers' feedback and altering things on the go. But they also functioned as a technology company, much in the same way that Ocado does or that Amazon does with their cloud services: making their innovative tech available to other businesses.
+To be sure, use of a shopping app or in-store QR codes are hardly novel. What made Hointer unique (and now Amazon Style), is the particular combination of technologies in order to significantly improve customer experience.
 
-Hointer's bot-powered system <a href="https://hbr.org/2020/10/are-you-really-innovating-around-your-customers-needs" target="blank">solved</a> real customer pain points. This is in contrast to retailers' gimmicky use of tech to do pointless things. Ever click on a QR code in a store only to be led to a dead-end web page that contains the same info as posters in the store? 
+Hointer opened flagship stores which served as test-beds -- they had coders on the floor reacting to shoppers' feedback and altering things on the go. But they also functioned as a technology company, much in the same way that Ocado does or that Amazon does with their cloud services: making their innovative tech available to other businesses.
 
 Hointer was acquired by the Australian firm Wesfarmers. While some big US retailers trialed Hointer tech it's not clear that it ever caught on here. 
 
-In retrospect, it seems the Shourabouras were a decade ahead of everyone else -- including Amazon. If Amazon's deployment of this same approach takes off, it'll be a bitter pill for retailers who dithered for a decade when offered a concept sold as a competitive advanatage against Amazon. 
+In retrospect, it seems the Shourabouras were a decade ahead of everyone else -- including Amazon. "The future is now" was one of Hointer's taglines. 
+ 
+If Amazon's deployment of this same concept takes off, it'll be a bitter pill for retailers who dithered for a decade when offered a concept sold as a competitive advanatage against Amazon. 
