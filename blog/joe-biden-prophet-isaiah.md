@@ -28,7 +28,7 @@ So, the prophet who said “Here am I, Lord. Send me." foretold the destruction 
 
 ## The Bible and political speech
 
-American Presidents have often quoted the Bible and used its allusions — such as "<a href="https://biblia.com/books/esv/Mt5.14" target="blank">a city set on a hill</a>" — in their speeches. 
+American Presidents have long quoted the Bible and used its allusions — such as "<a href="https://biblia.com/books/esv/Mt5.14" target="blank">a city set on a hill</a>" — in their speeches. 
 
 These communications called Americans to live nobly and helped to shape our "<a href="https://www.neh.gov/article/how-america-became-city-upon-hill" target="blank">self-understanding</a>" as a nation. 
 
