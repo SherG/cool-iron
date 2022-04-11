@@ -16,14 +16,20 @@ Here's that passage:
 
 <div style="padding-left: 2.3em"><p>And I ask that you join me now in a moment of silence for all those in uniform and out uniform — military and civilian, who have given the last full measure of devotion.</p></div>
 
+## An odd choice
 
-In the Book of Isaiah, the phrase "Here am I, Lord. Send me" is not a warrior volunteering for military service. It's Isaiah volunteering to deliver God's messages as a prophet.
+The Isaiah quote is an odd choice. In the Book of Isaiah, the phrase "Here am I, Lord. Send me" is not a warrior volunteering for military service. It's Isaiah volunteering to deliver God's messages.
 
-One of the main themes of the Book of Isaiah is God's judgment on his own people. It's filled with bone-chilling predictions of divine punishment, including on the military. For example, in Chapter 3, <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">verse 25</a> we read: "Your men shall fall by the sword and your mighty men in battle." 
+What kind of messages? One of the main themes of the Book of Isaiah is God's judgment on his own people. It's filled with warnings of divine punishment, including on the military. For example, in Chapter 3, <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">verse 25</a> we read: "Your men shall fall by the sword and your mighty men in battle." 
 
-American Presidents have often used biblical allusions in their speeches — such as "city on a hill." These allusions, more often than not it would seem, are used as expressions of political propaganda and persuasion.
+This is another reason why the choice of Isaiah is bizarre: the prophet foretold the destruction of his own nation's military at the hand of a foreign power.
 
-While phrases and passages from the Bible can sound familiar, poetic, or inspiring, stripping them of all context makes them meaningless. Worse, such communications can cause confusion or appear manipulative. 
+## The language of political propaganda and persuasion
 
-Presidents — and their speechwriters — should instead speak plainly. Say what you mean. And be wary of invoking scripture. 
+American Presidents have often used biblical allusions in their speeches — such as "city on a hill." These allusions, more often than not it would seem — at least in the modern era — are used as expressions of political propaganda and persuasion.
 
+It's also traditional for Presidents to invoke the Bible at times of national crises or tragedies. One reason may be because biblical passages often sound ennobling, lofty, and solemn.
+
+However, using such phrases out of context makes them meaningless. 
+
+Presidents — and their speechwriters — should instead speak plainly. Say what you mean. And be wary of invoking scripture
