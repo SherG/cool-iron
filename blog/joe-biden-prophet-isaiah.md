@@ -30,7 +30,7 @@ So, the prophet who said “Here am I, Lord. Send me." foretold the destruction 
 
 American Presidents have often quoted the Bible and used its allusions — such as "<a href="https://biblia.com/books/esv/Mt5.14" target="blank">a city set on a hill</a>" — in their speeches. Such expressions have long been part of the language of political propaganda and persuasion.
 
-Many of these speeches called Americans to live nobly and helped to shape our "<a href="https://www.neh.gov/article/how-america-became-city-upon-hill" target="blank">self-understanding</a>" as a nation. 
+These communications called Americans to live nobly and helped to shape our "<a href="https://www.neh.gov/article/how-america-became-city-upon-hill" target="blank">self-understanding</a>" as a nation. 
 
 It's also traditional for Presidents to invoke the Bible at times of national crises or tragedies. One reason may be because biblical passages — even though they're translated from the original Hebrew or Greek into English — often sound lofty and solemn. The <em>tone</em> of the passage may appear to fit the audience response that the speechwriter desires to invoke.
 
