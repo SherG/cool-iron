@@ -16,11 +16,13 @@ Here's that passage:
 
 <div style="padding-left: 2.3em"><p>And I ask that you join me now in a moment of silence for all those in uniform and out uniform — military and civilian, who have given the last full measure of devotion.</p></div>
 
-## An odd choice
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yHO90WMg3AQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The Isaiah quote is an odd choice. In the Book of Isaiah, the phrase "Here am I, Lord. Send me" is not a warrior volunteering for military service. It's Isaiah volunteering to deliver God's messages.
+## A bizarre choice
 
-What kind of messages? One of the main themes of the Book of Isaiah is God's judgment on his own people. It's filled with warnings of divine punishment, including on the military. For example, in Chapter 3, <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">verse 25</a> we read: "Your men shall fall by the sword and your mighty men in battle." 
+The Isaiah quote is an odd choice. In the Book of Isaiah, the phrase "Here am I, Lord. Send me" is not spoken by a warrior volunteering for military service. It's spoken by Isaiah volunteering to deliver God's messages.
+
+What kind of messages? One of the main themes of the Book of Isaiah is God's judgment on his own people. It's filled with warnings of divine punishment, including against the military. For example, in Chapter 3, <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">verse 25</a> we read: "Your men shall fall by the sword and your mighty men in battle." 
 
 This is another reason why the choice of Isaiah is bizarre: the prophet foretold the destruction of his own nation's military at the hand of a foreign power.
 
