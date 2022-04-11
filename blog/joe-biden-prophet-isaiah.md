@@ -22,16 +22,16 @@ Here's that passage:
 
 The Isaiah quote is an odd choice. In the Book of Isaiah, the phrase "Here am I, Lord. Send me" is not spoken by a warrior volunteering for military service. It's spoken by Isaiah volunteering to deliver God's messages.
 
-What kind of messages? One of the main themes of the Book of Isaiah is God's judgment on his own people. It's filled with warnings of divine punishment, including against the military. For example, one of the <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">messages</a> is: "Your men shall fall by the sword and your mighty men in battle." 
+What kind of messages? One of the main themes of the Book of Isaiah is God's judgment on his own people. Chapters are filled with warnings of divine punishment, including against the military. For example, one of the <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">messages</a> is: "Your men shall fall by the sword and your mighty men in battle." 
 
 So, the prophet who said “Here am I, Lord. Send me." foretold the destruction of his own nation's military at the hand of a foreign power.
 
-## The language of political propaganda and persuasion
+## Propaganda and persuasion
 
 American Presidents have often used biblical allusions in their speeches — such as "city on a hill." These allusions, more often than not it would seem — at least in the modern era — are used as expressions of political propaganda and persuasion.
 
-It's also traditional for Presidents to invoke the Bible at times of national crises or tragedies. One reason may be because biblical passages often sound ennobling, lofty, and solemn.
+It's also traditional for Presidents to invoke the Bible at times of national crises or tragedies. One reason may be because biblical passages often sound ennobling, lofty, and solemn. The <em>tone</em> of the passage may appear to fit the audience response that the speechwriter desires to invoke.
 
-However, using such phrases entirely out of context renders them meaningless. 
+However, by using such phrases entirely out of context the communication becomes meaningless.
 
 Presidents — and their speechwriters — should instead speak plainly. Say what you mean. And be wary of invoking the Bible.
