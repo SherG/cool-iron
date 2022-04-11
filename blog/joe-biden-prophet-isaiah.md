@@ -24,7 +24,7 @@ The Isaiah quote is an odd choice. In the Book of Isaiah, the phrase "Here am I,
 
 What kind of messages? One of the main themes of the Book of Isaiah is God's judgment on his own people. Chapters are filled with warnings of divine punishment, including against the military. For example, one of the <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">messages</a> is: "Your men shall fall by the sword and your mighty men in battle." 
 
-So, the prophet who said “Here am I, Lord. Send me." foretold the destruction of his own nation's military at the hand of a foreign power.
+So, the prophet who said “Here am I, Lord. Send me." foretold the destruction of his own nation — and its military — at the hand of a foreign power.
 
 ## The Bible and political speech
 
@@ -33,6 +33,8 @@ American Presidents have often quoted the Bible and used its allusions — such 
 These communications called Americans to live nobly and helped to shape our "<a href="https://www.neh.gov/article/how-america-became-city-upon-hill" target="blank">self-understanding</a>" as a nation. 
 
 But politicians can also quote the Bible to create an aura of divine approval on policies or events or to manipulate constituencies. It seems reasonable, therefore, to view such expressions as often being part of the language of political propaganda and persuasion.
+
+### Addressing national crises
 
 Regarding Biden's speech, we note that it's also traditional for U.S. Presidents to invoke the Bible at times of national crises or tragedies. One reason may be because biblical passages — even though they're translated from the original Hebrew or Greek into English — often sound lofty and solemn. The <em>tone</em> of the passage may appear to fit the audience response that the speechwriter desires to invoke.
 
