@@ -26,7 +26,7 @@ What kind of messages? One of the main themes of the Book of Isaiah is God's jud
 
 So, the prophet who said “Here am I, Lord. Send me." foretold the destruction of his own nation's military at the hand of a foreign power.
 
-## Propaganda and persuasion
+## The Bible and political speech
 
 American Presidents have often quoted the Bible and used its allusions — such as "<a href="https://biblia.com/books/esv/Mt5.14" target="blank">a city set on a hill</a>" — in their speeches. 
 
@@ -34,7 +34,7 @@ These communications called Americans to live nobly and helped to shape our "<a 
 
 But politicians can also quote the Bible to create an aura of divine approval on policies or events or to manipulate constituencies. It seems reasonable, therefore, to view such expressions as often being part of the language of political propaganda and persuasion.
 
-It's also traditional for Presidents to invoke the Bible at times of national crises or tragedies. One reason may be because biblical passages — even though they're translated from the original Hebrew or Greek into English — often sound lofty and solemn. The <em>tone</em> of the passage may appear to fit the audience response that the speechwriter desires to invoke.
+Regarding Biden's speech, we note that it's also traditional for U.S. Presidents to invoke the Bible at times of national crises or tragedies. One reason may be because biblical passages — even though they're translated from the original Hebrew or Greek into English — often sound lofty and solemn. The <em>tone</em> of the passage may appear to fit the audience response that the speechwriter desires to invoke.
 
 However, by using such phrases entirely out of context the communication becomes meaningless.
 
