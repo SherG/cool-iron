@@ -34,4 +34,4 @@ It's also traditional for Presidents to invoke the Bible at times of national cr
 
 However, using such phrases out of context makes them meaningless. 
 
-Presidents — and their speechwriters — should instead speak plainly. Say what you mean. And be wary of invoking scripture
+Presidents — and their speechwriters — should instead speak plainly. Say what you mean. And be wary of invoking the Bible.
