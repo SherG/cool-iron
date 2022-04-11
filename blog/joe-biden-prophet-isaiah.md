@@ -22,9 +22,9 @@ Here's that passage:
 
 The Isaiah quote is an odd choice. In the Book of Isaiah, the phrase "Here am I, Lord. Send me" is not spoken by a warrior volunteering for military service. It's spoken by Isaiah volunteering to deliver God's messages.
 
-What kind of messages? One of the main themes of the Book of Isaiah is God's judgment on his own people. It's filled with warnings of divine punishment, including against the military. For example, in Chapter 3, <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">verse 25</a> we read: "Your men shall fall by the sword and your mighty men in battle." 
+What kind of messages? One of the main themes of the Book of Isaiah is God's judgment on his own people. It's filled with warnings of divine punishment, including against the military. For example, one of the <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">messages</a> is: "Your men shall fall by the sword and your mighty men in battle." 
 
-This is another reason why the choice of Isaiah is bizarre: the prophet foretold the destruction of his own nation's military at the hand of a foreign power.
+So, the prophet who said “Here am I, Lord. Send me." foretold the destruction of his own nation's military at the hand of a foreign power.
 
 ## The language of political propaganda and persuasion
 
