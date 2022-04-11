@@ -28,7 +28,7 @@ So, the prophet who said “Here am I, Lord. Send me." foretold the destruction 
 
 ## Propaganda and persuasion
 
-American Presidents have often used biblical allusions in their speeches — such as "city on a hill." These allusions, more often than not it would seem — at least in the modern era — are used as expressions of political propaganda and persuasion.
+American Presidents have often quoted the Bible and used its allusions in their speeches — such as "city on a hill." These allusions, more often than not it would seem — at least in the modern era — are used as expressions of political propaganda and persuasion.
 
 It's also traditional for Presidents to invoke the Bible at times of national crises or tragedies. One reason may be because biblical passages often sound ennobling, lofty, and solemn. The <em>tone</em> of the passage may appear to fit the audience response that the speechwriter desires to invoke.
 
