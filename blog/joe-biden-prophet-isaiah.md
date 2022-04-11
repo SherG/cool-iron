@@ -2,7 +2,7 @@
 title: Why Biden's Speechwriter Should Ditch the Isaiah References
 path: /joe-biden-prophet-isaiah
 date: 2021-08-27
-summary: The Book of Isaiah is a bizarre reference to use in a speech about America's military.
+summary: The Book of Isaiah is a bizarre reference to use in a speech about America's military. Here's why.
 tags: ['communications']
 ---
 
