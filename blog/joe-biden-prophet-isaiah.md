@@ -32,7 +32,7 @@ American Presidents have long quoted the Bible and used its allusions — such a
 
 These communications called Americans to live nobly and helped to shape our "<a href="https://www.neh.gov/article/how-america-became-city-upon-hill" target="blank">self-understanding</a>" as a nation. 
 
-But politicians can also quote the Bible to create an aura of divine approval on policies or events or to manipulate constituencies. 
+But politicians can also quote the Bible to create an aura of divine approval on policies or events or to manipulate constituencies. (I'm sure you can recall some cringeworthy examples.)
 
 It seems reasonable, therefore, to view such expressions with caution: they're often used for purposes of political propaganda and persuasion.
 
