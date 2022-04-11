@@ -34,7 +34,7 @@ These communications called Americans to live nobly and helped to shape our "<a 
 
 But politicians can also quote the Bible to create an aura of divine approval on policies or events or to manipulate constituencies. 
 
-It seems reasonable, therefore, to view such expressions with caution: they're often woven into the language of political propaganda and persuasion.
+It seems reasonable, therefore, to view such expressions with caution: they're often for purposes of political propaganda and persuasion.
 
 ### Addressing national crises
 
