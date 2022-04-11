@@ -36,7 +36,7 @@ But politicians can also quote the Bible to create an aura of divine approval on
 
 ### Addressing national crises
 
-Regarding Biden's speech, we note that it's also traditional for U.S. Presidents to invoke the Bible at times of national crises or tragedies. One reason may be because biblical passages — even though they're translated from the original Hebrew or Greek into English — often sound lofty and solemn. The <em>tone</em> of the passage may appear to fit the audience response that the speechwriter desires to invoke.
+It's also traditional for U.S. Presidents to invoke the Bible at times of national crises or tragedies. One reason may be because biblical passages — even though they're translated from the original Hebrew or Greek into English — often sound lofty and solemn. The <em>tone</em> of the passage may appear to fit the audience response that the speechwriter desires to invoke.
 
 However, by using such phrases entirely out of context the communication becomes meaningless.
 
