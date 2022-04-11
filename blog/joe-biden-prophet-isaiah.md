@@ -32,6 +32,6 @@ American Presidents have often used biblical allusions in their speeches — suc
 
 It's also traditional for Presidents to invoke the Bible at times of national crises or tragedies. One reason may be because biblical passages often sound ennobling, lofty, and solemn.
 
-However, using such phrases out of context makes them meaningless. 
+However, using such phrases entirely out of context renders them meaningless. 
 
 Presidents — and their speechwriters — should instead speak plainly. Say what you mean. And be wary of invoking the Bible.
