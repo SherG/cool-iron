@@ -24,7 +24,7 @@ The Isaiah quote is an odd choice. In the Book of Isaiah, the phrase "Here am I,
 
 What kind of messages? One of the main themes of the Book of Isaiah is God's judgment on his own people. For example, one of the <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">messages</a> is: "Your men shall fall by the sword and your mighty men in battle." 
 
-So, the prophet who said “Here am I, Lord. Send me." foretold the destruction of his own nation — and its military — at the hand of a foreign power.
+Indeed, the prophet who said “Here am I, Lord. Send me." spoke of the destruction of his own nation — and its military — at the hand of a foreign power.
 
 ## The Bible and political speech
 
