@@ -6,7 +6,7 @@ summary: The Book of Isaiah is a bizarre reference to use in a speech about Amer
 tags: ['communications']
 ---
 
-Following the attacks on Hamid Karzai International Airport which occurred during the Afghanistan withdrawl, President Biden addressed the nation in a <a href="https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/26/remarks-by-president-biden-on-the-terror-attack-at-hamid-karzai-international-airport/" target="blank">speech</a> that, surprisingly, quoted from the Book of Isaiah.
+Following the attacks on Hamid Karzai International Airport in Afghanistan, President Biden addressed the nation in a <a href="https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/08/26/remarks-by-president-biden-on-the-terror-attack-at-hamid-karzai-international-airport/" target="blank">speech</a> that, surprisingly, quoted from the Book of Isaiah.
 
 Here's that passage: 
 
