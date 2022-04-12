@@ -29,7 +29,7 @@ So, the prophet who said “Here am I, Lord. Send me." spoke of a God-appointed 
 
 ## The Bible and political speech
 
-American Presidents have long quoted the Bible and used its allusions — such as "<a href="https://biblia.com/books/esv/Mt5.14" target="blank">city on a hill</a>" — in their speeches. 
+American Presidents have commonly quoted the Bible and used its allusions — such as "<a href="https://biblia.com/books/esv/Mt5.14" target="blank">city on a hill</a>" — in their speeches. And the practice has a long history stretching from the founding of the nation.
 
 These communications called Americans to live nobly and helped to shape our "<a href="https://www.neh.gov/article/how-america-became-city-upon-hill" target="blank">self-understanding</a>" as a nation. 
 
@@ -41,7 +41,7 @@ It seems reasonable, therefore, to view such expressions with caution: they're o
 
 It's also traditional for U.S. Presidents to cite the Bible at times of national tragedies — such as the attack on the airport. 
 
-One reason may be because biblical passages — even though they're translated from the original Hebrew or Greek into English — often sound lofty and solemn. The <em>tone</em> of the passage may appear to fit the audience response that the speechwriter desires to invoke.
+One reason may be because biblical passages — even though they're translated from the original Hebrew or Greek into English — often sound lofty and solemn. The <em>tone</em> and majestic cadences may appear to fit the mood that the speechwriter desires to create.
 
 However, by using such phrases entirely out of context the communication becomes meaningless.
 
