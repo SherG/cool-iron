@@ -41,7 +41,7 @@ It seems reasonable, therefore, to view such expressions with caution: they're o
 
 It's also traditional for U.S. Presidents to cite the Bible at times of national tragedies — such as the attack on the airport. 
 
-One reason may be because biblical passages — even though they're translated from the original Hebrew or Greek into English — often sound lofty and solemn. The <em>tone</em> and majestic cadences may appear to fit the mood that the speechwriter desires to create.
+One reason may be because biblical passages — even though they're translated from the original Hebrew or Greek into English — often sound lofty and solemn. The <em>tone</em> may appear to fit the mood that the speechwriter desires to set.
 
 However, by using such phrases entirely out of context the communication becomes meaningless.
 
