@@ -24,11 +24,12 @@ The Isaiah quote is an odd choice. In the Book of Isaiah, the phrase "Here am I,
 
 What kind of messages? One of the main themes of the Book of Isaiah is God's judgment on his own people. For example, one <a href="https://biblia.com/bible/nasb95/isaiah/3" target="blank">message</a> reads: "Your men shall fall by the sword and your mighty men in battle." 
 
-So, the prophet who said “Here am I, Lord. Send me." spoke of the destruction of his own nation — and its military — at the hand of a foreign power.
+So, the prophet who said “Here am I, Lord. Send me." spoke of a God-appointed destruction of his own nation — and its military — at the hand of a foreign power. 
+
 
 ## The Bible and political speech
 
-American Presidents have long quoted the Bible and used its allusions — such as "<a href="https://biblia.com/books/esv/Mt5.14" target="blank">a city set on a hill</a>" — in their speeches. 
+American Presidents have long quoted the Bible and used its allusions — such as "<a href="https://biblia.com/books/esv/Mt5.14" target="blank">city on a hill</a>" — in their speeches. 
 
 These communications called Americans to live nobly and helped to shape our "<a href="https://www.neh.gov/article/how-america-became-city-upon-hill" target="blank">self-understanding</a>" as a nation. 
 
@@ -38,10 +39,10 @@ It seems reasonable, therefore, to view such expressions with caution: they're o
 
 ### Addressing national crises
 
-It's also traditional for U.S. Presidents to invoke the Bible at times of national crises or tragedies — such as the attack on the airport. 
+It's also traditional for U.S. Presidents to cite the Bible at times of national crises or tragedies — such as the attack on the airport. 
 
 One reason may be because biblical passages — even though they're translated from the original Hebrew or Greek into English — often sound lofty and solemn. The <em>tone</em> of the passage may appear to fit the audience response that the speechwriter desires to invoke.
 
 However, by using such phrases entirely out of context the communication becomes meaningless.
 
-Presidents — and their speechwriters — should instead speak plainly. Say what you mean. And be wary of invoking the Bible.
+Presidents — and their speechwriters — should instead speak plainly. And be wary of invoking the Bible. 
