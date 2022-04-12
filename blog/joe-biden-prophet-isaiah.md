@@ -39,10 +39,10 @@ It seems reasonable, therefore, to view such expressions with caution: they're o
 
 ### Addressing national crises
 
-It's also traditional for U.S. Presidents to cite the Bible at times of national crises or tragedies — such as the attack on the airport. 
+It's also traditional for U.S. Presidents to cite the Bible at times of national tragedies — such as the attack on the airport. 
 
 One reason may be because biblical passages — even though they're translated from the original Hebrew or Greek into English — often sound lofty and solemn. The <em>tone</em> of the passage may appear to fit the audience response that the speechwriter desires to invoke.
 
 However, by using such phrases entirely out of context the communication becomes meaningless.
 
-Presidents — and their speechwriters — should instead speak plainly. And be wary of invoking the Bible. 
+Presidents — and their speechwriters — should instead speak plainly. And be wary of invoking the Bible.
