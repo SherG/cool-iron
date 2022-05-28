@@ -46,6 +46,6 @@ In the example above, I nagivated to the /layouts/partials/categories.html page.
 
 You'll have a space to briefly explain your proposed change.
 
-The code repository owner will be notified. Once he reviews your code suggestion, and acts on it, you'll be notified. 
+The code repository owner will be notified. Once he or she reviews your code suggestion, and acts on it, you'll be notified. 
 
 Fun fact: if your code suggestion is accepted, you are now a contributor to their code project. Your contribution will be documented on their page and your profile photo will appear as a contributor. 
