@@ -63,7 +63,7 @@ To fork a Github repository navigate to the repository page, then click the "for
 
 #### I'm a newbie: how do I find ideas for pull requests? 
 
-On a repository page, go to the "Issues" tab, then click "Labels." Click on "good first issue" (described as "good for newcomers.") Try choosing an active repository of a popular, but simple template, built with a site builder you're familiar with, such as Hugo, Jekyll, or Skeleventy.
+On a repository page, go to the "Issues" tab, then click "Labels." Click on "good first issue" (described as "good for newcomers.") Try choosing an active repository of a popular, but simple template, built with a site builder you're familiar with, such as Hugo, Jekyll, or Skeleventy. You're most likely to find ideas in templates that you actively use.
 
 ### More tutorials 
 
