@@ -40,7 +40,7 @@ In the example above, I nagivated to the /layouts/partials/categories.html page.
 
 4. Click on "Pull requests" near top left
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1653749340/SignalFox/github-pull-requests-button_ieoino.png">
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,e_sharpen/v1653749340/SignalFox/github-pull-requests-button_ieoino.png">
 
 
 5. Now you'll see your code suggestion (highlighted in green) below the original code (highlighted in red). Check to make sure your code is correct. Then click the green "Pull request" button at upper right. 
