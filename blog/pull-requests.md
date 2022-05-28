@@ -2,7 +2,7 @@
 title: How to Create a Pull Request
 path: /pull-requests
 date: 2022-05-28
-summary: Six steps to make a pull request
+summary: Five easy steps to make a pull request
 tags: ['code', 'websites']
 ---
 
@@ -27,10 +27,21 @@ Some reasons for making pull requests include:
 
 1. Fork the original repository. (You have no access to that person's code base. So you need a copy of it that you can control.)
 2. In the forked copy, navigate to the page where you noticed an error. 
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1653749339/SignalFox/github-pull-request-page_ijysu7.png">
+
+In the example above, I nagivated to the /layouts/partials/categories.html page. I want to remove the brackets highlighted in yellow. 
+
 3. Click the edit button, edit the code, then save. 
+
 4. Click on "Pull requests" near top left
-5. Now you'll see your code suggestion (highlighted in green) below the original code (highlighted in red). Check to make sure your code is correct. 
-6. Then click the green "Pull request" button at upper right. 
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1653749340/SignalFox/github-pull-requests-button_ieoino.png">
+
+
+5. Now you'll see your code suggestion (highlighted in green) below the original code (highlighted in red). Check to make sure your code is correct. Then click the green "Pull request" button at upper right. 
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1653749342/SignalFox/pull-request-code-comparison_ivr4se.png">
 
 You'll have a space to briefly explain your proposed change.
 
