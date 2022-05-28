@@ -1,7 +1,7 @@
 ---
 title: How to Create a Pull Request
-path: /pull-request
-date: 2021-02-06
+path: /pull-requests
+date: 2022-05-28
 summary: Six steps to make a pull request
 tags: ['code', 'websites']
 ---
