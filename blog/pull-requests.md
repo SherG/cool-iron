@@ -25,7 +25,8 @@ Some reasons for making pull requests include:
 
 ## How do you create a pull request? 
 
-1. Fork the original repository. (You have no access to that person's code base. So you need a copy of it that you can control.)
+1. Fork the original repository. (You have no access to that person's code base. So you need a copy of it that you can edit.)
+
 2. In the forked copy, navigate to the page where you noticed an error. 
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1653749339/SignalFox/github-pull-request-page_ijysu7.png">
