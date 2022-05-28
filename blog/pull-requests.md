@@ -19,7 +19,7 @@ A pull request is a technique for suggesting edits to someone's code base. Like 
 
 Some reasons for making pull requests include: 
 
-* You're a newbie coder and are looking to contribute to existing projects
+* You're a newbie coder who wants to start contributing to existing projects
 * You noticed an error and would like to propose a fix
 * You'd like to solve an existing problem discussed in an Issues thread on the repository.
 * You'd like to propose an improvement: such as a more efficient way of executing a task. 
