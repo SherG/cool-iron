@@ -2,7 +2,7 @@
 title: How to Create a Pull Request
 path: /pull-requests
 date: 2022-05-28
-summary: Five easy steps to make a pull request
+summary: Here's an easy cheat sheet for making pull requests in Github.
 tags: ['code', 'websites']
 ---
 
