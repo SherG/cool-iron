@@ -51,3 +51,11 @@ The code repository owner will be notified. Once he or she reviews your code sug
 In the case used in the example, the repository owner accepted the suggestion <a href="https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme/pull/21/commits/fc0fa96451eae545d193cb9b845a21fc52240bd7" target="blank">merged</a> the code. 
 
 Fun fact: if your code suggestion is accepted, you are now a contributor to their code project. Your contribution will be documented on their page and your profile photo will appear as a contributor. 
+
+### More tutorials 
+
+<a href="/optimize-images-cloudinary" target="blank">How to use Cloudinary to optimize images</a><br/>
+Optimizing your images is one of the most powerful solutions to poor loading speed. You only need a beginner's knowledge of HTML to use this tutorial.
+
+<a href="https://www.signalfox.org/optimize-images" target="blank">How to optimize images for the web</a><br/>
+Your website has an obesity problem. Here's an overview of your options for trimming those enormous images down and delivering a better experience for your users.
