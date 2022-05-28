@@ -3,7 +3,7 @@ title: How to Create a Pull Request in Github
 path: /pull-requests
 date: 2022-05-28
 summary: Here's an easy cheat sheet for making pull requests in Github.
-tags: ['code', 'websites']
+tags: ['code', 'websites', 'tutorials']
 ---
 
 I use Github fairly often, but rarely make pull requests. When I go to create a new one, I find I need a refresher on how to do it. 
