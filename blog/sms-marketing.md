@@ -3,7 +3,7 @@ title: How to Add SMS to Your Marketing Mix
 path: /sms-marketing
 date: 2019-03-17
 summary: Adding SMS (text messaging) to your marketing mix doesn't need to be time or labor intensive. Here's how to add it to the Autopilot marketing automation platform. 
-tags: ['mobile marketing']
+tags: ['mobile marketing', 'tutorials']
 ---
 
 <a href="https://learn.g2.com/sms-marketing-statistics" target="blank">Ninety-eight percent</a> of text messages are read and most (90%) are read within 3 minutes.
