@@ -8,7 +8,8 @@ tags: ['code', 'websites', 'tutorials']
 
 I use Github fairly often, but rarely make pull requests. When I go to create a new one, I find I need a refresher on how to do it. 
 
-So I decided to create this short cheatsheet for myself.  Perhaps you'll find it helpful as well. 
+So I decided to create this short cheatsheet for myself. Perhaps you'll find it helpful as well. 
+
 
 ## What is a pull request? 
 
@@ -48,7 +49,7 @@ You'll have a space to briefly explain your proposed change.
 
 The code repository owner will be notified. Once he or she reviews your code suggestion, and acts on it, you'll be notified. 
 
-In the case used in the example, the repository owner accepted the suggestion <a href="https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme/pull/21/commits/fc0fa96451eae545d193cb9b845a21fc52240bd7" target="blank">merged</a> the code. 
+In the case used in the example, the repository owner accepted the suggestion and <a href="https://github.com/zwbetz-gh/minimal-bootstrap-hugo-theme/pull/21/commits/fc0fa96451eae545d193cb9b845a21fc52240bd7" target="blank">merged</a> the code. 
 
 Fun fact: if your code suggestion is accepted, you are now a contributor to their code project. Your contribution will be documented on their page and your profile photo will appear as a contributor. 
 
