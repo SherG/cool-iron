@@ -27,11 +27,11 @@ Some reasons for making pull requests include:
 
 1. Fork the original repository. (You have no access to that person's code base. So you need a copy of it that you can edit.)
 
-2. In the forked copy, navigate to the page where you noticed an error. 
+2. In the forked copy, navigate to the page that you want to alter.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1653749339/SignalFox/github-pull-request-page_ijysu7.png">
 
-In the example above, I nagivated to the /layouts/partials/categories.html page. I want to remove the brackets highlighted in yellow. 
+In the example above, I nagivated to the /layouts/partials/categories.html page. My goal is to correct a code typo: I want to remove the brackets highlighted in yellow. 
 
 3. Click the edit button, edit the code, then save. 
 
