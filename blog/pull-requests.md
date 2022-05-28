@@ -53,6 +53,18 @@ In the case used in the example, the repository owner accepted the suggestion an
 
 Fun fact: if your code suggestion is accepted, you are now a contributor to their code project. Your contribution will be documented on their page and your profile photo will appear as a contributor. 
 
+### Q&A 
+
+Have more questions? Drop me an email or peruse these QAs.
+
+#### How do you fork a Github repository? 
+
+To fork a Github repository navigate to the repository page, then click the "fork" button at upper right. The forked copy will now appear in your account under "Your repositories." 
+
+#### I'm a newbie: how do I find ideas for pull requests? 
+
+On a repository page, go to the "Issues" tab, then click "Labels." Click on "good first issue" (described as "good for newcomers.") Try choosing an active repository of a popular, but simple template, built with a site builder you're familiar with, such as Hugo, Jekyll, or Skeleventy.
+
 ### More tutorials 
 
 <a href="/optimize-images-cloudinary" target="blank">How to use Cloudinary to optimize images</a><br/>
