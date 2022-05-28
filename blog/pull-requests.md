@@ -15,6 +15,8 @@ So I decided to create this short cheatsheet for myself. Perhaps you'll find it 
 
 A pull request is a technique for suggesting edits to someone's code base. Like the "review suggested edits" feature in Google Docs, a pull request provides the code repository owner with an easy way to review and incorporate your suggested edits.
 
+![developer github contributions](../static/developer-github-contributions.svg)
+
 ### Reasons for making pull requests 
 
 Some reasons for making pull requests include: 
