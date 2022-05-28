@@ -3,7 +3,7 @@ title: Amazon's Department Store Push Traces Nadia Shouraboura's Work
 path: /amazon-department-stores
 date: 2021-09-22
 summary: Amazon's leaked plans to launch high-tech apparel stores echo Nadia Shouraboura's work.
-tags: ['strategy']
+tags: ['strategy','retail']
 ---
 
 Today's <em>Wall St. Journal</em> featured an "exclusive" article leaking Amazon plans to trial high-tech brick-and-mortar clothing stores. The headline: "<a href="https://www.wsj.com/articles/inside-amazons-department-store-plans-high-tech-dressing-rooms-its-own-apparel-brands-11632303002" target="blank">Inside Amazon’s Department Store Plans: High-Tech Dressing Rooms, Its Own Apparel Brands</a>." 
