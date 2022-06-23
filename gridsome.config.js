@@ -5,7 +5,7 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'SignalFox',
+  siteName: 'SignalFox | Sherrie Gossett',
   siteDescription: 'Marketing intelligence for small business',
   siteUrl: 'https://signalfox.org',
   plugins: [
