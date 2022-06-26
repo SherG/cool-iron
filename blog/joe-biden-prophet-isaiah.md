@@ -26,6 +26,9 @@ What kind of messages? One of the main themes of the Book of Isaiah is God's jud
 
 So, the prophet who said “Here am I, Lord. Send me." spoke of a God-appointed destruction of his own nation — and its military — at the hand of a foreign power. 
 
+It's also true that the book covers grand themes of redemption. The point is the book is by a prophet, contains core doctrines, and is unsuitable for political rhetoric.
+
+One observer suggested the Bible quote had potentially been cribbed from <a href="https://www.youtube.com/watch?v=OkfwwwDlyds" target="blank">a scene</a> in the 2014 movie <em>Fury</em>, starring Brad Pitt. In my view, that just makes its use seem even cheesier.
 
 ## The Bible and political speech
 
@@ -45,4 +48,4 @@ One reason may be because biblical passages — even though they're translated f
 
 However, by using such phrases entirely out of context the communication becomes meaningless.
 
-Presidents — and their speechwriters — should instead speak plainly. And be wary of invoking the Bible.
+Presidents — and their speechwriters — should instead speak plainly. 
