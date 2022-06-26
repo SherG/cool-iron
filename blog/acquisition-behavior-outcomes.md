@@ -207,6 +207,14 @@ Note: Make sure all senior decision-makers have a strong grasp of digital measur
 
 Here are some additional resources related to business outcomes, strategy, and effective use of social media.
 
+#### <a href="/dmmm/">Digital Measurement and Marketing Model</a>
+
+Lay the groundwork for measuring success with this framework from Avinash Kaushik.
+
+#### <a href="/see-think-do-model" target="blank">See - Think - Do Model</a>
+
+This simple, yet powerful framework by Avinash Kaushik can be used for the smallest business or non-profit all the way up to Fortune 500 companies. Indeed, Kaushik has frequently used it, in his capacity as an international consultant, for top global brands.
+
 #### <a href="https://www.cio.com/article/3151122/dont-confuse-project-outcomes-with-business-outcomes.html" target="blank">Don't Confuse Project Outcomes With Business Outcomes</a> 
 
 David Cotgreave of Stoneseed IT on the importance of asking "What's the intended business outcome?" "When business outcomes are identified and managed well, your organization will enjoy the greatest possible return on your investment."
