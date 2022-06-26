@@ -182,6 +182,11 @@ Segments can be:
 
 ### Related Resources
 
+#### <a href="/see-think-do-model">Avinash Kaushik's See - Think - Do Framework</a>
+
+The Digital Measurement and Marketing Model pairs well with two other frameworks of Kaushik's: the See - Think - Do model and his <a href="/acquisition-behavior-outcomes" target="blame">Acquisition, Behavior, and Outcomes</a> framework. 
+
+
 #### <a href="http://www.journalofadvertisingresearch.com/content/56/2/126" target="blank">Resisting the Siren Call of Popular Digital Measures: Facebook Research Shows No Link Between Trendy Online Metrics and Ad Effectiveness</a>
 
 Popular metrics like growth of a fanbase are found to have no impact on brand performance. “The allure of measurable and traceable ‘shiny’ metrics—such as social-media users’ ‘Likes,’ ‘Shares,’ message posts, and ‘clicks’—has led marketers to endless, often beautifully crafted, intricate reports on the irrelevant.” This research paper exhorts executives to become "data-literate." — Brad Smallwood, VP of Marketing Science for Facebook
