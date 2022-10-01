@@ -32,6 +32,17 @@ While marketers do not have complete control of this issue, there's much that ca
 <p>Here's a more formal definition: Email deliverability is a measurement and a set of practices. It spans metrics, industry requirements, conditions, and actions (including experimentation and analysis) that impact the likelihood that a sender’s email will (a) wind up in the recipient’s inbox (b) in a timely fashion. It includes the use of various software tools. And it's impacted by the behavior of individual email users and by technical changes made to third-party tools. </p><p>Good email deliverability rates cohere with good end-user experiences.</p>
 </details><br/><br/>
 
+<details><summary>A glimpse into the complexity of deliverability</summary><br/>
+  <p>Here are a few things of the many factors that can cause your email to wind up in spam.
+<ul>
+<li>There are technical standards that your email needs to meet in order to not be identified as spam. These include DMARC, SPF, and DKIM.</li>
+<li>The words or phrases you use can cause your email to be sent to spam</li>
+<li>Using a borrowed, bought, or rented list is an recipe for failures because it results in users making spam complaints against your organization, failing to open the unsolicited email (see below), or deleting the email without opening it (also see below). As a result, your "sender reputation" diminishes causing even more of your email to go to spam. </li>
+<li>Your server and marketing tools configuration and IP reputation can impact deliverability</li>
+<li>Emailing a subscriber too often -- as in ratcheting up requests for more donations -- can backfire because as they stop opening your emails or start deleting them without opening them: the email service provider algorithm starts to think the recipient is not interested in your emails anymore. Then those emails may be shunted off to spam.</li>
+
+  </p>
+
 ### Resource
 
 <a href="https://www.twilio.com/press/releases/twilio-analysis-presidential-campaign-email-effectiveness" target="blank">Twilio Analysis of Presidential Campaign Email Effectiveness Shows only a Small Number Reach Intended Audience</a>
