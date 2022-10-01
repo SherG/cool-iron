@@ -37,7 +37,7 @@ While marketers do not have complete control of this issue, there's much that ca
 <ul>
 <li>Technical: There are technical standards that your email needs to meet in order to not be identified as spam. These include DMARC, SPF, and DKIM.</li>
 <li>Content: The words or phrases you use can cause your email to be sent to spam</li>
-<li>Lists: Using a borrowed, bought, or rented list is an recipe for failures because it results in users making spam complaints against your organization, failing to open the unsolicited email (see below), or deleting the email without opening it (also see below). As a result, your "sender reputation" diminishes causing even more of your email to go to spam. </li>
+<li>Lists: Using a borrowed, bought, or rented list can be a recipe for failure because it results in users making spam complaints against your organization, failing to open the unsolicited email (see below), or deleting the email without opening it (also see below). As a result, your "sender reputation" diminishes causing even more of your email to go to spam. </li>
 <li>Configuration: Your server and marketing tools configuration and IP reputation can impact deliverability</li>
 <li>User behavior: Emailing a subscriber too often -- as in ratcheting up requests for more donations -- can backfire. As recipients stop opening your emails (or start deleting them without opening them), the email service provider algorithm thinks the recipient is no longer interested in your emails. Future emails you send may be shunted off to spam.</li>
 
