@@ -1,7 +1,7 @@
 ---
 title: Did Google Eat Marco Rubio's Campaign Emails? 
 path: /marco-rubio-gmail
-date: 2022-01-06
+date: 2022-06-01
 summary: Is Google intentionally sabotaging Republican political email campaigns? 
 tags: ['email marketing']
 ---
