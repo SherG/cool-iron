@@ -16,7 +16,7 @@ Is Google intentionally sabotaging Republican political email campaigns? That ac
 
 There's much that can be said on this topic but I'll cut to the chase here.
 
-![email-illustration](../static/email-illustration.svg.svg)
+![email-illustration](../static/email-illustration.svg)
 
 * There are always 3 groups involved in email marketing: the marketers, the end user, and the third parties in between. Those third-parties include internet service providers (ISPs), email marketing platforms, multi-channel marketing automation platforms, add-on spam filters, and countless apps that help you sort, filter, and schedule your emails. <em>Any of these can impact whether or not an email is marked as "spam."</em>
 * The authors of a study that Republican senators cited as proving Gmail bias, have said their findings are being <a href="https://www.washingtonpost.com/politics/2022/05/25/republicans-seized-study-proof-googles-bias-its-authors-say-it-being-misrepresented/" target="blank">misinterpreted</a>.
