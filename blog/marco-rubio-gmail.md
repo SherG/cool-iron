@@ -33,7 +33,7 @@ While marketers do not have complete control of this issue, there's much that ca
 </details><br/>
 
 <aside><details><summary>A glimpse into the complexity of deliverability</summary><br/>
-  <p>I've enjoyed working on email marketing programs in the non-profit and for-profit space that consistently beat industry benchmarks. One thing that's always impressed me is the delicate interplay of factors that can impact deliverability. Here are a few of those factors.
+  <p>Starting in 2010, I've had the opportunity to shape and work on email marketing programs that consistently beat industry benchmarks. One thing that's always impressed me is the delicate interplay of factors that can impact deliverability. Here are a few of those factors.
 <ul>
 <li>Technical: There are technical standards that your email needs to meet in order to not be identified as spam. These include DMARC, SPF, and DKIM.</li>
 <li>Content: The words or phrases you use can cause your email to be sent to spam</li>
