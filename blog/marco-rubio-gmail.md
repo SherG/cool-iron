@@ -30,7 +30,7 @@ While marketers do not have complete control of this issue, there's much that ca
 <details><summary>What's "deliverability?"</summary><br/>
 <p>Deliverability, often expressed as a percentage, refers to how many emails (in a measurement set, such as a campaign) wind up in the inbox vs. in the spam folder or undelivered. It includes anything you do to maximize that number.</p>
 <p>Here's a more formal definition: Email deliverability is a measurement and a set of practices. It spans metrics, industry requirements, conditions, and actions (including experimentation and analysis) that impact the likelihood that a sender’s email will (a) wind up in the recipient’s inbox (b) in a timely fashion. It includes the use of various software tools. And it's impacted by the behavior of individual email users and by technical changes made to third-party tools. </p><p>Good email deliverability rates cohere with good end-user experiences.</p>
-</details><br/><br/>
+</details><br/>
 
 <aside><details><summary>A glimpse into the complexity of deliverability</summary><br/>
   <p>I've enjoyed working on email marketing programs in the non-profit and for-profit space that consistently beat industry benchmarks. One thing that's always impressed me is the delicate interplay of factors that can impact deliverability. Here are a few of those factors.
@@ -41,7 +41,7 @@ While marketers do not have complete control of this issue, there's much that ca
 <li>Configuration: Your server and marketing tools configuration and IP reputation can impact deliverability</li>
 <li>User behavior: Emailing a subscriber too often -- as in ratcheting up requests for more donations -- can backfire. As recipients stop opening your emails (or start deleting them without opening them), the email service provider algorithm thinks the recipient is no longer interested in your emails. Future emails you send may be shunted off to spam.</li>
 
-  </p></details></aside>
+  </p></details></aside><br/>
 
 ### Resource
 
