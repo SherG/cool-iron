@@ -33,13 +33,13 @@ While marketers do not have complete control of this issue, there's much that ca
 </details><br/><br/>
 
 <aside><details><summary>A glimpse into the complexity of deliverability</summary><br/>
-  <p>Here are a few things of the many factors that can cause your email to wind up in spam.
+  <p>I've enjoyed working on email marketing programs in the non-profit and for-profit space that consistently beat industry benchmarks. One thing that's always impressed me is the delicate interplay of factors that can impact deliverability. Here are a few of those factors.
 <ul>
-<li>There are technical standards that your email needs to meet in order to not be identified as spam. These include DMARC, SPF, and DKIM.</li>
-<li>The words or phrases you use can cause your email to be sent to spam</li>
-<li>Using a borrowed, bought, or rented list is an recipe for failures because it results in users making spam complaints against your organization, failing to open the unsolicited email (see below), or deleting the email without opening it (also see below). As a result, your "sender reputation" diminishes causing even more of your email to go to spam. </li>
-<li>Your server and marketing tools configuration and IP reputation can impact deliverability</li>
-<li>Emailing a subscriber too often -- as in ratcheting up requests for more donations -- can backfire because as they stop opening your emails or start deleting them without opening them: the email service provider algorithm starts to think the recipient is not interested in your emails anymore. Then those emails may be shunted off to spam.</li>
+<li>Technical: There are technical standards that your email needs to meet in order to not be identified as spam. These include DMARC, SPF, and DKIM.</li>
+<li>Content: The words or phrases you use can cause your email to be sent to spam</li>
+<li>Lists: Using a borrowed, bought, or rented list is an recipe for failures because it results in users making spam complaints against your organization, failing to open the unsolicited email (see below), or deleting the email without opening it (also see below). As a result, your "sender reputation" diminishes causing even more of your email to go to spam. </li>
+<li>Configuration: Your server and marketing tools configuration and IP reputation can impact deliverability</li>
+<li>User behavior: Emailing a subscriber too often -- as in ratcheting up requests for more donations -- can backfire. As recipients stop opening your emails (or start deleting them without opening them), the email service provider algorithm thinks the recipient is no longer interested in your emails. Future emails you send may be shunted off to spam.</li>
 
   </p></details></aside>
 
