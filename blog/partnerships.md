@@ -5,7 +5,6 @@ date: 2021-01-05
 summary: How to get qualified leads from businesses and "kingpins."
 tags: ['coronavirus']
 ---
-Updated Oct. 2, 2022
 
 In the flattening wake of the pandemic, small business owners need smart ways to do more with less.  It’s no surprise that marketing spend is in a “<a href="https://www.marketingweek.com/ipa-bellwether-record-decline-marketing-budgets-coronavirus/" target="blank">record decline</a>.”
 
