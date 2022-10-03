@@ -7,7 +7,7 @@ tags: ['strategy', 'models']
 ---
 Ready to think through a digital strategy for your small business? A good place to start is by focusing on acquisition, behavior, and outcomes.
 
-Brainstorming on these 3 areas will help bring the big picture into focus and lay a foundation for planning your digital actions.
+Brainstorming on these 3 areas will help you gain clarity and plan your digital actions.
 
 Each area prompts a related question. 
 
@@ -36,7 +36,7 @@ This brainstorming process invites you to consider what you want your prospects'
 
 It also ensures that you don't inadvertently skip over a key area of planning.
 
-The Acquisition - Behavior - Outcomes (ABO) model is the brainchild of <a href="https://en.wikipedia.org/wiki/Avinash_Kaushik" target="blank">Avinash Kaushik</a>, a Google executive, Fortune 500 consultant, and one of the brightest lights in marketing. 
+The Acquisition - Behavior - Outcomes (ABO) framework is the brainchild of <a href="https://en.wikipedia.org/wiki/Avinash_Kaushik" target="blank">Avinash Kaushik</a>, a Google executive, Fortune 500 consultant, and one of the brightest lights in marketing. 
 
 ABO helps you to think through big picture issues in a structured and holistic manner. 
 
@@ -46,7 +46,7 @@ It requires working through questions like:
 
 * Who is our audience? What do we know about their behaviors, values, or preferences?
 * How do we find our audience? 
-* How can we increase awareness of our brand among this audience? What sort of "brand introduction" would our audience find delightful or appealing?
+* How can we increase awareness of our brand among this audience? What sort of "brand introduction" would our audience find delightful and appealing?
 * Once individuals become aware of our brand, what's our plan for enticing/influencing them to consider what we offer? Which options are the most <a href="/business-priorities/">cost- and time-effective</a>? 
 * What roles do paid media, rented platforms, and our owned platforms play in our plan? 
 
@@ -93,7 +93,7 @@ It requires working through questions like:
 
 Before you start make sure you are clear on your organization's <a href="/dmmm/">top business objectives</a>. 
 
-This is essential to ensure that all of your business intiatives are aligned.
+This is essential to ensure that all of your intiatives are aligned.
 
 Also, be sure to make a plan for all 3 areas: acquisition, behavior, and outcomes. A typical error I've seen is when an organization or small business focuses on activity within one area or a <em>subset</em> of one area, such as increasing brand awareness. 
 
@@ -110,9 +110,15 @@ It's impossible to be a remarkable, successful customer-centric company if you a
 <p>You can think of it as a relationship journey, characterized by a first encounter, a gradual but deepening knowledge of each other and satisfaction in each other, and culminating in a growing commitment.</p>
 </details>
 
-## Strive to Excel at Both 'Rented' and 'Owned'
+## Considering 'Rented' and 'Owned' Platforms
 
-You'll also have to consider the roles of "rented" and "owned" platforms. If you want to win at digital you'll need to excel at both, but your investment emphasis should be on your "owned" platforms. 
+You'll also want to consider the roles of "rented" and "owned" platforms. Does your business need both? 
+
+Be careful here: While it's common to believe that every single business needs a website and social media, there are no "one-size-fits-all" answers. There are successful small businesses that say they've derived zero value from social media. And success in social media can be notoriously difficult to measure.
+
+For most businesses, your investment emphasis will be on your "owned" platforms. 
+
+But again, there are exceptions. Consider the business consultant I met who's never had a website and whose entire career has been created by word-of-mouth.
 
 ### What Are "Owned" Platforms?
 
