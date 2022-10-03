@@ -1,5 +1,5 @@
 ---
-title: Referral partnerships - Accelerate Growth with Zero Marketing Budget
+title: Accelerate Growth with Zero Marketing Budget
 path: /partnerships
 date: 2021-01-05
 summary: How to get qualified leads from businesses and "kingpins."
