@@ -80,7 +80,7 @@ If you are currently using Linkedin Navigator for sales prospecting and want to 
 
 ## Summary
 
-Now you're equipped with some immediately actionable ways to get traction for your small business -- even if you have no marketing budget. 
+Now you're equipped with some immediately actionable ways to get traction for your small business — even if you have no marketing budget. 
 
 Don't let the reply "No" slow you down. When your offer is declined, it's simply information. Choose a disciplined approach where nothing will prevent you from reaching out to everyone on your list of potential partners. 
 
