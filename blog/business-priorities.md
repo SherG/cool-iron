@@ -13,15 +13,15 @@ It's not uncommon for decisions to be based on:
 * What another organization or competitor is doing
 * Something recommended in the latest issue of a business or industry publication.
 
-How do you set business priorities? Here's a clever, simple way to do it, from a successful small business owner.
+Here's a clever, simple way to set priorities from a successful small business owner.
 
 ![business priorities](../static/choosing-business-priorities.svg)
 
 ## Meet Sam Decker
 
-Sam Decker is a digital entrepreneur, marketing heavyweight, and the founder of digital optimization wizards Clearhead. 
+Sam Decker is a digital entrepreneur, marketing heavyweight, and the founder of Clearhead. 
 
-Years ago, when he was working as Dell's website manager, he hired conversion optimization guru <a href="https://www.bryaneisenberg.com/" target="blank">Bryan Eisenberg</a> to analyze that site and make recommendations for improvement.
+Years ago, when he was working as Dell's website manager, he hired conversion optimization guru <a href="https://www.bryaneisenberg.com/" target="blank">Bryan Eisenberg</a> to analyze the site and make recommendations for improvement.
 
 His review completed, Eisenberg handed Decker a 75-page report of recommended changes.
 
@@ -29,25 +29,25 @@ Decker’s response: “Okay. Well, go fix it.” But as Eisenberg recalls, the 
 
 Decker then came up with this simple but effective tool for prioritizing website projects. If you're a small business or nonprofit looking to move beyond the "debate and confer" method of project prioritization, this is a good place to start.
 
-It can be used for a single project, like a new website or improving a website. Or it can be applied to any digital project conceived as solving a key problem for the customer base.
+It can be used for a single project, like a new website or improving a website. Or it can be applied to a set of projects.
 
 ## Problems Worth Solving
 
-It's critical that the potential items to be sorted in the priority tool are <em>problems worth solving</em>. It's easy to start with solutions. That's how ROI gets diluted. Start with problems instead.
+It's critical that the potential items to be considered are <em>problems worth solving</em>. It's easy to start with solutions. That's how ROI gets diluted. Start with problems instead.
 
-Who participates in identifying problems to solve (projects)? "Only employees who know what your customers want, which projects best meet those needs, and the relative impact of those projects on the challenges at hand—not to mention the bottom line—should participate in the creation of the spreadsheet," explains Decker. 
+Who participates in identifying problems to solve (projects)? "Only employees who know what your customers want, which projects best meet those needs, and the relative impact of those projects on the challenges at hand — not to mention the bottom line — should participate in the creation of the spreadsheet," explains Decker. 
 
 That advice is actually part of Clearhead's <A href="https://www.youtube.com/watch?v=Dm8MCA7QkeQ" target="blank">Problem Solution Mapping</a> methodology, but it applies equally to this simple priority tool.
 
 ## Score Your Small Business's Digital Priorities
 
-Create a grid with a column listing the potential changes. Then score each item according to Time, Business Impact, and Resources required. Use a scale of 1-5 for each parameter (1 being the worst, 5 being the best).
+Create a grid with a column listing the potential changes. Then score each item according to Time, Business Impact, and Resources required. Use a scale of 1-5 for each parameter (1 being the "worst" and 5 being the "best")
 
-<strong>Time</strong>: This is an assessment based on days to execute + time until impact can be noticed.
+<strong>Time</strong>: This is an assessment based on days to execute and time until impact can be noticed. 1 (or "worst") would mean the project will take considerable time, especially when compared to other options being considered.
 
-<strong>Business Impact</strong>: Magnitude. (Will the proposed change affect a big micro-funnel, a small one? Will it affect many segments, a few segments? Is it expected to result in a significant positive change or a tiny change?) (5 = most impact, 1 = lowest a/k/a least impact.)
+<strong>Business Impact</strong>: Here you'll score the expected magnitude of impact. (5 = most impact, 1 = lowest impact.) Will the proposed change result in a significant positive change or a tiny change?) 
 
-<strong>Resources</strong>: How many of your resources will enacting the change take + do you have them available? [E.g. Changing a word on a checkout button (Resource score: 5), vs. taking a whole team to rewrite something significant (Resources score: 1, or “worst”).]
+<strong>Resources</strong>: Next, score the amount of resources required (E.g. One staffer setting up a quick A/B test for the CTA on a checkout button (Resource score: 5), vs. getting a whole department involved in creating the architecture for a new website (Resource score: 1, or “worst”).]
 
 Once the proposed projects have been scored, multiply each row and prioritize items with the highest total value. (You could use a scale of 1 - 10; I prefer 1 - 5)
 
@@ -97,8 +97,7 @@ In the example below I've assigned arbitrary scores to 4 undefined projects. The
 </table></div>
 
 
-Note: This can also help boost the corporate ‘metabolism’, i.e. going increasingly faster from “light-bulb” to “live.” Also relevant to metabolism: decision-making should be pushed as far down the chain as it can be, not as far up as it can be. The latter results in “hippos” — the highest-paid person — making digital decisions, sometimes with poor outcomes.
- 
+This priority tool can also help boost the corporate ‘metabolism’, i.e. going increasingly faster from “light-bulb” to “live.”
 
 ## Next Steps
 
@@ -115,9 +114,10 @@ Team members should be prepared to use data to answer these questions:
 
 3. What are the projected results?
 
+
 ## Postscript: Where is Sam Decker Now?
 
-Clearhead was acquired by Accenture in 2017. Decker is now co-founder of <a href="https://www.fairworlds.com/" target="blank">Fair Worlds</a>, a VR (virtual reality) and AR (augmented reality) agency in Austin.
+Clearhead was acquired by Accenture in 2017. Decker is now chairman and co-founder of <a href="https://www.fairworlds.com/" target="blank">Fair Worlds</a>, a VR (virtual reality) and AR (augmented reality) agency in Austin.
 
  
 ### Related Reading
@@ -128,4 +128,4 @@ Since their acquisition by Accenture, the Clearhead site has been offline. This 
 
 <a href="https://web.archive.org/web/20180831033429/http://clearhead.me/blog/physics-of-roi/" target="blank">Stack the Chips in Your Favor With the Physics of ROI</a>
 
-Are you a solution-led company or a problem-led company? (Also from the Clearhead archive) 
+Are you a solution-led company or a problem-led company? 
