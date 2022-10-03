@@ -112,19 +112,15 @@ It's impossible to be a remarkable, successful customer-centric company if you a
 
 ## Considering 'Rented' and 'Owned' Platforms
 
-You'll also want to consider the roles of "rented" and "owned" platforms. Does your business need both? 
+You'll also want to consider the roles of "rented" and "owned" platforms. Do you plan on using both? 
 
-Be careful here: While it's common to believe that every single business needs a website and social media, there are no "one-size-fits-all" answers. There are successful small businesses that say they've derived zero value from social media. And success in social media can be notoriously difficult to measure.
-
-For most businesses, your investment emphasis will be on your "owned" platforms. 
-
-But again, there are exceptions. Consider the business consultant I met who's never had a website and whose entire career has been created by word-of-mouth.
+If, so <a href="/see-think-do-model">what role</a> will they play? 
 
 ### What Are "Owned" Platforms?
 
 Owned platforms typically include your website(s) and mobile apps. These are platforms that you fully control.
 
-For example, you own and control the design, the code, the user experience, conversion pathways, and the content. You own the domain name, the personalization plan, maybe a recommendation engine, and, perhaps most importantly, the data. 
+You own and control the design, the code, the user experience, conversion pathways, and the content. You own the domain name, the personalization plan, maybe a recommendation engine, and, perhaps most importantly, the data. 
 
 You design, shape, and own the customer relationships. You can creatively integrate with third-party marketing platforms, curating remarkable customer experiences and customer journeys. 
 
@@ -144,7 +140,7 @@ The nature and quality of this data is wholly different from the analytics provi
 
 "Rented" platforms are the digital channels your brand actively cultivates a presence on but that you don't own. 
 
-This includes social media platforms like Facebook, Instagram, Twitter; messaging apps; and e-commerce channels like Amazon, and E-bay.
+This includes social media platforms like Facebook, Instagram, Twitter; messaging apps; and e-commerce channels like Amazon and E-bay.
 
 #### You Don't Own the Data
 
