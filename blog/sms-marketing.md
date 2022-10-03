@@ -78,7 +78,7 @@ By "interactive" I mean that you can design your user journeys so that each succ
 
 Out of the box, Autopilot comes with a default integration with <a href="https://www.twilio.com/" target="blank">Twilio</a> for SMS. 
 
-You'll get an assigned number from which the texts originate from, and the area code is (415)―San Francisco, where Autopilot's headquarters are. Your SMS messages will be sent from Autopilot's Twilio account. 
+You'll get an assigned number from which the texts originate from, and the area code is (415)―San Francisco, where Autopilot's headquarters are. By default, your SMS messages will be sent from Autopilot's Twilio account. 
 
 This is convenient but the downside is the recipient can't reply to or call the originating number, and you don't have control over the area code. 
 
