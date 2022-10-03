@@ -9,8 +9,8 @@ tags: ['decision-making']
 How do projects get approved in your organization? Business owners have to forge through jungle of unsolicited marketing proposals, news on trendy tactics and tools, and projects pitched by employees or contractors. All these things vy for attention and resources.
 
 It's not uncommon for decisions to be based on: 
-* The confidence, persuasiveness, or insistence of the person pitching the idea (i.e., salesmanship)
-* What another organization or competitor is doing
+* The confidence, persuasiveness, or insistence of the person pitching the idea (i.e., salesmanship).
+* What another organization or competitor is doing.
 * Something recommended in the latest issue of a business or industry publication.
 
 Here's a clever, simple way to set priorities from a successful small business owner.
