@@ -19,14 +19,14 @@ In this article, you'll learn how to set up Cloudinary and use it for your own w
 
 ## Why Is Website Loading Speed Important?  
 
-Research by Google and other firms has shown that website page load times directly impact revenue, engagement, conversions, and time spent on sites. Sluggish pages or delayed interaction may be interpreted by the user as a poor experience. 
+Research by Google and other firms has shown that website page load times directly impact revenue, engagement, and conversions. Sluggish pages or delayed interaction may be interpreted by the user as a poor experience. 
 
 Here's a snapshot of relevant data: 
 
 * A 1-second delay in page load time can decrease conversions by 7% or more. (Source: Akamai)
 * As a page's site loading speed goes from 1 second to 6 seconds the likelihood that the visitor trying to access the page will abandon it, goes up by 106%. (Source: Google / SOASTA research)
 
-> Speed, performance, and SEO is where key competitive gains can be had.
+> Speed, performance, and SEO are where key competitive gains can be had.
 
 ## Optimizing Images: Choosing an Approach
 
@@ -34,7 +34,7 @@ In addition to boosting your web page load times, optimizing your images can red
 
 There are many ways to optimize online images. Some approaches require advanced coding or image knowledge. All strive to achieve a balance between maximum image quality and miminal file size. 
 
-In this article, I'll be <a href="#start">sharing a technique</a> for optimizing your images that presents the highest opportunity to most users: it requires low effort, little technical knowledge, and typically results in high impact on load times. 
+In this article, I'll be <a href="#start">sharing a technique</a> for optimizing your images that requires low effort, little technical knowledge, and typically results in high impact on load times. 
 
 ### Get Started Now
 
@@ -58,7 +58,9 @@ WebP, JPEG 2000, and JPEG XR are examples of next-gen formats.
 #### The Browser Compatability Problem — Solved
 <a href="https://developers.google.com/speed/webp/" target="blank">WebP</a> was developed by Google. It loads extremely fast, but is <a href="https://caniuse.com/#search=webp" target="blank">not supported by all browsers</a>. 
 
-[<em>Update: WebP is now compatible with Safari - but only on version 14, which launched in Sept. 2020</em>.]For example, it's not compatible with Safari, iOS Safari, BlackBerry Browser, or IE Mobile. <em>If all of your website images were WebP images, visitors coming to your website using one of these other browsers would see blank spaces where the images were supposed to be.</em>
+<em>Update: WebP is now compatible with Safari - but only on version 14, which launched in Sept. 2020</em>.
+
+For example, it's not compatible with Safari, iOS Safari, BlackBerry Browser, or IE Mobile. <em>If all of your website images were WebP images, visitors coming to your website using one of these other browsers would see blank spaces where the images were supposed to be.</em>
 
 In addition, formats like <a href="https://caniuse.com/#feat=jpegxr" target="blank">JPEG XR</a> are only supported by Microsoft's Internet Explorer and Edge browsers. 
 
@@ -146,16 +148,16 @@ quality.</p>
 
 You can't go wrong with f_auto. It's really all you need to do to dramatically improve your image delivery. That results in a better user experience. 
 
-Cloudinary offers dozens of image transfomations, but for optimization and speed f_auto is the most important one. 
+Cloudinary offers dozens of image transfomations, but for optimization and speed f_auto is key.
 
 If you're curious about other parameters, here are two more to explore:
 
 * <mark class="highlight">w_auto</mark> - This parameter instructs Cloudinary to make copies of your image to match the breakpoints of your website. It stores those other images and serves them up as necessary. 
-* <mark class="highlight">e_sharpen</mark> - If your image lacks crispness, you can add this parameter to sharpen it. (Note: Check to see the visual result before adding this permanently to your image URL. On occassion, the sharpening looks a bit exaggerated.)
+* <mark class="highlight">e_sharpen</mark> - If your image lacks crispness, you can add this parameter to sharpen it. (Note: Check to see the visual result before adding this permanently to your image URL. On occassion, the sharpening looks exaggerated.)
 
 <details>
   <summary>What's a breakpoint?</summary><br/>
-  <p>A breakpoint is a browser width setting, coded into a website, that triggers a re-arrangement of responsive design elements. In everyday language, breakpoints are used to allow your site to "re-arrange" itself so that it looks good on different screen sizes. Breakpoints are commonly set (at minimum) for tablets and mobile phones. The purpose of breakpoints is to offer 3 (or more) design options for a website, one that's optimal for common device screen sizes. </p>
+  <p>A breakpoint is a browser width setting, coded into a website, that triggers a re-arrangement of responsive design elements. In everyday language, breakpoints are used to allow your site to "re-arrange" itself so that it looks good on different screen sizes. Breakpoints are commonly set (at minimum) for both tablets and mobile phones screen sizes. The purpose of breakpoints is to offer optimal display of page elements for tablets and mobile phones. </p>
 </details>
 
 ### What Next? 
@@ -171,7 +173,7 @@ You won't get the same results as using Cloudinary, but the results should be mu
 
 ## Summary
 
-You've learned that images are typically the biggest problem creating a poor user experience for your website's visitors. That experience directly impacts your engagement, conversions, and ROI.
+You've learned that images are often the biggest problem creating a poor user experience for your website's visitors. That experience directly impacts your engagement, conversions, and ROI.
 
 Optimizing your images with Cloudinary can significantly improve end user experience.
 
