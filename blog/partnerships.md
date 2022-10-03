@@ -1,5 +1,5 @@
 ---
-title: Accelerate Growth With Zero Marketing Budget
+title: Referral partnerships: Accelerate Growth with Zero Marketing Budget
 path: /partnerships
 date: 2021-01-05
 summary: How to get qualified leads from businesses and "kingpins."
@@ -12,7 +12,7 @@ Predictably, small business owners are upskilling on SEO, sales, analytics, and 
 
 One of the areas most overlooked by small business owners are <strong>referral partnerships</strong>. These partnerships provide a way to jumpstart revenue with zero spend on marketing vendors or tools.
 
-## Get Qualified Leads From Deal-Makers
+## Get Qualified Leads From Dealmakers
 
 This article focuses on a specific type of partnership where an individual or a business <i>already serving your ideal clients</i>, agrees to send qualified leads to you because it benefits them to do so.
 
