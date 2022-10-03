@@ -27,18 +27,19 @@ Content sent via SMS needs to be well-timed, and highly relevant and valuable to
 
 For starters, use macro conversions for inspiration. Some scenarios where a previous conversion by a customer might be a good opportunity for SMS include:
 
-* They registered for an in-person event
+* Event registration
+* For conference attendees: You want to communicate a room change or a surprise speaker to attendees
 * Appointment reminders 
-* They signed up for your SaaS
-* Automated surveys (following macro-conversion)
-* ETA notifications (e.g. They purchased a high-ticket item and you text to thank them and/or to alert them on the day before and day of delivery.)
+* Thank you messages for high-ticket purchases
+* ETA notifications for booked transportation services (e.g., shuttles) or package deliveries
 
 What if you don't have a database of qualified mobile numbers? Email your current contacts (<a href="https://neilpatel.com/blog/email-marketing-segmentation-strategies/" target="blank">segment first</a>!) and offer them something of value in exchange for a mobile opt-in. 
 
 > Think of SMS as a garnish: too much and you'll ruin the dish. 
 
-Some brands have successfully created a "VIP messaging club" or "Mobile Insider Club" to generate subscribers via special deals and offers. Consider updating all of your online sign-up forms with an optional mobile number field. Associate an opt-in message with that field. 
+Some brands have successfully created a "VIP messaging club" or "Mobile Insider Club" to generate subscribers via special deals and offers. 
 
+Consider updating all of your online sign-up forms with an optional mobile number field. Associate an opt-in message with that field. 
 
 ## Caution: Regulations Ahead
 
@@ -48,14 +49,13 @@ The <a href="http://www.kleinmoynihan.com/new-tcpa-rules-effective-october-16-20
 
 You cannot text anyone who has not opted in to receive SMS messages from you. If they opted in for email, you cannot consider this as an opt-in for SMS. You need a distinct SMS opt-in option listed when they sign up for your service or product. 
 
-When a user <em>does</em> opt in to receive SMS from you, it must be for a designated campaign, e.g. a giveaway, an event, etc. When you launch a new campaign, you must obtain a new opt-in. 
+When a user <em>does</em> opt in to receive SMS from you, it must be for a designated campaign, e.g., a specific giveaway, a one-time event, etc. When you launch a new campaign, you must obtain a new opt-in. 
 
-Twilio has a convenient <a href="https://www.twilio.com/guidelines/sms" target="blank">online resource</a> listing SMS regulations. You can search by country a view compliance recommendations.
-
+Twilio has a convenient <a href="https://www.twilio.com/guidelines/sms" target="blank">online resource</a> listing SMS regulations. You can search by country to view relevant compliance recommendations.
 
 ## Adding SMS in Autopilot
 
-I recommend adding SMS via <a href="https://autopilothq.com/" target="blank">Autopilot</a>, a powerful and easy-to-use multi-channel marketing automation platform with drag-and-drop functionality. 
+I recommend adding SMS via <a href="https://autopilothq.com/" target="blank">Autopilot</a>, a powerful and easy-to-use multi-channel marketing automation platform with easy drag-and-drop functionality. 
 
 This also offers the benefit of keeping your messaging channels integrated via one platform and your contacts residing in a single marketing database. It supports designing for a seamless cross-channel, cross-device customer journey.
 
