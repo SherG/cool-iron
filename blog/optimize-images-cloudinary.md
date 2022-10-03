@@ -30,8 +30,6 @@ Here's a snapshot of relevant data:
 
 ## Optimizing Images: Choosing an Approach
 
-In addition to boosting your web page load times, optimizing your images can reduce your bandwidth costs. 
-
 There are many ways to optimize online images. Some approaches require advanced coding or image knowledge. All strive to achieve a balance between maximum image quality and miminal file size. 
 
 In this article, I'll be <a href="#start">sharing a technique</a> for optimizing your images that requires low effort, little technical knowledge, and typically results in high impact on load times. 
@@ -58,9 +56,9 @@ WebP, JPEG 2000, and JPEG XR are examples of next-gen formats.
 #### The Browser Compatability Problem — Solved
 <a href="https://developers.google.com/speed/webp/" target="blank">WebP</a> was developed by Google. It loads extremely fast, but is <a href="https://caniuse.com/#search=webp" target="blank">not supported by all browsers</a>. 
 
-<em>Update: WebP is now compatible with Safari - but only on version 14, which launched in Sept. 2020</em>.
+For example, it's not compatible with Safari, iOS Safari, BlackBerry Browser, or IE Mobile. (<em>Update: WebP is now compatible with Safari - but only on version 14, which launched in Sept. 2020</em>.)
 
-For example, it's not compatible with Safari, iOS Safari, BlackBerry Browser, or IE Mobile. <em>If all of your website images were WebP images, visitors coming to your website using one of these other browsers would see blank spaces where the images were supposed to be.</em>
+If all of your website images were WebP images, visitors coming to your website using one of these incompatible browsers would see blank spaces where the images were supposed to be.
 
 In addition, formats like <a href="https://caniuse.com/#feat=jpegxr" target="blank">JPEG XR</a> are only supported by Microsoft's Internet Explorer and Edge browsers. 
 
@@ -78,7 +76,7 @@ Cloudinary can also use its algorithms to calculate and deliver image quality ba
 ## <a href id="start">Getting Started With Cloudinary</a>
 
 
-1. Sign up for a <a href="https://cloudinary.com/" target="blank">Cloudinary account</a>. (There's a free developer tier that allows for 25 GB of storage or "net viewing bandwidth.")
+1. Sign up for a <a href="https://cloudinary.com/" target="blank">Cloudinary account</a>. (There's a free developer tier that allows for 25 GB of storage.
 2. Log in to your new account and click on "Media Library." 
 3. Upload an image. (Tip: If you're going to use Cloudinary for multiple websites, create a folder in Media Library for each website.)
 4. Hover your cursor over the image and a paper clip icon will appear in the upper left corner. Click on the paperclip icon. This causes the image URL to be copied. 
@@ -169,6 +167,8 @@ If you have multiple people posting to your blog, then you'll need to train them
 A decent workaround for a multi-author blog is to have authors create screen grabs of images they want to use. As they take the screen grab, have them size it by eye (roughly) to fit the width of your blog's text column. By using screen grabs and avoiding huge image sizes, you'll saving on image loading time. 
 
 You won't get the same results as using Cloudinary, but the results should be much better than letting users upload any image file size they want.
+
+If you're using a WordPress site you can also research image optimization plugins. There are many available, including the ImageKit plugin, which offers a service similar to Cloudinary.
 
 
 ## Summary
