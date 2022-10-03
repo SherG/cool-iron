@@ -19,7 +19,9 @@ This article focuses on a specific type of partnership  where an individual or a
 Why would it benefit them to send you qualified leads? 
 
 1. The referral helps their client solve a problem; and so it earns goodwill for the referrer. 
-2. The referring individual or business may also like to receive compensation from you when the referral converts. (Conversely, the referrer’s practice area or business model may lead them to decline payment for referrals.)
+2. The referring individual or business may also like to receive compensation from you when the referral converts. 
+
+Note that not all referrers can receive commissions: their practice area or business model may lead them to decline payment for the clients they refer to you.
 
 Often the referring business will be one that offers a service that's complementary to your own. 
 
@@ -55,20 +57,23 @@ Some reasons why a business might not be able to service a client might include:
 
 Create a spreadsheet list with all the people you want to target with their contact information and make a plan to methodically contact all of them.
 
-Prepare an offer in advance. For “kingpins” (the extraordinarily well-connected who can deliver repeatedly) consider offering a generous percentage. I know several small business owners who provide kingpins with 50% of any deals they send. There’s no reason a kingpin would reject that figure. If they’re not a kingpin, consider 30% (a figure which can be reviewed after they deliver some leads that convert).
+Prepare an offer in advance. For “kingpins” (the extraordinarily well-connected who can deliver repeatedly) consider offering a generous percentage. I know several small business owners who provide kingpins with 50% of any deals they send. There’s no reason a kingpin would reject that figure. If the prospect is not a kingpin, consider 30% (a figure which can be reviewed after they deliver some leads that convert).
 
 * Draft a contract for “kingpins” and a different one for the “ordinary” partner. (The only difference will be the commission percentage.) You can likely find a basic draft template online to customize.) 
+* You can easily find relevant templates online by searching for "referral agreement templates."
 * Use an online service like DocuSign or HelloSign to send contracts to potential partners for review and signing. 
 
 Before you send a contract to a potential partner, do a few trial runs of the send and sign process by emailing the contract to yourself and perhaps a friend. Fix any problems that you detect. This will ensure that the process goes smoothly and the document has been configured properly. 
 
-If you want a lawyer to review your contract before you offer it to anyone, there are plenty of online services that will provide this service at an affordable rate.
+If you want a lawyer to review your contract before you offer it to anyone, there are plenty of online services, such as LegalZoom, that will provide this service at an affordable rate.
 
 ## The When: Now 
 
-The faster you act on this, the closer you’ll get to the true opportunities in your network.
+The faster you act on this, the quicker you'll uncover the opportunities in your network.
 
-You can also start to look at all the new people you meet online or in person as potential partners. But remember: for this tactic to work, you want to select people who are in a position to really deliver those leads because they are already servicing — or influentially connected to — your ideal clients. 
+If your list is short, ask friend and acquaintances whether they know of anyone who might introduce you to potential referral partners. Be sure to tell them what types of jobs these referrers might hold (such as accountant, real estate agent, construction foreman, small business consultant, and so on.)
+
+You can also start to look at all the new people you meet online or in person as potential partners. But remember: for this tactic to work, you want to select people who are in a position to deliver those leads because they are already servicing — or influentially connected to — your ideal clients. 
 
 ## Want to Stick to LinkedIn? Fish Upstream
 
@@ -76,7 +81,9 @@ LinkedIn prospecting has devolved largely to "my bot wants to chat with your bot
 
 Given that loads of the newly unemployed are hanging their shingle out on LinkedIn, expect the deluge to increase. 
 
-If you are currently using Linkedin Navigator for sales prospecting and want to continue that expenditure and activity, consider an experiment: shift your prospecting upstream to find referral partners instead of sales prospects. 
+If you are currently using Linkedin Navigator for sales prospecting and want to continue that expenditure and activity, consider an experiment: shift your prospecting upstream and "fish" for referral partners instead of sales prospects. 
+
+Remember: a referral partner is essentially a commission-based salesperson.
 
 ## Summary
 
@@ -84,5 +91,5 @@ Now you're equipped with some immediately actionable ways to get traction for yo
 
 Don't let the reply "No" slow you down. When your offer is declined, it's simply information. Choose a disciplined approach where nothing will prevent you from reaching out to everyone on your list of potential partners. 
 
-Successful entrepreneurs often have to plough through many dead-ends or "No"s to arrive at success. Will you be one of them? 
+Successful entrepreneurs often have to plough through many dead-ends to arrive at success. Will you be one of the elite who refuse to give up? 
 
