@@ -98,7 +98,7 @@
 
           
           <div class="text-lg sm:text-lg mb-16">
-            <form method="POST" action="#" name="contact" class="mb-12" data-netlify="true" data-netlify-honeypot="bot-field">
+            <form method="POST" action="#" name="contact" class="mb-12" data-netlify-recaptcha="true" data-netlify="true">
           <input type="hidden" name="form-name" value="contact" />
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
