@@ -98,7 +98,12 @@
 
           
           <div class="text-lg sm:text-lg mb-16">
-            <form method="POST" action="#" name="contact" class="mb-12" data-netlify-recaptcha="true" data-netlify="true">
+            <form method="POST" action="#" name="contact" class="mb-12"  netlify-honeypot="bot-field" data-netlify="true">
+           <p class="hidden">
+    <label>
+      Don’t fill this out if you’re human: <input name="bot-field" />
+    </label>
+  </p>
           <input type="hidden" name="form-name" value="contact" />
               <div class="flex flex-wrap mb-6 -mx-4">
                   <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
