@@ -100,6 +100,13 @@ No thanks.
 
 <hr>
 
+### Update: British Medical Journal raises "serious concerns" about Facebook/Meta fact-checking
+
+On Nov. 22, 2021, some six months after this article was posted, <em>The British Medical Journal</em> published <a href="https://www.bmj.com/content/375/bmj.n2635/rr-80" target="blank">an open letter</a> to Mark Zuckerberg raising "serious concerns about the 'fact checking' being undertaken by third party providers on behalf of Facebook/Meta."
+
+It's well worth a read.
+
+<hr>
 
 ### Related 
 
@@ -122,3 +129,4 @@ Rockefeller is a graduate of Yale Law School and former chairman of the American
 <a href="https://www.mercatus.org/system/files/Perils-of-Classifying-Social-Media-Platforms-Public-Utilities.pdf" target="blank">The Perils of Classifying Social Media Platforms as Public Utilities</a> - Adam Thierer, Senior Research Fellow, <a href="https://www.mercatus.org/" target="blank">Mercatus Center</a> at George Mason University
 
 <a href="https://twitter.com/AdamThierer/status/1151150523124502528" target="blank">10 must-reads on Section 230</a> from Adam Thierer 
+
