@@ -100,7 +100,7 @@ No thanks.
 
 <hr>
 
-### Update: British Medical Journal raises "serious concerns" about Facebook/Meta fact-checking
+### Update: British Medical Journal raises "serious concerns" about Facebook/Meta's "incompetent" fact-checking
 
 On Nov. 22, 2021, some six months after this article was posted, <em>The British Medical Journal</em> published <a href="https://www.bmj.com/content/375/bmj.n2635/rr-80" target="blank">an open letter</a> to Mark Zuckerberg raising "serious concerns about the 'fact checking' being undertaken by third party providers on behalf of Facebook/Meta."
 
