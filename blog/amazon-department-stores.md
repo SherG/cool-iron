@@ -37,25 +37,9 @@ The early Hointer vision was captured in this charming video that Shouraboura fi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hq9ZIW79_18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Let's go back to the <em>Wall St. Journal</em> article, which provides details leaked by the insiders: 
-
-<div style="padding-left: 2.3em;><p>One idea that has been tested is for customers to scan QR codes of items they want to try on by using a smartphone app . . . </a></divp
-
-<div style="padding-left: 2.3em;><p>Once there [in the fitting room], customers could ask for more items using a touch screen, which might be capable of recommending additional clothing based on the pieces shoppers liked.</p></div>
-
-<div style="padding-left: 2.3em;><p>. . .  Robots or other forms of automation could eventually be deployed in the stores, one of the people said.</p></div>
-
-The article continues: 
-
-<div style="padding-left: 2.3em;><p>The online shopping company has made an effort to keep its clothing concept secret, giving it a code name. </p></div>
-
-I know the code name: "Shouraboura!" Or maybe "Mayday!" (That's a joke Shouraboura would appreciate.) 
-
-Seriously, the leakers aren't describing anything fundamentally different than Hointer, so they may as well have code-named the project "Shouraboura."
-
 > Bricks account for <a href="https://www.census.gov/retail/mrts/www/data/pdf/ec_current.pdf" target="blank">84% of retail sales</a> in the U.S.
 
-There are some odd, pedestrian details included in the leak. After customers scan QR codes, "associates in the store" will "gather the items and place them in fitting rooms." Come on. Salespeople hand-carrying garments to fitting rooms has been done since when — the 1800s? Amazon's not going to do that. They'll likely copy Shouraboura's automated delivery system.
+There are some odd, pedestrian details included in the leak. After customers scan QR codes, "associates in the store" will "gather the items and place them in fitting rooms." Come on. Salespeople hand-carrying garments to fitting rooms has been done since when — the 1800s? Amazon's not going to do that. They'll likely use an automated delivery system like Hointer did. It solves so many customer pain points. 
 
 Remember that qualifier:
 
