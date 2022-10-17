@@ -32,10 +32,7 @@ Hointer's beta stores functioned as testbeds and proof-of-concept. So it's not s
 Shouraboura's vision evolved from apps to a wand-like device which customers could use to select merchandise to be sent to a fitting room. Users <a href="https://www.deborahweinswig.com/tick-tock-retailers-its-wake-up-time-a-retail-symposium/" target="blank">enjoyed the evocation of magic</a> that the wand provided.
 
 Interestingly, <a href="https://www.youtube.com/watch?v=O_G8m4FLk6g" target="blank">her model</a>, a problem-solving fusion of the tactile and digital, would limit face-to-face interaction in today's pandemic-aware world.
-
-The early Hointer vision was captured in this charming video that Shouraboura filmed with her engineer daughter and business partner <a href="https://www.linkedin.com/in/caroline-shouraboura-527a9693/" target="blank">Caroline</a>: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hq9ZIW79_18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
 
 > Bricks account for <a href="https://www.census.gov/retail/mrts/www/data/pdf/ec_current.pdf" target="blank">84% of retail sales</a> in the U.S.
 
