@@ -86,9 +86,9 @@ nav .active {
   padding-right: 1rem;
 }
 
-/* changed from original code */
+/* changed from original code then increased from 8 to 12 */
   .w-40 {
-width: 15rem;
+width: 12rem;
   }
 /* end */
 
