@@ -33,9 +33,9 @@ Also, Facebook has become much more of a walled garden: a one-stop shop designed
 > "Whatever you’re doing right now is the best use of your time, according to you." - <a href="https://twitter.com/shl/status/1383072769793925123?ref_src=twsrc%5Etfw" target="blank">@shl</a>
 
 
-## The warden and the fools
+## Make-work
 
-Before deleting my account I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian schoolmarm onto  comments it deems problematic. These I saw on the newsfeed of a friend who responded with the humorous epithet: “fascistbook!”
+Before deleting my account I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian schoolmarm onto comments it deems problematic. These I saw on the newsfeed of a friend who blurted out: “fascistbook!”
 
 Warning labels stuck like annoying Post-its on casual comments change the platform's atmosphere. It's not just you and your friends and acquaintances socializing anymore, it's you, them, and a phalanx of <a href="https://www.youtube.com/watch?v=YsShZNHmpGE" target="blank">uninvited busybodies</a>. 
 
@@ -43,9 +43,9 @@ Warning labels stuck like annoying Post-its on casual comments change the platfo
 
 If people’s minds are really so feeble that they need professional assistance just to make their way through low-definition social media posts, then it’s a problem that Post-it notes aren’t going to fix. Indeed, outsourcing our thinking (and therefore agency) to others is an underlying societal fault line. 
 
-And, even if the Post-it note is accurate (and that's a big 'if' given nuanced problems that have ensued), is there any evidence that these notes change people’s minds? Do they perhaps make people <em>more</em> interested in the comment, once it’s labeled &mdash; implicity &mdash; subversive or <em>transgressive</em>?
+Even if the Post-it note is accurate (and that's a big 'if' given nuanced problems that have ensued), is there any evidence that these notes change people’s minds? Do they perhaps make people <em>more</em> interested in the comment, once it’s labeled &mdash; implicity &mdash; subversive or <em>transgressive</em>?
 
-> Does social disapproval, via 'warning labels,' promote independent thinking or its opposite?
+> Does social disapproval, via 'warning labels' promote independent thinking or its opposite?
 
 </br>
 
@@ -53,7 +53,9 @@ And, even if the Post-it note is accurate (and that's a big 'if' given nuanced p
 
 Consider, Facebook fact-checker Politifact had to <a href="https://twitter.com/EricRWeinstein/status/1396581749665140738" target="blank">walk back a previous "Pants on fire" label</a> regarding hypotheses about the origin of COVID-19. What their initial "fact-check" did, it would seem, was encourage viewers to not question the orthodoxy <em>du jour</em>. In doing so, it effectively discounted the views of dozens of scientists who believed the <a href="https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/" target="blank">"lab leak" hypothesis</a> was reasonable and deserved exploration. Those scientists included <a href="https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html" target="blank">Philip Murphy</a> — <a href="https://www.niaid.nih.gov/research/philip-m-murphy-md" target="blank">chief of the Laboratory of Molecular Immunology</a> at the National Institutes of Health (NIH). 
 
-Unfortunately, there are many other stories, across the political spectrum, of fact-checking gone awry.
+As mathematician Eric Weinstein noted, this was "<a href="https://twitter.com/EricRWeinstein/status/1396581749665140738" target="blank">consensus checking</a>," not fact checking.
+
+Unfortunately, there are many other stories, across the political spectrum, of fact-checking being used to mislead or spread disinformation.
 
 ### From social media to social monitoring
 
