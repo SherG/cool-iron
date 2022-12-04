@@ -33,7 +33,7 @@ Also, Facebook has become much more of a walled garden: a one-stop shop designed
 > "Whatever you’re doing right now is the best use of your time, according to you." - <a href="https://twitter.com/shl/status/1383072769793925123?ref_src=twsrc%5Etfw" target="blank">@shl</a>
 
 
-## Make-work
+## Make-work for underemployed journalists
 
 Before deleting my account I caught my first glimpse of Facebook’s “warning” notes: correctives it dutifully pastes like a Victorian schoolmarm onto comments it deems problematic. These I saw on the newsfeed of a friend who blurted out: “fascistbook!”
 
