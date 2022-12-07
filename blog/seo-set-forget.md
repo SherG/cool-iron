@@ -163,3 +163,5 @@ We've provided a basic overview of common areas of SEO activity and provided you
 
 <a href="/quality-content">What Does Google Consider to be Quality Content?</a>
 
+<a href="https://aioseo.com/how-to-use-a-wordpress-faq-block-to-boost-seo-and-get-more-traffic/" target="blank">FAQs & SEO: How to use them to grab market share from your competitors</a>
+
