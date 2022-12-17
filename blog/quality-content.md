@@ -42,7 +42,7 @@ Let's contrast those qualities with their opposite:
 Google uses human raters in addition to algorithms. The raters' assessments do not affect the ranking of content; they are used to assess how well the algorithms are engineered. However, reviewing the guidelines used by the raters — <a href="https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf" target="blank">a 175-page document</a> — even briefly, provides clues as to how Google rates content.
 
 
-> 91% of websites get no traffic from Google. <small>Source: <a href="https://ahrefs.com/blog/search-traffic-study/" target="blank">ahrefs</a></small>
+> 91% of websites get no traffic from Google. <br /><small>Source: <a href="https://ahrefs.com/blog/search-traffic-study/" target="blank">ahrefs</a></small>
 
 ### Low quality content
 
