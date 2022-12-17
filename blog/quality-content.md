@@ -116,7 +116,7 @@ To give yourself a chance of ranking in the top 5 articles about a subject, try 
 
 These simple ideas and actions are the unsexy fundamentals. And they should be kept in mind whenever you create and post an article. 
 
-Most website owners skip over the unsexy fundamentals. And that provides an opportunity for you.
+Most website owners skip the unsexy fundamentals. And that provides an opportunity for you.
 
 
 ### Related
