@@ -36,10 +36,12 @@ Let's contrast those qualities with their opposite:
 * Unsubstantiated claims, factual errors, or use of questionable sources
 * Content that is disorganized, formatted poorly, and needs editing
 
+> 91% of websites get no traffic from Google.
+
 
 ## Learning from Google’s guidelines
 
-Google uses human raters in addition to algorithms. The raters' assessments do not affect the ranking of content; they are used to assess how well the algorithms are engineered. However, reviewing the guidelines used by the raters — <a href="https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf" target="blank">a 175-page document</a> — even very briefly, provides clear cues as to how Google rates content.
+Google uses human raters in addition to algorithms. The raters' assessments do not affect the ranking of content; they are used to assess how well the algorithms are engineered. However, reviewing the guidelines used by the raters — <a href="https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf" target="blank">a 175-page document</a> — even briefly, provides clues as to how Google rates content.
 
 ### Low quality content
 
@@ -79,9 +81,8 @@ Nielsen's site offers tips on how to format your page to communicate effectively
 
 Creating a logical order in your article helps your user. Using h-tags for headlines and sub-headlines helps Google understand the structure of your page.
 
-* Learn about the use of h-tags and use appropriate sub-headlines 
-* Learn good headline practices
-* Learn how to create a good meta-description 
+* Learn about the use of h-tags and use appropriate sub-headlines.
+* Before you begin writing, create an outline first.
 
 <img class="right" src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_0.5/v1618077609/SignalFox/illustration-woman-typing_afeumm.png">
 
