@@ -10,7 +10,7 @@ Many of the small businesses that have survived the pandemic lockdowns, have sca
 
 If this is you, then you undoubtedly have to triage your time. If producing content is part of your strategy, then it will pay to understand the importance of quality content. This article is designed to provide a shortcut to that knowledge, by outlining the basics.
 
-But first, realize that quality is the most important search engine ranking factor. And <a href="https://ahrefs.com/blog/search-traffic-study/" target-"blank">only 9%</a> of websites get any traffic from Google.
+But first, realize that quality is the most important search engine ranking factor. And <a href="https://ahrefs.com/blog/search-traffic-study/" target="blank">only 9%</a> of websites get any traffic from Google.
 
 ## Quality is #1 
 
