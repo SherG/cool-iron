@@ -26,7 +26,7 @@ The authors suggest that this tech could "cannibalize" Google's "lucrative searc
 
 <div style="padding-left: 2.5em;"><p>If a chat bot is responding to queries with tight sentences, there is less reason for people to click on advertising links.</p></div>
 
-ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) is confident and produces well-formed sentences and paragraphs, even when it's partially wrong. 
+ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) seems confident and produces well-formed sentences and paragraphs, even when it's partially wrong. 
 
 But ChatGPT doesn't _index_ content or crawl the web. It has a radically different mission from Google, and for that reason the idea of it drawing away Google's ad revenue seems fanciful.
 
