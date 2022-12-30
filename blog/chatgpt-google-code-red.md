@@ -8,7 +8,9 @@ tags: ['models']
 
 Will ChatGPT set off an earthquake that swallows Google? Unlikely, despite a "gee whiz" article making the rounds.
 
-_The New York Times_ claims that when ChatGPT was released, Google management <a href="https://archive.ph/https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html" target="blank">declared a "Code Red</a>" which was "akin to pulling the fire alarm." This is according to anonymous sources. The Times also said they viewed a "memo" and listened to an "audio recordings" of a Google meeting, but they didn't publish these items. So readers can't assess them.
+_The New York Times_ claims that when ChatGPT was released, Google management <a href="https://archive.ph/https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html" target="blank">declared a "Code Red</a>" which was "akin to pulling the fire alarm." This is according to anonymous sources. 
+
+The _Times_ also said they viewed a "memo" and listened to an "audio recordings" of a Google meeting, but they didn't publish these items. So readers can't assess these items for themselves.
 
 The article quickly brings in the proverbial "some."
 
@@ -16,7 +18,7 @@ The article quickly brings in the proverbial "some."
 
 But only a few paragaphs into the story we read that "the technology at the heart of OpenAI’s chat bot was developed by researchers at Google." So it's hard to believe the search giant was blindsided.
 
-The article falls flat. The "Code Red" and "alarm" along with a few "experts" offering warnings, make for a sexy story. But I'm unconvined the drama is _inherent_ in the story, versus ginned up.
+"Code Red" and "alarm" along with a few "experts" offering warnings, make for a sexy story. But I'm unconvined the drama is _inherent_ in the story, versus ginned up.
 
 The authors suggest that this tech could "cannibalize" Google's "lucrative search ads."
 
@@ -24,9 +26,9 @@ The authors suggest that this tech could "cannibalize" Google's "lucrative searc
 
 ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) is confident and produces well-formed sentences and paragraphs, even when it's partially wrong. 
 
-ChatGPT doesn't _index_ content. It has a radically different mission from Google, and for that reason the idea of it drawing away Google's ad revenue seems fanciful. 
+But ChatGPT doesn't _index_ content. It has a radically different mission from Google, and for that reason the idea of it drawing away Google's ad revenue seems fanciful. 
 
-Also, Google can easily create and launch their own version of ChatGPT and offer it as a search option. And it would be easy to monetize. 
+Also, Google can easily create and launch their own version of ChatGPT and offer it as a search interface option. And it would be easy to monetize. 
 
 Consider for starters, that when you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with your Gmail account. That's one avenue to monetization: capturing identity and coupling it to queries. 
 
