@@ -40,7 +40,7 @@ In comparing ChatGPT with Google, it's worth noting what the former doesn't do.
 
 For example, currently ChatGPT doesn't cite its sources and doesn't provide hyperlinks to users so they can verfy information for themselves. (Kind of like the _Times_ writers). 
 
-Indeed, ChatGPT can't even access the internet to retrieve information. Countless queries are made on Google Search for prices, tickets, event times, and products. 
+Indeed, ChatGPT can't even access the internet to retrieve information. Countless queries are made on Google Search for stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
 
 Development of schema and structured data has given us interactive search results like these, which despite looking like ads, aren't.
 
@@ -60,7 +60,7 @@ This is in contast to Google Search which through auto-suggest and personalized 
 
 And how likely is it that people will suddenly want text only and lose their interest in browsing video, audio, and images?
 
-The point isn't to say ChatGPT should be more like Google. It's to underscore the fact that both products are designed to do different things.
+The point isn't to say ChatGPT should be more like Google. It's to underscore the fact that both products are designed to do different things, although there is some overlap as in providing encyclopedia-style facts.
 
 <a href="https://research.google/people/107923/" target="blank">Zoubin Ghahramani</a>, leader of <a href="https://research.google/teams/brain/" target="blank">Google Brain</a>, put it well when he told the _Times_ last month: 
 
