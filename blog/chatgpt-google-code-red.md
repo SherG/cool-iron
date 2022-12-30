@@ -18,11 +18,9 @@ The article quickly brings in the proverbial "_some fear_."
 
 <div style="padding-left: 2.5em;"><p>Some fear the company may be approaching a moment that the biggest Silicon Valley outfits dread — the arrival of an enormous technological change that could upend the business.</p></div>
 
-But only a few paragaphs into the story we read that "the technology at the heart of OpenAI’s chat bot was developed by researchers at Google." (This is a reference to <a href="https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html" target="blank">LaMDA</a>.)
+But only a few paragaphs into the story we read that "the technology at the heart of OpenAI’s chat bot was developed by researchers at Google." (This is a reference to <a href="https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html" target="blank">LaMDA</a>.) So it's hard to believe the search giant was flailing about, blindsided.
 
-So it's hard to believe the search giant was flailing about, blindsided.
-
-"Code Red" and "alarm" along with a few "experts" offering warnings, make for a sexy story. But I'm unconvinced there's drama _inherent_ in the story.
+"Code Red" and "alarm" along with a few "experts" offering warnings, make for a sexy story. But is that drama _inherent_ in the story?
 
 The authors suggest that this tech could "cannibalize" Google's "lucrative search ads."
 
