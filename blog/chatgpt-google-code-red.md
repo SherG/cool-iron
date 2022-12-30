@@ -42,7 +42,7 @@ Indeed, ChatGPT can't even access the internet to retrieve information. Countles
 
 Development of schema and structured data has given us interactive search results like these, which despite looking like ads, aren't.
 
-<img src="https://res.cloudinary.com/icecloud7/image/f_auto/upload/v1672430369/SignalFox/lambskin-bomber-jacket_af9b7s.png" />
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1672430369/SignalFox/lambskin-bomber-jacket_af9b7s.png" />
 
 In fact, because ChatGPT doesn't actively pull information from the internet, it can't answer simple queries like this: 
 
