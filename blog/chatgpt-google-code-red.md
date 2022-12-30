@@ -42,8 +42,11 @@ This is in contast to Google Search which through auto-suggest and personalized 
 
 <div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society. It is not something that people can use reliably on a daily basis.</p></div>
 
-Based on anonymous sources, invisible documents and secret recordings, the _Times_ story seems little more than speculative entertainment. 
+Based on anonymous sources, invisible documents and secret recordings, the _Times_ story seems little more than speculative entertainment. It's surprising to see some SEOs (search engine optimization professionals) talking up the 'threat' in social media.
 
-For that reason it's surprising to see some SEOs (search engine optimization professionals) talking up the 'threat' in social media.
+For fun, we asked Assistant over at ChatGPT what he thinks. Here's what he had to say:
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672429135/SignalFox/chatgpt-code-red_u3i0vk.png" />
+
 
 
