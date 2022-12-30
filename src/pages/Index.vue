@@ -55,11 +55,11 @@
           </li>
               <li class="checkmark mb-6">
             <div>Content marketing</div>
-            <div class="text-lg text-gray-600">AI-enabled content marketing for a portfolio of websites that was successfully sold at the start of the pandemic.</div>
+            <div class="text-lg text-gray-600">AI-enabled content marketing for businesses in highly competitive niches.</div>
           </li>
           <li class="checkmark mb-6">
             <div>Digital growth</div>
-            <div class="text-lg text-gray-600">Work with a very bright team that buys, grows, and sells valuable digital assets in some of the world's most competitive sectors. </div>
+            <div class="text-lg text-gray-600">Multiple projects delivering consistent growth in traffic and revenue.  </div>
           </li>
         </ul>
       </div> <!-- end projects -->
