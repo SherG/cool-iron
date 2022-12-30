@@ -12,7 +12,7 @@ _The New York Times_ claims that when ChatGPT was released, Google management <a
 
 The _Times_ also said they viewed a "memo" and listened to an "audio recordings" of a Google meeting, but they didn't publish these items. So readers can't assess these things for themselves.
 
-<a href="https://res.cloudinary.com/icecloud7/image/upload/v1672432331/SignalFox/nyt-chatgpt-code-red-google_mj93ec.png" />
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672432331/SignalFox/nyt-chatgpt-code-red-google_mj93ec.png" />
 
 The article quickly brings in the proverbial "_some fear_."
 
