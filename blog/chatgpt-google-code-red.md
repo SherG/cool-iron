@@ -34,7 +34,7 @@ But ChatGPT doesn't _index_ content or crawl the web. It has a radically differe
 
 Also, Google can develop an advanced version of ChatGPT and offer it as a search interface option. And it would be easy to monetize. 
 
-Consider for starters, that when you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with your Gmail account. That's one avenue to monetization: capturing identity and coupling it to queries. 
+Consider for starters, that when you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with your Gmail account. That's one avenue to monetization: capture identity and couple it to queries. 
 
 And there's nothing preventing a service like ChatGPT from posting ads on its pages. 
 
