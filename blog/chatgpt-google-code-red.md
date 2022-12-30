@@ -16,7 +16,7 @@ The article quickly brings in the proverbial "some."
 
 <div style="padding-left: 2.5em;"><p>Some fear the company may be approaching a moment that the biggest Silicon Valley outfits dread — the arrival of an enormous technological change that could upend the business.</p></div>
 
-But only a few paragaphs into the story we read that "the technology at the heart of OpenAI’s chat bot was developed by researchers at Google." So it's hard to believe the search giant was blindsided.
+But only a few paragaphs into the story we read that "the technology at the heart of OpenAI’s chat bot was developed by researchers at Google." (The tech is called <a href="https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html" target="blank">LaMDA</a>.) So it's hard to believe the search giant was flailing about, blindsided.
 
 "Code Red" and "alarm" along with a few "experts" offering warnings, make for a sexy story. But I'm unconvined the drama is _inherent_ in the story, versus ginned up.
 
@@ -38,12 +38,12 @@ For now, ChatGPT doesn't cite its sources and doesn't provide hyperlinks to user
 
 This is in contast to Google Search which through auto-suggest and personalized search results, is always making recommendations based on your interactions with it.
 
-<a href="https://research.google/people/107923/" target="blank">Zoubin Ghahramani</a>, leader of the A.I. lab Google Brain, put it well when he told the Times last month: 
+<a href="https://research.google/people/107923/" target="blank">Zoubin Ghahramani</a>, leader of <a href="https://research.google/teams/brain/" target="blank">Google Brain</a>, put it well when he told the _Times_ last month: 
 
 <div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society. It is not something that people can use reliably on a daily basis.</p></div>
 
-Based on anonymous sources, invisible documents and secret recordings (which readers are not allowed to access), the _Times_ story seems on a par with low-level speculative entertainment. 
+Based on anonymous sources, invisible documents and secret recordings, the _Times_ story seems little more than speculative entertainment. 
 
-For that reason it's surprising to see some search engine professionals talking up the 'threat' in social media.
+For that reason it's surprising to see some SEOs (search engine optimization professionals) talking up the 'threat' in social media.
 
 
