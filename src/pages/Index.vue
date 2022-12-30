@@ -11,9 +11,9 @@
     </div> <!-- end hero -->
 
   <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl"> Digital marketing — with its thousands of tools and tactics — can be disorienting and lead to fragmented efforts. SignalFox helps small business owners make sense of marketing in order to act effectively. </p><br/>
+      <p class="text-lg sm:text-xl">At SignalFox, we help businesses grow and succeed in the digital world. We educate businesses on sound techniques and strategies for digital growth, including topics such as SEO and aligning digital strategy with business goals. </p><br/>
 
-<p class="text-lg sm:text-xl">This service grew out of conversations I had with small business owners who were looking for a way to make better decisions and avoid wasted marketing spend.
+<p class="text-lg sm:text-xl">In addition to our expertise in digital strategy, we also help businesses optimize remote team performance and achieve efficiencies to scale.
  </p>
 
       <div class="flex justify-between items-center py-6">
@@ -27,17 +27,14 @@
     </div>
     
       <div class="container-inner mx-auto"><br/>
-      <p class="text-lg sm:text-xl">So how does it work? <br><br>
-1. We analyze your digital properties and practices, right down to the code. <br>
-2. Then we provide a unifying framework that brings your options into sharp focus and surfaces key opportunities.<br>
-3. Partnering with you as an advisor, we work with you on the creation of an integrated digital strategy to capitalize on these opportunties.<br></p><br><br><p class="text-lg sm:text-xl"><a href="/signalfox/">Get more details</a>.</p><br>
-  
-   <br/> </div>
+      <p class="text-lg sm:text-xl">We understand that business owners need an experienced advisor in order to develop a digital strategy that delivers greater market share. <br/> </div>
+      <div class="container-inner mx-auto">
+      <p class="text-lg sm:text-xl">Contact us via the form below if you're ready to gain clarity and move forward in 2023.</p><br/>
     
 
     <div class="overflow-x-hidden">
       <div class="projects container-inner mx-auto text-xl border-t border-gray-500 border-b py-16 mb-16 relative">
-        <h2 class="font-bold mb-6" id="projects">Some fun projects I've worked on:</h2>
+        <h2 class="font-bold mb-6" id="projects">Some fun projects we've worked on:</h2>
 
         <div class="absolute right-0" style="top: 50px; transform: translate(100%) rotate(180deg)">
           <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
