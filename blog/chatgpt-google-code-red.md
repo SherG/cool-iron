@@ -60,7 +60,7 @@ It also doesn't proactively make suggestions: it waits for you to ask a question
 
 This is in contast to Google Search which through auto-suggest and personalized search results, is always making recommendations based on your interactions with it.
 
-Overlooked also is the fact that Google Search provides multimedia results, not just text. How likely is it that people will suddenly lose their interest in browsing video, audio, and images?
+And how likely is it that people will suddenly want text only and lose their interest in browsing video, audio, and images?
 
 The point isn't to say ChatGPT should be more like Google. It's to underscore the fact that both products are designed to do different things.
 
@@ -68,7 +68,7 @@ The point isn't to say ChatGPT should be more like Google. It's to underscore th
 
 <div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society. It is not something that people can use reliably on a daily basis.</p></div>
 
-Based on anonymous sources, invisible documents and secret recordings, the _Times_ story seems little more than speculative entertainment. It's a bit surprising to see some SEOs (search engine optimization professionals) talking up the 'threat' in social media.
+Based on anonymous sources, invisible documents and secret recordings, the _Times_ story seems like speculative entertainment. It's a bit surprising to see some SEOs (search engine optimization professionals) talking up the 'threat' in social media.
 
 For fun, we asked Assistant over at ChatGPT what he thinks. We'll give the robot the last word.
 
