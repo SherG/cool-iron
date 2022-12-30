@@ -26,9 +26,11 @@ The authors suggest that this tech could "cannibalize" Google's "lucrative searc
 
 <div style="padding-left: 2.5em;"><p>If a chat bot is responding to queries with tight sentences, there is less reason for people to click on advertising links.</p></div>
 
-ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) produces well-formed sentences and paragraphs. And it can respond in dialogue, to correct itself. People are using it to generate documents, including essays, contracts, and video scripts. 
+ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) produces well-formed sentences and paragraphs. And it can respond in dialogue, to correct itself. People are using it to generate documents, including essays, contracts, and video scripts. After querying ChatGPT, you don't need to click through search results to find a suitable answer. The bot just delivers its answer, saving you time. It's easy to see the appeal.
 
 But ChatGPT doesn't _index_ content or crawl the web. It has a different mission from Google, and for that reason the idea of it demolishing Google's ad revenue seems fanciful.
+
+## A new Google Search interface?
 
 Also, Google can develop an advanced version of ChatGPT and offer it as a search interface option. And it would be easy to monetize. Consider for starters, that when you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with your Gmail account. That's one avenue to monetization: capture identity and couple it to queries. 
 
@@ -58,17 +60,15 @@ This is in contast to Google Search which through auto-suggest and personalized 
 
 And how likely is it that people will suddenly want text only and lose their interest in browsing video, audio, and images?
 
-And the point isn't that ChatGPT should be more like Google. It's to underscore the fact that both products serve different purposes, although there is overlap, as in providing encyclopedia-style facts.
+The point isn't that ChatGPT should be more like Google. It's to underscore the fact that both products serve different purposes, although there is overlap, as in providing encyclopedia-style facts.
 
 <a href="https://research.google/people/107923/" target="blank">Zoubin Ghahramani</a>, leader of <a href="https://research.google/teams/brain/" target="blank">Google Brain</a>, put it well when he told the _Times_ last month: 
 
 <div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society. It is not something that people can use reliably on a daily basis.</p></div>
 
-Based on anonymous sources, invisible documents and secret recordings, the _Times_ story is entertaining. It's a bit surprising to see some SEOs (search engine optimization professionals) talking up the 'threat' in social media.
+Based on anonymous sources, invisible documents and secret recordings, the _Times_ story seems speculative. It's a bit surprising to see some SEOs (search engine optimization professionals) talking up the 'threat' in social media.
 
-For fun, we asked Assistant over at ChatGPT what it thinks. We'll give the robot the last word.
+For fun, we asked Assistant over at ChatGPT what it thinks. Let's give the robot the last word.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/e_sharpen/v1672429135/SignalFox/chatgpt-code-red_u3i0vk.png" />
-
-
 
