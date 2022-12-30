@@ -22,7 +22,7 @@ But only a few paragaphs into the story we read that "the technology at the hear
 
 So it's hard to believe the search giant was flailing about, blindsided.
 
-"Code Red" and "alarm" along with a few "experts" offering warnings, make for a sexy story. But I'm unconvined the drama is _inherent_ in the story.
+"Code Red" and "alarm" along with a few "experts" offering warnings, make for a sexy story. But I'm unconvinced there's drama _inherent_ in the story.
 
 The authors suggest that this tech could "cannibalize" Google's "lucrative search ads."
 
