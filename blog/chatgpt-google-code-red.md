@@ -6,7 +6,7 @@ summary: A New York Times "gee whiz" story seems off.
 tags: ['AI']
 ---
 
-Has ChatGPT set off an earthquake that swallows Google? Unlikely, despite a "gee whiz" article making the rounds.
+Will ChatGPT set off an earthquake that swallows Google? Unlikely, despite a "gee whiz" article making the rounds.
 
 _The New York Times_ claims that when ChatGPT was released, Google management <a href="https://archive.ph/https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html" target="blank">declared a "Code Red</a>" which was "akin to pulling the fire alarm." This is according to anonymous sources. 
 
