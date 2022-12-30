@@ -38,7 +38,7 @@ And there's nothing preventing a service like ChatGPT from posting ads on its pa
 
 In comparing ChatGPT with Google, it's worth noting what the former doesn't do.
 
-For example, currently ChatGPT doesn't cite its sources and doesn't provide hyperlinks to users so they can verfy information for themselves. (Kind of like the _Times_ writers). 
+For example, currently ChatGPT doesn't cite its sources or provide hyperlinks so users can verfy information for themselves. (Kind of like the _Times_ writers). 
 
 Indeed, ChatGPT can't even access the internet to retrieve information. Countless queries are made on Google Search for stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
 
