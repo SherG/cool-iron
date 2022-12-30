@@ -12,7 +12,9 @@ _The New York Times_ claims that when ChatGPT was released, Google management <a
 
 The _Times_ also said they viewed a "memo" and listened to an "audio recordings" of a Google meeting, but they didn't publish these items. So readers can't assess these things for themselves.
 
-The article quickly brings in the ominous "some fear . . ."
+<a href="https://res.cloudinary.com/icecloud7/image/upload/v1672432331/SignalFox/nyt-chatgpt-code-red-google_mj93ec.png" />
+
+The article quickly brings in the proverbial "_some fear_."
 
 <div style="padding-left: 2.5em;"><p>Some fear the company may be approaching a moment that the biggest Silicon Valley outfits dread — the arrival of an enormous technological change that could upend the business.</p></div>
 
