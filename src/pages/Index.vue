@@ -29,7 +29,7 @@
       <div class="container-inner mx-auto"><br/>
       <p class="text-lg sm:text-xl">We understand that business owners need an experienced advisor in order to develop a digital strategy that delivers greater market share. <br/> </div>
       <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl">Contact us via the form below if you're ready to gain clarity and move forward in 2023.</p><br/>
+      <p class="text-lg sm:text-xl">Contact us via the form below if you're ready to gain clarity and move forward in 2023.</p><br/></div>
     
 
     <div class="overflow-x-hidden">
