@@ -46,7 +46,7 @@ Based on anonymous sources, invisible documents and secret recordings, the _Time
 
 For fun, we asked Assistant over at ChatGPT what he thinks. Here's what he had to say:
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672429135/SignalFox/chatgpt-code-red_u3i0vk.png" />
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/e_sharpen/v1672429135/SignalFox/chatgpt-code-red_u3i0vk.png" />
 
 
 
