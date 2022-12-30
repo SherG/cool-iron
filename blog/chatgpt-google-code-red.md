@@ -6,7 +6,7 @@ summary: A New York Times "gee whiz" story seems off.
 tags: ['AI']
 ---
 
-Will ChatGPT set off an earthquake that swallows Google? Unlikely, despite a "gee whiz" article making the rounds.
+Has ChatGPT set off an earthquake that swallows Google? Unlikely, despite a "gee whiz" article making the rounds.
 
 _The New York Times_ claims that when ChatGPT was released, Google management <a href="https://archive.ph/https://www.nytimes.com/2022/12/21/technology/ai-chatgpt-google-search.html" target="blank">declared a "Code Red</a>" which was "akin to pulling the fire alarm." This is according to anonymous sources. 
 
@@ -26,19 +26,17 @@ The authors suggest that this tech could "cannibalize" Google's "lucrative searc
 
 <div style="padding-left: 2.5em;"><p>If a chat bot is responding to queries with tight sentences, there is less reason for people to click on advertising links.</p></div>
 
-ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) seems confident and produces well-formed sentences and paragraphs, even when it's partially wrong. 
+ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) produces well-formed sentences and paragraphs. And it can respond in dialogue, to correct itself. People are using it to generate documents, including essays, contracts, and video scripts. 
 
-But ChatGPT doesn't _index_ content or crawl the web. It has a radically different mission from Google, and for that reason the idea of it drawing away Google's ad revenue seems fanciful.
+But ChatGPT doesn't _index_ content or crawl the web. It has a different mission from Google, and for that reason the idea of it demolishing Google's ad revenue seems fanciful.
 
-Also, Google can develop an advanced version of ChatGPT and offer it as a search interface option. And it would be easy to monetize. 
-
-Consider for starters, that when you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with your Gmail account. That's one avenue to monetization: capture identity and couple it to queries. 
+Also, Google can develop an advanced version of ChatGPT and offer it as a search interface option. And it would be easy to monetize. Consider for starters, that when you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with your Gmail account. That's one avenue to monetization: capture identity and couple it to queries. 
 
 And there's nothing preventing a service like ChatGPT from posting ads on its pages. 
 
 In comparing ChatGPT with Google, it's worth noting what the former doesn't do.
 
-For example, currently ChatGPT doesn't cite its sources or provide hyperlinks so users can verfy information for themselves. (Kind of like the _Times_ writers). 
+For example, currently ChatGPT doesn't cite its sources or provide hyperlinks so users can verfy information for themselves. 
 
 Indeed, ChatGPT can't even access the internet to retrieve information. Countless queries are made on Google Search for stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
 
@@ -60,13 +58,13 @@ This is in contast to Google Search which through auto-suggest and personalized 
 
 And how likely is it that people will suddenly want text only and lose their interest in browsing video, audio, and images?
 
-The point isn't to say ChatGPT should be more like Google. It's to underscore the fact that both products are designed to do different things, although there is some overlap as in providing encyclopedia-style facts.
+And the point isn't that ChatGPT should be more like Google. It's to underscore the fact that both products serve different purposes, although there is overlap, as in providing encyclopedia-style facts.
 
 <a href="https://research.google/people/107923/" target="blank">Zoubin Ghahramani</a>, leader of <a href="https://research.google/teams/brain/" target="blank">Google Brain</a>, put it well when he told the _Times_ last month: 
 
 <div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society. It is not something that people can use reliably on a daily basis.</p></div>
 
-Based on anonymous sources, invisible documents and secret recordings, the _Times_ story seems like speculative entertainment. It's a bit surprising to see some SEOs (search engine optimization professionals) talking up the 'threat' in social media.
+Based on anonymous sources, invisible documents and secret recordings, the _Times_ story is entertaining. It's a bit surprising to see some SEOs (search engine optimization professionals) talking up the 'threat' in social media.
 
 For fun, we asked Assistant over at ChatGPT what it thinks. We'll give the robot the last word.
 
