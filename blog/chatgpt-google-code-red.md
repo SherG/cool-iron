@@ -26,17 +26,39 @@ The authors suggest that this tech could "cannibalize" Google's "lucrative searc
 
 ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) is confident and produces well-formed sentences and paragraphs, even when it's partially wrong. 
 
-But ChatGPT doesn't _index_ content. It has a radically different mission from Google, and for that reason the idea of it drawing away Google's ad revenue seems fanciful. 
+But ChatGPT doesn't _index_ content or crawl the web. It has a radically different mission from Google, and for that reason the idea of it drawing away Google's ad revenue seems absurd.
 
-Also, Google can easily create and launch their own version of ChatGPT and offer it as a search interface option. And it would be easy to monetize. 
+Also, Google can develop an advanced version of ChatGPT and offer it as a search interface option. And it would be easy to monetize. 
 
 Consider for starters, that when you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with your Gmail account. That's one avenue to monetization: capturing identity and coupling it to queries. 
 
 And there's nothing preventing a service like ChatGPT from posting ads on its pages. 
 
-For now, ChatGPT doesn't cite its sources and doesn't provide hyperlinks to users so they can verfy information for themselves. It also doesn't proactively make suggestions: it waits for you to ask a question.
+In comparing ChatGPT with Google, it's worth noting what the former doesn't do.
+
+For example, currently ChatGPT doesn't cite its sources and doesn't provide hyperlinks to users so they can verfy information for themselves. (Kind of like the _Times_ writers). 
+
+Indeed, ChatGPT can't even access the internet to retrieve information. Countless queries are made on Google Search for prices, tickets, event times, and products. 
+
+Development of schema and structured data has given us interactive search results like these, which despite looking like ads, aren't.
+
+<img src="https://res.cloudinary.com/icecloud7/image/f_auto/upload/v1672430369/SignalFox/lambskin-bomber-jacket_af9b7s.png" />
+
+In fact, because ChatGPT doesn't actively pull information from the internet, it can't answer simple queries like this: 
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,e_sharpen/v1672430375/SignalFox/chatpgt-prices_afcgke.png" />
+
+Or like this: 
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672430632/SignalFox/chatgpt-limitations_oocptj.png" />
+
+It also doesn't proactively make suggestions: it waits for you to ask a question.
 
 This is in contast to Google Search which through auto-suggest and personalized search results, is always making recommendations based on your interactions with it.
+
+Overlooked in some of the current debate is the simple fact that Google Search provides multimedia results, not just text.
+
+The point isn't to say ChatGPT should be more like Google. It's to underscore the fact that both products are designed to do different things.
 
 <a href="https://research.google/people/107923/" target="blank">Zoubin Ghahramani</a>, leader of <a href="https://research.google/teams/brain/" target="blank">Google Brain</a>, put it well when he told the _Times_ last month: 
 
@@ -44,7 +66,7 @@ This is in contast to Google Search which through auto-suggest and personalized 
 
 Based on anonymous sources, invisible documents and secret recordings, the _Times_ story seems little more than speculative entertainment. It's surprising to see some SEOs (search engine optimization professionals) talking up the 'threat' in social media.
 
-For fun, we asked Assistant over at ChatGPT what he thinks. Here's what he had to say:
+For fun, we asked Assistant over at ChatGPT what he thinks. We'll give the robot the last word.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/e_sharpen/v1672429135/SignalFox/chatgpt-code-red_u3i0vk.png" />
 
