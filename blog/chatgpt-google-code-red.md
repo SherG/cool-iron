@@ -46,7 +46,7 @@ Development of schema and structured data has given us interactive search result
 
 In fact, because ChatGPT doesn't actively pull information from the internet, it can't answer simple queries like this: 
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,e_sharpen/v1672430375/SignalFox/chatpgt-prices_afcgke.png" />
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1672431118/SignalFox/chatgpt-prices-ratings_obyx7r.png" />
 
 Or like this: 
 
