@@ -68,7 +68,7 @@ The point isn't to say ChatGPT should be more like Google. It's to underscore th
 
 Based on anonymous sources, invisible documents and secret recordings, the _Times_ story seems like speculative entertainment. It's a bit surprising to see some SEOs (search engine optimization professionals) talking up the 'threat' in social media.
 
-For fun, we asked Assistant over at ChatGPT what he thinks. We'll give the robot the last word.
+For fun, we asked Assistant over at ChatGPT what it thinks. We'll give the robot the last word.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/e_sharpen/v1672429135/SignalFox/chatgpt-code-red_u3i0vk.png" />
 
