@@ -28,17 +28,17 @@ The authors suggest that this tech could "cannibalize" Google's "lucrative searc
 
 ## Engaging and Conversational
 
-ChatGPT is engaging and fast. Its sleek interface emulates one-on-one conversation.
+ChatGPT is engaging and fast. My hat's off to the UI team. The sleep typing interface, crisp resolution, and rapid response emulates one-on-one conversation. Before you know it, you'll be adding niceties to your interactions, like "Merry Christmas ChatGPT."
 
-"Assistant," (as ChatGPT prefers to be called) seems confident and produces well-formed sentences and paragraphs, even when its answers are partially wrong. And it can correct itself and refine its answers in dialogue.
+"Assistant," (as ChatGPT prefers to be called) seems confident and produces well-formed sentences and paragraphs, even when its answers are partially wrong. Interestingly, it can correct itself and refine its answers in dialogue.
 
 After querying ChatGPT, you don't need to click through results to find a suitable answer. The bot just delivers its answer, saving you time. It's easy to see the appeal.
 
-But ChatGPT doesn't _index_ content or crawl the web. It has a different mission than Google, and for that reason the idea of it demolishing Google's ad revenue seems fanciful.
+But ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. It has a different mission than Google, and for that reason the idea of it demolishing Google's ad revenue seems fanciful.
 
 ## A new Google Search interface?
 
-Also, Google can develop an advanced version of ChatGPT and offer it as a search interface option. And it could be monetized. 
+Also, Google could develop an advanced version of ChatGPT and offer it as a search interface option. And it could be monetized. 
 
 Consider for starters, that when you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with your Gmail account. That's one avenue to monetization: capture identity (assign a unique identifier to each user) and couple it to queries. 
 
@@ -50,7 +50,7 @@ In comparing ChatGPT with Google, it's worth noting what the former doesn't do.
 
 For example, ChatGPT can't access the internet to retrieve information. And it doesn't provide users with clickable references to verify sources and accuracy. 
 
-It could though if it became an OpenAI-search engine hybrid, like <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a>, which includes clickable footnotes and citations with its answers.
+It could though if it became an OpenAI-search engine hybrid, like <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a>. The latter includes clickable footnotes and citations with its answers.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
 
