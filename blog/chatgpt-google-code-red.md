@@ -32,13 +32,13 @@ ChatGPT is engaging and fast. The sleek interface evokes proximity and emulates 
 
 "Assistant," as ChatGPT prefers to be called, seems confident and produces well-formed sentences and paragraphs, even when its answers include errors.<sup><a id="footnote-1-ref" href="#footnote-1">[1]</a></sup> It can correct itself and refine its answers in dialogue. 
 
-After querying ChatGPT, you don't need to click through results to find a suitable answer. The bot just delivers its answer, saving you time. It's easy to see the appeal.
+After querying ChatGPT, you don't need to click through search results to find a suitable answer. The bot just delivers one answer, saving you time. It's easy to see the appeal especially for simple questions, recipes, and code troubleshooting. (See <a href="https://www.surgehq.ai/blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding" target="blank">this</a>.)
 
-But ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. It has a different mission than Google Search, and is at the opposite end of the maturity scale. So the idea of it demolishing Google's ad revenue seems far-fetched.
+But ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. It has a different mission than Google Search, and is at the opposite end of the maturity scale. So the idea of it demolishing Google's ad revenue seems fanciful.
 
 ## A new Google Search interface?
 
-Also, Google could choose to develop an advanced version of ChatGPT and offer it as a search interface option. And it could be monetized. 
+Also, Google could choose to develop an advanced version of ChatGPT, offer it as a search interface option, and monetize it. So where's the "existential" threat?
 
 Consider for starters, that when you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with your Gmail account. That's one avenue to monetization: capture identity (assign a unique identifier to each user) and couple it to queries. 
 
@@ -54,7 +54,7 @@ It could though, if it became an OpenAI-search engine hybrid, like <a href="http
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
 
-Countless queries are made on Google Search for up-to-date stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
+Also consider that countless queries are made on Google Search for up-to-date stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
 
 Development of schema and structured data has given us interactive search results like these. (They look like ads but they're not.) Hover over a jacket and you'll get 5 images that fade in and out, showing multiple angles. 
 
@@ -80,7 +80,7 @@ The point isn't that ChatGPT should be more like Google. It's to underscore the 
 
 <div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society. It is not something that people can use reliably on a daily basis.</p></div>
 
-Sam Altman, CEO of ChatGPT <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">says as much</a>.
+Sam Altman, CEO of ChatGPT <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">concurs</a>.
 
 The _Times_ article seems speculative at best. Nevertheless, some SEO professionals are playing up the 'Code Red threat' in their social media comments.
 
