@@ -30,7 +30,7 @@ The authors suggest that this tech could "cannibalize" Google's "lucrative searc
 
 ChatGPT is engaging and fast. My hat's off to the UI team. The sleep typing interface, crisp resolution, and rapid response emulates one-on-one conversation. Before you know it, you'll be adding niceties to your interactions, like "Merry Christmas ChatGPT."
 
-"Assistant," (as ChatGPT prefers to be called) seems confident and produces well-formed sentences and paragraphs, even when its answers are partially wrong. Interestingly, it can correct itself and refine its answers in dialogue.
+"Assistant," as ChatGPT prefers to be called, seems confident and produces well-formed sentences and paragraphs, even when its answers are partially wrong. Interestingly, it can correct itself and refine its answers in dialogue.
 
 After querying ChatGPT, you don't need to click through results to find a suitable answer. The bot just delivers its answer, saving you time. It's easy to see the appeal.
 
