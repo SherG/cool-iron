@@ -28,9 +28,9 @@ The authors suggest that this tech could "cannibalize" Google's "lucrative searc
 
 ## Engaging and Conversational
 
-ChatGPT is engaging and fast. With its sleek speed-tying interface, and quick responsiveness, ChatGPT emulates one-on-one conversation.
+ChatGPT is engaging and fast. With its sleek speed-typing interface and quick response ChatGPT emulates one-on-one conversation.
 
-"Assistant," (as ChatGPT prefers to be called) seems confident and produces well-formed sentences and paragraphs, even when its answers are partially wrong. And it can respond in dialogue.
+"Assistant," (as ChatGPT prefers to be called) seems confident and produces well-formed sentences and paragraphs, even when its answers are partially wrong. And it can correct itself and refine its answers in dialogue.
 
 After querying ChatGPT, you don't need to click through results to find a suitable answer. The bot just delivers its answer, saving you time. It's easy to see the appeal.
 
