@@ -3,7 +3,7 @@ title: Google's "Code Red" Panic Over ChatGPT
 path: /chatgpt-google-code-red
 date: 2022-12-30
 summary: A New York Times "gee whiz" story seems off.
-tags: ['AI']
+tags: ['AI','Google']
 ---
 
 Will ChatGPT set off an earthquake that swallows Google? Unlikely, despite a "gee whiz" article making the rounds.
