@@ -30,15 +30,15 @@ The authors suggest that this technology could "cannibalize" Google's "lucrative
 
 ChatGPT is engaging and fast. The sleek interface evokes proximity and emulates one-on-one conversation. Before you know it, you'll be adding niceties to your interactions, like "Merry Christmas ChatGPT."
 
-"Assistant," as ChatGPT prefers to be called, seems confident and produces fluent sentences and paragraphs, even when its answers are wholly or partially wrong. It can correct itself and refine its answers in dialogue.
+"Assistant," as ChatGPT prefers to be called, seems confident and produces well-formed sentences and paragraphs, even when its answers include errors.<sup><a id="footnote-1-ref" href="#footnote-1">[1]</a></sup> It can correct itself and refine its answers in dialogue. 
 
 After querying ChatGPT, you don't need to click through results to find a suitable answer. The bot just delivers its answer, saving you time. It's easy to see the appeal.
 
-But ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. It has a different mission than Google, and for that reason the idea of it demolishing Google's ad revenue seems far-fetched.
+But ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. It has a different mission than Google Search, and is at the opposite end of the maturity scale. So the idea of it demolishing Google's ad revenue seems far-fetched.
 
 ## A new Google Search interface?
 
-Also, Google could develop an advanced version of ChatGPT and offer it as a search interface option. And it could be monetized. 
+Also, Google could choose to develop an advanced version of ChatGPT and offer it as a search interface option. And it could be monetized. 
 
 Consider for starters, that when you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with your Gmail account. That's one avenue to monetization: capture identity (assign a unique identifier to each user) and couple it to queries. 
 
@@ -88,7 +88,9 @@ For fun, let's give the robot the last word.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/e_sharpen/v1672429135/SignalFox/chatgpt-code-red_u3i0vk.png" />
 
-### Postscript
+<br/><br/><hr/>
+<p id="footnote-1">
+AI Chatbots can produce "<a href="https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)#:~:text=In%20artificial%20intelligence%2C%20a%20hallucination,justified%20by%20its%20training%20data." target="blank">hallucinations</a>", or, more colloquially, "<a href="https://twitter.com/jdwalters85/status/1608661137738063874" target="blank">confident B.S.</a>" <a href="#footnote-1-ref">↑</a> 
+</p>
 
-Teachers concerned about students using ChatGPT to write term papers and other assignments, should simply insist on thorough use of citations.
 
