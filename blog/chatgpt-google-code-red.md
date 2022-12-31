@@ -28,7 +28,7 @@ The authors suggest that this tech could "cannibalize" Google's "lucrative searc
 
 ## Engaging and Conversational
 
-ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) confidently produces well-formed sentences and paragraphs, even when its answers are partially wrong. And it can respond in dialogue, to correct itself. 
+ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) seems confident and produces well-formed sentences and paragraphs, even when its answers are partially wrong. And it can respond in dialogue, to correct itself. 
 
 People are using it to generate documents, including essays, contracts, and video scripts. 
 
