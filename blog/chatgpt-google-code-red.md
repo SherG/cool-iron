@@ -22,7 +22,7 @@ But only a few paragaphs into the story we read that "the technology at the hear
 
 "Code Red" and "alarm" along with a few "experts" offering warnings, make for a sexy story. But is that drama inherent in the story?
 
-The authors suggest that this tech could "cannibalize" Google's "lucrative search ads."
+The authors suggest that this technology could "cannibalize" Google's "lucrative search ads."
 
 <div style="padding-left: 2.5em;"><p>If a chat bot is responding to queries with tight sentences, there is less reason for people to click on advertising links.</p></div>
 
