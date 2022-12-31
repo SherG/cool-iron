@@ -28,13 +28,11 @@ The authors suggest that this tech could "cannibalize" Google's "lucrative searc
 
 ## Engaging and Conversational
 
-ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) seems confident and produces well-formed sentences and paragraphs, even when its answers are partially wrong. And it can respond in dialogue, to correct itself. 
+ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) seems confident and produces well-formed sentences and paragraphs, even when its answers are partially wrong. And it can respond in dialogue.
 
-People are using it to generate documents, including essays, contracts, and video scripts. 
+After querying ChatGPT, you don't need to click through results to find a suitable answer. The bot just delivers its answer, saving you time. It's easy to see the appeal.
 
-After querying ChatGPT, you don't need to click through search results to find a suitable answer. The bot just delivers its answer, saving you time. It's easy to see the appeal.
-
-But ChatGPT doesn't _index_ content or crawl the web. It has a different mission from Google, and for that reason the idea of it demolishing Google's ad revenue seems fanciful.
+But ChatGPT doesn't _index_ content or crawl the web. It has a different mission than Google, and for that reason the idea of it demolishing Google's ad revenue seems fanciful.
 
 ## A new Google Search interface?
 
@@ -48,11 +46,13 @@ And there's nothing preventing a service like ChatGPT from posting ads on its pa
 
 In comparing ChatGPT with Google, it's worth noting what the former doesn't do.
 
-For example, currently ChatGPT doesn't cite its sources or provide hyperlinks so users can verfy information for themselves. 
+For example, currently ChatGPT doesn't cite its sources or provide hyperlinks so users can verfy information for themselves. It could though. <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a> includes clickable footnotes and citations in its answers.
 
-Indeed, ChatGPT can't even access the internet to retrieve information. Countless queries are made on Google Search for up-to-date stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
 
-Development of schema and structured data has given us interactive search results like these, which despite looking like ads, aren't.
+Currently, ChatGPT can't access the internet to retrieve information. Countless queries are made on Google Search for up-to-date stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
+
+Development of schema and structured data has given us interactive search results like these (they're not ads):
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1672430369/SignalFox/lambskin-bomber-jacket_af9b7s.png" />
 
@@ -76,7 +76,7 @@ The point isn't that ChatGPT should be more like Google. It's to underscore the 
 
 <div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society. It is not something that people can use reliably on a daily basis.</p></div>
 
-The anonymously-sourced _Times_ article seems speculative at best. Nevertheless, some SEO professionals are playing up the 'Code Red threat' in their social media comments.
+The anonymously-sourced _Times_ article seems speculative at best. Nevertheless, some SEO professionals are playing up the 'Code Red threat' or 'existential threat' in their social media comments.
 
 For fun, let's give the robot the last word.
 
