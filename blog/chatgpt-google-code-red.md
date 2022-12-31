@@ -38,9 +38,9 @@ But ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. 
 
 ## A new Google Search interface?
 
-Also, Google could choose to develop an advanced version of ChatGPT, offer it as a search interface option, and monetize it. So where's the "existential" threat?
+Also, Google could choose to develop an advanced version of ChatGPT, offer it as a search interface option, and monetize it. 
 
-Consider for starters, that when you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with your Gmail account. That's one avenue to monetization: capture identity (assign a unique identifier to each user) and couple it to queries. 
+When you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with your Gmail account. That's one avenue to monetization: capture identity (assign a unique identifier to each user) and couple it to queries. 
 
 And there's nothing preventing a service like ChatGPT from posting ads on its pages. 
 
@@ -50,7 +50,7 @@ In comparing ChatGPT with Google, it's worth noting what the former doesn't do.
 
 For example, ChatGPT can't access the internet to retrieve information. And it doesn't provide users with clickable references to verify sources and accuracy. 
 
-It could though, if it became an OpenAI-search engine hybrid, like <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a>. The latter includes clickable footnotes and citations with its answers.
+It could though, if it became an OpenAI-search engine hybrid, like <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a>. (The latter includes clickable footnotes and citations with its answers.)
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
 
