@@ -28,7 +28,9 @@ The authors suggest that this tech could "cannibalize" Google's "lucrative searc
 
 ## Engaging and Conversational
 
-ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) seems confident and produces well-formed sentences and paragraphs, even when its answers are partially wrong. And it can respond in dialogue.
+ChatGPT is engaging and fast. With its sleek speed-tying interface, and quick responsiveness, ChatGPT emulates one-on-one conversation.
+
+"Assistant," (as ChatGPT prefers to be called) seems confident and produces well-formed sentences and paragraphs, even when its answers are partially wrong. And it can respond in dialogue.
 
 After querying ChatGPT, you don't need to click through results to find a suitable answer. The bot just delivers its answer, saving you time. It's easy to see the appeal.
 
@@ -46,7 +48,7 @@ And there's nothing preventing a service like ChatGPT from posting ads on its pa
 
 In comparing ChatGPT with Google, it's worth noting what the former doesn't do.
 
-For example, currently ChatGPT doesn't cite its sources or provide hyperlinks so users can verfy information for themselves. It could though. <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a> includes clickable footnotes and citations in its answers.
+For example, ChatGPT doesn't cite its sources or provide hyperlinks so users can verfy information for themselves. It could though. After all, <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a> includes clickable footnotes and citations in its answers.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
 
