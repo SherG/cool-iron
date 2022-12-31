@@ -48,9 +48,7 @@ And there's nothing preventing a service like ChatGPT from posting ads on its pa
 
 In comparing ChatGPT with Google, it's worth noting what the former doesn't do.
 
-For example, ChatGPT doesn't cite its sources or provide hyperlinks so users can verfy information for themselves. It could though. After all, <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a> includes clickable footnotes and citations in its answers.
-
-<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
+For example, ChatGPT doesn't cite its sources or provide hyperlinks so users can verfy information for themselves. 
 
 Currently, ChatGPT can't access the internet to retrieve information. Countless queries are made on Google Search for up-to-date stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
 
