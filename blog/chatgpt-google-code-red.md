@@ -76,6 +76,8 @@ The point isn't that ChatGPT should be more like Google. It's to underscore the 
 
 <div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society. It is not something that people can use reliably on a daily basis.</p></div>
 
+The anonymously-sourced _Times_ article seems speculative at best. Nevertheless, some SEO professionals are playing up the 'Code Red threat' in their social media comments.
+
 For fun, let's give the robot the last word.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/e_sharpen/v1672429135/SignalFox/chatgpt-code-red_u3i0vk.png" />
