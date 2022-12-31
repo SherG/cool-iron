@@ -86,3 +86,7 @@ For fun, let's give the robot the last word.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/e_sharpen/v1672429135/SignalFox/chatgpt-code-red_u3i0vk.png" />
 
+### Postscript
+
+Teachers concerned about students using ChatGPT to write term papers and other assignments, should simply insist on thorough use of citations.
+
