@@ -28,13 +28,13 @@ The authors suggest that this technology could "cannibalize" Google's "lucrative
 
 ## Engaging and Conversational
 
-ChatGPT is engaging and fast. The sleek interface emulates one-on-one conversation. Before you know it, you'll be adding niceties to your interactions, like "Merry Christmas ChatGPT."
+ChatGPT is engaging and fast. The sleek interface evokes proximity and emulates one-on-one conversation. Before you know it, you'll be adding niceties to your interactions, like "Merry Christmas ChatGPT."
 
-"Assistant," as ChatGPT prefers to be called, seems confident and produces well-formed sentences and paragraphs, even when its answers are partially wrong. It can correct itself and refine its answers in dialogue.
+"Assistant," as ChatGPT prefers to be called, seems confident and produces fluent sentences and paragraphs, even when its answers are wholly or partially wrong. It can correct itself and refine its answers in dialogue.
 
 After querying ChatGPT, you don't need to click through results to find a suitable answer. The bot just delivers its answer, saving you time. It's easy to see the appeal.
 
-But ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. It has a different mission than Google, and for that reason the idea of it demolishing Google's ad revenue seems fanciful.
+But ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. It has a different mission than Google, and for that reason the idea of it demolishing Google's ad revenue seems far-fetched.
 
 ## A new Google Search interface?
 
@@ -50,13 +50,13 @@ In comparing ChatGPT with Google, it's worth noting what the former doesn't do.
 
 For example, ChatGPT can't access the internet to retrieve information. And it doesn't provide users with clickable references to verify sources and accuracy. 
 
-It could though if it became an OpenAI-search engine hybrid, like <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a>. The latter includes clickable footnotes and citations with its answers.
+It could though, if it became an OpenAI-search engine hybrid, like <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a>. The latter includes clickable footnotes and citations with its answers.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
 
 Countless queries are made on Google Search for up-to-date stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
 
-Development of schema and structured data has given us interactive search results like these (they're not ads). 
+Development of schema and structured data has given us interactive search results like these. (They look like ads but they're not.) Hover over a jacket and you'll get 5 images that fade in and out, showing multiple angles. 
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1672430369/SignalFox/lambskin-bomber-jacket_af9b7s.png" />
 
@@ -79,6 +79,8 @@ The point isn't that ChatGPT should be more like Google. It's to underscore the 
 <a href="https://research.google/people/107923/" target="blank">Zoubin Ghahramani</a>, leader of <a href="https://research.google/teams/brain/" target="blank">Google Brain</a>, put it well when he told the _Times_ last month: 
 
 <div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society. It is not something that people can use reliably on a daily basis.</p></div>
+
+Sam Altman, CEO of ChatGPT <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">says as much</a>.
 
 The _Times_ article seems speculative at best. Nevertheless, some SEO professionals are playing up the 'Code Red threat' in their social media comments.
 
