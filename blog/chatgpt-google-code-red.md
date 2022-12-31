@@ -26,7 +26,13 @@ The authors suggest that this tech could "cannibalize" Google's "lucrative searc
 
 <div style="padding-left: 2.5em;"><p>If a chat bot is responding to queries with tight sentences, there is less reason for people to click on advertising links.</p></div>
 
-ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) produces well-formed sentences and paragraphs. And it can respond in dialogue, to correct itself. People are using it to generate documents, including essays, contracts, and video scripts. After querying ChatGPT, you don't need to click through search results to find a suitable answer. The bot just delivers its answer, saving you time. It's easy to see the appeal.
+## Engaging and Conversational
+
+ChatGPT is engaging and fast. "Assistant," (as ChatGPT prefers to be called) produces well-formed sentences and paragraphs. And it can respond in dialogue, to correct itself. 
+
+People are using it to generate documents, including essays, contracts, and video scripts. 
+
+After querying ChatGPT, you don't need to click through search results to find a suitable answer. The bot just delivers its answer, saving you time. It's easy to see the appeal.
 
 But ChatGPT doesn't _index_ content or crawl the web. It has a different mission from Google, and for that reason the idea of it demolishing Google's ad revenue seems fanciful.
 
@@ -36,17 +42,19 @@ Also, Google can develop an advanced version of ChatGPT and offer it as a search
 
 And there's nothing preventing a service like ChatGPT from posting ads on its pages. 
 
+## ChatGPT vs Google Search
+
 In comparing ChatGPT with Google, it's worth noting what the former doesn't do.
 
 For example, currently ChatGPT doesn't cite its sources or provide hyperlinks so users can verfy information for themselves. 
 
-Indeed, ChatGPT can't even access the internet to retrieve information. Countless queries are made on Google Search for stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
+Indeed, ChatGPT can't even access the internet to retrieve information. Countless queries are made on Google Search for up-to-date stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
 
 Development of schema and structured data has given us interactive search results like these, which despite looking like ads, aren't.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1672430369/SignalFox/lambskin-bomber-jacket_af9b7s.png" />
 
-In fact, because ChatGPT doesn't actively pull information from the internet, it can't answer simple queries like this: 
+But ChatGPT can't answer queries like this: 
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1672431118/SignalFox/chatgpt-prices-ratings_obyx7r.png" />
 
