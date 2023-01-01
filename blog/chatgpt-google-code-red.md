@@ -80,23 +80,29 @@ In this, it differs from the OpenAI-search engine hybrid <a href="https://www.pe
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
 
-ChatGPT struggles to understand and satisfy _**search intent**_. This Google search for "lambskin bomber jackets" yields helpful ads plus buttons at the top for "men's," women's," "genuine leather," "faux fur" and so on. 
+Also consider that countless queries are made on Google Search for _up-to-date_ stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
+
+### What search intent?
+
+ChatGPT struggles to understand and satisfy _**search intent**_. This Google search for "<strong>lambskin bomber jackets</strong>" yields helpful ads plus buttons at the top for "men's," women's," "genuine leather," "faux fur" and so on. 
 
 Google understand the search intent is _shopping_. ChatGPT just spits out a description of what a lambskin bomber jacket is. (Note: The ChatGPT Chrome extension interferes with the display of jackets, and is partially cut off.)
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672600341/SignalFox/google-serp-vs-chatgpt-shopping_sr8b61.png" />
 
-Here's an example of ChatGPT failing to recognize the commercial intent of a search term: "quotes for building a deck." Contrast its answer with Google's top results. 
+Here's an example of ChatGPT failing to recognize the commercial intent of a search term: "<strong>quotes for building a deck</strong>." Contrast its answer with Google's top results. 
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672601164/SignalFox/chatgpt-search-intent-deck-cost_g9d6ma.png" />
 
-Google continuously improves the quality of search results and has done breakthrough work on identifying quality content and accuracy. In contrast, Twitter's now filled with humorous ChatGPT fails. 
+### Accuracy and Quality
+
+Google continuously improves the quality of search results. It's done breakthrough work on identifying quality content and accuracy. In contrast, Twitter's now filled with humorous ChatGPT fails. 
 
 Indeed, <a href="https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned" target="blank">Stackoverflow banned ChatGPT</a> over concerns that users would flood the site with faulty code, a form of "<a href="https://twitter.com/jdwalters85/status/1608661137738063874" target="blank">confident B.S.</a>".
 
 <div style="padding-left: 2.5em;"><p>Overall, because the average rate of getting correct answers from ChatGPT is too low, the posting of answers created by ChatGPT is substantially harmful to the site and to users who are asking or looking for correct answers.</p></div>
 
-Also consider that countless queries are made on Google Search for up-to-date stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
+## Other limitations
 
 Development of schema and structured data has given us interactive search results like these. (They look like ads but they're not.) Hover over a jacket and you'll get 5 images that fade in and out, showing multiple angles. 
 
@@ -116,13 +122,16 @@ This is in contast to Google Search which through auto-suggest and personalized 
 
 And how likely is it that people will suddenly want text only and lose their interest in browsing video, audio, and images?
 
-The point isn't that ChatGPT should be more like Google. It's to underscore the fact that both products serve different purposes, although there is overlap, as in providing encyclopedia-style facts.
+## "a misleading impression of greatness"
+
+The point isn't that ChatGPT should be more like Google. It's to underscore the fact that both products function differently and serve different purposes, although there is overlap, as in providing encyclopedia-style facts and answering progamming questions.
 
 <a href="https://research.google/people/107923/" target="blank">Zoubin Ghahramani</a>, leader of <a href="https://research.google/teams/brain/" target="blank">Google Brain</a>, put it well when he told the _Times_ last month: 
 
-<div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society. It is not something that people can use reliably on a daily basis.</p></div>
+<div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society.</p></div>
+<div style="padding-left: 2.5em;"><p>It is not something that people can use reliably on a daily basis.</p></div>
 
-AI researcher Gary Marcus notes that ChatGPT's CEO admits as much when he <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">tweeted</a>:
+AI researcher Gary Marcus notes that ChatGPT's CEO admitted as much when he <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">tweeted</a>:
 
 <div style="padding-left: 2.5em;"><p>ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness.</p></div>
 
@@ -132,7 +141,9 @@ AI researcher Gary Marcus notes that ChatGPT's CEO admits as much when he <a hre
 
 Marcus predicts that the release of GPT4 next year will be mind-blowing and yet, because its design is fundamentally flawed, it will continue to fill the world with confident B.S. and will "remain a <a href="https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting" target="blank">turbocharged pastiche generator</a>."
 
-And that brings us to an uncomfortable possibility. Perhaps one reason why ChatGPT's current performance is over-estimated is because, in some ways, it's essentially mimicking our own propensity to generate and reward confident B.S.. 
+And that brings us to an uncomfortable possibility. Perhaps one reason why ChatGPT's current performance is over-estimated is because, in some ways, it's essentially mimicking our own propensity to generate and <a href="https://hindenburgresearch.com/nikola/" target="blank">reward confident B.S.</a>. 
+
+## About that 'Code Red' . . . 
 
 The _Times_ article seems speculative at best. Nevertheless, some SEO professionals are playing up the 'Code Red threat' in their social media comments.
 
