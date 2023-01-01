@@ -34,7 +34,7 @@ ChatGPT is engaging and fast. The sleek interface evokes proximity and emulates 
 
 People have been sharing creative ways to use ChatGPT to brainstorm ideas and as a productivity tool. These areas seem particularly promising. 
 
-For example, it can generate ideas, statistics, comparisons, sentiment analysis, and code for you. (To grasp the potential, explore the use of ChatGPT prompts.)
+For example, it can generate statistics, comparisons, sentiment analysis, and code for you. (To grasp the potential, explore the use of ChatGPT prompts.)
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672556183/SignalFox/chatgpt-json-file_j8nymj.png" />
 
