@@ -86,11 +86,11 @@ Also consider that countless queries are made on Google Search for _up-to-date_ 
 
 ChatGPT struggles to understand and satisfy _**search intent**_. This Google search for "<strong>lambskin bomber jackets</strong>" yields results with images, prices, and customer ratings.
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672600341/SignalFox/google-serp-vs-chatgpt-shopping_sr8b61.png" />
-
 Google understands the search intent is _shopping_. It wants to know more about what _kind_ of lambskin bomber jacket you're shopping for: "men's," women's," "genuine leather," "faux fur" and so on. 
 
-ChatGPT just spits out a description of what a lambskin bomber jacket is. (_Note: The ChatGPT Chrome extension interferes with the display of jackets, and is partially cut off_.)
+ChatGPT just spits out a description of what a lambskin bomber jacket is. (Note: The ChatGPT Chrome extension interferes with the display of jackets, and is partially cut off.)
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672600341/SignalFox/google-serp-vs-chatgpt-shopping_sr8b61.png" />
 
 Here's an example of ChatGPT failing to recognize the commercial intent of a search term: "<strong>quotes for building a deck</strong>." Contrast its answer with Google's top results. 
 
