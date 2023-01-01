@@ -50,17 +50,17 @@ When you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with y
 
 And there's nothing preventing a service like ChatGPT from posting ads on its pages. 
 
-## ChatGPT can deliver results inside Google 
+## . . . but ChatGPT can already deliver results inside Google 
 
-Here though, we have to tip our hat to the developer of the <a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf" target="blank">ChatGPT for Google</a> Chrome extension. 
+Here though, we have to tip our hat to the anonymous developer of the <a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf" target="blank">ChatGPT for Google</a> Chrome extension. 
 
 This extension causes ChatGPT's answer to your search queries to _appear directly in Google search results_, in the right-hand margin. 
 
-The developer's example (a search for "how to create blink animations in CSS") provides a good example of ChatGPT at its best. The chatbot immediately delivers actual code to copy-paste, while Google's results are topped with featured snippet and the search engine's reminder of just how many results it has for you: "About 1,360,000 results."
+The developer's example (a search for "how to create blink animations in CSS") provides a good example of ChatGPT at its best. The chatbot immediately delivers actual code to copy-paste, while Google's results are topped with a featured snippet and the search engine's reminder of just how many results it has for you: "About 1,360,000 results."
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672596024/SignalFox/chatgpt-in-serp_stozkv.png" />
 
-There's such an intense interest around ChatGPT, that as soon as you think of a use-case, there's already a working model out.
+The interest around ChatGPT is so intense, that as soon as you think of a use-case there's already a working model out. 
 
 ## ChatGPT vs Google Search
 
@@ -73,6 +73,8 @@ For example, ChatGPT can't currently access the internet to retrieve information
 In this, it differs from the OpenAI-search engine hybrid <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a>, which includes clickable footnotes and citations with all answers.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
+
+Another point is accuracy. Google continuously improves the quality of search results and has done breakthrough work on identifying quality content and accuracy. 
 
 Also consider that countless queries are made on Google Search for up-to-date stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
 
