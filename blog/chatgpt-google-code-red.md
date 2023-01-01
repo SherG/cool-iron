@@ -64,13 +64,15 @@ A search for "ski packages in Vermont" generated a long list of ads at the top o
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672599194/SignalFox/google-serp-vs-chatgpt_gy7ww1.png" />
 
-It's easy to cherry-pick ChatGPT wins (or potential wins). You're still stuck with lots of non-results.
+It's easy to cherry-pick ChatGPT wins (or potential wins). You're still stuck with lots of _non_-results.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672599571/SignalFox/schedule-query-chatgpt-vs-google_p2twpr.png" />
 
 ## ChatGPT vs Google Search
 
 In comparing ChatGPT with Google, it's worth noting what the former doesn't do.
+
+### Sorry, no internet access
 
 For example, ChatGPT can't currently access the internet to retrieve information. And it doesn't seem to provide users with clickable references or sources unless you ask it to.
 
@@ -80,9 +82,15 @@ In this, it differs from the OpenAI-search engine hybrid <a href="https://www.pe
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
 
-ChatGPT also doesn't understand _search intent_. Google does. This Google search for "lambskin bomber jackets" yields helpful ads plus buttons at the top for "men's," women's," "genuine leather," "faux fur" and so on. Google understand the search intent is _shopping_. ChatGPT simply spits out a description of what a lambskin bomber jacket is. (Note: The ChatGPT Chrome extension interferes with the display of jackets, and is partially cut off.)
+ChatGPT struggles to understand and satisfy _**search intent**_. This Google search for "lambskin bomber jackets" yields helpful ads plus buttons at the top for "men's," women's," "genuine leather," "faux fur" and so on. 
+
+Google understand the search intent is _shopping_. ChatGPT just spits out a description of what a lambskin bomber jacket is. (Note: The ChatGPT Chrome extension interferes with the display of jackets, and is partially cut off.)
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672600341/SignalFox/google-serp-vs-chatgpt-shopping_sr8b61.png" />
+
+Here's an example of ChatGPT failing to recognize the commercial intent of a search term: "quotes for building a deck." Contrast its answer with Google's top results. 
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672601164/SignalFox/chatgpt-search-intent-deck-cost_g9d6ma.png" />
 
 Google continuously improves the quality of search results and has done breakthrough work on identifying quality content and accuracy. In contrast, Twitter's now filled with humorous ChatGPT fails. 
 
