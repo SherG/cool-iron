@@ -34,9 +34,9 @@ ChatGPT is engaging and fast. The sleek interface evokes proximity and emulates 
 
 People have been sharing creative ways to use ChatGPT to brainstorm ideas and as a productivity tool. 
 
-For example, it can generate schema markup for you. 
+For example, it can generate lists, video scripts, statistics, comparisons, sentiment analysis, and code for you. 
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672554046/SignalFox/faqschema-markup_vgs7ro.png" />
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1672556183/SignalFox/chatgpt-json-file_j8nymj.png" />
 
 After querying ChatGPT, you don't need to click through search results to find a suitable answer. The bot just delivers one answer, saving you time. It's easy to see the appeal especially for simple questions. (See <a href="https://www.surgehq.ai/blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding" target="blank">this</a>.)
 
