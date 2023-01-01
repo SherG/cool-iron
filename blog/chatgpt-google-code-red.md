@@ -80,7 +80,7 @@ In this, it differs from the OpenAI-search engine hybrid <a href="https://www.pe
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
 
-Google continuously improves the quality of search results and has done breakthrough work on identifying quality content and accuracy. In contrast, Twitter's now filled of humorous ChatGPT fails. 
+Google continuously improves the quality of search results and has done breakthrough work on identifying quality content and accuracy. In contrast, Twitter's now filled with humorous ChatGPT fails. 
 
 Indeed, <a href="https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned" target="blank">Stackoverflow banned ChatGPT</a> over concerns that users would flood the site with faulty code, a form of "<a href="https://twitter.com/jdwalters85/status/1608661137738063874" target="blank">confident B.S.</a>".
 
