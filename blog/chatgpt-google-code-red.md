@@ -141,7 +141,7 @@ AI researcher Gary Marcus notes that ChatGPT's CEO admitted as much when he <a h
 
 Marcus predicts that the release of GPT4 next year will be mind-blowing and yet, because its design is fundamentally flawed, it will  "remain a <a href="https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting" target="blank">turbocharged pastiche generator</a>."
 
-And that brings us to an uncomfortable possibility. Perhaps one reason why ChatGPT's current performance is over-estimated is because, in some ways, it's essentially mimicking our own propensity to generate and <a href="https://hindenburgresearch.com/nikola/" target="blank">reward confident B.S.</a>. 
+And that brings us to an uncomfortable possibility. Perhaps one reason why ChatGPT's current performance is over-estimated is because, in some ways, it's essentially mimicking our own propensity to generate and <a href="https://hindenburgresearch.com/nikola/" target="blank">reward confident B.S.</a>
 
 ## About that 'Code Red' . . . 
 
@@ -153,7 +153,7 @@ For fun, let's give the robot the last word.
 
 <br/><br/><hr/>
 <p id="footnote-1">
-1. AI chatbots can produce "<a href="https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)#:~:text=In%20artificial%20intelligence%2C%20a%20hallucination,justified%20by%20its%20training%20data." target="blank">hallucinations</a>", known colloquially as "<a href="https://twitter.com/jdwalters85/status/1608661137738063874" target="blank">confident B.S.</a>" <a href="#footnote-1-ref">↑</a> 
+1. AI chatbots can produce "<a href="https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)#:~:text=In%20artificial%20intelligence%2C%20a%20hallucination,justified%20by%20its%20training%20data." target="blank">hallucinations,</a>" known colloquially as "<a href="https://twitter.com/jdwalters85/status/1608661137738063874" target="blank">confident B.S.</a>" <a href="#footnote-1-ref">↑</a> 
 </p>
 
 
