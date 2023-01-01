@@ -1,5 +1,5 @@
 ---
-title: Google's "Code Red" Panic Over ChatGPT
+title: Google's "Code Red" Panic Over ChatGPT: A Skeptic's Take
 path: /chatgpt-google-code-red
 date: 2022-12-30
 summary: Is ChatGPT really a threat to Google Search? Let's take a closer look at sensational claims. 
