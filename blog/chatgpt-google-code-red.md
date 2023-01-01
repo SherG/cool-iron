@@ -106,7 +106,11 @@ The point isn't that ChatGPT should be more like Google. It's to underscore the 
 
 <div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society. It is not something that people can use reliably on a daily basis.</p></div>
 
-Sam Altman, CEO of OpenAI <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">concurs</a>.
+Sam Altman, CEO of OpenAI, which created ChatGPT <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">concurs</a>.
+
+<div style="padding-left: 2.5em;"><p>ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness.</p></div>
+
+<div style="padding-left: 2.5em;"><p>It's a mistake to be relying on it for anything important right now. it’s a preview of progress; we have lots of work to do on robustness and truthfulness.</p></div>
 
 The _Times_ article seems speculative at best. Nevertheless, some SEO professionals are playing up the 'Code Red threat' in their social media comments.
 
