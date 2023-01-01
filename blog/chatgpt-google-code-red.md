@@ -60,7 +60,7 @@ The developer's example (a search for "how to create blink animations in CSS") p
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672596024/SignalFox/chatgpt-in-serp_stozkv.png" />
 
-A search for "ski packages in Vermont" generated a long list of ads at the top of Google, compared to the ad-free ChatGPT response. In some cases users may prefer ad-free recommendations, but ChatGPT didn't provide any hyperlinks or contact information.
+A search for "ski packages in Vermont" generated a long list of ads at the top of Google, compared to the ad-free ChatGPT response. In some cases users may prefer ad-free recommendations, but ChatGPT didn't provide any hyperlinks or contact information. That's not very helpful.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672599194/SignalFox/google-serp-vs-chatgpt_gy7ww1.png" />
 
@@ -79,6 +79,10 @@ For example, ChatGPT can't currently access the internet to retrieve information
 In this, it differs from the OpenAI-search engine hybrid <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a>, which includes clickable footnotes and citations with all answers.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
+
+ChatGPT also doesn't understand _search intent_. Google does. This Google search for "lambskin bomber jackets" yields helpful ads plus buttons at the top for "men's," women's," "genuine leather," "faux fur" and so on. Google understand the search intent is _shopping_. ChatGPT simply spits out a description of what a lambskin bomber jacket is. (Note: The ChatGPT Chrome extension interferes with the display of jackets, and is partially cut off.)
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672600341/SignalFox/google-serp-vs-chatgpt-shopping_sr8b61.png" />
 
 Google continuously improves the quality of search results and has done breakthrough work on identifying quality content and accuracy. In contrast, Twitter's now filled with humorous ChatGPT fails. 
 
