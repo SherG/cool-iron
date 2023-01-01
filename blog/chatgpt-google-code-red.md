@@ -32,13 +32,13 @@ ChatGPT is engaging and fast. The sleek interface evokes proximity and emulates 
 
 "Assistant," as ChatGPT prefers to be called, seems confident and produces well-formed sentences and paragraphs, even when its answers include errors.<sup><a id="footnote-1-ref" href="#footnote-1">[1]</a></sup> It can correct itself and refine its answers in dialogue. 
 
-People have been sharing creative ways to use ChatGPT to brainstorm ideas and as a productivity tool. 
+People have been sharing creative ways to use ChatGPT to brainstorm ideas and as a productivity tool. These areas seem particularly promising. 
 
-For example, it can generate lists, video scripts, statistics, comparisons, sentiment analysis, and code for you. 
+For example, it can generate ideas, lists, video scripts, statistics, comparisons, sentiment analysis, and code for you. To grasp the potential, explore the use of ChatGPT prompts. 
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672556183/SignalFox/chatgpt-json-file_j8nymj.png" />
 
-After querying ChatGPT, you don't need to click through search results to find a suitable answer. The bot just delivers one answer, saving you time. It's easy to see the appeal especially for simple questions. (See <a href="https://www.surgehq.ai/blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding" target="blank">this</a>.)
+Unlike Google Search, you don't need to sift through results to find a suitable answer. The bot just delivers one answer, saving you time. It's easy to see the appeal especially for simple questions. (See <a href="https://www.surgehq.ai/blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding" target="blank">this</a>.)
 
 But ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. It has a different mission than Google Search, and is at the opposite end of the maturity scale. So the idea of it demolishing Google's ad revenue seems fanciful.
 
@@ -49,6 +49,18 @@ Also, Google could choose to develop an advanced version of ChatGPT, offer it as
 When you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with your Gmail account. That's one avenue to monetization: capture identity (assign a unique identifier to each user) and couple it to queries. 
 
 And there's nothing preventing a service like ChatGPT from posting ads on its pages. 
+
+## ChatGPT can deliver results inside Google 
+
+Here though, we have to tip our hat to the developer of the <a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf" target="blank">ChatGPT for Google</a> Chrome extension. 
+
+This extension causes ChatGPT's answer to your search queries to _appear directly in Google search results_, in the right-hand margin. 
+
+The developer's example (a search for "how to create blink animations in CSS") provides a good example of ChatGPT at its best. The chatbot immediately delivers actual code to copy-paste, while Google's results are topped with featured snippet and the search engine's reminder of just how many results it has for you: "About 1,360,000 results."
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672596024/SignalFox/chatgpt-in-serp_stozkv.png" />
+
+There's such an intense interest around ChatGPT, that as soon as you think of a use-case, there's already a working model out.
 
 ## ChatGPT vs Google Search
 
