@@ -157,7 +157,7 @@ For fun, let's give the robot the last word.
 
 <br/><br/><hr/>
 <p id="footnote-1">
-1. AI chatbots can produce "<a href="https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)#:~:text=In%20artificial%20intelligence%2C%20a%20hallucination,justified%20by%20its%20training%20data." target="blank">hallucinations,</a>" known colloquially as "<a href="https://twitter.com/jdwalters85/status/1608661137738063874" target="blank">confident B.S.</a>" <a href="#footnote-1-ref">↑</a> 
+1. Artificial intelligence can produce "<a href="https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)#:~:text=In%20artificial%20intelligence%2C%20a%20hallucination,justified%20by%20its%20training%20data." target="blank">hallucinations,</a>" known colloquially as "<a href="https://twitter.com/jdwalters85/status/1608661137738063874" target="blank">confident B.S.</a>" <a href="#footnote-1-ref">↑</a> 
 </p>
 
 
