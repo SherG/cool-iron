@@ -143,7 +143,7 @@ AI researcher Gary Marcus notes that ChatGPT's CEO admitted as much when he <a h
 
 Marcus predicts that the release of GPT-4 next year will be mind-blowing and yet, because its design is fundamentally flawed, it will still be a "<a href="https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting" target="blank">turbocharged pastiche generator</a>."
 
-Perhaps one reason why ChatGPT's current performance is over-estimated is because, in some ways, it's an analogue of our own propensity to generate and <a href="https://hindenburgresearch.com/nikola/" target="blank">reward confident B.S.</a>
+Perhaps one reason why ChatGPT's current performance is over-estimated is because, in some ways, it's an analogue of our own propensity to <a href="https://nymag.com/intelligencer/2022/11/these-skeptics-predicted-sam-bankman-frieds-collapse.html" target="blank">generate</a> and <a href="https://hindenburgresearch.com/nikola/" target="blank">reward confident B.S.</a>
 
 ## About that 'Code Red' . . . 
 
