@@ -126,7 +126,7 @@ This is in contast to Google Search which through auto-suggest and personalized 
 
 And how likely is it that people will suddenly want text only and lose their interest in browsing video, audio, and images?
 
-## "a misleading impression of greatness"
+## "misleading impression of greatness"
 
 The point isn't that ChatGPT should be more like Google. It's to underscore the fact that both products function differently and serve different purposes, although there is overlap, as in providing encyclopedia-style facts and answering progamming questions.
 
