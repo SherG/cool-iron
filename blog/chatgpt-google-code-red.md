@@ -126,7 +126,7 @@ The point isn't that ChatGPT should be more like Google. It's to underscore the 
 
 AI researcher Gary Marcus notes that ChatGPT's CEO admits as much when he <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">tweeted</a>:
 
-<div style="padding-left: 2.5em;"><p>ChatGPT is incredibly limited, but good enough at some things to create a **misleading impression of greatness**.</p></div>
+<div style="padding-left: 2.5em;"><p>ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness.</p></div>
 
 <div style="padding-left: 2.5em;"><p>It's a mistake to be relying on it for anything important right now. it’s a preview of progress; we have lots of work to do on robustness and truthfulness.</p></div>
 
