@@ -58,7 +58,7 @@ The developer's example (a search for "how to create blink animations in CSS") p
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672596024/SignalFox/chatgpt-in-serp_stozkv.png" />
 
-A search for "ski packages in Vermont" generated a long list of ads at the top of Google, compared to the ad-free ChatGPT response. In some cases users may prefer ad-free recommendations, but ChatGPT didn't provide any hyperlinks or contact information. That's not very helpful.
+A search for "ski packages in Vermont" generated a long list of ads at the top of Google, compared to the ad-free ChatGPT response. Some users may prefer ad-free recommendations, but ChatGPT didn't provide any hyperlinks, ratings, discount or contact information. That's not very helpful.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672599194/SignalFox/google-serp-vs-chatgpt_gy7ww1.png" />
 
