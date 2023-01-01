@@ -124,11 +124,19 @@ The point isn't that ChatGPT should be more like Google. It's to underscore the 
 
 <div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society. It is not something that people can use reliably on a daily basis.</p></div>
 
-Sam Altman, CEO of OpenAI, which created ChatGPT <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">concurs</a>.
+AI researcher Gary Marcus notes that ChatGPT's CEO admits as much when he <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">tweeted</a>:
 
-<div style="padding-left: 2.5em;"><p>ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness.</p></div>
+<div style="padding-left: 2.5em;"><p>ChatGPT is incredibly limited, but good enough at some things to create a **misleading impression of greatness**.</p></div>
 
 <div style="padding-left: 2.5em;"><p>It's a mistake to be relying on it for anything important right now. it’s a preview of progress; we have lots of work to do on robustness and truthfulness.</p></div>
+
+## "turbocharged pastiche generator"
+
+Marcus predicts that the release of GPT4 next year will be mind-blowing and yet, because its design is fundamentally flawed, it will continue to fill the world with confident B.S. and will "remain a <a href="https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting" target="blank">turbocharged pastiche generator</a>."
+
+That's quite the contrast with Jordan Peterson's warning that ChatGPT is the harbinger of a <a href="https://www.youtube.com/watch?v=YzcaKGWEB1Q" target="blank">Gutenberg press-level revolution</a>.
+
+And that brings us to an uncomfortable possibility. Perhaps one reason why ChatGPT's current performance is seen by so many as revolutionary, is because, in some ways, it's essentially mimicking our own confident B.S.
 
 The _Times_ article seems speculative at best. Nevertheless, some SEO professionals are playing up the 'Code Red threat' in their social media comments.
 
