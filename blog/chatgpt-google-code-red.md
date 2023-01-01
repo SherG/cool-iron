@@ -38,7 +38,7 @@ For example, it can generate ideas, statistics, comparisons, sentiment analysis,
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672556183/SignalFox/chatgpt-json-file_j8nymj.png" />
 
-Unlike Google Search, you don't need to sift through results to find a suitable answer. The bot just delivers one answer, saving you time. It's easy to see the appeal especially for simple questions. (See <a href="https://www.surgehq.ai/blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding" target="blank">this</a>.)
+The bot delivers just one answer, saving you time. It's easy to see the appeal especially for simple questions. (See <a href="https://www.surgehq.ai/blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding" target="blank">this</a>.)
 
 But ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. It has a different mission than Google Search, and is at the opposite end of the maturity scale. So the idea of it demolishing Google's ad revenue seems fanciful.
 
