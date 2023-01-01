@@ -74,7 +74,9 @@ In this, it differs from the OpenAI-search engine hybrid <a href="https://www.pe
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
 
-Google continuously improves the quality of search results and has done breakthrough work on identifying quality content and accuracy. In contrast, Twitter is now full of humorous ChatGPT fails. <a href="https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned" target="blank">Stackoverflow banned ChatGPT</a> over concerns that users would flood the site with faulty code, or "<a href="https://twitter.com/jdwalters85/status/1608661137738063874" target="blank">confident B.S.</a>".
+Google continuously improves the quality of search results and has done breakthrough work on identifying quality content and accuracy. In contrast, Twitter's now filled of humorous ChatGPT fails. 
+
+Indeed, <a href="https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned" target="blank">Stackoverflow banned ChatGPT</a> over concerns that users would flood the site with faulty code, a form of "<a href="https://twitter.com/jdwalters85/status/1608661137738063874" target="blank">confident B.S.</a>".
 
 <div style="padding-left: 2.5em;"><p>Overall, because the average rate of getting correct answers from ChatGPT is too low, the posting of answers created by ChatGPT is substantially harmful to the site and to users who are asking or looking for correct answers.</p></div>
 
