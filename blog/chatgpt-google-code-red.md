@@ -88,7 +88,7 @@ Also consider that countless queries are made on Google Search for _up-to-date_ 
 
 ChatGPT struggles to understand and satisfy _**search intent**_, a fulcrum that moves billions of dollars in commerce.
 
-This Google search for "<strong>lambskin bomber jackets</strong>" yields results with images, prices, and customer ratings.
+Consider: this Google search for "<strong>lambskin bomber jackets</strong>" yields results with images, prices, and customer ratings.
 
 Google understands the search intent is _shopping_. It wants to know more about what _kind_ of lambskin bomber jacket you're shopping for: "men's," women's," "genuine leather," "faux fur" and so on. 
 
