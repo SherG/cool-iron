@@ -132,9 +132,7 @@ AI researcher Gary Marcus notes that ChatGPT's CEO admits as much when he <a hre
 
 Marcus predicts that the release of GPT4 next year will be mind-blowing and yet, because its design is fundamentally flawed, it will continue to fill the world with confident B.S. and will "remain a <a href="https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting" target="blank">turbocharged pastiche generator</a>."
 
-That's quite the contrast with Jordan Peterson's warning that ChatGPT is the harbinger of a <a href="https://www.youtube.com/watch?v=YzcaKGWEB1Q" target="blank">Gutenberg press-level revolution</a>.
-
-And that brings us to an uncomfortable possibility. Perhaps one reason why ChatGPT's current performance is seen by so many as revolutionary, is because, in some ways, it's essentially mimicking our own confident B.S.
+And that brings us to an uncomfortable possibility. Perhaps one reason why ChatGPT's current performance is over-estimated is because, in some ways, it's essentially mimicking our own propensity to generate and reward confident B.S.. 
 
 The _Times_ article seems speculative at best. Nevertheless, some SEO professionals are playing up the 'Code Red threat' in their social media comments.
 
