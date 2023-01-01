@@ -32,7 +32,7 @@ ChatGPT is engaging and fast. The sleek interface evokes proximity and emulates 
 
 "Assistant," as ChatGPT prefers to be called, seems confident and produces well-formed sentences and paragraphs, even when its answers include errors.<sup><a id="footnote-1-ref" href="#footnote-1">[1]</a></sup> It can correct itself and refine its answers in dialogue. 
 
-People have been sharing dozens of ways to use ChatGPT to brainstorm ideas and as a productivity tool. 
+People have been sharing creative ways to use ChatGPT to brainstorm ideas and as a productivity tool. 
 
 For example, it can generate schema markup for you. 
 
