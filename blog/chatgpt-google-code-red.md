@@ -50,7 +50,7 @@ When you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with y
 
 And there's nothing preventing a service like ChatGPT from posting ads on its pages. 
 
-## . . . but ChatGPT can already deliver results inside Google 
+### . . . but ChatGPT can already deliver results inside Google 
 
 Here though, we have to tip our hat to the anonymous developer of the <a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf" target="blank">ChatGPT for Google</a> Chrome extension. 
 
@@ -74,7 +74,9 @@ In this, it differs from the OpenAI-search engine hybrid <a href="https://www.pe
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
 
-Another point is accuracy. Google continuously improves the quality of search results and has done breakthrough work on identifying quality content and accuracy. 
+Another point is accuracy. Google continuously improves the quality of search results and has done breakthrough work on identifying quality content and accuracy. In contrast, Twitter is now full of humorous ChatGPT fails. <a href="https://meta.stackoverflow.com/questions/421831/temporary-policy-chatgpt-is-banned" target="blank">Stackoverflow banned ChatGPT</a> over concerns that users would flood the site with faulty code, or "<a href="https://twitter.com/jdwalters85/status/1608661137738063874" target="blank">confident B.S.</a>".
+
+<div style="padding-left: 2.5em;"><p>Overall, because the average rate of getting correct answers from ChatGPT is too low, the posting of answers created by ChatGPT is substantially harmful to the site and to users who are asking or looking for correct answers.</p></div>
 
 Also consider that countless queries are made on Google Search for up-to-date stock prices, tickets, event times, train and flight schedules, traffic delays, products, and more. 
 
