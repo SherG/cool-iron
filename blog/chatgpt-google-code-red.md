@@ -28,7 +28,7 @@ The authors suggest that this technology could "cannibalize" Google's "lucrative
 
 ## Engaging and Conversational
 
-ChatGPT is engaging and fast. The sleek interface evokes proximity and emulates one-on-one conversation. Before you know it, you'll be adding niceties to your interactions, like "Merry Christmas ChatGPT."
+ChatGPT is engaging and fast. The sleek interface evokes proximity and emulates one-on-one conversation. Before you know it, you'll be adding niceties to your interactions, like "Merry Christmas, ChatGPT."
 
 "Assistant," as ChatGPT prefers to be called, seems confident and produces well-formed sentences and paragraphs, even when its answers include errors.<sup><a id="footnote-1-ref" href="#footnote-1">[1]</a></sup> It can correct itself and refine its answers in dialogue. 
 
