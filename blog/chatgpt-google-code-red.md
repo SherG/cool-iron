@@ -32,7 +32,13 @@ ChatGPT is engaging and fast. The sleek interface evokes proximity and emulates 
 
 "Assistant," as ChatGPT prefers to be called, seems confident and produces well-formed sentences and paragraphs, even when its answers include errors.<sup><a id="footnote-1-ref" href="#footnote-1">[1]</a></sup> It can correct itself and refine its answers in dialogue. 
 
-After querying ChatGPT, you don't need to click through search results to find a suitable answer. The bot just delivers one answer, saving you time. It's easy to see the appeal especially for simple questions, recipes, and code troubleshooting. (See <a href="https://www.surgehq.ai/blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding" target="blank">this</a>.)
+People have been sharing dozens of ways to use ChatGPT to brainstorm ideas and as a productivity tool. 
+
+For example, it can generate schema markup for you. 
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672554046/SignalFox/faqschema-markup_vgs7ro.png" />
+
+After querying ChatGPT, you don't need to click through search results to find a suitable answer. The bot just delivers one answer, saving you time. It's easy to see the appeal especially for simple questions. (See <a href="https://www.surgehq.ai/blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding" target="blank">this</a>.)
 
 But ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. It has a different mission than Google Search, and is at the opposite end of the maturity scale. So the idea of it demolishing Google's ad revenue seems fanciful.
 
@@ -48,9 +54,11 @@ And there's nothing preventing a service like ChatGPT from posting ads on its pa
 
 In comparing ChatGPT with Google, it's worth noting what the former doesn't do.
 
-For example, ChatGPT can't access the internet to retrieve information. And it doesn't provide users with clickable references to verify sources and accuracy. 
+For example, ChatGPT can't currently access the internet to retrieve information. And it doesn't seem to provide users with clickable references or sources unless you ask it to.
 
-It could though, if it became an OpenAI-search engine hybrid, like <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a>. (The latter includes clickable footnotes and citations with its answers.)
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1672553573/SignalFox/chatgpt-links-to-sources_uymkz0.png" />
+
+In this, it differs from the OpenAI-search engine hybrid <a href="https://www.perplexity.ai/" target="blank">Perplexity.ai</a>, which includes clickable footnotes and citations with all answers.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672454812/SignalFox/perplexity-ai_is865c.png" />
 
@@ -92,5 +100,6 @@ For fun, let's give the robot the last word.
 <p id="footnote-1">
 1. AI Chatbots can produce "<a href="https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)#:~:text=In%20artificial%20intelligence%2C%20a%20hallucination,justified%20by%20its%20training%20data." target="blank">hallucinations</a>", known colloquially as "<a href="https://twitter.com/jdwalters85/status/1608661137738063874" target="blank">confident B.S.</a>" <a href="#footnote-1-ref">↑</a> 
 </p>
+
 
 
