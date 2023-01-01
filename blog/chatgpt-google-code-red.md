@@ -60,11 +60,11 @@ The developer's example (a search for "how to create blink animations in CSS") p
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672596024/SignalFox/chatgpt-in-serp_stozkv.png" />
 
-A search for "ski packages in Vermont" generated a long list of ads at the top of Google, compared to the ad-free ChatGPT response. In some cases users may prefer ad-free recommendations.
+A search for "ski packages in Vermont" generated a long list of ads at the top of Google, compared to the ad-free ChatGPT response. In some cases users may prefer ad-free recommendations, but ChatGPT didn't provide any hyperlinks or contact information.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672599194/SignalFox/google-serp-vs-chatgpt_gy7ww1.png" />
 
-It's easy to cherry-pick ChatGPT wins (or potential wins) though. You're still stuck with lots of non-results.
+It's easy to cherry-pick ChatGPT wins (or potential wins). You're still stuck with lots of non-results.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672599571/SignalFox/schedule-query-chatgpt-vs-google_p2twpr.png" />
 
