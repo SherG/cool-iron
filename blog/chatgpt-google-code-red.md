@@ -50,9 +50,9 @@ When you sign up for OpenAI.com (in order to use ChatGPT) you can sign in with y
 
 And there's nothing preventing a service like ChatGPT from posting ads on its pages. 
 
-### . . . ChatGPT can already deliver results inside Google 
+### . . . ChatGPT is currently viewable in Google Search
 
-This <a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf" target="blank">ChatGPT for Google</a> Chrome extension causes ChatGPT's answers to your queries to _appear directly in Google search results_, in the right-hand margin. We'll use this extension to do some side-by-side comparisons.
+This <a href="https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf" target="blank">ChatGPT for Google</a> Chrome extension causes ChatGPT's answers to appear in Google search results. (This display is courtesy of the browser; ChatGPT isn't actually operating inside of Google Search.) We'll use this extension to do some side-by-side comparisons.
 
 The developer's example (a search for "how to create blink animations in CSS") provides a good example of ChatGPT at its best. The chatbot immediately delivers actual code to copy-paste, while Google's results are topped with a featured snippet and the search engine's reminder of just how many results it has for you: "About 1,360,000 results."
 
