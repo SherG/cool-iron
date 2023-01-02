@@ -127,3 +127,5 @@ Most website owners skip the unsexy fundamentals. And that provides an opportuni
 
 
 <small>Illustrations courtesy of <a href="https://twitter.com/ninalimpi?lang=en" target="blank">Katerina Limpitsouni</a></small>
+
+<a href="https://www.signalfox.org/chatgpt-google-code-red" target="blank">Google's 'Code Red' Panic Over ChatGPT - a Skeptic's Take</a>
