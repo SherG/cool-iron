@@ -11,7 +11,7 @@
     </div> <!-- end hero -->
 
   <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl">At SignalFox, we help businesses grow and succeed in the digital world. We educate businesses on sound techniques and strategies for digital growth, including topics such as SEO and aligning digital strategy with business goals. </p><br/>
+      <p class="text-lg sm:text-xl">At SignalFox, we help businesses grow and succeed in the digital world. We educate on sound techniques and strategies for digital growth, spanning topics like SEO and aligning digital strategy with business goals. </p><br/>
 
 <p class="text-lg sm:text-xl">In addition to our expertise in digital strategy, we also help businesses optimize remote team performance and achieve efficiencies to scale.
  </p>
