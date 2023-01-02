@@ -32,13 +32,13 @@ ChatGPT is engaging and fast. The sleek interface evokes proximity and emulates 
 
 "Assistant," as ChatGPT prefers to be called, seems confident and produces well-formed sentences and paragraphs, even when its answers include errors.<sup><a id="footnote-1-ref" href="#footnote-1">[1]</a></sup> It can correct itself and refine its answers in dialogue. 
 
-People have been sharing creative ways to use ChatGPT to brainstorm ideas and as a productivity tool. These areas seem promising. 
+People have been sharing creative ways to use ChatGPT to brainstorm ideas and as a productivity tool. These areas seem particularly promising. 
 
-It can generate lists of statistics, comparisons, and code for you. 
+It can summarize documents, generate business ideas, create lists of statistics, provide sentiment analysis, and code for you.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672556183/SignalFox/chatgpt-json-file_j8nymj.png" />
 
-The bot delivers just one answer, saving you time. It's easy to see the appeal especially for simple questions. (See <a href="https://www.surgehq.ai/blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding" target="blank">this</a>.)
+The bot delivers just one answer, saving you time. It's easy to see the appeal especially for simple questions or coding questions. (See <a href="https://www.surgehq.ai/blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding" target="blank">this</a>.)
 
 But ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. It has a different mission than Google Search, and is at the opposite end of the maturity scale. So the idea of it demolishing Google's ad revenue seems fanciful.
 
