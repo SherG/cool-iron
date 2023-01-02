@@ -130,7 +130,7 @@ And how likely is it that people will suddenly want text only and lose their int
 
 ## "misleading impression of greatness"
 
-The point isn't that ChatGPT should be more like Google. It's to underscore the fact that both products function differently and serve different purposes, although there is overlap, as in providing encyclopedia-style facts and answering progamming questions.
+The point isn't that ChatGPT should be more like Google. It's to underscore the fact that both products function differently and serve different purposes, although there is overlap, as in providing encyclopedia-style facts.
 
 <a href="https://research.google/people/107923/" target="blank">Zoubin Ghahramani</a>, leader of <a href="https://research.google/teams/brain/" target="blank">Google Brain</a>, put it well when he told the _Times_ last month: 
 
