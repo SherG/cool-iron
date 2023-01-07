@@ -145,9 +145,9 @@ The Open AI CEO seemed to concur when he <a href="https://twitter.com/sama/statu
 
 ## "turbocharged pastiche generator" or game changer?
 
-Marcus predicts that the release of GPT-4 next year will be mind-blowing and yet, because its design is fundamentally flawed, it will "remain a <a href="https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting" target="blank">turbocharged pastiche generator</a>."
+AI researcher Gary Marcus predicts that the release of GPT-4 next year will be mind-blowing and yet, because its design is fundamentally flawed, it will "remain a <a href="https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting" target="blank">turbocharged pastiche generator</a>."
 
-Perhaps one reason why ChatGPT's current text performance is over-estimated is because, in some ways, it's an analogue of our own propensity to <a href="https://nymag.com/intelligencer/2022/11/these-skeptics-predicted-sam-bankman-frieds-collapse.html" target="blank">generate</a> and <a href="https://hindenburgresearch.com/nikola/" target="blank">reward confident B.S.</a>
+Meanwhile, on the code side, Forrester predicts that by 2028 <a href="https://www.forrester.com/blogs/watch-out-for-turingbots-a-new-generation-of-software-development/" target="blank">TuringBots</a> will "mature drastically." Programmers have been enthusiastically adopting tools like ChatGPT and <a href="https://github.com/features/copilot/" target="blank">Github Co-Pilot</a>.
 
 ## About that 'Code Red' . . . 
 
