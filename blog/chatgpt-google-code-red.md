@@ -128,7 +128,7 @@ This is in contast to Google Search which through auto-suggest and personalized 
 
 And how likely is it that people will suddenly want text only and lose their interest in browsing video, audio, and images?
 
-## "misleading impression of greatness"
+## "a preview of progress"
 
 The point isn't that ChatGPT should be more like Google. It's to underscore the fact that both products function differently and serve different purposes, although there is overlap, as in providing encyclopedia-style facts.
 
@@ -137,17 +137,17 @@ The point isn't that ChatGPT should be more like Google. It's to underscore the 
 <div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society.</p></div>
 <div style="padding-left: 2.5em;"><p>It is not something that people can use reliably on a daily basis.</p></div>
 
-AI researcher Gary Marcus notes that ChatGPT's CEO admitted as much when he <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">tweeted</a>:
+The Open AI CEO seemed to concur when he <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">tweeted</a>:
 
 <div style="padding-left: 2.5em;"><p>ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness.</p></div>
 
 <div style="padding-left: 2.5em;"><p>It's a mistake to be relying on it for anything important right now. it’s a preview of progress; we have lots of work to do on robustness and truthfulness.</p></div>
 
-## "turbocharged pastiche generator"
+## "turbocharged pastiche generator" or game changer?
 
 Marcus predicts that the release of GPT-4 next year will be mind-blowing and yet, because its design is fundamentally flawed, it will "remain a <a href="https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting" target="blank">turbocharged pastiche generator</a>."
 
-Perhaps one reason why ChatGPT's current performance is over-estimated is because, in some ways, it's an analogue of our own propensity to <a href="https://nymag.com/intelligencer/2022/11/these-skeptics-predicted-sam-bankman-frieds-collapse.html" target="blank">generate</a> and <a href="https://hindenburgresearch.com/nikola/" target="blank">reward confident B.S.</a>
+Perhaps one reason why ChatGPT's current text performance is over-estimated is because, in some ways, it's an analogue of our own propensity to <a href="https://nymag.com/intelligencer/2022/11/these-skeptics-predicted-sam-bankman-frieds-collapse.html" target="blank">generate</a> and <a href="https://hindenburgresearch.com/nikola/" target="blank">reward confident B.S.</a>
 
 ## About that 'Code Red' . . . 
 
