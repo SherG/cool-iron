@@ -34,13 +34,13 @@ ChatGPT is engaging and fast. The sleek interface evokes proximity and emulates 
 
 People have been sharing creative ways to use ChatGPT to brainstorm ideas and as a productivity tool. These areas seem particularly promising. 
 
-It can summarize documents, generate business ideas, create lists of statistics, provide sentiment analysis, and code for you.
+It can summarize documents, format information, generate ideas, create lists of statistics, provide sentiment analysis, and <a href="https://www.forrester.com/blogs/watch-out-for-turingbots-a-new-generation-of-software-development/" target="blank">code for you</a>.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1672556183/SignalFox/chatgpt-json-file_j8nymj.png" />
 
 The bot delivers just one answer, saving you time. It's easy to see the appeal especially for simple questions or <a href="https://twitter.com/danshipper/status/1609931358213935105" target="blank">coding questions</a>. (See <a href="https://www.surgehq.ai/blog/googles-existential-threat-chatgpt-matches-googles-performance-on-informational-search-queries-and-smashes-it-on-coding" target="blank">this</a>.)
 
-But ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. It has a different mission than Google Search, and is at the opposite end of the maturity scale. So the idea of it demolishing Google's ad revenue seems fanciful.
+However, ChatGPT doesn't _index_ content or crawl the web. It's not a search engine. It has a different mission than Google Search, and is at the opposite end of the maturity scale. So the idea of it demolishing Google's ad revenue seems fanciful.
 
 ## A new Google Search interface?
 
@@ -147,7 +147,7 @@ The Open AI CEO seemed to concur when he <a href="https://twitter.com/sama/statu
 
 AI researcher Gary Marcus predicts that the release of GPT-4 next year will be mind-blowing and yet, because its design is fundamentally flawed, it will "remain a <a href="https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting" target="blank">turbocharged pastiche generator</a>."
 
-Meanwhile, on the code side, Forrester predicts that by 2028 <a href="https://www.forrester.com/blogs/watch-out-for-turingbots-a-new-generation-of-software-development/" target="blank">TuringBots</a> will "mature drastically." Programmers have been enthusiastically test-driving ChatGPT and <a href="https://github.com/features/copilot/" target="blank">Github Co-Pilot</a>.
+Perhaps one reason why ChatGPT's current text performance is over-estimated is because, in some ways, it's an analogue of our own propensity to <a href="https://nymag.com/intelligencer/2022/11/these-skeptics-predicted-sam-bankman-frieds-collapse.html" target="blank">generate</a> and <a href="https://hindenburgresearch.com/nikola/" target="blank">reward confident B.S.</a>
 
 ## About that 'Code Red' . . . 
 
