@@ -128,7 +128,7 @@ This is in contast to Google Search which through auto-suggest and personalized 
 
 And how likely is it that people will suddenly want text only and lose their interest in browsing video, audio, and images?
 
-## "a preview of progress"
+## "a misleading impression of greatness "
 
 The point isn't that ChatGPT should be more like Google. It's to underscore the fact that both products function differently and serve different purposes, although there is overlap, as in providing encyclopedia-style facts.
 
@@ -143,11 +143,11 @@ The Open AI CEO seemed to concur when he <a href="https://twitter.com/sama/statu
 
 <div style="padding-left: 2.5em;"><p>It's a mistake to be relying on it for anything important right now. it’s a preview of progress; we have lots of work to do on robustness and truthfulness.</p></div>
 
-## "turbocharged pastiche generator" or game changer?
+## "turbocharged pastiche generator"
 
 AI researcher Gary Marcus predicts that the release of GPT-4 next year will be mind-blowing and yet, because its design is fundamentally flawed, it will "remain a <a href="https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting" target="blank">turbocharged pastiche generator</a>."
 
-Meanwhile, on the code side, Forrester predicts that by 2028 <a href="https://www.forrester.com/blogs/watch-out-for-turingbots-a-new-generation-of-software-development/" target="blank">TuringBots</a> will "mature drastically." Programmers have been enthusiastically adopting tools like ChatGPT and <a href="https://github.com/features/copilot/" target="blank">Github Co-Pilot</a>.
+Meanwhile, on the code side, Forrester predicts that by 2028 <a href="https://www.forrester.com/blogs/watch-out-for-turingbots-a-new-generation-of-software-development/" target="blank">TuringBots</a> will "mature drastically." Programmers have been enthusiastically test-driving ChatGPT and <a href="https://github.com/features/copilot/" target="blank">Github Co-Pilot</a>.
 
 ## About that 'Code Red' . . . 
 
