@@ -86,7 +86,7 @@ Also consider that countless queries are made on Google Search for _up-to-date_ 
 
 ### What search intent?
 
-ChatGPT struggles to understand and satisfy _**search intent**_, a fulcrum that moves billions of dollars in commerce.
+ChatGPT isn't designed to understand or satisfy _**search intent**_, a fulcrum that moves billions of dollars in commerce.
 
 This Google search below for "<strong>lambskin bomber jackets</strong>" yields results with images, prices, and customer ratings.
 
