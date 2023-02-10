@@ -149,7 +149,7 @@ AI researcher Gary Marcus predicts that the release of GPT-4 next year will be m
 
 Perhaps one reason why ChatGPT's current text performance is over-estimated is because, in some ways, it's an analogue of our own propensity to <a href="https://nymag.com/intelligencer/2022/11/these-skeptics-predicted-sam-bankman-frieds-collapse.html" target="blank">generate</a> and <a href="https://hindenburgresearch.com/nikola/" target="blank">reward confident B.S.</a>
 
-Meanwhile, on the code side, Forrester predicts that by 2028 <a href="https://www.forrester.com/blogs/watch-out-for-turingbots-a-new-generation-of-software-development/" target="blank">TuringBots</a> will "mature drastically." Programmers have been enthusiastically adopting ChatGPT and <a href="https://github.com/features/copilot/" target="blank">Github Co-Pilot</a> as productivity tools.
+Meanwhile, developers have been enthusiastically adopting ChatGPT and <a href="https://github.com/features/copilot/" target="blank">Github Co-Pilot</a> to provide AI-based pair programming. Forrester predicts that by 2028 <a href="https://www.forrester.com/blogs/watch-out-for-turingbots-a-new-generation-of-software-development/" target="blank">TuringBots</a> will "mature drastically." And marketers continue to find creative uses for the chatbot, such as generating proposals, product summaries, and email. 
 
 ## About that 'Code Red' . . . 
 
