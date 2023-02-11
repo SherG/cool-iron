@@ -137,7 +137,7 @@ The point isn't that ChatGPT should be more like Google. It's to underscore the 
 <div style="padding-left: 2.5em;"><p>A cool demo of a conversational system that people can interact with over a few rounds, and it feels mind-blowing? That is a good step, but it is not the thing that will really transform society.</p></div>
 <div style="padding-left: 2.5em;"><p>It is not something that people can use reliably on a daily basis.</p></div>
 
-The OpenAI CEO seemed to concur when he <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">tweeted</a>:
+The CEO of OpenAI (maker of ChatGPT) seemed to concur when he <a href="https://twitter.com/sama/status/1601731295792414720?s=20&t=pM3JTMZ-D8-Qw5q-TXsA8w" target="blank">tweeted</a>:
 
 <div style="padding-left: 2.5em;"><p>ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness.</p></div>
 
