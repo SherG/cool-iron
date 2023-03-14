@@ -3,7 +3,7 @@ title: How to Use Cloudinary to Optimize Images
 path: /optimize-images-cloudinary
 date: 2019-04-05
 summary: Optimizing your website images can give you quick speed gains. Learn how to use Cloudinary to set up automatic image optimization.
-tags: ['website optimization', 'images', 'tutorials']
+tags: ['website optimization', 'images', 'tutorials','SEO']
 ---
 
 ![optimize images](../static/optimize-images.svg)
