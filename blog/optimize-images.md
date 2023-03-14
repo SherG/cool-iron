@@ -3,7 +3,7 @@ title: How to Optimize Images for the Web
 path: /optimize-images
 date: 2019-08-11
 summary: Images are one of the primary causes of slow loading websites. Since site load speed is proven to directly impact ROI, it's critical to learn how to optimize your images so they load faster. 
-tags: ['website optimization', 'images', 'tutorials'.'SEO']
+tags: ['website optimization', 'images', 'tutorials','SEO']
 ---
 
 Images are one of the primary factors behind slow website load times. Optimizing your images can lead to significant and immediate speed wins.
