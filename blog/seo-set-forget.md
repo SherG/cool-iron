@@ -165,7 +165,7 @@ We've provided a basic overview of common areas of SEO activity and provided you
 
 <a href="https://aioseo.com/how-to-use-a-wordpress-faq-block-to-boost-seo-and-get-more-traffic/" target="blank">FAQs & SEO: How to use them to grab market share from your competitors</a>
 
-<a href="https://aioseo.com/best-on-page-seo-tools/" target="blank">Some Recommended On-Page SEO Tools</a>
+<a href="https://aioseo.com/best-on-page-seo-tools/" target="blank">Some Recommended On-Page SEO Tools for WordPress Users</a>
 
 <a href="https://www.signalfox.org/chatgpt-google-code-red" target="blank">Google's 'Code Red' Panic Over ChatGPT - a Skeptic's Take</a>
 
