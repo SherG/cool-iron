@@ -3,7 +3,7 @@ title: What Does Google Consider to Be Quality Content?
 path: /quality-content
 date: 2021-02-06
 summary: If content production is part of your strategy then you'll want to understand how Google defines quality.
-tags: ['seo', 'content','Google','SEO']
+tags: ['SEO', 'content','Google']
 ---
 
 Many of the small businesses that have survived the pandemic lockdowns, have scaled staff back. Increasingly business owners are choosing to save money by doing more in house. 
