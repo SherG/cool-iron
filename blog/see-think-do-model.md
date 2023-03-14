@@ -3,7 +3,7 @@ title: See - Think - Do - Care Model
 path: /see-think-do-model
 date: 2019-04-17
 summary: This model, created by a Google executive, is a simple yet powerful business framework that will transform the way you communicate with and market to your target audience.
-tags: ['strategy', 'models''SEO']
+tags: ['strategy', 'models','SEO']
 ---
 
 
