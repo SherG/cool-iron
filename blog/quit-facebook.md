@@ -3,7 +3,7 @@ title: Why I Quit Facebook
 path: /quit-facebook
 date: 2021-05-09
 summary: I deleted my Facebook account - and I'm happy I did. Here's why.
-tags: ['facebook']
+tags: ['Facebook']
 ---
 
 I’ve had a personal account on Facebook for well over a decade, but I’ve been inactive on that social media platform for years. During that inactive period I checked in a couple of times but considered my account dormant. I finally exported my photos and pushed the delete button.
