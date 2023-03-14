@@ -3,7 +3,7 @@ title: Solving Facebook's Privacy Problem
 path: /facebook-privacy
 date: 2018-12-31
 summary: Allow individuals, who don’t want to trade any of their data (the price of “free”), to opt out by paying a membership fee.
-tags: ['privacy','facebook']
+tags: ['privacy','Facebook']
 ---
 
 ![background](https://res.cloudinary.com/icecloud7/image/upload/q_auto,f_auto/v1563045822/facebook-privacy_yyswvm.png)
