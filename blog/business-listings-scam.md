@@ -3,7 +3,7 @@ title: Small Businesses Bombarded With Dodgy Marketing Proposals
 path: /business-listings-scams
 date: 2019-07-19
 summary: Have you received a call from Google about your business listings? Or from Amazon about being listed on Alexa? Here's what you need to know about these unsolicited marketing proposals. 
-tags: ['dodgy marketing']
+tags: ['dodgy marketing','SEO']
 
 ---
 
