@@ -3,7 +3,7 @@ title: Are Facebook Ads Worth It?
 path: /facebook-ads-roi
 date: 2020-02-02
 summary: Sometimes with Facebook Ads, as in life, you're much closer to success than you realize. 
-tags: ['facebook']
+tags: ['Facebook']
 ---
 
 Wondering how to determine whether Facebook Ads are worth the cost? Let's take the case of a service-based business running lead ads for the first time. 
