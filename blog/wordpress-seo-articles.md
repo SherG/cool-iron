@@ -16,6 +16,8 @@ Learning WordPress SEO? Check out my articles for beginner- and intermediate-lev
 
 <a href="https://aioseo.com/how-to-use-a-wordpress-faq-block-to-boost-seo-and-get-more-traffic/" target="blank">How to use a FAQ block to steal traffic from your competitor's prospects</a>.
 
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1679592744/wordpress-faq-block-seo_wfyodp.png" />
+
 <a href="https://aioseo.com/the-beginners-guide-to-wordpress-multilingual-seo/" target="blank">An intro to multilingual SEO in WordPress</a>
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/v1679592590/wordpress-multilingual-seo_vyam63.png" />
