@@ -120,3 +120,8 @@ This is widespread, and as you've seen, it's happening even in Smalltown U.S.A.
 
 6. If you found this information to be useful, please share it with other business owners. Forewarned is forearmed.
 
+### Related 
+
+<a href="https://aioseo.com/small-business-seo-scams-how-to-detect-and-avoid-them/" target="blank">Small business SEO scams and how to avoid them</a>
+
+
