@@ -26,7 +26,7 @@ Learning WordPress SEO? Check out my articles for beginner- and intermediate-lev
 
 <a href="https://aioseo.com/wordpress-table-of-contents-seo/" target="blank">Does a table of contents make a difference for SEO?</a>
 
-<a href="https://aioseo.com/how-to-add-author-schema-in-wordpress/" target="blank">How to add author schema</a> (spoler: it's done automatically with the recommended plugin)
+<a href="https://aioseo.com/how-to-add-author-schema-in-wordpress/" target="blank">How to add author schema</a> (Spoiler: it's done automatically with the recommended plugin)
 
 <a href="https://aioseo.com/what-is-nap-in-seo/" target="blank">What's NAP in SEO and why is keeping it consistent important?</a>
 
