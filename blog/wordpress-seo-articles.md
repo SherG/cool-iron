@@ -8,6 +8,12 @@ tags: ['SEO']
 
 Learning WordPress SEO? Check out my articles for beginner- and intermediate-level WordPress users.
 
+<a href="https://aioseo.com/small-business-seo-scams-how-to-detect-and-avoid-them/" target="blank">Small business SEO scams</a>
+
+<src img="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1679592192/seo-scams_gsgj4e.png" />
+
+<a href="https://aioseo.com/how-to-use-a-google-business-profile-to-imrpove-local-seo/" target="blank">How to use Google Business Profile to improve your local SEO</a>.
+
 <a href="https://aioseo.com/how-to-use-a-wordpress-faq-block-to-boost-seo-and-get-more-traffic/" target="blank">How to use a FAQ block to steal traffic from your competitor's prospects</a>.
 
 <a href="https://aioseo.com/the-beginners-guide-to-wordpress-multilingual-seo/" target="blank">An intro to multilingual SEO in WordPress</a>
@@ -25,8 +31,6 @@ Learning WordPress SEO? Check out my articles for beginner- and intermediate-lev
 <a href="https://aioseo.com/what-is-nap-in-seo/" target="blank">What's NAP in SEO and why is keeping it consistent important?</a>
 
 <a href="https://aioseo.com/how-to-get-local-seo-citations/" target="blank">Get rolling with local SEO citations / business directory listings</a>
-
-<a href="https://aioseo.com/small-business-seo-scams-how-to-detect-and-avoid-them/" target="blank">Small business SEO scams</a>
 
 <a href="https://aioseo.com/what-are-local-services-ads/" target="blank">Everything you need to know about Google's Local Services Ads and how to use them</a>
 
