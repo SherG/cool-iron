@@ -10,7 +10,7 @@ Learning WordPress SEO? Check out my articles for beginner- and intermediate-lev
 
 <a href="https://aioseo.com/small-business-seo-scams-how-to-detect-and-avoid-them/" target="blank">Small business SEO scams</a>
 
-<src img="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1679592192/seo-scams_gsgj4e.png" />
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1679592192/seo-scams_gsgj4e.png" />
 
 <a href="https://aioseo.com/how-to-use-a-google-business-profile-to-imrpove-local-seo/" target="blank">How to use Google Business Profile to improve your local SEO</a>.
 
