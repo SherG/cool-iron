@@ -18,6 +18,8 @@ Learning WordPress SEO? Check out my articles for beginner- and intermediate-lev
 
 <a href="https://aioseo.com/the-beginners-guide-to-wordpress-multilingual-seo/" target="blank">An intro to multilingual SEO in WordPress</a>
 
+<img src="https://res.cloudinary.com/icecloud7/image/upload/v1679592590/wordpress-multilingual-seo_vyam63.png" />
+
 <a href="https://aioseo.com/how-to-easily-find-and-fix-orphan-pages-in-wordpress/" target="blank">How to find and fix orphan pages in WordPress</a>
 
 <a href="https://aioseo.com/best-on-page-seo-tools/" target="blank">Some recommended on-page SEO tools for WordPress</a>
