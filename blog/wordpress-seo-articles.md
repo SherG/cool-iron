@@ -1,10 +1,12 @@
 ---
-title: WordPress SEO articles
+title: WordPress SEO articles 1234567
 path: /wordpress-seo-articles
 date: 2022-12-01
 summary: Learning WordPress SEO? Check out my articles for beginner- and intermediate-level WordPress users.
 tags: ['SEO']
 ---
+
+(Running a test on the title - so ignore the numerals there for now.)
 
 Learning WordPress SEO? Check out my articles for beginner- and intermediate-level WordPress users.
 
