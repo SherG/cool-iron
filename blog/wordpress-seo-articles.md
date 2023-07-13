@@ -1,5 +1,5 @@
 ---
-title: WordPress SEO articles 123456789123
+title: WordPress SEO articles 1234567891231111111111
 path: /wordpress-seo-articles
 date: 2022-12-01
 summary: Learning WordPress SEO? Check out my articles for beginner- and intermediate-level WordPress users.
