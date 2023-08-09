@@ -21,7 +21,7 @@ Since then we've seen the release of GPT4 and the marketplace of ChatGPT plugins
 You have to upgrade to ChatGPT Plus ($20/month) to gain access to the marketplace. We've tried out plenty of the content/marketing plugins. In our view, they're nearly all (except for maybe 1 or 2) disappointing and useless. 
 
 We found one that does a good job of creating social media blurbs if you feed it a prompt like this: 
-"Create a short social media blurb to promote an article about (topic). . ."  It will return a lively blurb with relevant emojis and hashtags. 
+"Create a short social media blurb to promote an article about (topic)."  It will return a lively blurb with relevant emojis and hashtags. 
 
 But if you <em>refine</em> your prompt ("add relevant emojis and hashtags"), and skip the plugin, you'll get the same result.
 
