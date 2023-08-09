@@ -61,6 +61,6 @@ Google's <a href="https://fchollet.com/" target="blank">François Chollet</a> pu
 
 <div style="padding-left: 2.5em;"><p>Every 6 months the tech industry enters a brief episode of mass collective hallucination where everyone is ardently convinced that an epochal tech revolution has just begun, that a "civilizational" technology is starting to take over. Remember web3? Remember LK-99? Remember LLMs?</p></div>
 
-When asked whether he thoguht LLMs were not transformative, Chollet <a href="https://twitter.com/fchollet/status/1689131305014087680" target="blank">replied</a>: 
+When asked whether he thought LLMs were not transformative, Chollet <a href="https://twitter.com/fchollet/status/1689131305014087680" target="blank">replied</a>: 
 
 <div style="padding-left: 2.5em;"><p>LLMs are fine, but they aren't anywhere within 100 light years of what they were touted to be by your average tech industry NPC (a civilizational technology, the beginning of AGI, about to automate all jobs, obsoleting software engineering, etc.). It would be like saying "the metaverse hype was legit because there's a niche market for VR headsets to play games". None of what was forecasted actually happened.</p></div>
