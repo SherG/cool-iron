@@ -31,7 +31,7 @@ In other words, some of these plugins seem to have simply crafted good prompts w
   
 We liked the apps that will summarize PDFs. But <a href="https://claude.ai/" target="blank">Anthropic's Claude</a> does a stellar job at this and it's free. So why pay $20/month?
 
-Lastly we found a ChatGPT app that did an excellent job summarizing a video, then it proceeded to hallucinate repeatedly. After that, it generated error messages. 
+Lastly we found a ChatGPT app that did an excellent job summarizing a video, then it proceeded to hallucinate repeatedly. A few weeks later we tried it again and got several error messages.
 
 There are also apps that will create diagrams and charts. But why? The results are ugly and low-res. You can get better charts for free from Excel or Google Sheets or from any number of low-cost solutions like Canva. In addition, interactive data visualization tools, like Tableau, have been on the market for years. 
 
