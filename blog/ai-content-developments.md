@@ -16,6 +16,8 @@ In the process they also provided the first major change to Google Search's visu
 
 In February of this year Bing rushed to incorporate ChatGPT in <em>its</em> search interface.
 
+## ChatGPT 4 and the Plugin Marketplace
+
 Since then we've seen the release of GPT-4 and the marketplace of ChatGPT plugins that extend the chatbot's functionality. 
 
 You have to upgrade to ChatGPT Plus ($20/month) to gain access to the marketplace. We've tried out plenty of the content/marketing plugins. In our view, they're nearly all (except for maybe 1 or 2) disappointing and useless. 
@@ -37,7 +39,9 @@ The ChatGPT marketplace seems immature, as would be expected at this stage. In s
 
 <em>Note: ChatGPT Plus users get access to ChatGPT 3.5 and ChatGPT 4. The latter is slow, understandably, because it's used for more advanced calculations or has to interface with plugins. (Plugins can only be used with GPT4.)</em>
 
-The future is still bright for AI in marketing. But it's important to start with the problem you're trying to solve, rather with a solution-tool. 
+## AI's Future in Marketing
+
+AI isn't new in marketing. And LLMs (Large Language Models) have a bright future. But it's important to start with the problem you're trying to solve, rather with a solution.
 
 AI can raise productivity substantially and help you grow your audience. For example, translating content can be expensive. Synchronicity Labs has developed some proprietary solutions to deliver what seems to be a superior <a href="https://twitter.com/therealprady/status/1680645510103977987">video translation product</a> (in closed beta). 
 
@@ -47,13 +51,17 @@ We've been impressed with <a href="https://www.assemblyai.com/playground/source"
 
 And there are plenty of ways to improve performance and gain efficiencies in customer support with improved AI.
 
-ChatGPT is still a useful productivity tool but we don't have a use for the marketing apps.  
+ChatGPT is still a useful productivity tool but we'll skip the marketing plugins.
 
-As we mentioned in our last article, the hype surrounding ChatGPT's release was intense. This was particularly notable in content/marketing applications. Social media was filled with influencers claiming you could get rich quick by having AI write all your articles and video scripts. 
+## Revisiting the Hype 
+
+As we mentioned in our last article, the hype surrounding ChatGPT's release was intense. This was particularly notable in content/marketing applications. Social media was filled with influencers claiming you could get rich quick by having AI write all your articles and video scripts.
+
+Prominent SEO pros responded with gloomy warnings on the future of the profession.
 
 > Identify problems worth solving.
 
-Professional SEO specialists amplified the mania by writing endless listsicles about what ChatGPT could do. For example, it could generate sitemaps, robots.txt files, and schema markup. Yes, but who does that by hand anymore anyway? For years we've had tools that could not only generate schema but insert the code in exactly the right place with zero errors. 
+SEO specialists amplified the mania by writing endless articles about what ChatGPT could do. For example, it could generate sitemaps, robots.txt files, and schema markup. Yes, but who does that by hand anymore anyway? For years we've had tools that could not only generate schema but insert the code in exactly the right place with zero errors. 
 
 Next, top SEO publications heralded every marketing/SEO app in the ChatGPT marketplace. That's a clever tactic for ranking high for "ChatGPT apps" but these advertorials have low information value.
 
