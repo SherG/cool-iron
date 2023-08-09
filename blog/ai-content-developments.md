@@ -51,9 +51,9 @@ ChatGPT is still a useful productivity tool but we don't have a use for the mark
 
 As we mentioned in our last article, the hype surrounding ChatGPT's release was intense. This was particularly notable in content/marketing applications. Social media was filled with influencers claiming you could get rich quick by having AI write all your articles and video scripts. 
 
-> Identify problems worth solving first.
+> Identify problems worth solving.
 
-Professional SEO specialists amplified the mania by writing endless articles about what ChatGPT could do. For example, it could generate sitemaps, robots.txt files, and schema markup. Yes, but who does that by hand anymore anyway? For years we've had tools that could not only generate schema but insert the code in exactly the right place with zero errors. 
+Professional SEO specialists amplified the mania by writing endless listsicles about what ChatGPT could do. For example, it could generate sitemaps, robots.txt files, and schema markup. Yes, but who does that by hand anymore anyway? For years we've had tools that could not only generate schema but insert the code in exactly the right place with zero errors. 
 
 Next, top SEO publications heralded every marketing/SEO app in the ChatGPT marketplace. That's a clever tactic for ranking high for "ChatGPT apps" but these advertorials have low information value.
 
