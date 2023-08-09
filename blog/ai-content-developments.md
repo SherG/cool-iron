@@ -14,9 +14,9 @@ That's exactly what they did in May 2023, announcing the new SGE (Search Generat
 
 In the process they also provided the first major change to Google Search's visual interface in many years, not counting the continual evolution of layout features. That secondary effect was a good idea. ChatGPT's interface was sleek and evoked proximity and one-on-one conversation. By comparison, Google Search began to seem a bit stale.
 
-In February of this year Bing rushed to incorporate ChatGPT in its search interface.
+In February of this year Bing rushed to incorporate ChatGPT in <em>its</em> search interface.
 
-Since then we've seen the release of GPT4 and the marketplace of ChatGPT plugins that extend the chatbot's functionality. 
+Since then we've seen the release of GPT-4 and the marketplace of ChatGPT plugins that extend the chatbot's functionality. 
 
 You have to upgrade to ChatGPT Plus ($20/month) to gain access to the marketplace. We've tried out plenty of the content/marketing plugins. In our view, they're nearly all (except for maybe 1 or 2) disappointing and useless. 
 
@@ -29,15 +29,15 @@ In other words, some of these plugins seem to have simply crafted good prompts w
   
 We liked the apps that will summarize PDFs. But <a href="https://claude.ai/" target="blank">Anthropic's Claude</a> does a stellar job at this and it's free. So why pay $20/month?
 
-Lastly we found a ChatGPT app that did an excellent job summarizing a video, then it proceeded to hallicinate, over and over again. Then it generated error messages. 
+Lastly we found a ChatGPT app that did an excellent job summarizing a video, then it proceeded to hallicinate repeatedly. After that, it generated error messages. 
 
-There are also apps that will create diagrams and charts. But why? The results are ugly and low-res. You can get better charts for free from Excel or Google Sheets. Or from any number of low-cost solutions like Canva. 
+There are also apps that will create diagrams and charts. But why? The results are ugly and low-res. You can get better charts for free from Excel or Google Sheets or from any number of low-cost solutions like Canva. In addition, interactive data visualization tools, like Tableau, have been on the market for years. 
 
 The ChatGPT marketplace seems immature, as would be expected at this stage. In some ways, it's reminiscent of the Alexa Skills marketplace, which quickly filled up with clever apps that no one needed.
 
 <em>Note: ChatGPT Plus users get access to ChatGPT 3.5 and ChatGPT 4. The latter is slow, understandably, because it's used for more advanced calculations or has to interface with plugins. (Plugins can only be used with GPT4.)</em>
 
-The future is still bright for AI in marketing. Start with the problem you're trying to solve, rather with a solution. 
+The future is still bright for AI in marketing. But it's important to start with the problem you're trying to solve, rather with a solution-tool. 
 
 AI can raise productivity substantially and help you grow your audience. For example, translating content can be expensive. Synchronicity Labs has developed some proprietary solutions to deliver what seems to be a superior <a href="https://twitter.com/therealprady/status/1680645510103977987">video translation product</a> (in closed beta). 
 
@@ -45,15 +45,17 @@ Those with massive document troves to summarize will want to check out Anthropic
 
 We've been impressed with <a href="https://www.assemblyai.com/playground/source" target="blank">Assembly.ai's pristine transcripts</a> of video and audio files. 
 
+And there are plenty of ways to improve performance and gain efficiencies in customer support with improved AI.
+
 ChatGPT is still a useful productivity tool but we don't have a use for the marketing apps.  
 
-As we mentioned in our last article, the hype surrounding ChatGPT's release was intense. This was particularly notable in content/marketing applications, as social media was filled with influencers claiming you could get rich quick by having AI write all your articles and video scripts. 
+As we mentioned in our last article, the hype surrounding ChatGPT's release was intense. This was particularly notable in content/marketing applications. Social media was filled with influencers claiming you could get rich quick by having AI write all your articles and video scripts. 
 
 > Identify problems worth solving first.
 
 Professional SEO specialists amplified the mania by writing endless articles about what ChatGPT could do. For example, it could generate sitemaps, robots.txt files, and schema markup. Yes, but who does that by hand anymore anyway? For years we've had tools that could not only generate schema but insert the code in exactly the right place with zero errors. 
 
-Next, top SEO publications heralded every marketing/SEO app in the ChatGPT marketplace. That's a clever tactic for ranking high for "ChatGPT apps" but advertorials have low information value.
+Next, top SEO publications heralded every marketing/SEO app in the ChatGPT marketplace. That's a clever tactic for ranking high for "ChatGPT apps" but these advertorials have low information value.
 
 Google's <a href="https://fchollet.com/" target="blank">François Chollet</a> put it well when he <a href="https://twitter.com/fchollet/status/1689114236453339136" target="blank">xeeted</a>: 
 
