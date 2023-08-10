@@ -39,19 +39,23 @@ The ChatGPT marketplace seems immature, as would be expected at this stage. In s
 
 <em>Note: ChatGPT Plus users get access to ChatGPT 3.5 and ChatGPT 4. The latter is slow, understandably, because it's used for more advanced calculations or has to interface with plugins. (Plugins can only be used with GPT4.)</em>
 
-## AI's Future in Marketing
+ChatGPT is still a useful tool, but we'll take a pass on the marketing plugins.
 
-AI isn't new in marketing. And LLMs (Large Language Models) have a bright future. But it's important to start with the problem you're trying to solve, rather with a solution.
+AI has been used in marketing for decades now. To find good uses for the new crop of AI tools, you'll need to dive beneath the surface chatter.
+
+## AI in Marketing
+
+In the search for new AI solutions, ask, "What are the problems worth solving in my business?"
 
 AI can raise productivity substantially and help you grow your audience. For example, translating content can be expensive. Synchronicity Labs has developed some proprietary solutions to deliver what seems to be a superior <a href="https://twitter.com/therealprady/status/1680645510103977987">video translation product</a> (in closed beta). 
 
-Those with massive document troves to summarize will want to check out Anthropic's Claude. This tool can also be used to summarize PDFs, which can save research time. (Rather than reading 50+ pages a researcher can get a succinct and accurate summary and decide whether to read the entire document.)
+Those with massive document troves to summarize will want to check out <a href="https://claude.ai/" target="blank">Anthropic's Claude</a>. This tool can also be used to summarize PDFs, which can save research time. (Rather than reading 50+ pages a researcher can get a succinct and accurate summary and decide whether to read the entire document.)
 
 We've been impressed with <a href="https://www.assemblyai.com/playground/source" target="blank">Assembly.ai's pristine transcripts</a> of video and audio files. 
 
-And there are plenty of ways to improve performance and gain efficiencies in customer support with improved AI.
+There are plenty of ways to improve performance and gain efficiencies in customer support with new AI capabilities too. 
 
-ChatGPT is still a useful productivity tool but we'll skip the marketing plugins.
+AI will continue to make it possible to refine processes in new ways, increase automation, and build resilience against unexpected factors. 
 
 ## Revisiting the Hype 
 
