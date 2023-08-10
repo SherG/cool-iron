@@ -47,7 +47,7 @@ AI has been used in marketing for decades now. To find good uses for the new cro
 
 In the search for new AI solutions, ask, "What are the problems worth solving in my business?"
 
-AI can raise productivity substantially and help you grow your audience. For example, translating content can be expensive. Synchronicity Labs has developed some proprietary solutions to deliver what seems to be a superior <a href="https://twitter.com/therealprady/status/1680645510103977987">video translation product</a> (in closed beta). 
+AI can raise productivity substantially and help you grow your audience. For example, translating content can be expensive. Synchronicity Labs has developed some proprietary solutions to deliver what seems to be a superior <a href="https://twitter.com/therealprady/status/1680645510103977987">video translation product</a> (in closed beta). (<a href="https://airtable.com/shr7SapYlYTTcWBDT" target="blank">Request access here</a>.)
 
 Those with massive document troves to summarize will want to check out <a href="https://claude.ai/" target="blank">Anthropic's Claude</a>. This tool can also be used to summarize PDFs, which can save research time. (Rather than reading 50+ pages a researcher can get a succinct and accurate summary and decide whether to read the entire document.)
 
