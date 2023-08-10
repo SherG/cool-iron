@@ -41,7 +41,7 @@ The ChatGPT marketplace seems immature, as would be expected at this stage. In s
 
 ChatGPT is still a useful tool, but we'll take a pass on the marketing plugins.
 
-AI has been used in marketing for decades now. To find good uses for the new crop of AI tools, you'll need to dive beneath the surface chatter.
+AI has been used in marketing for decades now. To find good uses for the new crop of generative AI tools, you'll need to dive beneath the surface chatter.
 
 ## AI in Marketing
 
@@ -69,10 +69,10 @@ SEO specialists amplified the mania by writing endless articles about what ChatG
 
 Next, top SEO publications heralded every marketing/SEO app in the ChatGPT marketplace. That's a clever tactic for ranking high for "ChatGPT apps" but these advertorials have low information value.
 
-Google's <a href="https://fchollet.com/" target="blank">François Chollet</a> put it well when he <a href="https://twitter.com/fchollet/status/1689114236453339136" target="blank">xeeted</a>: 
+Google software engineer and AI researcher <a href="https://fchollet.com/" target="blank">François Chollet</a> put it well when he <a href="https://twitter.com/fchollet/status/1689114236453339136" target="blank">xeeted</a>: 
 
 <div style="padding-left: 2.5em;"><p>Every 6 months the tech industry enters a brief episode of mass collective hallucination where everyone is ardently convinced that an epochal tech revolution has just begun, that a "civilizational" technology is starting to take over. Remember web3? Remember LK-99? Remember LLMs?</p></div>
 
-When asked whether he thought LLMs were not transformative, Chollet <a href="https://twitter.com/fchollet/status/1689131305014087680" target="blank">replied</a>: 
+When asked whether he thought LLMs were <em>not</em> transformative, Chollet <a href="https://twitter.com/fchollet/status/1689131305014087680" target="blank">replied</a>: 
 
 <div style="padding-left: 2.5em;"><p>LLMs are fine, but they aren't anywhere within 100 light years of what they were touted to be by your average tech industry NPC (a civilizational technology, the beginning of AGI, about to automate all jobs, obsoleting software engineering, etc.). It would be like saying "the metaverse hype was legit because there's a niche market for VR headsets to play games". None of what was forecasted actually happened.</p></div>
