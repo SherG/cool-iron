@@ -55,7 +55,7 @@ Here are some examples.
 * <a href="https://fireflies.ai/" target="blank">Fireflies.ai</a> records and transcribes meetings, organizing content by sections and filters like "Questions" and "Tasks." Fireflies will auto-generate action items. And you can voice-trigger tasks to be set up in project management platforms like Trello or Asana. Fireflies can also send out summaries and log call notes under related contacts in a CRM. Interestingly, some business users indicate Fireflies, by improving communication, is shortening their sales pipeline.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1691863141/fireflies-ai-example_ekpx8s.png" >
-<small><em>Above: Right-click and magnify to see the detail in this Fireflies.ai example.</em></small>
+<small><em>Above: Right-click and magnify to see the detail in this Fireflies.ai document.</em></small>
 
 > Start by identifying problems worth solving in your business.
 
