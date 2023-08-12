@@ -43,6 +43,8 @@ ChatGPT is a powerful tool, but we'll take a pass on the marketing plugins.
 
 AI has been used in marketing for decades now. To find good uses for the new crop of <em>generative</em> AI tools, you'll need to dive beneath the surface chatter.
 
+> Start by identifying problems worth solving in your business.
+
 ## AI in Marketing
 
 For starters, there are plenty of opportunities to deploy LLMs in video translation, communications, analytics, categorization and summaries of documents and files.
@@ -56,8 +58,6 @@ Here are some examples.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1691863141/fireflies-ai-example_ekpx8s.png" >
 <small><em>Above: Right-click and magnify to see the detail in this Fireflies.ai document.</em></small>
-
-> Start by identifying problems worth solving in your business.
 
 There are plenty of ways to improve performance and gain efficiencies in customer support with new AI capabilities too. 
 
