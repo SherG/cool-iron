@@ -39,33 +39,34 @@ The ChatGPT marketplace seems immature, as would be expected at this stage. In s
 
 <em>Note: ChatGPT Plus users get access to ChatGPT 3.5 and ChatGPT 4. The latter is slow, understandably, because it's used for more advanced calculations or has to interface with plugins. (Plugins can only be used with GPT4.)</em>
 
-ChatGPT is still a useful tool, but we'll take a pass on the marketing plugins.
+ChatGPT is a powerful tool, but we'll take a pass on the marketing plugins.
 
-AI has been used in marketing for decades now. To find good uses for the new crop of generative AI tools, you'll need to dive beneath the surface chatter.
+AI has been used in marketing for decades now. To find good uses for the new crop of <em>generative</em> AI tools, you'll need to dive beneath the surface chatter.
 
 ## AI in Marketing
 
-In the search for new AI solutions, ask, "What are the problems worth solving in my business?"
+For starters, there are plenty of opportunities to deploy LLMs in video translation, communications, analytics, categorization and summaries of documents and files.
 
-AI can raise productivity substantially and help you grow your audience. For example, translating content can be expensive. Synchronicity Labs has developed some proprietary solutions to deliver what seems to be a superior <a href="https://twitter.com/therealprady/status/1680645510103977987">video translation product</a> (in closed beta). 
+Here are some examples. 
 
-Those with massive document troves to summarize will want to check out <a href="https://claude.ai/" target="blank">Anthropic's Claude</a>. This tool can also be used to summarize PDFs, which can save research time. (Rather than reading 50+ pages a researcher can get a succinct and accurate summary and decide whether to read the entire document.)
+* Synchronicity Labs has used ChatGPT and other technologies to deliver what seems to be a superior <a href="https://twitter.com/therealprady/status/1680645510103977987">video translation product</a> (in closed beta). 
+* Those with massive document troves to summarize will want to check out <a href="https://claude.ai/" target="blank">Anthropic's Claude</a>. This tool can also be used to summarize PDFs, which can save research time. (Rather than reading 50+ pages a researcher can get a succinct and accurate summary and decide whether to read the entire document.)
+* We've been impressed with <a href="https://www.assemblyai.com/playground/source" target="blank">Assembly.ai's pristine transcripts</a> of video and audio files.
+* <a href="https://fireflies.ai/" target="blank">Fireflies.ai</a> records and transcribes meetings, organizing content by sections and filters like "Questions" and "Tasks." You can voice-trigger tasks to be set up in project management platforms like Trello or Asana. Fireflies can also send out summaries and log call notes under related contacts in a CRM. Interestingly, some business users indicate Fireflies, by improving communication, is shortening their sales pipeline.
 
-We've been impressed with <a href="https://www.assemblyai.com/playground/source" target="blank">Assembly.ai's pristine transcripts</a> of video and audio files. 
+> Start by identifying problems worth solving in your business.
 
 There are plenty of ways to improve performance and gain efficiencies in customer support with new AI capabilities too. 
 
-AI will continue to make it possible to refine processes in new ways, increase automation, and build resilience against unexpected factors. 
+AI in general will continue to make it possible to refine processes in new ways, increase automation, and build resilience against unexpected factors. 
 
 ## Revisiting the Hype 
 
 As we mentioned in our last article, the hype surrounding ChatGPT's release was intense. This was particularly notable in content/marketing applications. Social media was filled with influencers claiming you could get rich quick by having AI write all your articles and video scripts.
 
-Prominent SEO pros responded with gloomy warnings on the future of the profession.
+Prominent SEO pros reacted to ChatGPT with gloomy warnings on the future of the profession.
 
-> Identify problems worth solving.
-
-SEO specialists amplified the mania by writing endless articles about what ChatGPT could do. For example, it could generate sitemaps, robots.txt files, and schema markup. Yes, but who does that by hand anymore anyway? For years we've had tools that could not only generate schema but insert the code in exactly the right place with zero errors. 
+SEO specialists amplified the mania by writing endless articles cataloging everything ChatGPT could do. For example, it could generate sitemaps, robots.txt files, and schema markup. Yes, but who does that by hand anymore anyway? For years we've had tools that could not only generate schema but insert the code in exactly the right place with zero errors. 
 
 Next, top SEO publications heralded every marketing/SEO app in the ChatGPT marketplace. That's a clever tactic for ranking high for "ChatGPT apps" but these advertorials have low information value.
 
@@ -76,3 +77,6 @@ Google software engineer and AI researcher <a href="https://fchollet.com/" targe
 When asked whether he thought LLMs were <em>not</em> transformative, Chollet <a href="https://twitter.com/fchollet/status/1689131305014087680" target="blank">replied</a>: 
 
 <div style="padding-left: 2.5em;"><p>LLMs are fine, but they aren't anywhere within 100 light years of what they were touted to be by your average tech industry NPC (a civilizational technology, the beginning of AGI, about to automate all jobs, obsoleting software engineering, etc.). It would be like saying "the metaverse hype was legit because there's a niche market for VR headsets to play games". None of what was forecasted actually happened.</p></div>
+
+
+
