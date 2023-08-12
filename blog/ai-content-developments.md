@@ -54,6 +54,8 @@ Here are some examples.
 * We've been impressed with <a href="https://www.assemblyai.com/playground/source" target="blank">Assembly.ai's pristine transcripts</a> of video and audio files.
 * <a href="https://fireflies.ai/" target="blank">Fireflies.ai</a> records and transcribes meetings, organizing content by sections and filters like "Questions" and "Tasks." Fireflies will auto-generate action items. And you can voice-trigger tasks to be set up in project management platforms like Trello or Asana. Fireflies can also send out summaries and log call notes under related contacts in a CRM. Interestingly, some business users indicate Fireflies, by improving communication, is shortening their sales pipeline.
 
+<src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1691863141/fireflies-ai-example_ekpx8s.png" 
+
 > Start by identifying problems worth solving in your business.
 
 There are plenty of ways to improve performance and gain efficiencies in customer support with new AI capabilities too. 
