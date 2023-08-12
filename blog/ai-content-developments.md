@@ -60,8 +60,6 @@ Here are some examples.
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1691863141/fireflies-ai-example_ekpx8s.png" >
 <small><em>Above: Right-click, open in new tab, and magnify to see the detail in this Fireflies.ai meeting document.</em></small>
 
-There are plenty of ways to improve performance and gain efficiencies in customer support with new AI capabilities too. 
-
 AI in general will continue to make it possible to refine processes in new ways, increase automation, and build resilience against unexpected factors. 
 
 ## Revisiting the Hype 
