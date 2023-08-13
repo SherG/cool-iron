@@ -37,15 +37,19 @@ There are also apps that will create diagrams and charts. But why? The results a
 
 The ChatGPT marketplace seems immature, as would be expected at this point. In some ways, it's reminiscent of the Alexa Skills marketplace, which quickly filled up with clever apps that no one needed.
 
+> Start by identifying problems worth solving in your business.
+
 <em>Note: ChatGPT Plus users get access to GPT-3.5 and ChatGPT-4. The latter is slow, understandably, because it's used for more advanced calculations or has to interface with plugins. (Plugins can only be used with GPT-4.)</em>
 
 AI has been used in marketing for decades now. To see how or if you might benefit from the new crop of <em>generative</em> AI tools, you'll need to dive beneath the surface chatter.
 
-> Start by identifying problems worth solving in your business.
+First, be clear on what problems are <em>worth</em> solving in your business and what opportunities you're seeking. Then as you learn about the capabilities of generative AI, you'll be prepared to sift that information.
+
+Maybe there's no use case for you now. As long as you keep your identified problems and sought opportunities at the center of your exploration, you'll stay grounded. 
 
 ## AI in Marketing
 
-For starters, there are plenty of opportunities to deploy LLMs in video translation, communications, analytics, categorization and summaries of documents and files.
+For starters, there are opportunities to deploy LLMs in video translation, communications, analytics, categorization and summaries of documents and files, and customer support.
 
 Here are some examples. 
 
@@ -70,9 +74,11 @@ Nevertheless, prominent SEO pros reacted to ChatGPT with gloomy warnings on the 
 
 SEO experts amplified the mania by writing articles cataloging everything ChatGPT could do. For example, it could sort and categorize keywords by search intent. It could generate sitemaps, robots.txt files, and schema markup. Yes, but who does these things by hand anymore anyway? 
 
-Case in point: For years we've had tools that could not only generate schema but insert the code in exactly the right place with zero errors. And every marketing professional already has a keyword research tool like Semrush (founded <em>15 years ago</em>) or Ahrefs (founded in 2011). 
+Case in point: For years we've had tools that could not only generate schema but insert the code in exactly the right place with zero errors. And every marketing professional already has a keyword research tool like Semrush (founded <em>15 years ago</em>) or Ahrefs (founded over a decade ago). 
 
-Next, top SEO publications heralded every marketing/SEO app in the ChatGPT marketplace. That's a clever tactic for ranking high for "ChatGPT apps" but these advertorials have low information value.
+Next, top marketing publications heralded every marketing/SEO app in the ChatGPT marketplace. That's a clever tactic for ranking high for "ChatGPT apps" but these advertorials have low information value.
+
+Soon these publications will chastise you for trend chasing. And they'll offer advice on avoiding this.
 
 Google software engineer and AI researcher <a href="https://fchollet.com/" target="blank">François Chollet</a> put it well when he <a href="https://twitter.com/fchollet/status/1689114236453339136" target="blank">xeeted</a>: 
 
