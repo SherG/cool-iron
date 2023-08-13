@@ -35,9 +35,9 @@ Lastly we found a ChatGPT app that did an excellent job summarizing a video, the
 
 There are also apps that will create diagrams and charts. But why? The results are ugly and low-res. You can get better charts for free from Excel or Google Sheets or from any number of low-cost solutions like Canva. In addition, interactive data visualization tools, like Tableau, have been on the market for years. 
 
-The ChatGPT marketplace seems immature, as would be expected at this stage. In some ways, it's reminiscent of the Alexa Skills marketplace, which quickly filled up with clever apps that no one needed.
+The ChatGPT marketplace seems immature. In some ways, it's reminiscent of the Alexa Skills marketplace, which quickly filled up with clever apps that no one needed.
 
-<em>Note: ChatGPT Plus users get access to ChatGPT 3.5 and ChatGPT 4. The latter is slow, understandably, because it's used for more advanced calculations or has to interface with plugins. (Plugins can only be used with GPT4.)</em>
+<em>Note: ChatGPT Plus users get access to GPT-3.5 and ChatGPT-4. The latter is slow, understandably, because it's used for more advanced calculations or has to interface with plugins. (Plugins can only be used with GPT-4.)</em>
 
 ChatGPT is a powerful tool, but we'll take a pass on the marketing plugins.
 
