@@ -39,8 +39,6 @@ The ChatGPT marketplace seems immature. In some ways, it's reminiscent of the Al
 
 <em>Note: ChatGPT Plus users get access to GPT-3.5 and ChatGPT-4. The latter is slow, understandably, because it's used for more advanced calculations or has to interface with plugins. (Plugins can only be used with GPT-4.)</em>
 
-ChatGPT is a powerful tool, but we'll take a pass on the marketing plugins.
-
 AI has been used in marketing for decades now. To find good uses for the new crop of <em>generative</em> AI tools, you'll need to dive beneath the surface chatter.
 
 > Start by identifying problems worth solving in your business.
@@ -54,7 +52,7 @@ Here are some examples.
 * Synchronicity Labs has used ChatGPT and other technologies to deliver what seems to be a superior <a href="https://twitter.com/therealprady/status/1680645510103977987">video translation product</a> (in closed beta).
 * <a href="https://elevenlabs.io/" target="blanl">ElevenLabs</a> generates high-quality audio from text, and can do it in any voice or language, including your own. (Synchronicity Labs uses ElevenLabs in their tech stack.)
 * Those with massive document troves to summarize will want to check out <a href="https://claude.ai/" target="blank">Anthropic's Claude</a>. This tool can also be used to summarize PDFs, which can save research time. (Rather than reading 50+ pages a researcher can get a succinct and accurate summary and decide whether to read the entire document.)
-* We've been impressed with <a href="https://www.assemblyai.com/playground/source" target="blank">Assembly.ai's pristine transcripts</a> of video and audio files. Also see <a href="https://www.assemblyai.com/blog/lemur/" target="blank">LeMUR</a>, part of Assembly.ai's API. LeMUR is used to build apps on voice data. 
+* We've been impressed with <a href="https://www.assemblyai.com/playground/source" target="blank">Assembly.ai's pristine transcripts</a> of video and audio files. Also see <a href="https://www.assemblyai.com/blog/lemur/" target="blank">LeMUR</a>, part of Assembly.ai's API. LeMUR is used to build apps on voice data. It's not surprising that CallRail, the call tracking heavyweight, jumped at the opportunity to build with LeMUR.
 * An example of an app built on voice data is <a href="https://fireflies.ai/" target="blank">Fireflies.ai</a>. It records and transcribes meetings, organizing content by sections and filters like "Questions" and "Tasks." Fireflies will auto-generate action items. And you can voice-trigger tasks to be set up in project management platforms like Trello or Asana. Fireflies can also send out summaries and log call notes under related contacts in a CRM. Interestingly, some business users indicate Fireflies, by improving communication, is shortening their sales pipeline.
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1691863141/fireflies-ai-example_ekpx8s.png" >
