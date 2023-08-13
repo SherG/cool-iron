@@ -70,7 +70,7 @@ Nevertheless, prominent SEO pros reacted to ChatGPT with gloomy warnings on the 
 
 SEO experts amplified the mania by writing articles cataloging everything ChatGPT could do. For example, it could sort and categorize keywords and generate sitemaps, robots.txt files, and schema markup. Yes, but who does that by hand anymore anyway? 
 
-Case in point: For years we've had tools that could not only generate schema but insert the code in exactly the right place with zero errors. And every marketing professional already has a keyword research tool like Semrush (founded 15 years ago) or Ahrefs (founded in 2011). 
+Case in point: For years we've had tools that could not only generate schema but insert the code in exactly the right place with zero errors. And every marketing professional already has a keyword research tool like Semrush (founded <em>15 years ago</em>) or Ahrefs (founded in 2011). 
 
 Next, top SEO publications heralded every marketing/SEO app in the ChatGPT marketplace. That's a clever tactic for ranking high for "ChatGPT apps" but these advertorials have low information value.
 
