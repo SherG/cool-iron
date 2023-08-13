@@ -39,7 +39,7 @@ The ChatGPT marketplace seems immature. In some ways, it's reminiscent of the Al
 
 <em>Note: ChatGPT Plus users get access to GPT-3.5 and ChatGPT-4. The latter is slow, understandably, because it's used for more advanced calculations or has to interface with plugins. (Plugins can only be used with GPT-4.)</em>
 
-AI has been used in marketing for decades now. To find good uses for the new crop of <em>generative</em> AI tools, you'll need to dive beneath the surface chatter.
+AI has been used in marketing for decades now. To see how or if you might benefit from the new crop of <em>generative</em> AI tools, you'll need to dive beneath the surface chatter.
 
 > Start by identifying problems worth solving in your business.
 
@@ -66,7 +66,7 @@ As we mentioned in our last article, the hype surrounding ChatGPT's release was 
 
 Prominent SEO pros reacted to ChatGPT with gloomy warnings on the future of the profession.
 
-SEO specialists amplified the mania by writing endless articles cataloging everything ChatGPT could do. For example, it could generate sitemaps, robots.txt files, and schema markup. Yes, but who does that by hand anymore anyway? For years we've had tools that could not only generate schema but insert the code in exactly the right place with zero errors. 
+SEO specialists amplified the mania by writing articles cataloging everything ChatGPT could do. For example, it could generate sitemaps, robots.txt files, and schema markup. Yes, but who does that by hand anymore anyway? Case in point: For years we've had tools that could not only generate schema but insert the code in exactly the right place with zero errors. 
 
 Next, top SEO publications heralded every marketing/SEO app in the ChatGPT marketplace. That's a clever tactic for ranking high for "ChatGPT apps" but these advertorials have low information value.
 
