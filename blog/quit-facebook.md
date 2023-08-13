@@ -53,8 +53,6 @@ Even if the Post-it note is accurate (and that's a big 'if' given nuanced proble
 
 Consider, Facebook fact-checker Politifact had to <a href="https://twitter.com/EricRWeinstein/status/1396581749665140738" target="blank">walk back a previous "Pants on fire" label</a> regarding hypotheses about the origin of COVID-19. What their initial "fact-check" did, it would seem, was encourage viewers to not question the orthodoxy <em>du jour</em>. In doing so, it effectively discounted the views of dozens of scientists who believed the <a href="https://thebulletin.org/2021/05/the-origin-of-covid-did-people-or-nature-open-pandoras-box-at-wuhan/" target="blank">"lab leak" hypothesis</a> was reasonable and deserved exploration. Those scientists included <a href="https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html" target="blank">Philip Murphy</a> — <a href="https://www.niaid.nih.gov/research/philip-m-murphy-md" target="blank">chief of the Laboratory of Molecular Immunology</a> at the National Institutes of Health (NIH). 
 
-As mathematician Eric Weinstein noted, this was "<a href="https://twitter.com/EricRWeinstein/status/1396581749665140738" target="blank">consensus checking</a>," not fact checking.
-
 Unfortunately, there are many other stories, across the political spectrum, of fact-checking being used to mislead or spread disinformation.
 
 ### From social media to social monitoring
