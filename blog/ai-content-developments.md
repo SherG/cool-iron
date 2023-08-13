@@ -22,16 +22,16 @@ Since then we've seen the release of GPT-4 and the marketplace of ChatGPT plugin
 
 You have to upgrade to ChatGPT Plus ($20/month) to gain access to the marketplace. We've tried out plenty of the content/marketing plugins. In our view, they're nearly all (except for maybe 1 or 2) disappointing and useless. 
 
-We found one that does a good job of creating social media blurbs if you feed it a prompt like this: 
+We found one that does a decent job of creating social media blurbs if you feed it a prompt like this: 
 "Create a short social media blurb to promote an article about (topic)."  It will return a lively blurb with relevant emojis and hashtags. 
 
 But if you <em>refine</em> your prompt ("add relevant emojis and hashtags"), and skip the plugin, you'll get the same result.
 
 In other words, some of these plugins seem to have simply crafted good prompts which get triggered by keywords like "social media blurb." 
   
-We liked the apps that will summarize PDFs. But <a href="https://claude.ai/" target="blank">Anthropic's Claude</a> does a stellar job at this and it's free. So why pay $20/month?
+We liked 2 of the apps that will summarize PDFs. But <a href="https://claude.ai/" target="blank">Anthropic's Claude</a> does a stellar job at this and it's free. So why pay $20/month?
 
-Lastly we found a ChatGPT app that did an excellent job summarizing a video, then it proceeded to hallucinate repeatedly. A few weeks later we tried it again and got several error messages.
+Lastly we found a ChatGPT app that did an excellent job summarizing a video, then it proceeded to hallucinate repeatedly. A few weeks later we tried it again and got several error messages. 
 
 There are also apps that will create diagrams and charts. But why? The results are ugly and low-res. You can get better charts for free from Excel or Google Sheets or from any number of low-cost solutions like Canva. In addition, interactive data visualization tools, like Tableau, have been on the market for years. 
 
