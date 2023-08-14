@@ -45,8 +45,6 @@ AI has been used in marketing for decades now. To see how or if you might benefi
 
 First, be clear on what problems are <em>worth</em> solving in your business and what opportunities you're seeking. Then as you learn about the capabilities of generative AI, you'll be prepared to sift that information.
 
-Maybe there's no use case for you now. As long as you keep your identified problems and sought opportunities at the center of your exploration, you'll stay grounded. 
-
 ## AI in Marketing
 
 For starters, there are opportunities to deploy LLMs in video translation, communications, analytics, categorization and summaries of documents and files, and customer support.
