@@ -1,6 +1,6 @@
 ---
-title: "Digest: 2023 Developments in AI for Marketing and SEO"
-path: /ai-content-developments
+title: "Generative AI For Business"
+path: /generative-ai-for-business
 date: 2023-08-09
 summary: The future of AI in marketing is bright, notwithstanding the excesses of hype.
 tags: ['strategy', 'AI']
