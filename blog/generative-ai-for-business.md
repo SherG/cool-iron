@@ -88,7 +88,7 @@ When asked whether he thought LLMs were <em>not</em> transformative, Chollet <a 
 
 <div style="padding-left: 2.5em;"><p>LLMs are fine, but they aren't anywhere within 100 light years of what they were touted to be by your average tech industry NPC (a civilizational technology, the beginning of AGI, about to automate all jobs, obsoleting software engineering, etc.). It would be like saying "the metaverse hype was legit because there's a niche market for VR headsets to play games". None of what was forecasted actually happened.</p></div>
 
-## Tiny Improvements Can Lead to Outsized Gains
+## Outsized Gains
 
 Of course, a tool or action that improves your processes by 1% can be transformative in scaling up your business, thanks to the <a href="https://jamesclear.com/wp-content/uploads/2016/08/ABriefGuidetoProcessImprovement-2.pdf" target="blank">aggregation of marginal gains</a>. 
 
