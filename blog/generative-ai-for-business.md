@@ -51,7 +51,7 @@ For starters, there are opportunities to deploy LLMs in video translation, commu
 
 Here are some examples. 
 
-* Synchronicity Labs has used ChatGPT and other technologies to create what appears to be a superior <a href="https://twitter.com/therealprady/status/1680645510103977987">video translation product</a> (in closed beta). This tool generates the translation in the voice of the original speaker, dubs it to the video while maintaining any other audio tracks, like background music or sound effects, and convincingly lip syncs the translation to match the movement of the speaker's mouth. This tool has potential widespread application in localization, as well as in the film industry, government, and regional broadcasting. 
+* Synchronicity Labs has used ChatGPT and other technologies to create what appears to be a superior <a href="https://twitter.com/therealprady/status/1680645510103977987">video translation product</a> (in closed beta). This tool generates the translation in the voice of the original speaker, dubs it to the video while maintaining any other audio tracks, like background music or sound effects, and convincingly lip syncs the translation to match the movement of the speaker's mouth. This tool has potential widespread application in localization, as well as in the film industry, education, government, and regional broadcasting. 
 * <a href="https://elevenlabs.io/" target="blanl">ElevenLabs</a> generates quality audio from text, and can do it in any voice or language, including your own. (Synchronicity Labs uses ElevenLabs in their tech stack.)
 * Those with massive document troves to summarize will want to check out <a href="https://claude.ai/" target="blank">Anthropic's Claude</a>. This tool can also be used to summarize PDFs, which can save research time. (Rather than reading 50+ pages a researcher can get a succinct and accurate summary and decide whether to read the entire document.)
 * We've been impressed with <a href="https://www.assemblyai.com/playground/source" target="blank">Assembly.ai's pristine transcripts</a> of video and audio files. Also see <a href="https://www.assemblyai.com/blog/lemur/" target="blank">LeMUR</a>, part of Assembly.ai's API. LeMUR is used to build apps on voice data. It's not surprising that CallRail jumped at the opportunity to build with LeMUR.
@@ -92,5 +92,7 @@ When asked whether he thought LLMs were <em>not</em> transformative, Chollet <a 
 
 Of course, a tool or action that improves your processes by 1% can be transformative in scaling up your business, thanks to the <a href="https://jamesclear.com/wp-content/uploads/2016/08/ABriefGuidetoProcessImprovement-2.pdf" target="blank">aggregation of marginal gains</a>. 
 
-This is one reason why business owners, aware of the possibilities, are scouring generative AI for potential applications to their own enterprises.
+And tools like Synchronicity Lab's video translation, will no doubt attract those seeking acquisitions.
+
+These are two reasons why business owners, aware of the possibilities, are scouring generative AI for possibilities.
 
