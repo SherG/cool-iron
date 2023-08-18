@@ -2,7 +2,7 @@
 title: "Generative AI For Business"
 path: /generative-ai-for-business
 date: 2023-08-09
-summary: The future of AI in marketing is bright, notwithstanding the excesses of hype.
+summary: The future of AI in business is bright, notwithstanding the excesses of hype.
 tags: ['strategy', 'AI']
 ---
 
