@@ -6,7 +6,7 @@ summary: Analyst firm says "Emergent AI will have a profound impact on business 
 tags: ['strategy', 'AI']
 ---
 
-Gartner has identified <strog>generative AI</strong> as cresting the "Peak of Inflated Expectations" on the 2023 Hype Cycle. 
+As of August 16, Gartner has identified <strog>generative AI</strong> as cresting the "Peak of Inflated Expectations" on the 2023 Hype Cycle. 
 
 See the <a href="https://www.gartner.com/en/newsroom/press-releases/2023-08-16-gartner-places-generative-ai-on-the-peak-of-inflated-expectations-on-the-2023-hype-cycle-for-emerging-technologies" target="blank">Gartner press release</a>.
 
