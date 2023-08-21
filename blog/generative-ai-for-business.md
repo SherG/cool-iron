@@ -96,3 +96,5 @@ And tools like Synchronicity Lab's video translation, will no doubt attract thos
 
 These are two reasons why business owners, aware of the possibilities, are scouring generative AI for possibilities.
 
+Lastly, just because there is a lot of hype surrounding an emergent technology doesn't mean it won't make a substantial impact on business and society.
+
