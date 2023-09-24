@@ -10,7 +10,7 @@ At the end of 2022 I <a href="https://www.signalfox.org/chatgpt-google-code-red"
 
 After all, "Google could choose to develop an advanced version of ChatGPT, offer it as a search interface option, and monetize it."
 
-That's exactly what they did in May 2023, announcing the new SGE (Search Generative Experience) at the annual Google I/O conference. 
+That's essentially what they did in May 2023, announcing the new SGE (Search Generative Experience) at the annual Google I/O conference. 
 
 In the process they also provided the first major change to Google Search's visual interface in many years, not counting the continual evolution of layout features. That secondary effect was a good idea. ChatGPT's interface was sleek and evoked proximity and one-on-one conversation. By comparison, Google Search began to seem a bit stale.
 
@@ -31,7 +31,7 @@ In other words, some of these plugins seem to have simply crafted good prompts w
   
 We liked 2 of the apps that will summarize PDFs. But <a href="https://claude.ai/" target="blank">Anthropic's Claude</a> does a stellar job at this and it's free. So why pay $20/month?
 
-Lastly we found a ChatGPT app that did an excellent job summarizing a video, then it proceeded to hallucinate repeatedly. A few weeks later we tried it again and got successive error messages. We wanted to like this app, but who has time for all the glitches?
+Lastly we found a ChatGPT app that did an excellent job summarizing a video, then it proceeded to hallucinate repeatedly. A few weeks later we tried it again and got successive error messages. 
 
 There are also apps that will create diagrams and charts. But why? The results are ugly and low-res. You can get better charts for free from Excel or Google Sheets or from any number of low-cost solutions like Canva. In addition, interactive data visualization tools, like Tableau, have been on the market for years. 
 
@@ -96,5 +96,5 @@ And tools like Synchronicity Lab's video translation, will no doubt attract thos
 
 These are two reasons why business owners, aware of the possibilities, are scouring generative AI for possibilities.
 
-Lastly, just because there is a lot of hype surrounding an emergent technology doesn't mean it won't make a substantial impact on business and society.
+Lastly, just because there is a lot of hype surrounding an emergent technology doesn't mean it won't be consequential, although <a href="https://thegradient.pub/why-transformative-artificial-intelligence-is-really-really-hard-to-achieve/" target="blank">hurdles to tranformative impact remain</a>.
 
