@@ -129,3 +129,10 @@ Since their acquisition by Accenture, the Clearhead site has been offline. This 
 <a href="https://web.archive.org/web/20180831033429/http://clearhead.me/blog/physics-of-roi/" target="blank">Stack the Chips in Your Favor With the Physics of ROI</a>
 
 Are you a solution-led company or a problem-led company? 
+<hr>
+
+Below is a temporary test (11/18/23) 
+
+<script async src="https://cse.google.com/cse.js?cx=c6c89fd53d05c43fb">
+</script>
+<div class="gcse-search"></div>
