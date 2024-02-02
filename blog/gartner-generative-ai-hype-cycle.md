@@ -23,3 +23,5 @@ On occassion a technology may be removed from the Hype Cycle entirely. And some,
 
 Gartner estimates generative AI is 2-5 years from the Plateau of Productivity.
 
+Predictably, media are already producing articles about how ChatGPT was "hyped." Given the widespread knowledge of the Hype Cycle, it would be nice to see media abstain from co-creating the hype phase, and do more to alert readers to pending phase shifts. 
+
